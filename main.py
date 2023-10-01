@@ -2,14 +2,14 @@ import feedparser
 import configparser
 import os
 from openai import ChatCompletion
-import openai
+#import openai
 from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
 import datetime
 #from dateutil.parser import parse
 
-openai.api_base = "https://api.chatanywhere.cn"
+#openai.api_base = "https://api.chatanywhere.cn"
 
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
@@ -126,6 +126,7 @@ def gpt_summary(query,model,language):
         ]
     chat = ChatCompletion.create(
         model=model,
+        api_base = "https://api.chatanywhere.cn",
         api_key=OPENAI_API_KEY,
         messages=messages,
     )
