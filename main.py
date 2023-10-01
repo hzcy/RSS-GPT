@@ -2,6 +2,7 @@ import feedparser
 import configparser
 import os
 from openai import ChatCompletion
+import openai
 from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
