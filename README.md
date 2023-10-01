@@ -41,6 +41,6 @@ These feeds on hosted in the [`doc/` subdirectory](https://github.com/yinan-c/RS
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 - http://www.v2ex.com/index.xml -> https://hzcy.github.io/RSS-GPT/v2ex.xml
-- https://brett.trpstra.net/brettterpstra -> https://hzcy.github.io/RSS-GPT/brett-terpstra.xml
+- http://www.hostloc.com/forum.php?mod=rss&fid=45&auth=0 -> https://hzcy.github.io/RSS-GPT/hostloc.xml
 - https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://hzcy.github.io/RSS-GPT/appinn.xml
 - https://rsshub.app/sspai/index -> https://hzcy.github.io/RSS-GPT/sspai.xml
