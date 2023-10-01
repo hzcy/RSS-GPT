@@ -453,3 +453,10 @@ Fetching from http://www.v2ex.com/index.xml
 Feed error: 301
 append_entries: 0
 Finish: 2023-10-01 23:08:37.903794
+------------------------------------------------------
+Started: 2023-10-01 23:20:35.400371
+Existing_entries: 0
+Fetching from http://www.v2ex.com/index.xml
+Feed error: 301
+append_entries: 0
+Finish: 2023-10-01 23:20:36.236758
