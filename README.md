@@ -43,4 +43,4 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - http://www.v2ex.com/index.xml -> https://hzcy.github.io/RSS-GPT/v2ex.xml
 - http://www.hostloc.com/forum.php?mod=rss&fid=45&auth=0 -> https://hzcy.github.io/RSS-GPT/hostloc.xml
 - http://www.v2ex.com/index.xml -> https://hzcy.github.io/RSS-GPT/v2ex.xml
-- http://www.hostloc.com/forum.php?mod=rss&fid=45&auth=0 -> https://hzcy.github.io/RSS-GPT/hostloc.xml
+- https://rsshub.app/gcores/category/news -> https://hzcy.github.io/RSS-GPT/gcores.xml
