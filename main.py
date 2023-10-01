@@ -126,7 +126,7 @@ def gpt_summary(query,model,language):
         ]
     chat = ChatCompletion.create(
         model=model,
-        api_base = "https://api.chatanywhere.cn",
+        api_base = "https://api.chatanywhere.cn/v1/chat/completions",
         api_key=OPENAI_API_KEY,
         messages=messages,
     )
