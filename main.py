@@ -8,6 +8,8 @@ import re
 import datetime
 #from dateutil.parser import parse
 
+openai.api_base = "https://api.chatanywhere.cn"
+
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
     if value:
