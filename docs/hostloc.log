@@ -5,3 +5,10 @@ Fetching from http://www.hostloc.com/forum.php?mod=rss&fid=45&auth=0
 Feed error: 301
 append_entries: 0
 error when rendering xml, skip docs/hostloc
+------------------------------------------------------
+Started: 2023-10-01 08:17:46.599035
+Existing_entries: 0
+Fetching from http://www.hostloc.com/forum.php?mod=rss&fid=45&auth=0
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/hostloc
