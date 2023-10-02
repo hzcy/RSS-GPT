@@ -513,3 +513,9 @@ error: Invalid response object from API: 'limit to use gpt-3.5-turbo and embeddi
 Append: [全球顶尖艺术家集结，“丁仪宇宙”原型大赛启动](https://www.gcores.com/articles/171670)
 append_entries: 3
 Finish: 2023-10-02 06:38:39.933307
+------------------------------------------------------
+Started: 2023-10-02 06:48:21.137957
+Existing_entries: 22
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-02 06:48:21.344907
