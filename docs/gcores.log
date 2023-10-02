@@ -735,3 +735,12 @@ Existing_entries: 22
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-02 16:29:16.146709
+------------------------------------------------------
+Started: 2023-10-02 16:39:27.899025
+Existing_entries: 22
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [夺冠：杭州亚运会电竞项目《Dota2》中国代表队2比1战胜蒙古代表队](https://www.gcores.com/articles/171713)
+append_entries: 1
+Finish: 2023-10-02 16:39:33.890198
