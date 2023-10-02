@@ -236,3 +236,10 @@ Fetching from http://feed.iplaysoft.com/
 Feed error: 301
 append_entries: 0
 Finish: 2023-10-02 11:19:03.474382
+------------------------------------------------------
+Started: 2023-10-02 11:33:22.800123
+Existing_entries: 0
+Fetching from http://feed.iplaysoft.com/
+Feed error: 301
+append_entries: 0
+Finish: 2023-10-02 11:33:24.771637
