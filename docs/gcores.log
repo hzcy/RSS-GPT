@@ -744,3 +744,9 @@ Summarized using GPT-3.5-turbo
 Append: [夺冠：杭州亚运会电竞项目《Dota2》中国代表队2比1战胜蒙古代表队](https://www.gcores.com/articles/171713)
 append_entries: 1
 Finish: 2023-10-02 16:39:33.890198
+------------------------------------------------------
+Started: 2023-10-02 16:48:02.020332
+Existing_entries: 23
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-02 16:48:02.206585
