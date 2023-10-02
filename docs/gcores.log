@@ -498,3 +498,18 @@ Existing_entries: 19
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-02 06:29:10.493606
+------------------------------------------------------
+Started: 2023-10-02 06:38:26.457295
+Existing_entries: 19
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1857
+Summarized using GPT-3.5-turbo
+Append: [2023年10月国产新游最前线](https://www.gcores.com/articles/171696)
+Token length: 420
+Summarized using GPT-3.5-turbo
+Append: [佛罗里达狂欢队强势夺冠、杭州闪电队“全华班”拿下季军：2023年《守望先锋》联赛季后赛四强消息汇总](https://www.gcores.com/articles/171690)
+Summarization failed, append the original article
+error: Invalid response object from API: 'limit to use gpt-3.5-turbo and embeddings' (HTTP response code was 403)
+Append: [全球顶尖艺术家集结，“丁仪宇宙”原型大赛启动](https://www.gcores.com/articles/171670)
+append_entries: 3
+Finish: 2023-10-02 06:38:39.933307
