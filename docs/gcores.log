@@ -468,3 +468,9 @@ Summarized using GPT-3.5-turbo
 Append: [《故障星系》新预告和试玩Demo推出，并参展Steam新品节](https://www.gcores.com/articles/171609)
 append_entries: 1
 Finish: 2023-10-02 05:08:46.973484
+------------------------------------------------------
+Started: 2023-10-02 05:24:54.259174
+Existing_entries: 19
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-02 05:24:54.453738
