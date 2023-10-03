@@ -125,8 +125,8 @@ def gpt_summary(query,model,language):
             {"role": "assistant", "content": f"Please summarize this article in {language} language, no longer than {summary_length} words, and output after the word 'Summary:' in target {language} language:"}
         ]
     chat = ChatCompletion.create(
-        model=model,
-        api_base = "http://152.67.218.87:3000/vita",
+        model='gpt-3.5-trubo',
+        api_base = "https://api.chatanywhere.cn",
         api_key=OPENAI_API_KEY,
         messages=messages,
     )
