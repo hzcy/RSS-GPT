@@ -921,3 +921,9 @@ error: Invalid response object from API: 'limit to use gpt-3.5-turbo and embeddi
 Append: [2023年8月第五周手办模型情报总汇](https://www.gcores.com/articles/171052)
 append_entries: 1
 Finish: 2023-10-02 23:48:19.471494
+------------------------------------------------------
+Started: 2023-10-03 00:41:11.000348
+Existing_entries: 24
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-03 00:41:11.307074
