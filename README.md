@@ -42,5 +42,5 @@ These feeds on hosted in the [`doc/` subdirectory](https://github.com/yinan-c/RS
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 - http://www.v2ex.com/index.xml -> https://hzcy.github.io/RSS-GPT/v2ex.xml
 - http://www.hostloc.com/forum.php?mod=rss&fid=45&auth=0 -> https://hzcy.github.io/RSS-GPT/hostloc.xml
-- https://www.ifanr.com/feed -> https://hzcy.github.io/RSS-GPT/ifanr4.xml
+- https://www.ifanr.com/feed -> https://hzcy.github.io/RSS-GPT/ifanr5.xml
 - https://rsshub.app/gcores/category/news -> https://hzcy.github.io/RSS-GPT/gcores.xml
