@@ -1,6 +1,8 @@
 import feedparser
 import configparser
 import os
+import requests
+import json
 from openai import ChatCompletion
 #import openai
 from jinja2 import Template
