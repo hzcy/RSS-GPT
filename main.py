@@ -1,8 +1,7 @@
 import feedparser
 import configparser
 import os
-import requests
-import json
+import g4f
 from openai import ChatCompletion
 #import openai
 from jinja2 import Template
@@ -133,18 +132,21 @@ def gpt_summary(query,model,language):
     #     messages=messages,
     # )
     prompt = query+f"请用中文总结这篇文章，先提取出5个关键词，在同一行内输出，然后换行，用中文在200字内写一个简短总结，按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"
-    #prompt = query+f"提前商品名称，判断价格，价格高于10元就以不推送结尾，价格低于10元以优惠二字结尾"
-    url = f"http://152.67.218.87:3000/ask?site=vita&prompt="+prompt
+    
+    response = g4f.ChatCompletion.create(
+        model=g4f.models.gpt_4,
+        messages=[{"role": "user", "content": prompt}],
+    )  # alterative model setting
+
+    print(response)
 
    
     
     
-    response = requests.get(url)
-    data = json.loads(response.text)
-    content = data["content"]
+    
 
     #print(content)
-    return content
+    return response
     #return chat["choices"][0]["message"]["content"]
 
 def output(sec, language):
