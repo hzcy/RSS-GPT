@@ -4,3 +4,4 @@ openai
 jinja2
 beautifulsoup4
 requests
+g4f
