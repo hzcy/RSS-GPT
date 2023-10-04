@@ -1146,3 +1146,26 @@ Ylokh: RuntimeError: HTTP Error 403:
 Append: [万智牌《神秘博士》机核独家预览单卡——迫近中的变流](https://www.gcores.com/articles/171736)
 append_entries: 2
 Finish: 2023-10-04 13:35:57.646335
+------------------------------------------------------
+Started: 2023-10-04 19:50:43.209831
+Existing_entries: 26
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: Failed to create conversation.
+Append: [《哆啦A梦：大雄的地球交响乐》特报公开，2024年3月1日上映](https://www.gcores.com/articles/171784)
+Summarization failed, append the original article
+error: Failed to create conversation.
+Append: [动画《PLUTO》公开正式预告，10月26日上线Netflix](https://www.gcores.com/articles/171785)
+Summarization failed, append the original article
+error: Failed to create conversation.
+Append: [骨头社×Netflix，藤子·F·不二雄《时光巡逻队》动画化](https://www.gcores.com/articles/171783)
+Summarization failed, append the original article
+error: Failed to create conversation.
+Append: [TV动画《迷宫饭》公开正式PV，2024年1月开播](https://www.gcores.com/articles/171781)
+Summarization failed, append the original article
+error: Failed to create conversation.
+Append: [《崩坏：星穹铁道》赞助 LGD 及 AzureRay 两支中国《DOTA2》战队出征TI12](https://www.gcores.com/articles/171774)
+Append: [《极限竞速》全球解锁时间公布，预购高级版提前五天开玩](https://www.gcores.com/articles/171759)
+Append: [《赛博朋克2077》登顶：Steam周销量排行榜|2023年9月第4周](https://www.gcores.com/articles/171753)
+append_entries: 7
+Finish: 2023-10-04 19:50:59.592173
