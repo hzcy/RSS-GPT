@@ -1131,3 +1131,18 @@ Existing_entries: 24
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-03 08:28:20.497483
+------------------------------------------------------
+Started: 2023-10-04 07:37:13.648583
+Existing_entries: 24
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Myshell: RuntimeError: Received unexpected message: need_verify_captcha
+Ylokh: RuntimeError: HTTP Error 403: 
+Append: [《污痕圣杯：阿瓦隆的陨落》新增简体中文，大量新内容和优化实装](https://www.gcores.com/articles/171587)
+Summarization failed, append the original article
+error: All providers failed:
+Ylokh: RuntimeError: HTTP Error 403: 
+Append: [万智牌《神秘博士》机核独家预览单卡——迫近中的变流](https://www.gcores.com/articles/171736)
+append_entries: 2
+Finish: 2023-10-04 13:35:57.646335

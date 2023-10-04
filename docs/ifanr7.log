@@ -1,0 +1,7 @@
+------------------------------------------------------
+Started: 2023-10-04 07:36:42.359951
+Existing_entries: 0
+Fetching from https://www.ifanr.com/feed
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/ifanr7
