@@ -1350,3 +1350,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [开罗游戏新作《哆啦A梦的铜锣烧店物语》正式公布](https://www.gcores.com/articles/171796)
 append_entries: 4
 Finish: 2023-10-05 04:26:35.888269
+------------------------------------------------------
+Started: 2023-10-05 04:35:25.333864
+Existing_entries: 39
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-05 04:35:25.552544
