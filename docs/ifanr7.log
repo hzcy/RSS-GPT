@@ -325,3 +325,12 @@ Fetching from https://www.ifanr.com/feed
 Feed error: 522
 append_entries: 0
 error when rendering xml, skip docs/ifanr7
+------------------------------------------------------
+Started: 2023-10-05 09:34:12.299013
+Existing_entries: 20
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Pixel 8 系列正式发布！这才是 Google 的 AI 杀手锏](https://www.ifanr.com/1563849?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-05 09:34:15.446587
