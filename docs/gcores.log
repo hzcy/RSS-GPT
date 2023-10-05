@@ -1332,3 +1332,21 @@ Existing_entries: 35
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-05 04:11:08.085261
+------------------------------------------------------
+Started: 2023-10-05 04:26:30.511682
+Existing_entries: 35
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [高速机甲FPS肉鸽游戏《塑战核心》今天发售，支持简体中文](https://www.gcores.com/articles/171610)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [规模宏大“吃到饱”:《极限竞速》(2023)媒体评测汇总](https://www.gcores.com/articles/171799)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《守望先锋》“归来”即将迎来《暗黑4》联动，半藏神话皮同步推出](https://www.gcores.com/articles/171797)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [开罗游戏新作《哆啦A梦的铜锣烧店物语》正式公布](https://www.gcores.com/articles/171796)
+append_entries: 4
+Finish: 2023-10-05 04:26:35.888269
