@@ -1410,3 +1410,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [纳能活死人再现：《行星边际2》今晚更新](https://www.gcores.com/articles/171798)
 append_entries: 2
 Finish: 2023-10-05 06:38:14.036292
+------------------------------------------------------
+Started: 2023-10-05 06:48:36.976704
+Existing_entries: 41
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-05 06:48:37.208154
