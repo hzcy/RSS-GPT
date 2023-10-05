@@ -1290,3 +1290,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《暗黑破坏神4》将于10月18日登陆Steam平台](https://www.gcores.com/articles/171794)
 append_entries: 2
 Finish: 2023-10-05 02:14:27.414860
+------------------------------------------------------
+Started: 2023-10-05 02:31:46.341538
+Existing_entries: 35
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-05 02:31:46.609219
