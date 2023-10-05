@@ -1398,3 +1398,15 @@ Existing_entries: 39
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-05 06:29:13.658794
+------------------------------------------------------
+Started: 2023-10-05 06:38:11.580837
+Existing_entries: 39
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [科幻题材冒险游戏《多重人生》游戏内影像预告片](https://www.gcores.com/articles/171800)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [纳能活死人再现：《行星边际2》今晚更新](https://www.gcores.com/articles/171798)
+append_entries: 2
+Finish: 2023-10-05 06:38:14.036292
