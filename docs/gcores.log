@@ -1662,3 +1662,15 @@ Existing_entries: 41
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-05 18:12:20.962657
+------------------------------------------------------
+Started: 2023-10-06 17:48:28.136715
+Existing_entries: 41
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《盟军敢死队》系列新作《盟军敢死队：起源》正式公布](https://www.gcores.com/articles/171823)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [2023年9月第一周手办模型情报总汇](https://www.gcores.com/articles/171720)
+append_entries: 2
+Finish: 2023-10-06 17:48:32.155308
