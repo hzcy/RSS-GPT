@@ -1674,3 +1674,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [2023年9月第一周手办模型情报总汇](https://www.gcores.com/articles/171720)
 append_entries: 2
 Finish: 2023-10-06 17:48:32.155308
+------------------------------------------------------
+Started: 2023-10-06 18:12:19.944054
+Existing_entries: 43
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-06 18:12:20.429412
