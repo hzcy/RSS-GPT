@@ -2057,3 +2057,12 @@ Existing_entries: 60
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-07 09:33:36.804986
+------------------------------------------------------
+Started: 2023-10-07 09:48:26.401752
+Existing_entries: 60
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《塔罗斯的法则2》于Steam新品节前推出试玩版，11月3日正式发售](https://www.gcores.com/articles/171883)
+append_entries: 1
+Finish: 2023-10-07 09:48:27.198199
