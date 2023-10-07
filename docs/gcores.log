@@ -1966,3 +1966,25 @@ Existing_entries: 53
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-07 06:34:51.333928
+------------------------------------------------------
+Started: 2023-10-07 06:48:29.953340
+Existing_entries: 53
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [休闲乱斗游戏《橡胶大乱斗》发布免费试玩版](https://www.gcores.com/articles/171875)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《行尸走肉：背叛》十月更新：价格下调、新功能和免费时装](https://www.gcores.com/articles/171870)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Crytek竞技FPS《猎杀：对决》推出1.14活动“腐化之潮”！全新剧情及炼狱环境上线！](https://www.gcores.com/articles/171869)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [轻策略游戏《繁荣之初》和视觉小说游戏《如茵碧草—萋萋护路人》将于10月16日发售](https://www.gcores.com/articles/171867)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [合作动作冒险游戏《舍伍德侠盗团》预购现已开启，11月2日正式发售](https://www.gcores.com/articles/171866)
+Append: [译介丨索尼官方影视流媒体服务登陆PSN，开门第一炮就是《GT赛车：极速狂飙》](https://www.gcores.com/articles/171847)
+append_entries: 6
+Finish: 2023-10-07 06:48:35.647620
