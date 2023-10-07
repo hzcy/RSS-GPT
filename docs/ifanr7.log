@@ -688,3 +688,15 @@ Existing_entries: 23
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-07 02:06:30.335067
+------------------------------------------------------
+Started: 2023-10-07 02:26:39.093742
+Existing_entries: 23
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [离开奔驰以后，比亚迪单亲抚养的腾势，茁壮成长了](https://www.ifanr.com/1563658?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [欧洲车企，需要中国电池](https://www.ifanr.com/1563495?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2023-10-07 02:26:42.228025
