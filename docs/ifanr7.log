@@ -700,3 +700,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [欧洲车企，需要中国电池](https://www.ifanr.com/1563495?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2023-10-07 02:26:42.228025
+------------------------------------------------------
+Started: 2023-10-07 02:34:49.446526
+Existing_entries: 25
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-07 02:34:50.910192
