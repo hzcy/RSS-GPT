@@ -1860,3 +1860,29 @@ Existing_entries: 43
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-07 03:09:22.479291
+------------------------------------------------------
+Started: 2023-10-07 03:22:17.011100
+Existing_entries: 43
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [狼妈妈的摩托之旅，《Laika: Aged Through Blood》将于10月19日登录PC平台](https://www.gcores.com/articles/171864)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [宝可梦主题原创剧集《把冒险装进口袋》预告公开，10月19日开播](https://www.gcores.com/articles/171860)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《赛博朋克》真人影视剧在路上、“往日之影”首周销量300万:CDPR投资人说明会消息汇总](https://www.gcores.com/articles/171859)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《猎人：荒野的召唤》伏击者包和新外观将于本月10日推出](https://www.gcores.com/articles/171858)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [多人沙盒地下城探险游戏《地心护核者》现已实装最新大型更新“莹光边境”](https://www.gcores.com/articles/171857)
+Append: [超暴力的超自然动作射击游戏《海参2》现已在主机平台推出](https://www.gcores.com/articles/171856)
+Append: [《阿拉斯加卡车司机》今日开启免费体验，可抢先游玩3小时](https://www.gcores.com/articles/171855)
+Append: [狼人杀《行尸走肉：背叛》十月更新汇总：价格下调、新功能和免费时装](https://www.gcores.com/articles/171854)
+Append: [轻策略游戏《繁荣之初》和视觉小说游戏《如茵碧草—萋萋护路人》将于10月16日发售](https://www.gcores.com/articles/171853)
+Append: [多人动作冒险《舍伍德侠盗团》现已开启预购,新品节将开启免费试玩](https://www.gcores.com/articles/171852)
+append_entries: 10
+Finish: 2023-10-07 03:22:32.605113
