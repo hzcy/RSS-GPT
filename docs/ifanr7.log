@@ -682,3 +682,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [早报|国庆假期日均超 1 亿人次出游/ iPhone 15 Pro 过热问题已修复/ OpenAI 正探索自研 AI 芯片](https://www.ifanr.com/1564010?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-07 01:36:03.530673
+------------------------------------------------------
+Started: 2023-10-07 02:06:28.586554
+Existing_entries: 23
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-07 02:06:30.335067
