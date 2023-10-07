@@ -1941,3 +1941,10 @@ Existing_entries: 53
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-07 05:33:44.679525
+------------------------------------------------------
+Started: 2023-10-07 05:48:15.480389
+Existing_entries: 53
+Fetching from https://rsshub.app/gcores/category/news
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/gcores
