@@ -2015,3 +2015,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [金光乍现！全新 Xbox 无线控制器「暗影鎏金」特别版 即将上市！](https://www.gcores.com/articles/171877)
 append_entries: 1
 Finish: 2023-10-07 07:48:29.628987
+------------------------------------------------------
+Started: 2023-10-07 08:10:47.386482
+Existing_entries: 60
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-07 08:10:47.758208
