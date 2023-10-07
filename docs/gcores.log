@@ -2120,3 +2120,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [可提前试玩三小时，《阿拉斯加卡车司机》发布先行可玩版](https://www.gcores.com/articles/171873)
 append_entries: 2
 Finish: 2023-10-07 11:48:41.193998
+------------------------------------------------------
+Started: 2023-10-07 12:15:15.540325
+Existing_entries: 63
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-07 12:15:15.715539
