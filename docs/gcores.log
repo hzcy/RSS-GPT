@@ -2108,3 +2108,15 @@ Existing_entries: 61
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-07 11:33:49.994605
+------------------------------------------------------
+Started: 2023-10-07 11:48:37.994348
+Existing_entries: 61
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Epic裁员近千人，非游戏场景使用虚幻引擎即将收费](https://www.gcores.com/articles/171895)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [可提前试玩三小时，《阿拉斯加卡车司机》发布先行可玩版](https://www.gcores.com/articles/171873)
+append_entries: 2
+Finish: 2023-10-07 11:48:41.193998
