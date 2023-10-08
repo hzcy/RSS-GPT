@@ -2420,3 +2420,12 @@ Existing_entries: 63
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-08 02:14:23.234140
+------------------------------------------------------
+Started: 2023-10-08 02:30:56.271628
+Existing_entries: 63
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《红霞岛》现已实装2号更新，带来多种游戏性改进](https://www.gcores.com/articles/171907)
+append_entries: 1
+Finish: 2023-10-08 02:30:58.386462
