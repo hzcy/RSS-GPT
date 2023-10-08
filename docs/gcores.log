@@ -2627,3 +2627,24 @@ Existing_entries: 68
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-08 10:25:46.320980
+------------------------------------------------------
+Started: 2023-10-08 10:33:37.430549
+Existing_entries: 68
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [多人联机塔防《哔哔砰砰大作战》及第一人称惊悚游戏《噩梦初醒》推出新品节试玩版](https://www.gcores.com/articles/171936)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《渔帆暗涌》宣布推出首部资料片“冰寒之境”，将于11月16日上线](https://www.gcores.com/articles/171935)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [育碧满足玩家心愿，过世“刺客猫”现身《刺客信条：幻景》](https://www.gcores.com/articles/171934)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [操作拉满:实时卡牌战斗游戏《夺牌狂飙》将于10月12日推出](https://www.gcores.com/articles/171933)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [游戏《SPY×FAMILY 间谍家家酒 日记大作战》新预告公布，12月21日推出Switch版本](https://www.gcores.com/articles/171930)
+append_entries: 5
+Finish: 2023-10-08 10:33:41.063345
