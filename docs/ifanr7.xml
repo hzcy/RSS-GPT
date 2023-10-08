@@ -4,6 +4,78 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>OpenAI 决定造芯，和 Nvidia「抢蛋糕」</title>
+<link>https://www.ifanr.com/1564187?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1564187?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1564191" height="867" src="https://s3.ifanr.com/wp-content/uploads/2023/10/1-1.png" width="2000" /></p>
+<p>科普个冷知识，你每问 ChatGPT 一个问题， 其背后的母公司 OpenAI 就要花掉 4 美分（约 0.29 元人民币）。 4 美分看似很少，但如果乘以 1300 万呢？</p>
+<p>据瑞银集团报告显示， ChatGPT 二月月活用户达 1 亿，每天有大约 1300 万独立访客。简单来说， 如果每位用户单日登陆时都问一个问题（且只问一个问题），那么 ChatGPT 的单日运营成本至少达 52 万美元。而一位 INSIDER 的分析师则估计， ChatGPT 的单日成本高达 70 万美元。</p>
+<p>硬件开销在 AI 运营成本中占大头，芯片对于科技行业的重要性不言而喻，对于 AI 公司来说更是如此。所以公司们不得不顶着高昂的硬件成本运营，要想摆脱这一现状，只有靠自研芯片。</p>
+<p>「造芯」，便成为了 AI 公司们发展到一定程度时必须考虑的事。</p>
+<p>据路透社报道， OpenAI 或在探索自主开发一款针对 AI 设计的智能芯片。这样做的好处很明显，可以有效降低 AI 运营成本。以 OpenAI 在 AI 领域最大的竞争对手 Google 举例，其计划在 2027 年将博通公司剔除出 AI 智能芯片供应商行列，此举每年可以为 Google 节约数十亿美元。</p>
+<p>除了降低成本外，摆脱对别家公司的依赖也是 OpenAI 决定自研的另一个因素。</p>
+<p>目前 AI 芯片市场由 Nvidia 主导，它占有全球 80% 左右的 AI 芯片市场。 随着 AI 的迅猛发展，AI 公司对芯片的需求水涨船高， Nvidia 的供货能力在此时显得有些力不从心。即便 Nvidia 将 H100 芯片 2024 年的产量提高至 150 万至 200 万颗，也无法扭转供不应求的局面。OpenAI CEO Sam Altman 更是曾公开抱怨 Nvidia 芯片的短缺影响了公司的扩张速度。</p>
+<p><img alt="" class="alignnone size-full wp-image-1564189" height="900" src="https://s3.ifanr.com/wp-content/uploads/2023/10/2-1.jpeg" width="1600" /></p>
+<p>但「造芯」不是一件容易的事，其需要高昂的时间成本和金钱成本， AI 公司 SambaNova Systems 的总经理 Alex White 表示「设计和制造芯片并不是一朝一夕就能完成的，它需要大量的专业知识和日益短缺的资源。OpenAI 花了五年多的时间来开发 GPT-4 。如果硬件也花费了类似的时间，我不会感到惊讶」。</p>
+<p>即便是投入了人力、财力和时间， OpenAI 也不一定能够成功开发出一颗符合要求的芯片，这是自研芯片的难点所在。要想缩减成本并提高成功率，收购一家成熟的芯片公司是最优解。 OpenAI 正有此意，日前， OpenAI 正在对潜在的收购目标进行尽职调查，但这些公司的具体身份还不得而知。</p>
+<p>除了 OpenAI 外， Meta 和微软都在开发芯片上付出了多年的努力。</p>
+<p>据路透社报道， Meta 虽然成功开发出了定制芯片，但该芯片一直存在问题，导致 Meta 废弃了部分 AI 芯片，扎克伯格正致力于开发一款更新的芯片，并计划让该芯片支持 Meta 旗下所有类型的 AI 。</p>
+<p>而微软的进程相对来说更顺利一些，早在 2019 年开始，微软就在秘密研发一款代号为 Athena 的 AI 芯片。据报道，微软计划最早在明年在微软和 OpenAI 内部更广泛的使用这颗芯片。微软内部人员表示，微软并不期待在短期内用 Athena 芯片代替 Nvidia 芯片，其主要目的还是减少对 Nvidia 的依赖。</p>
+<p><img alt="" class="alignnone size-full wp-image-1564190" height="720" src="https://s3.ifanr.com/wp-content/uploads/2023/10/3-2.jpeg" width="1280" /></p>
+<p>由此可见， OpenAI 和微软这样的巨头公司都不愿意寄人篱下，减少对其他公司的依赖是它们「造芯」的理由之一。路透社猜测， OpenAI 考虑自研芯片是该公司与合作伙伴微软分道扬镳的最新迹象。</p>
+<p>诚然， OpenAI 的造芯计划仍处于初期，至少在数年后市场才会看到 OpenAI 的研发成果。在此之前 OpenAI 只有两个选择，高价使用 Nvidia 芯片或高度依赖于微软。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1564187">原文链接</a> ·
+<a href="https://www.ifanr.com/1564187#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Sun, 08 Oct 2023 05:39:46 +0000</pubDate>
+<updated>Sun, 08 Oct 2023 05:39:46 +0000</updated>
+</item>
+<item>
+<title>微软动视暴雪收购案，即将画下句号</title>
+<link>https://www.ifanr.com/1564181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1564181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1564182" height="576" src="https://s3.ifanr.com/wp-content/uploads/2023/10/1-1.jpeg" width="1024" /></p>
+<p>微软收购动视暴雪是游戏史上最大规模的收购，这场历史级别的收购不止吸引了全球玩家的目光，还引起了各国监管机构和竞争对手的警惕。随着时间的推移和微软的努力，拦在微软面前的阻碍越来越少，就连收购案的主要反对方 CMA（Competition and Markets Authority）也松了口。</p>
+<p>据 The Verge 报道，在微软出让动视暴雪的云游戏服务给育碧之后，英国监管机构 CMA 初步批准了微软动视暴雪的收购案，并将于下周做出最终决定。微软方面则预计 10 月 13 日能够正式结束收购案的所有流程。</p>
+<p>但微软与监管机构间的「战斗」不会因为收购成功而结束，美国监管机构 FTC 仍在向上诉法院提起上诉，最终裁决将于 12 月初做出。假设微软和动视暴雪的交易按时完成， FTC 还可能会设法撤销这项交易。</p>
+<p><img alt="" class="alignnone size-full wp-image-1564183" height="682" src="https://s3.ifanr.com/wp-content/uploads/2023/10/4-1.jpeg" width="1024" /></p>
+<p>「微软将以总价 687 亿美元收购动视暴雪公司」，这条 2021 年的新闻刷新了游戏行业的收购记录——纪录原本属于 Take-Two 公司。该公司曾以 127 亿美元价格收购 Zynga ，微软收购动视暴雪的价格是它的 5.4 倍。</p>
+<p>687 亿美元是什么概念？据英国媒体 GameIndustry.biz 预估， 2022 年全球游戏市场总营收为 1844 亿美元，此外，中国游戏产业报告显示 2022 年国内游戏市场收入规模为 2658.84 亿人民币（约 369.55 亿美元）。</p>
+<p>由此粗略计算，微软动视暴雪收购案总价值达去年全球游戏行业总营收的 37.21% ，且相当于中国游戏行业 1 年半的总收入。</p>
+<p>如此大手笔的收购自然引起了监管机构的警惕，因为这场收购有着很强的垄断可能性。动视暴雪旗下有《使命召唤》、《暗黑破坏神》和《古惑狼》等众多叫好又叫座的游戏系列，和微软自身的影响力相结合，会让微软在游戏市场拥有过高的竞争优势。从而形成一家独大的局面，这便是监管机构不愿意看到的。</p>
+<p><img alt="" class="alignnone size-full wp-image-1564184" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/5-2.jpeg" width="1920" /></p>
+<p>为了打消外界的疑虑，微软多次在公开场合表示至少 10 年内不会独占动视暴雪旗下的游戏，并与包括索尼、英伟达在内的多家公司签订相关协议。将动视暴雪云游戏服务出让给育碧也是为了摆脱 CMA 对微软「垄断云游戏市场」的指控。</p>
+<p>微软不愿放弃动视暴雪的原因，是它一直以来不甚乐观的主机市场地位。微软这些年不断以收购的方式，企图以此提高 Xbox 系列主机的销量。但成效并不明显，据 VGChartz 统计， Xbox series 系列总销量为 2323 万台，在「御三家」中排名第三，而第一名的 Switch 总销量为 1.29 亿台。</p>
+<p>尽管微软推出的 Xbox Game Pass 订阅服务大获好评，甚至在一定程度上改变了主机市场的消费模式，但优质独占内容的缺失很难让 Xbox 主机对玩家产生吸引力，更别提消费者对 Xbox 主机的印象还停留在「PC 平替」的阶段。</p>
+<p>而动视暴雪的加入，理想状态下可以补足微软的弱项。要知道动视暴雪旗下的《使命召唤》系列可是有着「游戏史上最畅销系列」的美名。「游戏史上最大规模收购案」和「游戏史上最畅销系列」两者相结合，至少在这次收购案中，微软赚足了噱头。</p>
+<p>收购案成功后，不论微软是以此摆脱主机界常年老三的地位，还是以此垄断游戏市场，对于微软的竞争对手来说，这都是值得它们提心吊胆的历史性时刻。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1564181">原文链接</a> ·
+<a href="https://www.ifanr.com/1564181#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Sun, 08 Oct 2023 05:27:08 +0000</pubDate>
+<updated>Sun, 08 Oct 2023 05:27:08 +0000</updated>
+</item>
 
 <item>
 <title>耗资 23 亿美元的全球最大球体建筑，是怎么造出来的？</title>
