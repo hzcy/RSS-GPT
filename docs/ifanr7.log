@@ -1333,3 +1333,12 @@ Existing_entries: 30
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-08 06:11:29.765392
+------------------------------------------------------
+Started: 2023-10-08 06:27:29.228906
+Existing_entries: 30
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [微软发布 166 页 GPT-4V 测评报告，ChatGPT 的高阶用法都在这｜Hunt Good 周报](https://www.ifanr.com/1564020?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-08 06:27:32.174061
