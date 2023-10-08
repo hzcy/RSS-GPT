@@ -2543,3 +2543,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《阿加莎·克里斯蒂：东方快车谋杀案》在Steam新品节期间提供试玩Demo](https://www.gcores.com/articles/171917)
 append_entries: 1
 Finish: 2023-10-08 06:48:34.791005
+------------------------------------------------------
+Started: 2023-10-08 07:07:54.738292
+Existing_entries: 68
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-08 07:07:55.177356
