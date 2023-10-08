@@ -1429,3 +1429,12 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [同样的 4800 万像素主摄，iPhone 15 Pro 的 Pro 在哪？](https://www.ifanr.com/1564239?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-08 09:48:27.201772
+------------------------------------------------------
+Started: 2023-10-08 10:08:33.623638
+Existing_entries: 32
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Windows 12 最新爆料，爆料人竟是 Intel](https://www.ifanr.com/1564249?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-08 10:08:36.152409
