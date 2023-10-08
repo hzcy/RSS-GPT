@@ -2474,3 +2474,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《使命召唤：战区》手游延期至2024年推出，预约玩家人数超4500万](https://www.gcores.com/articles/171909)
 append_entries: 3
 Finish: 2023-10-08 04:10:37.149892
+------------------------------------------------------
+Started: 2023-10-08 04:25:22.681385
+Existing_entries: 67
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-08 04:25:22.852411
