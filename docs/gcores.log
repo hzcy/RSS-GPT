@@ -2459,3 +2459,18 @@ Existing_entries: 64
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-08 03:48:18.710402
+------------------------------------------------------
+Started: 2023-10-08 04:10:32.768012
+Existing_entries: 64
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《Fate/Samurai Remnant》全球销量突破30万套](https://www.gcores.com/articles/171913)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Telltale进行大规模裁员，《人中之狼2》等项目仍在有序开发](https://www.gcores.com/articles/171911)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《使命召唤：战区》手游延期至2024年推出，预约玩家人数超4500万](https://www.gcores.com/articles/171909)
+append_entries: 3
+Finish: 2023-10-08 04:10:37.149892
