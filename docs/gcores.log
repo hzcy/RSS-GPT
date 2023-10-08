@@ -2693,3 +2693,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [【福利】WF2023海洋堂社长宫胁修一专访：模玩市场日新月异 不变的是我们的热情](https://www.gcores.com/articles/171942)
 append_entries: 1
 Finish: 2023-10-08 12:40:44.500720
+------------------------------------------------------
+Started: 2023-10-08 12:54:45.738350
+Existing_entries: 74
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-08 12:54:45.896955
