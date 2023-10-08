@@ -2828,3 +2828,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [乐高×《动物森友会》积木人物新品公开，西施惠狸克乐高形象放出](https://www.gcores.com/articles/171937)
 append_entries: 1
 Finish: 2023-10-08 18:10:55.239874
+------------------------------------------------------
+Started: 2023-10-08 18:26:23.404319
+Existing_entries: 75
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-08 18:26:23.607586
