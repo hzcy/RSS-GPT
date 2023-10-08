@@ -1438,3 +1438,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [Windows 12 最新爆料，爆料人竟是 Intel](https://www.ifanr.com/1564249?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-08 10:08:36.152409
+------------------------------------------------------
+Started: 2023-10-08 10:25:44.021346
+Existing_entries: 33
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-08 10:25:45.788475
