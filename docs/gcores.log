@@ -2648,3 +2648,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [游戏《SPY×FAMILY 间谍家家酒 日记大作战》新预告公布，12月21日推出Switch版本](https://www.gcores.com/articles/171930)
 append_entries: 5
 Finish: 2023-10-08 10:33:41.063345
+------------------------------------------------------
+Started: 2023-10-08 10:48:19.079084
+Existing_entries: 73
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-08 10:48:19.290099
