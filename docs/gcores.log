@@ -3092,3 +3092,12 @@ Existing_entries: 79
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-09 06:13:06.074678
+------------------------------------------------------
+Started: 2023-10-09 06:29:32.325329
+Existing_entries: 79
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [策略肉鸽自走棋《传奇生物2》将于10月17日发售,首周9折特惠](https://www.gcores.com/articles/171952)
+append_entries: 1
+Finish: 2023-10-09 06:29:33.194757
