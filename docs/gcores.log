@@ -3020,3 +3020,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《日本漂移大师》公布最新预告，确认参展新品试玩节](https://www.gcores.com/articles/171947)
 append_entries: 2
 Finish: 2023-10-09 03:22:26.920256
+------------------------------------------------------
+Started: 2023-10-09 03:34:05.793707
+Existing_entries: 77
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-09 03:34:06.016434
