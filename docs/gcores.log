@@ -3050,3 +3050,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《恶魔城：夜曲》第二季正在制作中，官方首支预告放出](https://www.gcores.com/articles/171949)
 append_entries: 2
 Finish: 2023-10-09 04:26:57.235543
+------------------------------------------------------
+Started: 2023-10-09 04:36:40.470243
+Existing_entries: 79
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-09 04:36:40.663009
