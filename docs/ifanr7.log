@@ -1780,3 +1780,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [早报|Meta 将苹果头显视为 2007 年 iPhone/华为手机显微镜专利曝光/微软明年或将推出 Win12 系统](https://www.ifanr.com/1564276?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2023-10-09 01:37:40.759893
+------------------------------------------------------
+Started: 2023-10-09 02:07:38.062009
+Existing_entries: 35
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-09 02:07:39.687698
