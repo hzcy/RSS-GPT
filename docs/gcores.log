@@ -3038,3 +3038,15 @@ Existing_entries: 77
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-09 04:11:03.893208
+------------------------------------------------------
+Started: 2023-10-09 04:26:53.423387
+Existing_entries: 77
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《小偷模拟器2》现已正式发售，官方公布更新路线图](https://www.gcores.com/articles/171950)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《恶魔城：夜曲》第二季正在制作中，官方首支预告放出](https://www.gcores.com/articles/171949)
+append_entries: 2
+Finish: 2023-10-09 04:26:57.235543
