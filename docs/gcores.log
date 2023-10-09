@@ -3299,3 +3299,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [下周节目预告 10.9~10.15](https://www.gcores.com/articles/171992)
 append_entries: 1
 Finish: 2023-10-09 15:09:59.095026
+------------------------------------------------------
+Started: 2023-10-09 15:24:42.984242
+Existing_entries: 82
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-09 15:24:43.139868
