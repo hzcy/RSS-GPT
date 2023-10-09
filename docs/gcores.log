@@ -3191,3 +3191,12 @@ Existing_entries: 80
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-09 10:10:38.018096
+------------------------------------------------------
+Started: 2023-10-09 10:30:18.181996
+Existing_entries: 80
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [JOYTOY战锤40K新品公布：星界军卡迪亚指挥组参战](https://www.gcores.com/articles/171962)
+append_entries: 1
+Finish: 2023-10-09 10:30:19.179244
