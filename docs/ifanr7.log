@@ -2347,3 +2347,12 @@ Existing_entries: 38
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-10 03:22:34.823997
+------------------------------------------------------
+Started: 2023-10-10 03:33:51.252324
+Existing_entries: 38
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [高通推出全新 XR2 和 AR1 平台，变革空间计算正式上线](https://www.ifanr.com/1564362?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-10 03:33:54.066102
