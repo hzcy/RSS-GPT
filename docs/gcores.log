@@ -3659,3 +3659,25 @@ Existing_entries: 88
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-10 06:48:17.535424
+------------------------------------------------------
+Started: 2023-10-10 07:09:06.762958
+Existing_entries: 88
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《清零计划2：天启派对》推出Steam新品节限时试玩Demo](https://www.gcores.com/articles/172024)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [开挂般的修仙体验！《造化仙缘》正式亮相Steam新品节](https://www.gcores.com/articles/172023)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [孤身入绝地,荡寇书传奇《平寇志》参加Steam游戏新品节](https://www.gcores.com/articles/172022)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《战地风云2042》第6赛季“黑暗创造物”今日上线，免费周即将开启](https://www.gcores.com/articles/172019)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [国模创世模王《黑暗骑士三部曲》蝙蝠载具玩法公布](https://www.gcores.com/articles/172015)
+Append: [策略回合制游戏《战律2》现已上线Steam及Switch平台](https://www.gcores.com/articles/172025)
+append_entries: 6
+Finish: 2023-10-10 07:09:13.777720
