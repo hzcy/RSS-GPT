@@ -3797,3 +3797,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [超高速砍杀！动作肉鸽爽游《诸子无双》Steam新品节试玩](https://www.gcores.com/articles/172029)
 append_entries: 1
 Finish: 2023-10-10 11:08:07.900530
+------------------------------------------------------
+Started: 2023-10-10 11:19:31.548998
+Existing_entries: 102
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-10 11:19:31.783436
