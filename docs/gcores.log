@@ -3788,3 +3788,12 @@ Existing_entries: 101
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-10 10:48:37.658543
+------------------------------------------------------
+Started: 2023-10-10 11:08:05.755052
+Existing_entries: 101
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [超高速砍杀！动作肉鸽爽游《诸子无双》Steam新品节试玩](https://www.gcores.com/articles/172029)
+append_entries: 1
+Finish: 2023-10-10 11:08:07.900530
