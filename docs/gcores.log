@@ -3741,3 +3741,26 @@ Existing_entries: 94
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-10 09:34:10.185869
+------------------------------------------------------
+Started: 2023-10-10 09:48:21.359652
+Existing_entries: 94
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [动视暴雪宣布旗下大作将逐步加入XGP，预计明年开始](https://www.gcores.com/articles/172042)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [恐怖剧情冒险游戏《两只小皮鞋》定于11月1日发售](https://www.gcores.com/articles/172036)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [海洋主题类魂游戏《蟹蟹寻宝奇遇》试玩Demo已上线Steam新品节](https://www.gcores.com/articles/172035)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [益智游戏《割绳子3》将于10月13日登陆Apple Arcade](https://www.gcores.com/articles/172033)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [细数一路历程，《使命召唤》20周年纪念视频公布](https://www.gcores.com/articles/172032)
+Append: [2023成都世界科幻大会未来局活动预告](https://www.gcores.com/articles/172027)
+Append: [《CD2：陷阱大师》10月10号全新试玩版本上架steam](https://www.gcores.com/articles/172016)
+append_entries: 7
+Finish: 2023-10-10 09:48:27.185358
