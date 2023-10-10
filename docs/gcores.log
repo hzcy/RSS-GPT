@@ -3539,3 +3539,18 @@ Existing_entries: 82
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-10 02:36:46.801987
+------------------------------------------------------
+Started: 2023-10-10 02:48:36.082643
+Existing_entries: 82
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [无限期跳票：育碧再度推迟《不羁联盟》发行时间](https://www.gcores.com/articles/172007)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [John Riccitiello不再担任Unity首席执行官一职](https://www.gcores.com/articles/172006)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [王星睿不再担任《守望先锋》世界杯中国代表队教练一职](https://www.gcores.com/articles/172004)
+append_entries: 3
+Finish: 2023-10-10 02:48:38.700672
