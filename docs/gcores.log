@@ -3614,3 +3614,18 @@ Existing_entries: 85
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-10 05:25:13.606789
+------------------------------------------------------
+Started: 2023-10-10 05:33:42.088237
+Existing_entries: 85
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [RPG游戏《奇唤士》新预告公布，12月5日登陆PC平台](https://www.gcores.com/articles/172017)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《拳皇15》追加角色“四条雏子”角色宣传片公布](https://www.gcores.com/articles/172014)
+Summarization failed, append the original article
+error: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Steam10月新品节现已隆重开幕，诸多游戏开放Demo下载](https://www.gcores.com/articles/172009)
+append_entries: 3
+Finish: 2023-10-10 05:33:46.241871
