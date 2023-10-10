@@ -3554,3 +3554,9 @@ error: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [王星睿不再担任《守望先锋》世界杯中国代表队教练一职](https://www.gcores.com/articles/172004)
 append_entries: 3
 Finish: 2023-10-10 02:48:38.700672
+------------------------------------------------------
+Started: 2023-10-10 03:09:40.636723
+Existing_entries: 85
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-10 03:09:40.819489
