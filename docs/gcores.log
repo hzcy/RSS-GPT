@@ -4154,3 +4154,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《新世界》登顶：Steam周销量排行榜|2023年10月第1周](https://www.gcores.com/articles/172062)
 append_entries: 2
 Finish: 2023-10-11 03:34:06.402789
+------------------------------------------------------
+Started: 2023-10-11 03:48:33.284516
+Existing_entries: 105
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-11 03:48:33.538579
