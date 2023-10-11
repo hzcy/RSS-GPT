@@ -4512,3 +4512,13 @@ Existing_entries: 111
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-11 17:48:22.571865
+------------------------------------------------------
+Started: 2023-10-11 18:12:11.255337
+Existing_entries: 111
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [是钓鱼猫猫！钓鱼游戏《Captain Pawsome》放出首支预告](https://www.gcores.com/articles/172098)
+append_entries: 1
+Finish: 2023-10-11 18:12:12.221403
