@@ -2881,3 +2881,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [Nothing 推出旗下最便宜的产品，仅 154 人民币](https://www.ifanr.com/1564537?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-11 02:36:46.806024
+------------------------------------------------------
+Started: 2023-10-11 02:48:37.838834
+Existing_entries: 46
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-11 02:48:39.419412
