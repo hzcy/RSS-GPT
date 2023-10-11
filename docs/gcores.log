@@ -4196,3 +4196,14 @@ Existing_entries: 105
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-11 05:25:14.866369
+------------------------------------------------------
+Started: 2023-10-11 05:34:08.899664
+Existing_entries: 105
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Append: [《堕落之主》公布最新预告，将于本月13日发售](https://www.gcores.com/articles/172063)
+append_entries: 1
+Finish: 2023-10-11 05:34:09.964622
