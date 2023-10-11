@@ -4138,3 +4138,19 @@ Existing_entries: 103
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-11 03:23:06.467861
+------------------------------------------------------
+Started: 2023-10-11 03:34:02.465104
+Existing_entries: 103
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [高通宣布面向PC平台的全新骁龙X系列芯片](https://www.gcores.com/articles/172065)
+Summarization failed, append the original article
+error: All providers failed:
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《新世界》登顶：Steam周销量排行榜|2023年10月第1周](https://www.gcores.com/articles/172062)
+append_entries: 2
+Finish: 2023-10-11 03:34:06.402789
