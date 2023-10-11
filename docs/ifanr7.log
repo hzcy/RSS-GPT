@@ -2870,3 +2870,14 @@ Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/ap
 Append: [「交个朋友」，是 AI 行业的新方向](https://www.ifanr.com/1564528?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-11 02:28:43.534925
+------------------------------------------------------
+Started: 2023-10-11 02:36:43.014033
+Existing_entries: 45
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: All providers failed:
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Nothing 推出旗下最便宜的产品，仅 154 人民币](https://www.ifanr.com/1564537?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-11 02:36:46.806024
