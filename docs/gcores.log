@@ -4302,3 +4302,24 @@ Existing_entries: 107
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-11 09:23:14.714486
+------------------------------------------------------
+Started: 2023-10-11 09:34:25.876379
+Existing_entries: 107
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Append: [吃豆人大逃杀游戏《吃豆人 无尽地道争豆 暴食没有极限》首次公开，即将登录各大平台](https://www.gcores.com/articles/172092)
+Summarization failed, append the original article
+error: All providers failed:
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《牙狼》系列最新作《牙狼＜GARO＞ 钢之继承者》正式公布，2024年1月播出](https://www.gcores.com/articles/172086)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Aivvm: HTTPError: 403 Client Error: Forbidden for url: https://chat.aivvm.com/api/chat
+Append: [增加多种新内容：《潜水员戴夫》今日发布大型更新](https://www.gcores.com/articles/172081)
+append_entries: 3
+Finish: 2023-10-11 09:34:31.465951
