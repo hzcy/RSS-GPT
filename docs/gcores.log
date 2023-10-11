@@ -4380,3 +4380,9 @@ Summarized using GPT-3.5-turbo
 Append: [《极限竞速》新作现已发售，XGP标准版现已解锁](https://www.gcores.com/articles/172094)
 append_entries: 1
 Finish: 2023-10-11 11:48:29.838551
+------------------------------------------------------
+Started: 2023-10-11 12:18:09.329588
+Existing_entries: 111
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-11 12:18:09.566744
