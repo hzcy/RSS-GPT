@@ -4,6 +4,122 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+<item>
+<title>《极限竞速》新作现已发售，XGP标准版现已解锁</title>
+<link>https://www.gcores.com/articles/172094</link>
+<guid>https://www.gcores.com/articles/172094</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover"
+		/>
+		<meta content="yes" name="apple-mobile-web-app-capable" />
+		<title></title>
+		<link rel="apple-touch-icon" href="/apple-touch.ico" />
+		<link rel="stylesheet" href="/lib/katex/katex.min.css" />
+		<link rel="stylesheet" href="/lib/highlight/default.min.css" />
+		<script src="/lib/highlight/highlight.min.js" defer></script>
+		<script src="/config/index.js" defer></script>
+		<script type="module" crossorigin src="/assets/index-fd7ef130.js"></script>
+		<link rel="stylesheet" href="/assets/index-ac7a8d57.css">
+		<script type="module">import.meta.url;import("_").catch(()=>1);async function* g(){};if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+		<script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+	</head>
+	<body class="dark:bg-[#111114]">
+		<div id="app">
+			<style>
+				.loading-wrap {
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					height: 100vh;
+				}
+
+				.balls {
+					width: 4em;
+					display: flex;
+					flex-flow: row nowrap;
+					align-items: center;
+					justify-content: space-between;
+				}
+
+				.balls div {
+					width: 0.8em;
+					height: 0.8em;
+					border-radius: 50%;
+					background-color: #4b9e5f;
+				}
+
+				.balls div:nth-of-type(1) {
+					transform: translateX(-100%);
+					animation: left-swing 0.5s ease-in alternate infinite;
+				}
+
+				.balls div:nth-of-type(3) {
+					transform: translateX(-95%);
+					animation: right-swing 0.5s ease-out alternate infinite;
+				}
+
+				@keyframes left-swing {
+					50%,
+					100% {
+						transform: translateX(95%);
+					}
+				}
+
+				@keyframes right-swing {
+					50% {
+						transform: translateX(-95%);
+					}
+
+					100% {
+						transform: translateX(100%);
+					}
+				}
+
+				@media (prefers-color-scheme: dark) {
+					body {
+						background: #121212;
+					}
+				}
+			</style>
+			<div class="loading-wrap">
+				<div class="balls">
+					<div></div>
+					<div></div>
+					<div></div>
+				</div>
+			</div>
+		</div>
+		
+		<script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+		<script nomodule crossorigin id="vite-legacy-polyfill" src="/assets/polyfills-legacy-a34bcd73.js"></script>
+		<script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/index-legacy-eead6c44.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+	</body>
+</html>
+ <div>
+<img src="https://image.gcores.com/88863ae54093b63f83284bd2f5e19b92-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Turn 10 工作室宣布《极限竞速》今日正式登陆 Xbox Game Pass、Xbox Series X|S 主机、Windows PC 和 Steam 平台。  </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本次《极限竞速》共推出 3 个版本可供选择：标准版、豪华版和尊享版：</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/d9aa5a529a24e41ee34c15c89c3e4fce-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《极限竞速 标准版》售价 ￥298.00</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>登陆 Xbox Game Pass</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《极限竞速 豪华版》售价 ￥348.00</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>包括车辆通行证</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《极限竞速 尊享版》售价 ￥398.00</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>包括车辆通行证、“比赛日”赛车包、欢迎礼包和 VIP 会员资格</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Xbox Game Pass 用户还可选购尊享扩展捆绑包，将 Game Pass 中的标准版升级为尊享版。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/81e83d6c03e26093fa9e267fef212bec-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《极限竞速》囊括了 20 条世界知名赛道，具有多个赛道布局， 其中包括了 5 条全新加速《极限竞速》系列的赛道，以及 500 多辆汽车。同时，游戏的物理特性和人工智能也进行了全面提升，为玩家提供了更加逼真的游戏体验。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/c23b55aa4d8e614803375fef5bb1d65b-1920-1080.jpg" />
+
+</figure><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Wed, 11 Oct 2023 10:00:09 GMT</pubDate>
+<updated>Wed, 11 Oct 2023 10:00:09 GMT</updated>
+</item>
 
 <item>
 <title>吃豆人大逃杀游戏《吃豆人 无尽地道争豆 暴食没有极限》首次公开，即将登录各大平台</title>
