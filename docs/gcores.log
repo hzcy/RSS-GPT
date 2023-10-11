@@ -4522,3 +4522,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [是钓鱼猫猫！钓鱼游戏《Captain Pawsome》放出首支预告](https://www.gcores.com/articles/172098)
 append_entries: 1
 Finish: 2023-10-11 18:12:12.221403
+------------------------------------------------------
+Started: 2023-10-11 18:29:30.297574
+Existing_entries: 112
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-11 18:29:30.555397
