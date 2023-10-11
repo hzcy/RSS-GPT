@@ -4272,3 +4272,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [V社将于2024年1月1日停止《CS:GO》旧版本维护，Mac及部分低配玩家可申请优先资格退款](https://www.gcores.com/articles/172074)
 append_entries: 1
 Finish: 2023-10-11 08:12:47.492104
+------------------------------------------------------
+Started: 2023-10-11 08:28:24.450819
+Existing_entries: 107
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-11 08:28:24.723053
