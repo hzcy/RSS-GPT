@@ -5016,3 +5016,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [武士斩杀？休闲种田？挑战巨龙？《棋境漫游》开发者实机演示](https://www.gcores.com/articles/172187)
 append_entries: 1
 Finish: 2023-10-12 14:09:03.674876
+------------------------------------------------------
+Started: 2023-10-12 14:26:47.279447
+Existing_entries: 129
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-12 14:26:47.463482
