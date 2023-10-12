@@ -5006,3 +5006,13 @@ Existing_entries: 128
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-12 13:49:01.377799
+------------------------------------------------------
+Started: 2023-10-12 14:09:01.766244
+Existing_entries: 128
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [武士斩杀？休闲种田？挑战巨龙？《棋境漫游》开发者实机演示](https://www.gcores.com/articles/172187)
+append_entries: 1
+Finish: 2023-10-12 14:09:03.674876
