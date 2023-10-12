@@ -4912,3 +4912,25 @@ Existing_entries: 124
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-12 09:48:56.046683
+------------------------------------------------------
+Started: 2023-10-12 10:10:05.331721
+Existing_entries: 124
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [【福利】另类校园青春PRG《卡里古拉2》PS5平台中文版今天正式发售](https://www.gcores.com/articles/172180)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [漫画《擅长捉弄的高木同学》正式完结，衍生作11月开启连载](https://www.gcores.com/articles/172179)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [宫崎骏《红猪》定档 11 月 17 日，艺联专线上映](https://www.gcores.com/articles/172166)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [漫威火箭浣熊创造者去世，享年70岁](https://www.gcores.com/articles/172158)
+append_entries: 4
+Finish: 2023-10-12 10:10:10.719649
