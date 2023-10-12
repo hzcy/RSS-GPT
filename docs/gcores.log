@@ -4672,3 +4672,17 @@ Existing_entries: 112
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-12 01:35:26.573781
+------------------------------------------------------
+Started: 2023-10-12 02:06:26.727383
+Existing_entries: 112
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《层层恐惧》（2023）将于本月24日迎来免费更新，带来全新章节](https://www.gcores.com/articles/172123)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《战地2042》免费周今日开启，畅玩第六赛季丰富内容](https://www.gcores.com/articles/172121)
+append_entries: 2
+Finish: 2023-10-12 02:06:29.665348
