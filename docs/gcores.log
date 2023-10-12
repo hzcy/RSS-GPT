@@ -4810,3 +4810,29 @@ Existing_entries: 118
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-12 06:38:19.760493
+------------------------------------------------------
+Started: 2023-10-12 06:48:25.614392
+Existing_entries: 118
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《乖离性百万亚瑟王：环》“打牌测试”今日开启](https://www.gcores.com/articles/172167)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《女神异闻录５ 战略版》最新宣传片公布，介绍敌人&关卡机关](https://www.gcores.com/articles/172165)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [将旗下IP产品扩展到各种娱乐形式中：SNK宣布启动“SNK Universe Project”企划](https://www.gcores.com/articles/172137)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [【传言】《泰坦天降3》预告片疑似泄露，将于本月揭晓](https://www.gcores.com/articles/172149)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《女神异闻录３ Reload》公布最新预告，展现学生宿舍的日常生活:](https://www.gcores.com/articles/172128)
+append_entries: 5
+Finish: 2023-10-12 06:48:34.405727
