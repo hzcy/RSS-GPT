@@ -3411,3 +3411,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [华为又一「黑科技」曝光，问界 M9 首发搭载](https://www.ifanr.com/1564550?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-12 02:27:27.454786
+------------------------------------------------------
+Started: 2023-10-12 02:35:13.809988
+Existing_entries: 48
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-12 02:35:15.479389
