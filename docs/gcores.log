@@ -4836,3 +4836,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《女神异闻录３ Reload》公布最新预告，展现学生宿舍的日常生活:](https://www.gcores.com/articles/172128)
 append_entries: 5
 Finish: 2023-10-12 06:48:34.405727
+------------------------------------------------------
+Started: 2023-10-12 07:09:25.942918
+Existing_entries: 123
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-12 07:09:26.140045
