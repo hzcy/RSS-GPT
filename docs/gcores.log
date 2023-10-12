@@ -4744,3 +4744,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [含《极乐迪斯科 最终剪辑版》及《哥谭骑士》：索尼公布10月PS+新增游戏阵营](https://www.gcores.com/articles/172124)
 append_entries: 4
 Finish: 2023-10-12 03:48:42.398655
+------------------------------------------------------
+Started: 2023-10-12 04:11:47.026308
+Existing_entries: 118
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-12 04:11:47.209279
