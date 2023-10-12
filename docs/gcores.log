@@ -4722,3 +4722,25 @@ Existing_entries: 114
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-12 03:34:10.976842
+------------------------------------------------------
+Started: 2023-10-12 03:48:36.578645
+Existing_entries: 114
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [2VS2对战动作游戏《咒术回战 双华乱舞》2024年2月1日发售](https://www.gcores.com/articles/172126)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [一个按键演绎五十六种精彩：《SUPER 56》现已于Steam发售](https://www.gcores.com/articles/172127)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [真人剧集《幽游白书》12月14日上线Netflix](https://www.gcores.com/articles/172125)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [含《极乐迪斯科 最终剪辑版》及《哥谭骑士》：索尼公布10月PS+新增游戏阵营](https://www.gcores.com/articles/172124)
+append_entries: 4
+Finish: 2023-10-12 03:48:42.398655
