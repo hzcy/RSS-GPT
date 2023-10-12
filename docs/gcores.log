@@ -4870,3 +4870,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《集合啦！动物森友会》主题Nintendo Switch Lite11月3日发售](https://www.gcores.com/articles/172172)
 append_entries: 1
 Finish: 2023-10-12 08:12:25.014144
+------------------------------------------------------
+Started: 2023-10-12 08:28:14.335836
+Existing_entries: 124
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-12 08:28:14.482728
