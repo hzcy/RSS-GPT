@@ -4934,3 +4934,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [漫威火箭浣熊创造者去世，享年70岁](https://www.gcores.com/articles/172158)
 append_entries: 4
 Finish: 2023-10-12 10:10:10.719649
+------------------------------------------------------
+Started: 2023-10-12 10:28:29.079235
+Existing_entries: 128
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-12 10:28:29.221246
