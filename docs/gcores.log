@@ -4686,3 +4686,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《战地2042》免费周今日开启，畅玩第六赛季丰富内容](https://www.gcores.com/articles/172121)
 append_entries: 2
 Finish: 2023-10-12 02:06:29.665348
+------------------------------------------------------
+Started: 2023-10-12 02:27:28.130937
+Existing_entries: 114
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-12 02:27:28.353546
