@@ -3385,3 +3385,13 @@ Existing_entries: 46
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-12 00:39:22.528543
+------------------------------------------------------
+Started: 2023-10-12 01:35:22.638365
+Existing_entries: 46
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [早报｜小米整改电视开机广告/理想将华为视为第一强力对手/苹果客服回应 iPhone 被曝夜间自动关机](https://www.ifanr.com/1564547?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-12 01:35:25.546701
