@@ -5346,3 +5346,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [纪念40周年，《龙珠》新作动画《龙珠DAIMA》正式公布](https://www.gcores.com/articles/172209)
 append_entries: 3
 Finish: 2023-10-13 04:48:21.791035
+------------------------------------------------------
+Started: 2023-10-13 05:09:02.924408
+Existing_entries: 135
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-13 05:09:03.068019
