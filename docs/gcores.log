@@ -5456,3 +5456,21 @@ Existing_entries: 140
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-13 08:37:22.654224
+------------------------------------------------------
+Started: 2023-10-13 08:48:36.106803
+Existing_entries: 140
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [生存成为一种传染病:《海岛大亨6》最新DLC“病毒式传播”将于10月26日发售](https://www.gcores.com/articles/172235)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [CMA正式批准微软收购动视暴雪收购案](https://www.gcores.com/articles/172229)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [一小时破关：推理游戏《和阶堂真的案件簿 TRILOGY DELUXE》10月19日发售](https://www.gcores.com/articles/172228)
+append_entries: 3
+Finish: 2023-10-13 08:48:40.560647
