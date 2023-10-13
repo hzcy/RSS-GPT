@@ -5382,3 +5382,29 @@ Existing_entries: 135
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-13 06:30:20.519692
+------------------------------------------------------
+Started: 2023-10-13 06:40:34.548059
+Existing_entries: 135
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [CASETiFY推出迪士尼反派联盟联名系列科技配饰](https://www.gcores.com/articles/172222)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《传说法师》手机版公布10月27日正式发售，免费试玩Demo现已开启](https://www.gcores.com/articles/172221)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [生存建造游戏《无径之林》上线联机体验版](https://www.gcores.com/articles/172220)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [动画电影《窗边的小豆豆》公开正式预告片，日本12月8日上映](https://www.gcores.com/articles/172213)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《阿拉斯加卡车司机》确认推出绝赞卡车版](https://www.gcores.com/articles/172208)
+append_entries: 5
+Finish: 2023-10-13 06:40:37.902732

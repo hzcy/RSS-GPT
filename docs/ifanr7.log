@@ -4037,3 +4037,13 @@ Existing_entries: 53
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-13 06:30:19.796591
+------------------------------------------------------
+Started: 2023-10-13 06:40:31.514395
+Existing_entries: 53
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [越来越「丑」的宝马，在践行自己的信条](https://www.ifanr.com/1564421?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-13 06:40:33.949834
