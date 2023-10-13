@@ -5286,3 +5286,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《猎人：荒野的召唤》伏击者包DLC现已发售](https://www.gcores.com/articles/172204)
 append_entries: 3
 Finish: 2023-10-13 02:48:49.541243
+------------------------------------------------------
+Started: 2023-10-13 03:10:07.165690
+Existing_entries: 132
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-13 03:10:07.309617
