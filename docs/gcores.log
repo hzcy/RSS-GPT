@@ -5518,3 +5518,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [无限制出牌：卡牌战斗游戏《夺牌狂飙》现已开启抢先体验](https://www.gcores.com/articles/172236)
 append_entries: 2
 Finish: 2023-10-13 10:28:12.347902
+------------------------------------------------------
+Started: 2023-10-13 10:36:34.816146
+Existing_entries: 145
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-13 10:36:34.994584
