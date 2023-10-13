@@ -5504,3 +5504,17 @@ Existing_entries: 143
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-13 10:10:28.697887
+------------------------------------------------------
+Started: 2023-10-13 10:28:09.086138
+Existing_entries: 143
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [汽笛长鸣:铁路建造自动化游戏《异星铁路》现已登陆Steam](https://www.gcores.com/articles/172237)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [无限制出牌：卡牌战斗游戏《夺牌狂飙》现已开启抢先体验](https://www.gcores.com/articles/172236)
+append_entries: 2
+Finish: 2023-10-13 10:28:12.347902
