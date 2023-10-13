@@ -4161,3 +4161,13 @@ Existing_entries: 54
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-13 11:19:57.558885
+------------------------------------------------------
+Started: 2023-10-13 11:33:55.687336
+Existing_entries: 54
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [为音乐而生，索尼音频的变与不变](https://www.ifanr.com/1564887?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-13 11:33:58.228886
