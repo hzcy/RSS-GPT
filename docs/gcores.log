@@ -5328,3 +5328,21 @@ Existing_entries: 132
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-13 04:37:17.457917
+------------------------------------------------------
+Started: 2023-10-13 04:48:19.736848
+Existing_entries: 132
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [动视暴雪股票暂时停牌，等待重大消息发布](https://www.gcores.com/articles/172212)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《神之天平》迎来周年庆，Nintendo Switch版开启预购](https://www.gcores.com/articles/172211)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [纪念40周年，《龙珠》新作动画《龙珠DAIMA》正式公布](https://www.gcores.com/articles/172209)
+append_entries: 3
+Finish: 2023-10-13 04:48:21.791035
