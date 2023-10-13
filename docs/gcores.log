@@ -5268,3 +5268,21 @@ Existing_entries: 129
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-13 02:33:34.658831
+------------------------------------------------------
+Started: 2023-10-13 02:48:41.566461
+Existing_entries: 129
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [神话城市建设游戏《万神之城》将于2024年推出](https://www.gcores.com/articles/172207)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [多人合作种田游戏《伊科内岛：筑梦之地》1.0版本将于11月9日推出](https://www.gcores.com/articles/172205)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《猎人：荒野的召唤》伏击者包DLC现已发售](https://www.gcores.com/articles/172204)
+append_entries: 3
+Finish: 2023-10-13 02:48:49.541243
