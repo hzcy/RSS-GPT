@@ -5408,3 +5408,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《阿拉斯加卡车司机》确认推出绝赞卡车版](https://www.gcores.com/articles/172208)
 append_entries: 5
 Finish: 2023-10-13 06:40:37.902732
+------------------------------------------------------
+Started: 2023-10-13 06:48:36.087874
+Existing_entries: 140
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-13 06:48:36.437778
