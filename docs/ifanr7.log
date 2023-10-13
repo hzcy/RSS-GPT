@@ -3985,3 +3985,13 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [解散又重组，苹果到底还要不要造车了？](https://www.ifanr.com/1564577?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-13 04:27:20.255669
+------------------------------------------------------
+Started: 2023-10-13 04:37:13.460800
+Existing_entries: 52
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [嘘！这份能让你准时下班的「打工秘籍」，千万别被老板看到](https://www.ifanr.com/1564661?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-13 04:37:16.677362
