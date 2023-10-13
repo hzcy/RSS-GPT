@@ -5474,3 +5474,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [一小时破关：推理游戏《和阶堂真的案件簿 TRILOGY DELUXE》10月19日发售](https://www.gcores.com/articles/172228)
 append_entries: 3
 Finish: 2023-10-13 08:48:40.560647
+------------------------------------------------------
+Started: 2023-10-13 09:09:33.862479
+Existing_entries: 143
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-13 09:09:34.186843
