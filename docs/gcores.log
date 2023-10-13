@@ -5620,3 +5620,25 @@ Existing_entries: 145
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-13 15:09:48.213352
+------------------------------------------------------
+Started: 2023-10-13 15:23:50.312134
+Existing_entries: 145
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [动视暴雪首席执行官Bobby Kotick将于2024年离任](https://www.gcores.com/articles/172262)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [“家，家庭”微软发布全新宣传片，欢迎动视暴雪与King加入Xbox家庭](https://www.gcores.com/articles/172260)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [收集+建设+探索 动作生存游戏《迷雾群岛》即将开启封闭测试](https://www.gcores.com/articles/172256)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [世界奇妙Boss稍弱：类魂游戏《堕落之主》媒体评分汇总](https://www.gcores.com/articles/172227)
+append_entries: 4
+Finish: 2023-10-13 15:23:56.340198
