@@ -4,12 +4,12 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+
 <item>
 <title>《堕落之主》正在修复游戏性能问题，并给出修复办法</title>
 <link>https://www.gcores.com/articles/172279</link>
 <guid>https://www.gcores.com/articles/172279</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/f2ce891853b078c2f373d110fd6afcd5-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>对于刚刚发售的魂 Like 游戏《堕落之主》中玩家遇到的性能问题，开发商 HEXWORKS 正在点对点的解决这些问题，对于开机报错和性能设置问题官方也给出了一定的临时解决方案：</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/ae889b9883c4a8b3c7c90a4ee421ba35-1920-1080.jpg" />
@@ -21,9 +21,7 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>关于性能优化问题</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>非常抱歉您在玩我们的游戏时遇到性能问题。为了帮助缓解PC上的性能问题，我们强烈建议在游戏的设置菜单中的“图形”选项卡下使用“自动设置”选项，该选项将应用最适合您的PC配置并优化性能的设置。我们还强烈建议您将显卡驱动程序更新至最新版本。</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>https://www.nvidia.com/en-gb/geforce/drivers/</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>https://www.amd.com/en/support</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>如果仍然没有解决问题，请尝试按照以下步骤删除您的PSO文件：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>转至："X:\Users\MYUSER\AppData\Local\LOTF2\Saved\"</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>删除：*.UPIPELINECACHE文件</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>右键单击游戏。选择‘属性’ - ‘已安装文件’ - 单击“验证高速缓存完整性”</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>另外，如果您可以提供GPU调试日志，将有助于我们识别您可能遇到的其他问题。前往Steam设置，然后输入以下命令：“-gpucrashdebugging”启动游戏，然后在崩溃后前往“X:\Users\USERNAME\AppData\Local\LOTF2\Saved\Logs\LOTF2.log”请将这两个日志都包含在您发送至我们团队的电子邮件中，邮箱为 support@cigames.com。请随时查看以下链接以获取更多更新：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fstore.steampowered.com%2Fnews%2Fapp%2F1501750%2Fview%2F5320498334855760830" target="_blank"><span><span>点我跳转。</span></span></a></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Sat, 14 Oct 2023 02:45:13 GMT</pubDate>
-<updated>Sat, 14 Oct 2023 02:45:13 GMT</updated>
 </item>
-
 <item>
 <title>动视暴雪首席执行官Bobby Kotick将于2024年离任</title>
 <link>https://www.gcores.com/articles/172262</link>
