@@ -6280,3 +6280,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [使用虚幻5打造：《蚂蚁帝国》公布首部预告片](https://www.gcores.com/articles/172298)
 append_entries: 1
 Finish: 2023-10-14 19:18:34.573491
+------------------------------------------------------
+Started: 2023-10-14 19:33:47.715041
+Existing_entries: 151
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-14 19:33:47.899544
