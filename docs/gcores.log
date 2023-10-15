@@ -6738,3 +6738,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [下周节目预告 10.16~10.22](https://www.gcores.com/articles/172332)
 append_entries: 1
 Finish: 2023-10-15 16:10:30.807368
+------------------------------------------------------
+Started: 2023-10-15 16:27:59.205262
+Existing_entries: 153
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-15 16:27:59.420296
