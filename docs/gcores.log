@@ -6728,3 +6728,13 @@ Existing_entries: 152
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-15 15:48:29.226723
+------------------------------------------------------
+Started: 2023-10-15 16:10:29.158328
+Existing_entries: 152
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [下周节目预告 10.16~10.22](https://www.gcores.com/articles/172332)
+append_entries: 1
+Finish: 2023-10-15 16:10:30.807368
