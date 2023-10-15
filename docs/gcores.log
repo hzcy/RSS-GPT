@@ -6640,3 +6640,13 @@ Existing_entries: 151
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-15 12:15:51.285373
+------------------------------------------------------
+Started: 2023-10-15 12:45:13.781139
+Existing_entries: 151
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [活动招募：游戏的人档案馆丨游戏育人：未来教师教案游戏化工作坊](https://www.gcores.com/articles/172326)
+append_entries: 1
+Finish: 2023-10-15 12:45:14.660647
