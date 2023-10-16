@@ -7038,3 +7038,17 @@ Existing_entries: 156
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-16 05:48:31.573639
+------------------------------------------------------
+Started: 2023-10-16 06:13:28.761662
+Existing_entries: 156
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《使命召唤》x《暗黑破坏神4》联动宣传视频公布](https://www.gcores.com/articles/172348)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《女神异闻录5 战略版》第三弹PV公开，全新战术挑战](https://www.gcores.com/articles/172347)
+append_entries: 2
+Finish: 2023-10-16 06:13:31.383452
