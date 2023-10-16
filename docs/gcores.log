@@ -6990,3 +6990,21 @@ Existing_entries: 153
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-16 04:27:08.318850
+------------------------------------------------------
+Started: 2023-10-16 04:35:22.124752
+Existing_entries: 153
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [创意总监Sam Lake透露《心灵杀手2》将推出免费DLC](https://www.gcores.com/articles/172345)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Mojang宣布《我的世界》销量超过3亿份](https://www.gcores.com/articles/172342)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [2023年9月第二周手办模型情报汇总](https://www.gcores.com/articles/171806)
+append_entries: 3
+Finish: 2023-10-16 04:35:26.940220
