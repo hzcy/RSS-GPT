@@ -7100,3 +7100,21 @@ Existing_entries: 158
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-16 08:12:50.318339
+------------------------------------------------------
+Started: 2023-10-16 08:29:21.563073
+Existing_entries: 158
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [著名歌手谷村新司因病辞世，享年74岁](https://www.gcores.com/articles/172368)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [经典常在！《灌篮高手》动画播出30周年](https://www.gcores.com/articles/172361)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [独家！老玩家攻略：如何在世界科幻大会玩得开心](https://www.gcores.com/articles/172346)
+append_entries: 3
+Finish: 2023-10-16 08:29:23.927727
