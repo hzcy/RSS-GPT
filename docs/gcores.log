@@ -7008,3 +7008,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [2023年9月第二周手办模型情报汇总](https://www.gcores.com/articles/171806)
 append_entries: 3
 Finish: 2023-10-16 04:35:26.940220
+------------------------------------------------------
+Started: 2023-10-16 04:48:26.921549
+Existing_entries: 156
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-16 04:48:27.355101
