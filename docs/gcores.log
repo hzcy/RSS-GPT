@@ -7052,3 +7052,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《女神异闻录5 战略版》第三弹PV公开，全新战术挑战](https://www.gcores.com/articles/172347)
 append_entries: 2
 Finish: 2023-10-16 06:13:31.383452
+------------------------------------------------------
+Started: 2023-10-16 06:30:26.747483
+Existing_entries: 158
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-16 06:30:26.937360
