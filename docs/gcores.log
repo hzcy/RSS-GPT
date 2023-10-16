@@ -7224,3 +7224,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [海量童话，姗姗来迟——《寓言之地》全新版本今夜开启](https://www.gcores.com/articles/172382)
 append_entries: 1
 Finish: 2023-10-16 12:18:12.760203
+------------------------------------------------------
+Started: 2023-10-16 12:50:55.777048
+Existing_entries: 165
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-16 12:50:56.073173
