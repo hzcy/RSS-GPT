@@ -7160,3 +7160,21 @@ Existing_entries: 161
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-16 10:10:42.355592
+------------------------------------------------------
+Started: 2023-10-16 10:29:23.766416
+Existing_entries: 161
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [“无限暖暖游戏软件（PS5端）”软件著作权获得批准](https://www.gcores.com/articles/172376)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《吸血鬼幸存者》在Steam平台获得了20万条正面评价](https://www.gcores.com/articles/172374)
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [与梦同行，宝可梦卡牌一周年纪念系列商品即将发售](https://www.gcores.com/articles/172375)
+append_entries: 3
+Finish: 2023-10-16 10:29:27.193323
