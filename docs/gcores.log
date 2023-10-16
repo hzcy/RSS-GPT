@@ -7214,3 +7214,13 @@ Existing_entries: 164
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-16 11:48:27.924909
+------------------------------------------------------
+Started: 2023-10-16 12:18:10.516086
+Existing_entries: 164
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: All providers failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [海量童话，姗姗来迟——《寓言之地》全新版本今夜开启](https://www.gcores.com/articles/172382)
+append_entries: 1
+Finish: 2023-10-16 12:18:12.760203
