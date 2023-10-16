@@ -7118,3 +7118,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [独家！老玩家攻略：如何在世界科幻大会玩得开心](https://www.gcores.com/articles/172346)
 append_entries: 3
 Finish: 2023-10-16 08:29:23.927727
+------------------------------------------------------
+Started: 2023-10-16 08:39:03.164774
+Existing_entries: 161
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-16 08:39:03.334823
