@@ -7178,3 +7178,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [与梦同行，宝可梦卡牌一周年纪念系列商品即将发售](https://www.gcores.com/articles/172375)
 append_entries: 3
 Finish: 2023-10-16 10:29:27.193323
+------------------------------------------------------
+Started: 2023-10-16 10:38:36.075157
+Existing_entries: 164
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-16 10:38:36.352351
