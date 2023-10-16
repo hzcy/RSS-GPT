@@ -7317,3 +7317,12 @@ Existing_entries: 166
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-16 16:31:48.733573
+------------------------------------------------------
+Started: 2023-10-16 16:48:40.839250
+Existing_entries: 166
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [贝塞斯达全球发行负责人Pete Hines宣布退休，任职24年](https://www.gcores.com/articles/172396)
+append_entries: 1
+Finish: 2023-10-16 16:49:01.612674
