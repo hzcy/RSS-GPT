@@ -7614,3 +7614,18 @@ Existing_entries: 169
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-17 06:13:10.560174
+------------------------------------------------------
+Started: 2023-10-17 06:29:51.460639
+Existing_entries: 169
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 582
+Summarized using GPT-3.5-turbo
+Append: [反向跳票！看《荒野枪巫》如何躲开迎面而来的子弹](https://www.gcores.com/articles/172430)
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [《装甲核心6》全球销量280万达成，已超系列18部销量总和](https://www.gcores.com/articles/172428)
+Token length: 786
+Summarized using GPT-3.5-turbo
+Append: [《斯普拉顿3》发布季中Ver.5.1.0更新补丁](https://www.gcores.com/articles/172407)
+append_entries: 3
+Finish: 2023-10-17 06:30:16.450741
