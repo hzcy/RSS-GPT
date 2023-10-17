@@ -4,6 +4,877 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+<item>
+<title>扔个瓶子顺水流：休闲游戏《瓶瓶罐罐飘》今日发售</title>
+<link>https://www.gcores.com/articles/172446</link>
+<guid>https://www.gcores.com/articles/172446</guid>
+<content:encoded><![CDATA[
+<div> Millwoo Studio, 《瓶瓶罐罐飘》, Steam, 抢先体验, 小动物
+
+<br><br>总结: Millwoo Studio日前推出了新的休闲游戏《瓶瓶罐罐飘》。该游戏现已在Steam平台上开放抢先体验，并且支持中文。在游戏中，玩家可以选择一个瓶子，让它顺着河流漂浮。玩家可以通过投掷小石块来改变瓶子的方向。河流中还隐藏着各种小动物，玩家可以寻找它们以增加游戏的趣味性。这款游戏旨在让玩家在轻松愉快的环境中放松心情，听着潺潺的流水声，享受游戏带来的乐趣。 <div>
+<img src="https://image.gcores.com/c200ae62dbe660bc29d818f6da4e56f6-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>10月17日，由Millwoo Studio开发的休闲游戏《瓶瓶罐罐飘》（Bottle Can Float）在Steam上开启了抢先体验，该作支持中文。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
+<figure>
+<img alt="" src="https://image.gcores.com/2f4008aa4e3779faa51ea375a21ce3a0-616-353.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>以下为《瓶瓶罐罐飘》Steam商店页的官方中文介绍：</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/c200ae62dbe660bc29d818f6da4e56f6-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/74a40e2cca6879db1a90c4fbf5230c7c-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/a9552dc394f38380bf7517eadfb3fdfb-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/9746fac521888ca124df98fe732f6bee-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/d573ee8d856f700467ee91fecd0dc3cc-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/8d070e8e0293142e4a4ce77ea8474914-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《瓶瓶罐罐飘》是一款令人放松的休闲游戏，游戏中你将选中一个瓶子沿着河流顺流而下，它将会沿着流水自由漂浮，你可以做的就是通过投掷小石块来影响瓶子的走向，而且河流中隐藏着不同的小动物，你可以通过寻找这些内容来让漂流变得更有意思，希望你能在潺潺的流水声中放松心情，获得愉快的体验。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 07:44:16 GMT</pubDate>
+<updated>Tue, 17 Oct 2023 07:44:16 GMT</updated>
+</item>
+<item>
+<title>Epic推出游戏首发及始发计划，收入分成提升至100%</title>
+<link>https://www.gcores.com/articles/172439</link>
+<guid>https://www.gcores.com/articles/172439</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/d341c835a04f245ba0c49a41f399e715-768-372.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>近日Epic官方发布了即将推出的 </span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fstore.epicgames.com%2Fzh-CN%2Fnews%2Fepic-first-run-launches-today-and-introducing-the-now-on-epic-program" target="_blank"><span><span>“EPIC 首发” 和“ Epic 始发 ”计划</span></span></a><span><span>。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“</span></span><span style="font-weight: bold;"><span>EPIC 首发</span></span><span><span>” 是可于Epic游戏商城选择加入的独占计划。第三方开发者可在于Epic游戏商城独占销售的前六个月获得来自用户于符合要求的产品上进行消费而产生的 100% 的收入。该独占期结束之后，来自用户消费的收入分成将还原为 88%/12%。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/9fc752806704534047d0ab22a180539c-1416-747.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/65f9b9cd1ae5f263ebdcf5aa7b3a119a-1444-817.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>除此之外，Epic还将推出 “</span></span><span style="font-weight: bold;"><span>Epic 始发</span></span><span><span>”。这是一个面向以往发布过产品的第三方开发者与发行商的全新激励计划，让他们将这些产品于Epic游戏商城上架。 Epic 始发计划将让参加者有机会在其符合要求的产品登陆商城的前六个月内，将其通过 Epic Games 处理的全部收益从 88% 提升至 100%。 而在这前六个月结束后，适用产品将继续享受与 Epic 之间业界领先的 88%/12% 收入分成。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/71c26870b318e2f51e10ea301e8ce97e-1404-717.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Epic游戏商城于全球范围内拥有共计 2.3 亿多名玩家以及 6800 万名月度活跃用户。 通过将自己以往的产品于Epic游戏商城发售，便可让更多的新用户看到这些产品，也能确保玩家可以稳定地找到自己想要的产品。 参与者可以利用发行商以及系列特卖的机会，在与 Epic 合作的前六个月内于Epic游戏商城赚取最大的收益。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>要参加计划，参与者必须确保于Epic游戏商城发售至少三款 2023 年 10 月 31 日之前已在第三方 PC 商城上发售（或包含在第三方订阅服务中的）产品。 未持有三款符合上述条件产品的参与者必须将其目前上市的全部产品于Epic游戏商城上架。 全部参与计划的产品都必须于 2025 年 6 月 30 日之前发售，但这并不代表它们必须同时在Epic游戏商城上架。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 07:13:38 GMT</pubDate>
+<updated>Tue, 17 Oct 2023 07:13:38 GMT</updated>
+</item>
+<item>
+<title>《异界失控》现已在Steam平台开启限时试玩活动</title>
+<link>https://www.gcores.com/articles/172447</link>
+<guid>https://www.gcores.com/articles/172447</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/fb479a367d26125582eecaf594b0f3ce-3840-2160.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>由2019年PlayStation Awards最佳独立游戏《硬核机甲》原班团队“火箭拳科技”制作的Roguelite战术回合制游戏《异界失控》，现已在Steam上正式开启限时Demo试玩！</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本次《异界失控》Demo将包含游戏的序章和第一章精华内容，玩家可率领三位职业不同、特点鲜明的兽人角色，在横板一维格子战场上闪转腾挪，与包含了多个关底boss在内的异变怪物展开殊死搏斗。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/fb479a367d26125582eecaf594b0f3ce-3840-2160.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>每一次通关，游戏都会解锁新的异常物和角色成长属性。玩家不仅能用威力强大的异常物构筑出独特的build玩法，还会随机遭遇各种充满惊喜和意外的事件变数，充分享受到数小时新鲜不重复的Roguelite试玩体验。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《异界失控》的战术将围绕着一维格子战场展开。在仅有一条直线的战斗场地上，角色的“走位”变得尤为重要。如何在有限的行动点和移动点内，一边利用灵巧的身法规避敌人的攻击，一边与队友完成协同攻击、夹击或背刺等需要站位配合的极限输出操作，成为玩家需要在攻守博弈中再三斟酌的难题。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/d48929f7940ec0bd0d4fad5ec0a82fe9-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>从最初的一步错、步步错，到上手后的势如破竹、乘胜追击，玩家将赢取一场场烧脑但爽快的胜利，在不知不觉中享受数百个小时的可重复游玩时长。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/542ad41d3a5b8e0f08216f2905aa837e-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本次试玩Demo中，玩家可操控三位职业不同、特点鲜明的兽人角色，他们分别是擅长近距离战斗的特工格利齐，擅长辅助和治疗的医师米拉，以及擅长防御和扰乱战术的特警斯特雷。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>随着不断地打怪升级，这些角色将习得新的强力技能和稀有特性。在尽情开展头脑风暴后，玩家可以用智慧和谋略搭配出更多丰富有趣的战术策略，以此为战斗取得更大的对局优势。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/8832a7aec0b13a1d92917635a7c70d44-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在未来，《异界失控》还会解锁更多看起来激萌、实际战斗力爆表的兽人角色，请大家拭目以待。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>为了独一无二的对局体验，游戏还提供了百余种威力强大的异常物，足以将作战队员们从毛发武装到牙齿。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>收集并尝试不同的装备组合，玩家可以打造出专属于自己的风格流派：或是朝怪物横冲直撞，用近战技拳拳到肉；又或是远远地站在角落，看火焰在地面上熊熊燃烧，电流在怪物堆里反复弹跳……</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在Demo结尾，玩家还会强制遭遇三大关底Boss中的其中之一，它们有着超高的护甲和血量，也有着特殊且难缠的战斗机制。但也相信，各位玩家一定能在自己精心构筑的队伍里，找到通往游戏终局的制胜关键。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/e2911439ba55e6a5e7c6a88b9c9a5a8d-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>除此之外，在已经沦陷的宇普西隆小镇里，随时都可能会有意想不到的状况发生。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>玩家将遭遇数十起惊悚怪诞的突发事件，沉浸式地体验超自然的异世界氛围。一些随机变数甚至会直接对战局中的主角团和怪物带来好坏参半的影响。玩家需要不断调整战术，才能在关键时刻逆转战局、夺回优势。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>是选择高风险高回报，在获取强力效果和异常物的同时，为对局带来更多的变数；还是保持稳扎稳打，在风云变幻的战役中谨慎前行？一切的一切，都交给玩家自己去定夺。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/a5a7b88036e76afb9fee8f763ca1f6ab-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>现在就来下载体验吧！和毛茸茸的作战小队一起，展开一段“失控”但绝不失望的异次元冒险——</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>欢迎戳开Steam商店页面链接，抢先体验《异界失控》全新限时Demo，并将其添加至你的愿望单中；也欢迎加入官方玩家交流群，关注官方媒体社区账号，抢先了解到关于《异界失控》的一手新鲜游戏资讯！</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2082410" target="_blank"><span><span>【Steam商店页面链接】</span></span></a></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>【微博】</span></span><a class="md-link" href="https://www.gcores.com/link?target=http%3A%2F%2F%20https%3A%2F%2Fweibo.com%2Fu%2F7744341272" target="_blank"><span><span>异界失控</span></span></a></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>【Bilibili】</span></span><a class="md-link" href="https://www.gcores.com/link?target=http%3A%2F%2F%20https%3A%2F%2Fspace.bilibili.com%2F1341514363" target="_blank"><span><span>异界失控</span></span></a></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>【小红书】异界失控</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>【官方交流QQ群】747946897，456514827</span></span></div></li></ul><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 07:00:00 GMT</pubDate>
+<updated>Tue, 17 Oct 2023 07:00:00 GMT</updated>
+</item>
+<item>
+<title>《公鸡神探》同世界观新游《奇普咖啡店》，11月16日登录Steam</title>
+<link>https://www.gcores.com/articles/172437</link>
+<guid>https://www.gcores.com/articles/172437</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/b0b8639eef4e404bce75e99a3ea979e9-680-383.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div>
+<figure>
+<img alt="" src="https://image.gcores.com/e0e4d31295f1c84455c30856d18ded93-965-464.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>The Wild Gentlemen工作室公布咖啡店模拟互动游戏《奇普咖啡店》（Zipp's Café），是《公鸡神探》同世界观的新作，将于11月16日登陆Steam，支持简体中文。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>你真的能改变吗？真的能逃离过去吗？你能找到爱情吗？你能承受背叛吗？但最重要的是…你能在这荒野中制作出最好的咖啡吗？</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>奇普咖啡店这个苦乐参半的小故事，通过结识各式各样非凡的角色，以及在昆虫和动物市动荡的边缘地带准备各种不同寻常的食谱，来探寻我们必须牺牲什么才能真正改变我们的生活。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/296434e73c00b70165fa8f1b1d33a68e-600-209.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> 结识五名奇异的角色，并发掘他们之间的联系。与他们交谈，然后被卷入他们的生活中，无论你愿不愿意。让自己沉浸到三个基调和机制完全不同的小游戏中吧。冲泡出最特别的茶和咖啡，准备独特的饭菜，当然还有…洗碗…（你懂的，总要有人洗碗的嘛）在彩色或五彩斑斓黑的模式下进行游戏吧！
+
+</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>特色：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>制作出利爪市最棒的茶、咖啡和菜肴！</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>挖掘客户们错综复杂的关系</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>寻找爱情:)</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>然后失去爱情:(</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>复仇！</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>或者就坚强的继续前行</span></span></div></li></ul><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 06:47:06 GMT</pubDate>
+<updated>Tue, 17 Oct 2023 06:47:06 GMT</updated>
+</item>
+<item>
+<title>《匹诺曹的谎言》（Lies of P）全球销量已突破100万套</title>
+<link>https://www.gcores.com/articles/172436</link>
+<guid>https://www.gcores.com/articles/172436</guid>
+<content:encoded><![CDATA[
+<div> Neowiz, 成绩，100万套，匹诺曹的谎言，韩国游戏<br><br>总结: 韩国游戏《匹诺曹的谎言》取得了巨大成功，全球销量突破100万套，即使不包括 Xbox Game Pass 下载数，这对Neowiz是一项重大里程碑，展示了韩国主机游戏在全球的潜力。 Neowiz和Round8 Studio为这一成就感到自豪。 <div>
+<img src="https://image.gcores.com/0465cc137e9dbe727f8e06171c2c9857-1200-675.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《匹诺曹的谎言》（Lies of P）今日发推公布，游戏的全球销量已突破100万套，对所有玩家以及帮助过、陪伴过“匹诺曹”的人们表示由衷的感谢，并希望更多的人们加入他们今后的旅程。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/c9cf35dc9aae216af775f2d4482b905b-595-459.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/0465cc137e9dbe727f8e06171c2c9857-1200-675.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在游戏发售后不到一个月的时间，《匹诺曹的谎言》（Lies of P）就获得如此成绩，要强调的是，这100万套并未包括 Xbox Game Pass 的下载数，因此对于NEOWIZ一个名不见经传的新开发商来说，这是一个相当了不起的成就。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/7d45946ede9e8e011951ef82da922dda-1253-533.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Neowiz 联合首席执行官 Seungchul Kim 在一份声明中表示，《匹诺曹的谎言》目前的成绩是里程碑式的，证明了韩国主机游戏在全球舞台上的潜力。这款游戏对 Neowiz 和 Round8 Studio 来说是一项极具挑战性的工作，他们为在这款游戏中取得的成就感到非常自豪。</span></span></div></div><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 06:31:26 GMT</pubDate>
+<updated>Tue, 17 Oct 2023 06:31:26 GMT</updated>
+</item>
+<item>
+<title>《最终幻想7 重生》文森特·瓦伦丁配音演员已确定</title>
+<link>https://www.gcores.com/articles/172432</link>
+<guid>https://www.gcores.com/articles/172432</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/be2432e41b6af2b34936f3922b6a66e1-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在近期的</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fwww.thepopverse.com%2Ffinal-fantasy-7-vii-rebirth-square-enix-panel-livestream-nycc-new-york-comic-con-2023-main-stage" target="_blank"><span><span>纽约动漫展</span></span></a><span><span>上，配音演员 Matt Mercer在公开节目中透露自己将为《最终幻想7 重生》中的文森特·瓦伦丁献声，并受到来自台下众多观众的欢呼。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/c45796f68290da40138827bbebcb9215-596-853.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>之后此条信息也在《最终幻想7》的官方推特中得到了证实，Matt Mercer也转推表示能为《最终幻想7》献声感到非常荣幸，这是一款对他产生深远影响的游戏，更不用说能为他最喜欢的角色进行配音了，这是他今年梦想的巅峰。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/79525597cc55318d68e076a220424c09-597-854.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/bfd93bb91197a12294156136166c2f80-1920-1080.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Matt Mercer是美国ACG界家喻户晓的配音演员，最为国内玩家熟悉的角色当属暴雪旗下FPS游戏《守望先锋》中的杰西·麦克雷（现改名为科尔·卡西迪），游戏中一声声“It's High noon”令人闻风丧胆。除了暴雪游戏外，《生化危机6》的里昂、《进击的巨人》兵长利维尔、《Fate/Zero》的卫宫切嗣等角色也同样深受玩家和观众喜爱。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Tue, 17 Oct 2023 06:10:45 GMT</pubDate>
+<updated>Tue, 17 Oct 2023 06:10:45 GMT</updated>
+</item>
 
 <item>
 <title>反向跳票！看《荒野枪巫》如何躲开迎面而来的子弹</title>
