@@ -7741,3 +7741,15 @@ Existing_entries: 178
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-17 10:29:08.460751
+------------------------------------------------------
+Started: 2023-10-17 10:37:59.191976
+Existing_entries: 178
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [《暗黑破坏神4》公布第二赛季「鲜血赛季」玩法宣传片](https://www.gcores.com/articles/172465)
+Token length: 4054
+Summarized using GPT-3.5-turbo
+Append: [索尼INZONE首款真无线降噪电竞耳机INZONE Buds上市](https://www.gcores.com/articles/172463)
+append_entries: 2
+Finish: 2023-10-17 10:38:31.460959
