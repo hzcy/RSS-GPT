@@ -6062,3 +6062,12 @@ Existing_entries: 61
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-17 00:41:27.695362
+------------------------------------------------------
+Started: 2023-10-17 01:38:31.781797
+Existing_entries: 61
+Fetching from https://www.ifanr.com/feed
+Token length: 5356
+Summarized using GPT-3.5-turbo
+Append: [早报｜iPhone 15 中国首发销量低于前代/小米王化否认新系统命名 MiOS/淘宝可以用微信支付？回应来了](https://www.ifanr.com/1565170?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-17 01:38:40.741644
