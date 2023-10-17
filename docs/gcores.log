@@ -7629,3 +7629,9 @@ Summarized using GPT-3.5-turbo
 Append: [《斯普拉顿3》发布季中Ver.5.1.0更新补丁](https://www.gcores.com/articles/172407)
 append_entries: 3
 Finish: 2023-10-17 06:30:16.450741
+------------------------------------------------------
+Started: 2023-10-17 06:38:59.065957
+Existing_entries: 172
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-17 06:38:59.807900
