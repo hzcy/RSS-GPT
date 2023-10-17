@@ -7566,3 +7566,9 @@ Summarized using GPT-3.5-turbo
 Append: [最多24核心32线程，英特尔发布酷睿第14代台式机处理器](https://www.gcores.com/articles/172391)
 append_entries: 2
 Finish: 2023-10-17 04:11:22.589421
+------------------------------------------------------
+Started: 2023-10-17 04:27:15.988207
+Existing_entries: 169
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-17 04:27:16.287664
