@@ -8426,3 +8426,9 @@ Summarized using GPT-3.5-turbo
 Append: [均分93分：《超级马力欧：惊奇》媒体评分汇总](https://www.gcores.com/articles/172547)
 append_entries: 1
 Finish: 2023-10-18 15:35:13.396776
+------------------------------------------------------
+Started: 2023-10-18 15:48:14.349966
+Existing_entries: 195
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-18 15:48:14.550701
