@@ -8315,3 +8315,15 @@ Existing_entries: 192
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-18 10:48:27.944161
+------------------------------------------------------
+Started: 2023-10-18 11:08:07.940473
+Existing_entries: 192
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [《奥特曼》新集换式卡牌《奥特曼 卡牌游戏》正式公布，2024年夏季发售](https://www.gcores.com/articles/172540)
+Token length: 959
+Summarized using GPT-3.5-turbo
+Append: [游戏音频工作室SIDE收购Vibe Avenue，扩张音乐音效业务](https://www.gcores.com/articles/172536)
+append_entries: 2
+Finish: 2023-10-18 11:08:27.733619
