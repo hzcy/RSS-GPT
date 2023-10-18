@@ -8249,3 +8249,15 @@ Existing_entries: 190
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-18 08:28:24.866905
+------------------------------------------------------
+Started: 2023-10-18 08:36:55.656193
+Existing_entries: 190
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [互动式影视作品《寂静岭：升天》新宣传片公布，11月1日正式推出](https://www.gcores.com/articles/172538)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [任天堂《超级舞动 瓦力欧制造》公开新宣传片](https://www.gcores.com/articles/172532)
+append_entries: 2
+Finish: 2023-10-18 08:37:04.364016
