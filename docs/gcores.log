@@ -8417,3 +8417,12 @@ Existing_entries: 194
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-18 15:24:07.389274
+------------------------------------------------------
+Started: 2023-10-18 15:34:29.702338
+Existing_entries: 194
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 724
+Summarized using GPT-3.5-turbo
+Append: [均分93分：《超级马力欧：惊奇》媒体评分汇总](https://www.gcores.com/articles/172547)
+append_entries: 1
+Finish: 2023-10-18 15:35:13.396776
