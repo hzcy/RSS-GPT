@@ -8261,3 +8261,9 @@ Summarized using GPT-3.5-turbo
 Append: [任天堂《超级舞动 瓦力欧制造》公开新宣传片](https://www.gcores.com/articles/172532)
 append_entries: 2
 Finish: 2023-10-18 08:37:04.364016
+------------------------------------------------------
+Started: 2023-10-18 08:48:43.963920
+Existing_entries: 192
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-18 08:48:44.198518
