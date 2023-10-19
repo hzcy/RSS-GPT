@@ -7121,3 +7121,9 @@ Summarized using GPT-3.5-turbo
 Append: [早报｜消息称苹果正开发可折叠 iPad / 特斯拉 Cybertruck 下月底开始交付 / 威马汽车回应破产风波](https://www.ifanr.com/1565446?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-19 00:41:09.233515
+------------------------------------------------------
+Started: 2023-10-19 01:37:25.389449
+Existing_entries: 66
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-19 01:37:27.377706
