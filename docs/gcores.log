@@ -8768,3 +8768,12 @@ Existing_entries: 201
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-19 06:48:32.275680
+------------------------------------------------------
+Started: 2023-10-19 07:08:56.611276
+Existing_entries: 201
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1199
+Summarized using GPT-3.5-turbo
+Append: [《无尽地牢》正式发售 上市宣传片曝光！](https://www.gcores.com/articles/172568)
+append_entries: 1
+Finish: 2023-10-19 07:09:15.064111
