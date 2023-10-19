@@ -9038,3 +9038,12 @@ Existing_entries: 207
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-19 18:12:11.634606
+------------------------------------------------------
+Started: 2023-10-19 18:28:54.111852
+Existing_entries: 207
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 947
+Summarized using GPT-3.5-turbo
+Append: [《足球经理2024》抢先体验版现已上线](https://www.gcores.com/articles/172594)
+append_entries: 1
+Finish: 2023-10-19 18:29:16.721745
