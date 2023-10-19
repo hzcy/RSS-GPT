@@ -8825,3 +8825,18 @@ Existing_entries: 202
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-19 09:09:42.453196
+------------------------------------------------------
+Started: 2023-10-19 09:22:34.313855
+Existing_entries: 202
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1128
+Summarized using GPT-3.5-turbo
+Append: [《ANNEX2179》2件新品公布！预定明年5月上市](https://www.gcores.com/articles/172579)
+Token length: 484
+Summarized using GPT-3.5-turbo
+Append: [像素风CRPG游戏《动物迷城》将于11月3日发售](https://www.gcores.com/articles/172575)
+Token length: 703
+Summarized using GPT-3.5-turbo
+Append: [《完美的一天》主机平台预售开启，PC版迎史低折扣](https://www.gcores.com/articles/172574)
+append_entries: 3
+Finish: 2023-10-19 09:23:22.105981
