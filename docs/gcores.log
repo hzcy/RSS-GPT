@@ -8726,3 +8726,9 @@ Summarized using GPT-3.5-turbo
 Append: [《堕落之主》登顶：Steam周销量排行榜|2023年10月第2周](https://www.gcores.com/articles/172556)
 append_entries: 3
 Finish: 2023-10-19 05:09:34.931468
+------------------------------------------------------
+Started: 2023-10-19 05:25:37.638901
+Existing_entries: 201
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-19 05:25:37.832906
