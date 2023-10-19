@@ -8900,3 +8900,15 @@ Existing_entries: 205
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-19 11:48:32.262600
+------------------------------------------------------
+Started: 2023-10-19 12:17:35.116759
+Existing_entries: 205
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 304
+Summarized using GPT-3.5-turbo
+Append: [Netflix动画《阴阳师》预告公开，11月28日上线](https://www.gcores.com/articles/172584)
+Token length: 754
+Summarized using GPT-3.5-turbo
+Append: [声优新阵容：《女神异闻录3 Reload》COMMU系统详情公开](https://www.gcores.com/articles/172582)
+append_entries: 2
+Finish: 2023-10-19 12:17:59.416714
