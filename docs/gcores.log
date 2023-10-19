@@ -8711,3 +8711,18 @@ Existing_entries: 198
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-19 04:48:22.571979
+------------------------------------------------------
+Started: 2023-10-19 05:09:06.540742
+Existing_entries: 198
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [俯视角射击游戏《雷霆一号》将于11月14日停服](https://www.gcores.com/articles/172561)
+Token length: 418
+Summarized using GPT-3.5-turbo
+Append: [《守望先锋》“归来”将与女子音乐组合LE SSERAFIM展开联动，游戏内活动同步推出](https://www.gcores.com/articles/172559)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [《堕落之主》登顶：Steam周销量排行榜|2023年10月第2周](https://www.gcores.com/articles/172556)
+append_entries: 3
+Finish: 2023-10-19 05:09:34.931468
