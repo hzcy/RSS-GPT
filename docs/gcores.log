@@ -8654,3 +8654,18 @@ Existing_entries: 195
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-19 02:48:31.463979
+------------------------------------------------------
+Started: 2023-10-19 03:09:37.627046
+Existing_entries: 195
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [Cygames宣布推出以“黄金船”为主角的《赛马娘》新漫画企划](https://www.gcores.com/articles/172560)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [曹保平《涉过愤怒的海》官宣定档](https://www.gcores.com/articles/172558)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [TV动画《我心里危险的东西》第2季PV公开，2024年1月开播](https://www.gcores.com/articles/172557)
+append_entries: 3
+Finish: 2023-10-19 03:10:10.650539
