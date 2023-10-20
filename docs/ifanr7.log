@@ -8087,3 +8087,12 @@ Existing_entries: 70
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-20 20:09:31.975701
+------------------------------------------------------
+Started: 2023-10-20 20:22:45.448913
+Existing_entries: 70
+Fetching from https://www.ifanr.com/feed
+Token length: 3226
+Summarized using GPT-3.5-turbo
+Append: [新 Model 3 今日开售，Cybertruck 下月交付，可特斯拉居然卖不动了？](https://www.ifanr.com/1565449?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-20 20:23:18.509885
