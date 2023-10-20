@@ -9470,3 +9470,18 @@ Existing_entries: 215
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-20 13:12:05.204804
+------------------------------------------------------
+Started: 2023-10-20 13:25:47.556930
+Existing_entries: 215
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 399
+Summarized using GPT-3.5-turbo
+Append: [多人合作塔防派对游戏《哔哔砰砰大作战》现已在PC和主机平台发售](https://www.gcores.com/articles/172632)
+Token length: 443
+Summarized using GPT-3.5-turbo
+Append: [新事件新奖励：《潜渊症》今日推出“叛离潮汐”更新](https://www.gcores.com/articles/172631)
+Token length: 463
+Summarized using GPT-3.5-turbo
+Append: [美猴王大战白骨精，《荣耀战魂》万圣节活动“白骨剧场”即将开启](https://www.gcores.com/articles/172628)
+append_entries: 3
+Finish: 2023-10-20 13:26:28.563042
