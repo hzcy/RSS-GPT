@@ -9398,3 +9398,15 @@ Existing_entries: 213
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-20 09:48:32.305555
+------------------------------------------------------
+Started: 2023-10-20 10:10:07.489718
+Existing_entries: 213
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 661
+Summarized using GPT-3.5-turbo
+Append: [《潜龙谍影》×虚拟主播森美声合作歌曲《SNEAKING》MV公开](https://www.gcores.com/articles/172629)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [《超级马力欧兄弟 惊奇》大象马力欧毛绒公仔公布，2024年1月中旬发售](https://www.gcores.com/articles/172624)
+append_entries: 2
+Finish: 2023-10-20 10:10:30.045167
