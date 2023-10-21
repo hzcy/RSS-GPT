@@ -10085,3 +10085,12 @@ Existing_entries: 218
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-21 16:10:20.971356
+------------------------------------------------------
+Started: 2023-10-21 16:27:48.277465
+Existing_entries: 218
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 849
+Summarized using GPT-3.5-turbo
+Append: [新近战DPS职业“VIPER”公开！《最终幻想14》伦敦粉丝节新情报汇总](https://www.gcores.com/articles/172669)
+append_entries: 1
+Finish: 2023-10-21 16:28:19.047094
