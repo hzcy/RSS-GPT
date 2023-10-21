@@ -8282,3 +8282,9 @@ Summarized using GPT-3.5-turbo
 Append: [我让马斯克和扎克伯格在这个群大吵了一架](https://www.ifanr.com/1565501?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-21 05:24:31.357520
+------------------------------------------------------
+Started: 2023-10-21 05:33:46.182942
+Existing_entries: 73
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-21 05:33:48.042834
