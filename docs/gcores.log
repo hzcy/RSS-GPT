@@ -10394,3 +10394,12 @@ Existing_entries: 219
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-22 06:34:54.090664
+------------------------------------------------------
+Started: 2023-10-22 06:48:15.888705
+Existing_entries: 219
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2280
+Summarized using GPT-3.5-turbo
+Append: [独家！2023雨果奖获奖名单&提名小说合集](https://www.gcores.com/articles/172681)
+append_entries: 1
+Finish: 2023-10-22 06:48:32.395180
