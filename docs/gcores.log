@@ -10451,3 +10451,12 @@ Existing_entries: 220
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-22 08:48:44.778807
+------------------------------------------------------
+Started: 2023-10-22 09:08:24.077896
+Existing_entries: 220
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1319
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY战锤40K新品公布：先锋老兵与仇天使参战](https://www.gcores.com/articles/172693)
+append_entries: 1
+Finish: 2023-10-22 09:08:51.642471
