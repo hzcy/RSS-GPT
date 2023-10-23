@@ -9332,3 +9332,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [QD-LED 电视量产的第二年，画质到了什么程度？](https://www.ifanr.com/1565679?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-23 04:26:58.717256
+------------------------------------------------------
+Started: 2023-10-23 04:34:56.313505
+Existing_entries: 75
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-23 04:34:58.088157
