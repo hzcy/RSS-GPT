@@ -11111,3 +11111,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《中世纪王朝》全新的多人合作模式和地图将于12月7日在STEAM上推出](https://www.gcores.com/articles/172744)
 append_entries: 1
 Finish: 2023-10-23 11:09:04.981051
+------------------------------------------------------
+Started: 2023-10-23 11:19:46.081462
+Existing_entries: 233
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-23 11:19:46.580861
