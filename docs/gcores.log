@@ -10943,3 +10943,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《暗黑4》推出献血得好礼活动，有机会赢取“人血顶级PC”](https://www.gcores.com/articles/172714)
 append_entries: 4
 Finish: 2023-10-23 05:09:42.746794
+------------------------------------------------------
+Started: 2023-10-23 05:25:20.772606
+Existing_entries: 229
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-23 05:25:21.014279
