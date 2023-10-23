@@ -11063,3 +11063,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [肯德基×《JOJO的奇妙冒险 石之海》联动宣传片公开，10月27日活动正式开始](https://www.gcores.com/articles/172735)
 append_entries: 1
 Finish: 2023-10-23 09:23:23.694871
+------------------------------------------------------
+Started: 2023-10-23 09:34:31.273898
+Existing_entries: 232
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-23 09:34:31.526682
