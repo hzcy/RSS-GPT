@@ -11003,3 +11003,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《合金装备 大师合集Vol.1》的新制作人员名单并未提到小岛秀夫](https://www.gcores.com/articles/172726)
 append_entries: 2
 Finish: 2023-10-23 07:09:18.763780
+------------------------------------------------------
+Started: 2023-10-23 07:21:19.963978
+Existing_entries: 231
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-23 07:21:20.240842
