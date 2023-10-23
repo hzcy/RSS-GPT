@@ -11153,3 +11153,21 @@ Existing_entries: 233
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-23 13:27:38.122463
+------------------------------------------------------
+Started: 2023-10-23 13:35:34.792074
+Existing_entries: 233
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [像素风悬疑推理《距离8点还有3分钟》现已发售](https://www.gcores.com/articles/172747)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《堕落之主》实装1.1.224更新，带来多项游戏改进及优化](https://www.gcores.com/articles/172752)
+append_entries: 2
+Finish: 2023-10-23 13:35:40.152973
