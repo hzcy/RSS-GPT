@@ -11171,3 +11171,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《堕落之主》实装1.1.224更新，带来多项游戏改进及优化](https://www.gcores.com/articles/172752)
 append_entries: 2
 Finish: 2023-10-23 13:35:40.152973
+------------------------------------------------------
+Started: 2023-10-23 13:48:55.279485
+Existing_entries: 235
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-23 13:48:55.513537
