@@ -10913,3 +10913,33 @@ Existing_entries: 225
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-23 04:48:47.193448
+------------------------------------------------------
+Started: 2023-10-23 05:09:35.101302
+Existing_entries: 225
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [TV动画《摇曳露营△》第3季公开新视觉图，2024年4月播出](https://www.gcores.com/articles/172719)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [动画电影《攻壳机动队 SAC_2045 最后的人类》公开正式预告](https://www.gcores.com/articles/172715)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [“初音未来”联手上海市血液中心，10月28日起献血可获专属限定纪念品](https://www.gcores.com/articles/172717)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《暗黑4》推出献血得好礼活动，有机会赢取“人血顶级PC”](https://www.gcores.com/articles/172714)
+append_entries: 4
+Finish: 2023-10-23 05:09:42.746794
