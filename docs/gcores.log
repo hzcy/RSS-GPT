@@ -10871,3 +10871,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《上古卷轴OL》“女巫庆典活动”定于10月26日开启](https://www.gcores.com/articles/172710)
 append_entries: 3
 Finish: 2023-10-23 03:10:17.598082
+------------------------------------------------------
+Started: 2023-10-23 03:23:08.622249
+Existing_entries: 225
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-23 03:23:08.940620
