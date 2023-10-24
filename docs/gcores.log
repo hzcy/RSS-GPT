@@ -11897,3 +11897,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [来势迅猛：苹果宣布将于本月31日早8时举行特别活动](https://www.gcores.com/articles/172824)
 append_entries: 1
 Finish: 2023-10-24 18:12:12.878604
+------------------------------------------------------
+Started: 2023-10-24 18:29:06.667557
+Existing_entries: 255
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-24 18:29:06.873874
