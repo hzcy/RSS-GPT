@@ -11693,3 +11693,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [NEXON×光荣特库摩，手游《真·三国无双M》预约开启](https://www.gcores.com/articles/172791)
 append_entries: 1
 Finish: 2023-10-24 09:48:40.577053
+------------------------------------------------------
+Started: 2023-10-24 10:10:19.421636
+Existing_entries: 252
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-24 10:10:19.606246
