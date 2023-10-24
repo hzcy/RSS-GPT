@@ -11885,3 +11885,15 @@ Existing_entries: 254
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-24 17:48:16.542854
+------------------------------------------------------
+Started: 2023-10-24 18:12:10.640439
+Existing_entries: 254
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [来势迅猛：苹果宣布将于本月31日早8时举行特别活动](https://www.gcores.com/articles/172824)
+append_entries: 1
+Finish: 2023-10-24 18:12:12.878604
