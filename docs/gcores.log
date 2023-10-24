@@ -11771,3 +11771,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [PlayStation Partner Awards 2023 Japan Asia将于12月1日举行](https://www.gcores.com/articles/172800)
 append_entries: 2
 Finish: 2023-10-24 13:12:49.942672
+------------------------------------------------------
+Started: 2023-10-24 13:27:10.655902
+Existing_entries: 254
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-24 13:27:10.825827
