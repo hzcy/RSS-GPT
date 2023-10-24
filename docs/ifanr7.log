@@ -10310,3 +10310,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [力压苹果英特尔，全面拥抱 AIGC，高通发布骁龙 X Elite 和第三代骁龙 8](https://www.ifanr.com/1566009?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-24 22:08:47.199131
+------------------------------------------------------
+Started: 2023-10-24 22:25:45.902920
+Existing_entries: 81
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-24 22:25:47.310625
