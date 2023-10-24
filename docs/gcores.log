@@ -11597,3 +11597,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《钢岚》“回归初心”不限号计费删档测试今日开启](https://www.gcores.com/articles/172780)
 append_entries: 3
 Finish: 2023-10-24 06:13:02.777377
+------------------------------------------------------
+Started: 2023-10-24 06:29:32.344157
+Existing_entries: 251
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-24 06:29:32.547271
