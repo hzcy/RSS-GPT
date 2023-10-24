@@ -11681,3 +11681,15 @@ Existing_entries: 251
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-24 09:34:20.959868
+------------------------------------------------------
+Started: 2023-10-24 09:48:38.127119
+Existing_entries: 251
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [NEXON×光荣特库摩，手游《真·三国无双M》预约开启](https://www.gcores.com/articles/172791)
+append_entries: 1
+Finish: 2023-10-24 09:48:40.577053
