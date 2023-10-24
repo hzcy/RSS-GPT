@@ -4,6 +4,97 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>力压苹果英特尔，全面拥抱 AIGC，高通发布骁龙 X Elite 和第三代骁龙 8</title>
+<link>https://www.ifanr.com/1566009?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1566009?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1566010" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-T.jpg" width="1920" /></p>
+<p>时不我待，比往年的骁龙峰会要更早一个月，2023 骁龙峰会举办时间大幅提前到了 10 月。</p>
+<p>原因无他，只是 AI 时代的机会稍纵即逝，技术变革不再是以年计算，而是月和日。自去年下半年到现在的 AIGC 热潮来势汹汹，但主要还是集中在桌面领域，尤其是性能强劲的独显台式机，笔记本和手机并非体现 AIGC 魅力的最佳载体。</p>
+<p>高通在 2023 骁龙峰会上发布的骁龙 X Elite 平台以及第三代骁龙 8 移动平台，则想让大家能在笔记本电脑和手机上也能畅快地使用各种 AIGC 工具，包括 AI 文字生成和 AI 图片生成等等。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566023" height="722" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SX-2jpg.jpg" width="1131" /></p>
+<h3>骁龙 X Elite：比 i9-13980HX 性能更强，比 M2 Max 更省电</h3>
+<p>高通并不是没有尝试过 PC 领域，从早期的移植骁龙 835 芯片到 PC 端，到后来改动更大的骁龙 8cx 芯片，虽然确实功耗比较低，但是问题也不少。比如早期 Windows 跑在 ARM 芯片上的兼容性问题，后来苹果 M 系芯片大放异彩显得骁龙 8cx 不够优秀等等，所以骁龙芯在 PC 领域的存在感一直都不太高。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566024" height="646" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SX-3jpg.jpg" width="1148" /></p>
+<p>骁龙 X Elite 就是为了改变这种境况而来。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566015" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-7.jpg" width="1920" /> <img alt="" class="alignnone size-full wp-image-1566016" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-6.jpg" width="1920" /></p>
+<p>先声夺人的跑分环节中，高通 CEO 阿蒙表示，骁龙 X Elite 集成了高通定制的 Oryon CPU，其单线程性能超过了苹果的 M2 Max 和英特尔的 i9-13980HX。</p>
+<p>更关键的是功耗，在释放峰值性能的时候，Oryon CPU 的功耗比 M2 Max 少 30%，比 i9-13980HX 少 70% 之多。</p>
+<p>看起来，macOS 和 M 系芯片搭配起来的省电和控温体验，有望在 Windows on ARM 笔记本上实现。</p>
+<p>不过想必也有人看出来了，高通在比较 CPU 性能的时候，只是对比了单线程性能，到对比多线程性能的时候，高通选择了更弱一些的对手，比如苹果的 M2，和英特尔的 i7-1355U 和 i7-1360P。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566017" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-5.jpg" width="1920" /></p>
+<p>在和英特尔移动端芯片对比的时候，高通表示 Oryon CPU 不仅性能可达对手的两倍，峰值性能功耗还可以少 68%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566012" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-10.jpg" width="1920" /></p>
+<p>至于苹果 M2 的话，高通表示 Oryon CPU 的多线程性能能超过对手 50%，至于此处功耗表现，高通没提。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566011" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-11.jpg" width="1920" /></p>
+<p>在高通试图平衡性能和功耗矛盾的同时，AI 能力成了骁龙 X Elite 突围的奇兵。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566027" height="996" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SX-11.jpg" width="1773" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1566020" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-2.jpg" width="1920" /></p>
+<p>可以看到，在骁龙 X Elite 的一图介绍当中，很大一部分是 AI 特性，这些特性包括了可在终端侧运行 130 亿参数大模型，面向 70 亿参数大模型时每秒可生成 30 个 token，整体的 AI 引擎算力达到了 75TOPS，在利用 Stable Diffusion 进行文生图的时候，速度小于 1 秒。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566025" height="832" src="https://s3.ifanr.com/wp-content/uploads/2023/10/S8-1.jpg" width="1253" /></p>
+<h3>第三代骁龙 8：一直提 AI，这次 AI 放到了第一位</h3>
+<p>移动办公一直以来都在真命题和伪命题二者之间反复横跳，之所以出现这样的情况，主要还是手机作为生产力工具，一方面有最强移动性和连接性，但输入和输出能力又远弱于电脑。</p>
+<p>但 AIGC 能够帮助用户，以很少输入，获得很多输出，这便是 AIGC 应用在手机上的巨大意义。因而手机本地 AI 和云端 AI 的结合，端云协力，就是正解，所以高通着重展现了第三代骁龙 8 的生成式 AI 能力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566021" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-1.jpg" width="1920" /></p>
+<p>总结一下，第三代骁龙 8 着重展现了三点 AI 能力：</p>
+<ul>
+<li>可以在终端侧运行高达 100 亿参数的大模型</li>
+<li>运行 70 亿参数大模型时，每秒可以生成 20 个 tokens，速度高于人的阅读速度</li>
+<li>世界上最快的手机端 Stable Diffusion 文生图速度，低于 1 秒</li>
+</ul>
+<p>关于第三代骁龙 8 的性能细节，高通将在第二日的演讲中展现，不过首日演讲当中也透露了一些。比如相比于上代骁龙 8，第三代骁龙 8 的 CPU 性能提升了 30%，GPU 性能提升了 25%，NPU 性能提升了 98%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566018" height="1157" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SD-4.jpg" width="2056" /></p>
+<p>另外，小米集团总裁卢伟冰作为合作伙伴，以即将发布并搭载了第三代骁龙 8 平台的小米 14 为例，利用《原神》展现了真机性能。</p>
+<ul>
+<li>平均帧率 59.39fps</li>
+<li>最高温度 43.2 摄氏度</li>
+<li>单帧功耗降低 10.6%</li>
+</ul>
+<p><img alt="" class="alignnone size-full wp-image-1566026" height="720" src="https://s3.ifanr.com/wp-content/uploads/2023/10/S8-2jpg.jpg" width="1280" /></p>
+<p>高通技术公司高级副总裁兼手机业务总经理 Chris Patrick 说：</p>
+<blockquote><p>第三代骁龙 8 将开启生成式 AI 的新时代——赋能用户创作独特内容、帮助生产力提升，并实现其他突破性的用例。</p></blockquote>
+<p>对于智能手机行业而言，AIGC 热潮或许是一个能够驱动用户换机的理由，喊了很多年的 AI 能力终于不再需要躲在幕后，而是走向台前，和用户直接进行交互并生成内容。作为技术底座和产业上游的高通，正在从芯片端，和合作伙伴一起驱动这场 AIGC 阵地的扩大。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank">刘学文</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">在命运的塑料大棚里，每棵被喷了过多农药的白菜心中，都曾经有一个成为无公害有机蔬菜的梦想。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:owenliu@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://weibo.com/u/1731822990" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://www.ifanr.com/5" style="margin-right: 14px; text-decoration: none;" target="_blank">1</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1566009">原文链接</a> ·
+<a href="https://www.ifanr.com/1566009#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 24 Oct 2023 22:03:02 +0000</pubDate>
+<updated>Tue, 24 Oct 2023 22:03:02 +0000</updated>
+</item>
 
 <item>
 <title>早报｜小米 14 和澎湃 OS 发布会定档 / iPhone 15 全系电商价格跳水 / QQ 邮箱回应付费会员争议</title>
