@@ -11753,3 +11753,21 @@ Existing_entries: 252
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-24 12:48:54.226197
+------------------------------------------------------
+Started: 2023-10-24 13:12:45.879029
+Existing_entries: 252
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [冈田将生主演，《隐秘的角落》日影版《Gold Boy》特报公开](https://www.gcores.com/articles/172803)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [PlayStation Partner Awards 2023 Japan Asia将于12月1日举行](https://www.gcores.com/articles/172800)
+append_entries: 2
+Finish: 2023-10-24 13:12:49.942672
