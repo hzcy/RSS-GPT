@@ -12524,3 +12524,21 @@ Existing_entries: 269
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-25 19:07:54.474743
+------------------------------------------------------
+Started: 2023-10-25 19:18:34.476306
+Existing_entries: 269
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Remedy公布《心灵杀手2》发售宣传视频](https://www.gcores.com/articles/172880)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《合金装备Δ 食蛇者》引擎内渲染画面首次公开](https://www.gcores.com/articles/172879)
+append_entries: 2
+Finish: 2023-10-25 19:18:37.876032
