@@ -10580,3 +10580,15 @@ Existing_entries: 83
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-25 10:28:28.871806
+------------------------------------------------------
+Started: 2023-10-25 10:36:56.597492
+Existing_entries: 83
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [Mac 将迎来一大波更新 ？不用熬夜的苹果发布会，或将发布这些新品](https://www.ifanr.com/1566054?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-25 10:36:59.777595
