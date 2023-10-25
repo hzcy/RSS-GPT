@@ -12248,3 +12248,27 @@ Existing_entries: 261
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-25 08:48:35.533384
+------------------------------------------------------
+Started: 2023-10-25 09:10:00.716192
+Existing_entries: 261
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [最新申报表显示，英伟达可恢复向国内供货4090显卡](https://www.gcores.com/articles/172849)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《女神异闻录5 战略版》原声OST试听公布](https://www.gcores.com/articles/172845)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《心灵杀手2》全球解锁时间公布，27日中午开玩](https://www.gcores.com/articles/172844)
+append_entries: 3
+Finish: 2023-10-25 09:10:04.110049
