@@ -12332,3 +12332,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《叛乱：沙漠风暴》推出第三年通行证的首个重要内容更新“突击行动”](https://www.gcores.com/articles/172852)
 append_entries: 4
 Finish: 2023-10-25 10:49:33.051829
+------------------------------------------------------
+Started: 2023-10-25 11:07:55.672707
+Existing_entries: 268
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-25 11:07:55.894151
