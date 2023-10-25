@@ -12272,3 +12272,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《心灵杀手2》全球解锁时间公布，27日中午开玩](https://www.gcores.com/articles/172844)
 append_entries: 3
 Finish: 2023-10-25 09:10:04.110049
+------------------------------------------------------
+Started: 2023-10-25 09:23:04.509264
+Existing_entries: 264
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-25 09:23:04.675844
