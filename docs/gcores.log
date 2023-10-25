@@ -12386,3 +12386,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [“和 Xbox Series X|S 一起做梦吧”，Xbox最新宣传片公布](https://www.gcores.com/articles/172868)
 append_entries: 1
 Finish: 2023-10-25 13:25:32.697583
+------------------------------------------------------
+Started: 2023-10-25 13:33:57.901091
+Existing_entries: 269
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-25 13:33:58.104020
