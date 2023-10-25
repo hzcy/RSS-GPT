@@ -12542,3 +12542,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《合金装备Δ 食蛇者》引擎内渲染画面首次公开](https://www.gcores.com/articles/172879)
 append_entries: 2
 Finish: 2023-10-25 19:18:37.876032
+------------------------------------------------------
+Started: 2023-10-25 19:33:51.668305
+Existing_entries: 271
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-25 19:33:51.894685
