@@ -10430,3 +10430,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [全新小鹏 X9 首发亮相：全球唯一标配后轮转向的 MPV](https://www.ifanr.com/1565978?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-25 04:11:21.433107
+------------------------------------------------------
+Started: 2023-10-25 04:26:58.182462
+Existing_entries: 83
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-25 04:26:59.954808

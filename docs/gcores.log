@@ -12125,3 +12125,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [V社宣布阿根廷和土耳其区将于11月20日改为美元定价](https://www.gcores.com/articles/172828)
 append_entries: 4
 Finish: 2023-10-25 04:11:30.966003
+------------------------------------------------------
+Started: 2023-10-25 04:27:01.173988
+Existing_entries: 259
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-25 04:27:01.584867
