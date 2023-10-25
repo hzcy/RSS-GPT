@@ -12188,3 +12188,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [《流浪地球》手游获最值得期待科幻游戏奖：第81届世界科幻大会获奖游戏结果汇总](https://www.gcores.com/articles/172838)
 append_entries: 2
 Finish: 2023-10-25 06:29:32.331768
+------------------------------------------------------
+Started: 2023-10-25 06:38:17.130470
+Existing_entries: 261
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-25 06:38:17.615361
