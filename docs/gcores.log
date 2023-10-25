@@ -12095,3 +12095,33 @@ Existing_entries: 255
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-25 03:48:36.086963
+------------------------------------------------------
+Started: 2023-10-25 04:11:22.855157
+Existing_entries: 255
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《守望先锋》“归来”X女子音乐组合LE SSERAFIM预热视频公开](https://www.gcores.com/articles/172832)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [令人遗憾——侯孝贤导演因失智症将不再拍摄任何电影](https://www.gcores.com/articles/172829)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《城市：天际线2》登顶：Steam周销量排行榜|2023年10月第3周](https://www.gcores.com/articles/172830)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [V社宣布阿根廷和土耳其区将于11月20日改为美元定价](https://www.gcores.com/articles/172828)
+append_entries: 4
+Finish: 2023-10-25 04:11:30.966003
