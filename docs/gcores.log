@@ -12766,3 +12766,21 @@ Existing_entries: 278
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 04:48:29.876769
+------------------------------------------------------
+Started: 2023-10-26 05:08:50.524930
+Existing_entries: 278
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《明日方舟：终末地》公布技术测试预告，将于11月10日开启测试](https://www.gcores.com/articles/172894)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《合金装备Δ 食蛇者》采用虚幻5打造：Xbox合作伙伴游戏展示会消息汇总](https://www.gcores.com/articles/172888)
+append_entries: 2
+Finish: 2023-10-26 05:08:53.233217
