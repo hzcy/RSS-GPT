@@ -12970,3 +12970,21 @@ Existing_entries: 288
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 10:48:42.830230
+------------------------------------------------------
+Started: 2023-10-26 11:07:59.466682
+Existing_entries: 288
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [手游《死亡爱丽丝》宣布2024年1月15日正式停运](https://www.gcores.com/articles/172923)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《生化危机4 重制版》累计销量545万份：卡普空公布2023财年上半年财报](https://www.gcores.com/articles/172915)
+append_entries: 2
+Finish: 2023-10-26 11:08:02.480460
