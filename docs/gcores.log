@@ -13294,3 +13294,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《堕落之主》现已实装万圣节更新，带来限时活动及全面跨平台支持](https://www.gcores.com/articles/172921)
 append_entries: 1
 Finish: 2023-10-26 23:09:34.338944
+------------------------------------------------------
+Started: 2023-10-26 23:21:47.636674
+Existing_entries: 295
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 23:21:47.914302
