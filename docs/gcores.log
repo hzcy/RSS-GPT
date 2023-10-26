@@ -13018,3 +13018,15 @@ Existing_entries: 290
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 12:48:01.957517
+------------------------------------------------------
+Started: 2023-10-26 13:11:33.525755
+Existing_entries: 290
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《绝区零》、《鸣潮》过审，2023年10月份国产网络游戏审批信息公布](https://www.gcores.com/articles/172932)
+append_entries: 1
+Finish: 2023-10-26 13:11:35.927695
