@@ -13078,3 +13078,15 @@ Existing_entries: 291
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 15:09:21.243962
+------------------------------------------------------
+Started: 2023-10-26 15:23:18.213125
+Existing_entries: 291
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [出色续作、致命之谜：《心灵杀手2》媒体评分汇总](https://www.gcores.com/articles/172934)
+append_entries: 1
+Finish: 2023-10-26 15:23:20.369579
