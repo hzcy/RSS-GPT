@@ -13090,3 +13090,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [出色续作、致命之谜：《心灵杀手2》媒体评分汇总](https://www.gcores.com/articles/172934)
 append_entries: 1
 Finish: 2023-10-26 15:23:20.369579
+------------------------------------------------------
+Started: 2023-10-26 15:34:19.942885
+Existing_entries: 292
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 15:34:20.243476
