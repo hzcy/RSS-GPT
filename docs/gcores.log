@@ -12680,3 +12680,41 @@ Existing_entries: 271
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 02:35:29.735929
+------------------------------------------------------
+Started: 2023-10-26 02:48:45.476568
+Existing_entries: 271
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《维多利亚3》全新地区内容包“南方巨像”定于11月14日发售](https://www.gcores.com/articles/172885)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [黑道森友会？《人中之龙8》公布“太鼓岛”玩法介绍](https://www.gcores.com/articles/172886)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [万智牌《依夏兰迷窟》机核独家预览单卡](https://www.gcores.com/articles/172736)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [V社正式推出SteamVR 2.0，带来全新跨生态体验](https://www.gcores.com/articles/172884)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《幽灵线：东京》再度举行拍照模式大赛，九名得主可获官方周边](https://www.gcores.com/articles/172883)
+Append: [新故事第二站！万智牌新系列《依夏兰迷窟》开启预览](https://www.gcores.com/articles/172842)
+Append: [大疆发布手持云台相机OSMO Pocket 3](https://www.gcores.com/articles/172874)
+append_entries: 7
+Finish: 2023-10-26 02:48:54.055545
