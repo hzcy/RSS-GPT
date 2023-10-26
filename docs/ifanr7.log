@@ -10994,3 +10994,15 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [又一家新势力与巨头车企达成合作，零跑的「技术批发」成了](https://www.ifanr.com/1566125?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-26 04:26:21.912248
+------------------------------------------------------
+Started: 2023-10-26 04:34:20.468546
+Existing_entries: 88
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [新势力想要拉满仪式感，还得向百年车企取取经](https://www.ifanr.com/1565661?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-26 04:34:23.230827
