@@ -13282,3 +13282,15 @@ Existing_entries: 294
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 22:48:35.423843
+------------------------------------------------------
+Started: 2023-10-26 23:09:32.509900
+Existing_entries: 294
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《堕落之主》现已实装万圣节更新，带来限时活动及全面跨平台支持](https://www.gcores.com/articles/172921)
+append_entries: 1
+Finish: 2023-10-26 23:09:34.338944
