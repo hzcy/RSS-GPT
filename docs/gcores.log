@@ -13150,3 +13150,21 @@ Existing_entries: 292
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 17:48:25.757778
+------------------------------------------------------
+Started: 2023-10-26 18:12:08.746137
+Existing_entries: 292
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《纺织者之咏Voice of Belldona》Demo 的第二次重大更新上线](https://www.gcores.com/articles/172938)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [恐怖蜘蛛号来袭！《站点连连》 X Choo Choo Charles -“万圣节更新”官方预告](https://www.gcores.com/articles/172927)
+append_entries: 2
+Finish: 2023-10-26 18:12:12.803242
