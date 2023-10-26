@@ -12940,3 +12940,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [2023GWB腾讯独立游戏大奖赛结果揭晓](https://www.gcores.com/articles/172904)
 append_entries: 3
 Finish: 2023-10-26 09:34:21.113273
+------------------------------------------------------
+Started: 2023-10-26 09:48:22.014110
+Existing_entries: 288
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 09:48:22.246349
