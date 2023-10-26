@@ -12988,3 +12988,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《生化危机4 重制版》累计销量545万份：卡普空公布2023财年上半年财报](https://www.gcores.com/articles/172915)
 append_entries: 2
 Finish: 2023-10-26 11:08:02.480460
+------------------------------------------------------
+Started: 2023-10-26 11:19:15.841040
+Existing_entries: 290
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 11:19:16.116504
