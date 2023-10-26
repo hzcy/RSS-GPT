@@ -12868,3 +12868,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [桌游·卡牌五魁首丨近期桌游圈新闻快讯速览](https://www.gcores.com/articles/172890)
 append_entries: 5
 Finish: 2023-10-26 07:20:57.274570
+------------------------------------------------------
+Started: 2023-10-26 07:33:44.646936
+Existing_entries: 285
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 07:33:44.891327
