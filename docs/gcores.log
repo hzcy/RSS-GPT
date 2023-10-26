@@ -13168,3 +13168,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [恐怖蜘蛛号来袭！《站点连连》 X Choo Choo Charles -“万圣节更新”官方预告](https://www.gcores.com/articles/172927)
 append_entries: 2
 Finish: 2023-10-26 18:12:12.803242
+------------------------------------------------------
+Started: 2023-10-26 18:26:24.976490
+Existing_entries: 294
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 18:26:25.236134
