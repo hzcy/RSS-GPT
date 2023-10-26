@@ -13030,3 +13030,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《绝区零》、《鸣潮》过审，2023年10月份国产网络游戏审批信息公布](https://www.gcores.com/articles/172932)
 append_entries: 1
 Finish: 2023-10-26 13:11:35.927695
+------------------------------------------------------
+Started: 2023-10-26 13:28:55.619531
+Existing_entries: 291
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 13:28:55.895759
