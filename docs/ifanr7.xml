@@ -4,6 +4,82 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>踩苹果 M2，压英特尔旗舰芯，高通刚刚发布的骁龙 X Elite 都有什么？</title>
+<link>https://www.ifanr.com/1566097?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1566097?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone wp-image-1566106 size-full" height="676" src="https://s3.ifanr.com/wp-content/uploads/2023/10/SXE-1.jpg" width="1200" /></p>
+<p>今年的骁龙峰会比往年开得更长，因为往年主角只有一个，那就是骁龙 8 系旗舰移动芯片，但是今年有所不同，以往做配角，并且时不时才出现一下的骁龙 PC 芯片今年升级成了主角待遇：骁龙 X Elite 是高通历史上最为强大的 PC 芯片，强大到可以在性能上与苹果和英特尔的芯片直接扳手腕。</p>
+<p>昨日的演讲中，高通向我们展示了这款芯片的存在，简略进行了介绍，但并未透露关于架构细节的信息，今日的演讲中，高通则花了一个多小时的时间来详解这款芯片。</p>
+<p><img alt="" class="alignnone wp-image-1566121 size-full" height="698" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG160.jpeg" width="1034" /></p>
+<p>首先是架构得到了明晰：3 丛集，12 核心，全大核，主频都是 3.8GHz，其中有 2 个核心可以超频至 4.3GHz。</p>
+<p>内存支持 LPDDR5X，内存带宽最高支持 136GB/s，总缓存为 42MB。</p>
+<p>为了展现性能，高通对比了多款英特尔的处理器，比如 i9-13980HX，高通表示骁龙 X Elite 的单线程性能更强，显然这么对比不太公平，因为 i9-13980HX 是一款 24 核心处理器，其中有 8 性能核心（双线程），16 能效核心（单线程），比较单线程性能，是在对比 i9-13980HX 的弱项。</p>
+<p>对比英特尔 i7-1360P 则是在整体性能和功耗上完胜， i7-1360P 也是一款 12 核心处理器（4 性能核心，8 能效核心）。</p>
+<p><img alt="" class="alignnone wp-image-1566120 size-full" height="1138" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG164.jpeg" width="1895" /></p>
+<p>然后今天高通继续对比了英特尔 i7-13800H 处理器，这就有点越级比较的意思了，因为 i7-13800H 是一款性能笔记本常用的处理器，采用了 6 性能核心，8 能效核心的架构，TDP 为 45W。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566118" height="809" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG165.jpeg" width="1267" /></p>
+<p>高通表示骁龙 X Elite 的性能可达英特尔 i7-13800H 处理器的 2 倍，同时峰值性能功耗要少 65%。</p>
+<p>另外，高通还表示，相比于苹果 M2 芯片（4 性能核心+4 能效核心），骁龙 X Elite 的峰值性能要多出 50%。这么一看的话，12 核心的骁龙 X Elite 岂不是应该直接对比 12 核心的 M2 Pro（8 性能核心+4 能效核心）？但这里高通没有做对比，合理猜测是其性能介于 M2 和 M2 Pro 之间。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566117" height="805" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG166.jpeg" width="1243" /></p>
+<p><img alt="" class="alignnone size-full wp-image-1566116" height="1819" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG167.jpeg" width="2997" /></p>
+<p>至于 GPU 能力，高通聊得不多，点明了算力为 4.6TFLOPS，表示骁龙 X Elite 支持单台 4K 120Hz HDR10 显示器的显示输出，或者 2 台 5K 60Hz 外接显示器或者 3 台 4K 60Hz HDR10 外接显示器的输出。</p>
+<p>我们也知道，高通做芯片，一般称之为 SoC 或者平台，不是单纯的 CPU+GPU，此外还有 NPU，基带，WiFi 和蓝牙模块，以及传感器中枢等等。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566110" height="1137" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG173.jpeg" width="1796" /> <img alt="" class="alignnone size-full wp-image-1566107" height="1193" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG174.jpeg" width="1789" /></p>
+<p>基带，WiFi 和蓝牙这些连接性的层面大可放心，支持 5G（10GB/s），支持 WiFi 7，支持双蓝牙，支持无损无线音频传输。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566115" height="1753" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG168.jpeg" width="2676" /></p>
+<p>骁龙 X Elite 的重点是 NPU 以及 AI 能力。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566117" height="805" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG166.jpeg" width="1243" /></p>
+<p>高通首先对骁龙 X Elite 的 NPU 连接和供电设计进行了优化，这颗 NPU 的算力达到了 45TOPS，配合芯片其他模块的算力，整块骁龙 X Elite 的 AI 引擎算力达到了 75TOPS。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566114" height="1558" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG169.jpeg" width="2298" /></p>
+<p>在最常用的开源 AI 图像生成工具 Stable Diffusion 中，骁龙 X Elite 的速度是竞品的 2.7 倍，优化之后，速度甚至可达竞品的 20 倍之多。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566112" height="1201" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG171.jpeg" width="1969" /></p>
+<p>在专为 AI 性能设计的跑分程序 Ulm Procyon AI 测试中，骁龙 X Elite 的 AI 性能也远超竞品英特尔 i7-13800H（怎么又是你）和 AMD Ryzen-7490HS，最高达到竞品 10 倍 。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566109" height="1258" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG172.jpeg" width="2018" /></p>
+<p>其他的模块，比如 CPU 和 GPU，还有传感器中枢里面还有微型 NPU，都提升了 AI 能力，针对各种具体场景进行运算。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566108" height="1536" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG175.jpeg" width="2434" /></p>
+<p>相比于之前基于骁龙 8 系手机芯片略微魔改放在 PC，还有骁龙 8cx，这次看得出高通是真的寄希望于骁龙 X Elite 能在笔记本 PC 领域大放异彩，拿下英特尔和苹果的份额。但需要提醒的是，搭载骁龙 X Elite 的笔记本要到明年年中才会出货，所以我们还得等半年左右的时间，才能真正看到这款芯片的实力。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank">刘学文</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">在命运的塑料大棚里，每棵被喷了过多农药的白菜心中，都曾经有一个成为无公害有机蔬菜的梦想。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:owenliu@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://weibo.com/u/1731822990" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://www.ifanr.com/5" style="margin-right: 14px; text-decoration: none;" target="_blank">1</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1566097">原文链接</a> ·
+<a href="https://www.ifanr.com/1566097#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 03:14:52 +0000</pubDate>
+<updated>Thu, 26 Oct 2023 03:14:52 +0000</updated>
+</item>
 
 <item>
 <title>早报｜首发 | 小米 14 超前实测出炉 / 苹果将推新款 AirPods / 春节连休 8 天，除夕不放假</title>
