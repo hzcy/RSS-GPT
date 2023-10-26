@@ -10982,3 +10982,15 @@ Existing_entries: 87
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-26 04:12:28.311006
+------------------------------------------------------
+Started: 2023-10-26 04:26:18.295832
+Existing_entries: 87
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [又一家新势力与巨头车企达成合作，零跑的「技术批发」成了](https://www.ifanr.com/1566125?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-26 04:26:21.912248
