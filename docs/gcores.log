@@ -12832,3 +12832,39 @@ Existing_entries: 280
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-26 07:09:01.393510
+------------------------------------------------------
+Started: 2023-10-26 07:20:52.527890
+Existing_entries: 280
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《葬送的芙莉莲》宝箱怪靠枕开发中，2024年春季发售](https://www.gcores.com/articles/172902)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《潜水员戴夫》现已在NS发售，港区定价140港币](https://www.gcores.com/articles/172900)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [漫画《偷偷爱着你》作者中条比纱也因病去世，享年50岁](https://www.gcores.com/articles/172898)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [国产叙事游戏《完美的一天》登陆主机平台，Steam喜迎史低价](https://www.gcores.com/articles/172895)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [桌游·卡牌五魁首丨近期桌游圈新闻快讯速览](https://www.gcores.com/articles/172890)
+append_entries: 5
+Finish: 2023-10-26 07:20:57.274570

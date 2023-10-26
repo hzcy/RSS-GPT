@@ -4,6 +4,74 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>小米 14 即将首发高通骁龙 8 Gen3 ，和往年 8 系旗舰芯片有点不一样</title>
+<link>https://www.ifanr.com/1566124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1566124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone wp-image-1566140" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG181.jpeg" width="1200" /></p>
+<p>虽然本次 2023 高通骁龙峰会上，PC 芯片骁龙 X Elite 抢走了骁龙 8 Gen3 的不少风头，不过只此一份的 Android 手机旗舰芯片，加上马上就是小米 14 系列的首发以及性能解禁，也帮骁龙 8 Gen3 挣回了热度。</p>
+<p>节奏提前，AI 当道，今年的骁龙 8 Gen3，和往年的 8 系旗舰芯片确实有点不一样，今年高通也正式披露了关于这颗芯片的更多细节。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566151" height="419" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG182.jpeg" width="695" /></p>
+<p>在去年骁龙 8 Gen2 上，高通尝试了 1+4+3 的 3 丛集架构，即 1 颗超大性能核心，4 核大性能核心和 3 颗小能效核心；今年高通对这种 3 丛集架构进行了微调，尝试了 1+5+2 的架构，即 1 颗超大性能核心，5 核大性能核心和 2 颗小能效核心。</p>
+<p>具体来说，是 1 颗 3.3GHz Cortex-X4 超大核、2 颗 3.0GHz Cortex-A720 大核心、3 颗 3.3GHz Cortex-A720 大核心和 2 颗 2.3GHz Cortex-A520 小核心。</p>
+<p>可能是高通架构更优秀了，台积电的 4nm 工艺更为成熟了，所以本次骁龙 8 Gen3 在性能提升 30% 的情况下，能效还提升了 20%。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566150" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG183.jpeg" width="1131" /></p>
+<p>GPU 一直是高通的强项部分，也是不会说太多的部分，这次骁龙 8 Gen3 的 GPU 性能提升了 25%，能效提升了 25%， 光线追踪性能提升了 40%。按照高通的说法，这些能效提升有助于降低手机功耗 10%，提升约 1 个小时的游戏时间。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566149" height="462" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG184.jpeg" width="766" /></p>
+<p>以往高通会回避 NPU 这个词，转而使用更细分的张量处理器（Tensor Processor）和向量处理器（Vector Processor）代替，但今年高通很大方地使用了 NPU 来强调本次骁龙 8 Gen3 的 AI 性能跃进。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566146" height="1012" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG186.jpeg" width="1706" /></p>
+<p>CPU、GPU、NPU 和传感器中枢一道，组成了骁龙 8 Gen3 的 AI 引擎。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566148" height="926" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG185.jpeg" width="1706" /></p>
+<p>骁龙 8 Gen3 在 AI 能力上最大的亮点在于生成式 AI，也就是 AIGC 上，具体表现在两个方面，一是支持并优化了 Stable Diffusion 文生图的体验，仅需不到一秒种就可以生成 1 张图片。二是最高支持 100 亿参数的端侧大模型，在运行 70 亿参数端侧大模型的时候，每秒可以生成 20 个 token，在在自然语言处理领域，「token」是指文本中的一个基本单元，可以是一个单词、一个字、一个子词（subword）、一个标点符号，或者其他可以进行语义处理的最小单元。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566142" height="1040" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG187.jpeg" width="1706" /> <img alt="" class="alignnone size-full wp-image-1566147" height="765" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG188.jpeg" width="1200" /></p>
+<p>在介绍影像能力的时候，高通的重点也从之前支持多少个摄像头，支持多少亿像素，支持多高分辨率多高帧率录像，变为了 AI 可以帮助影像怎么玩。比如以往擦除对象一般只在照片中，而现在骁龙 8 Gen3 支持在视频当中擦除选中的对象。再或者根据一张照片的内容，利用 AI 进行推理，拓展照片的范围，以及动态地给实时视频更换背景等等。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566145" height="1115" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG190.jpeg" width="1706" /> <img alt="" class="alignnone size-full wp-image-1566141" height="881" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG189.jpeg" width="1445" /> <img alt="" class="alignnone size-full wp-image-1566143" height="1070" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG191.jpeg" width="1706" /></p>
+<p>最后就是游戏领域，这块高通重点讲解了 3 个新特性：超级分辨率首次支持到了 8K 分辨率；Adreno Frame Motion Engine 首次支持 240fps 帧率玩游戏，以及是首个支持虚幻 5 引擎的移动芯片，并且可以实现全局光照。</p>
+<p>这个三个特性叠加，也终于让高通喊出了比肩端游的口号，毕竟帧率分辨率和画质，都已经步入临界点，移动游戏也不再只是一些小品级作品了。</p>
+<p>就在高通披露了骁龙 8 Gen3 细节之后不久，小米也对小米 14 系列的性能进行了解禁，整体的性能表现相当不错，比如 GeekBench 5 多核成绩超过 7000，和苹果 A17 Pro 完全一个档位，比如 GPU 以及可以支持《原神》在最高画质以 60fps 全程畅玩，几乎不掉帧，同时发热和功耗表现都还不错。</p>
+<p>不一样的是，小米和荣耀作为高通的合作伙伴，都官宣了旗下自研的端侧大模型，这让骁龙 8 Gen3 的 AI 能力一上来就有用武之地，这就是骁龙 8 Gen3 相比于往年不一样的地方，以往的 AI 基本上都是配角，或者是幕后角色，而今年则不一样，AI 是绝对主角，也是台前角色。</p>
+<p>&nbsp;</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank">刘学文</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">在命运的塑料大棚里，每棵被喷了过多农药的白菜心中，都曾经有一个成为无公害有机蔬菜的梦想。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:owenliu@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://weibo.com/u/1731822990" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://www.ifanr.com/5" style="margin-right: 14px; text-decoration: none;" target="_blank">1</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1566124">原文链接</a> ·
+<a href="https://www.ifanr.com/1566124#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 26 Oct 2023 07:06:58 +0000</pubDate>
+<updated>Thu, 26 Oct 2023 07:06:58 +0000</updated>
+</item>
 
 <item>
 <title>新势力想要拉满仪式感，还得向百年车企取取经</title>
