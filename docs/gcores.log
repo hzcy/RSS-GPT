@@ -12784,3 +12784,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《合金装备Δ 食蛇者》采用虚幻5打造：Xbox合作伙伴游戏展示会消息汇总](https://www.gcores.com/articles/172888)
 append_entries: 2
 Finish: 2023-10-26 05:08:53.233217
+------------------------------------------------------
+Started: 2023-10-26 05:25:07.351557
+Existing_entries: 280
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-26 05:25:07.587315
