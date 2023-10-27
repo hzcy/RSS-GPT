@@ -13552,3 +13552,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《消逝的光芒2 人与仁之战》现已开启《吸血鬼：避世血族》联动](https://www.gcores.com/articles/172955)
 append_entries: 3
 Finish: 2023-10-27 08:27:19.219408
+------------------------------------------------------
+Started: 2023-10-27 08:35:32.333769
+Existing_entries: 307
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-27 08:35:32.540548
