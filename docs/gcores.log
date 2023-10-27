@@ -13426,3 +13426,39 @@ Existing_entries: 299
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-27 05:08:55.749102
+------------------------------------------------------
+Started: 2023-10-27 05:25:05.898401
+Existing_entries: 299
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [新DEMO上线！科幻怪谈《挣脱：十三号站点》参与Steam尖叫游戏节](https://www.gcores.com/articles/172966)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《传说法师》手机版正式发售！解锁畅快淋漓的Roguelike体验](https://www.gcores.com/articles/172965)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《幽灵行者2》发售预告公布，游戏现已推出](https://www.gcores.com/articles/172962)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Epic喜加二：《恶灵附身2》及《艾玛和泰迪熊：影子历险记》免费领](https://www.gcores.com/articles/172957)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [寻找儿时回忆：独立游戏《变色龙童绘历险》Steam首次公开](https://www.gcores.com/articles/172956)
+append_entries: 5
+Finish: 2023-10-27 05:25:12.567788
