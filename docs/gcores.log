@@ -13528,3 +13528,27 @@ Existing_entries: 304
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-27 08:11:59.731766
+------------------------------------------------------
+Started: 2023-10-27 08:27:16.145790
+Existing_entries: 304
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《守望先锋2》× 女子音乐组合LE SSERAFIM官方MV：“Perfect Night”正式上线](https://www.gcores.com/articles/172969)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [寻找儿时回忆，独立游戏《变色龙童绘历险》Steam首次公开](https://www.gcores.com/articles/172959)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《消逝的光芒2 人与仁之战》现已开启《吸血鬼：避世血族》联动](https://www.gcores.com/articles/172955)
+append_entries: 3
+Finish: 2023-10-27 08:27:19.219408
