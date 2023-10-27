@@ -13792,3 +13792,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [动画电影《灌篮高手/The First Slam Dunk》日版影碟今日起正式接受预订](https://www.gcores.com/articles/172984)
 append_entries: 1
 Finish: 2023-10-27 17:48:43.119070
+------------------------------------------------------
+Started: 2023-10-27 18:11:23.978137
+Existing_entries: 311
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-27 18:11:24.573047
