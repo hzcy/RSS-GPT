@@ -13354,3 +13354,33 @@ Existing_entries: 295
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-27 03:09:54.830279
+------------------------------------------------------
+Started: 2023-10-27 03:22:19.599788
+Existing_entries: 295
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [RE引擎进一步扩展：卡普空次世代游戏引擎“REX”开发中](https://www.gcores.com/articles/172951)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [共庆万圣节：《暗黑4》将于今日在战网开启免费试玩周末](https://www.gcores.com/articles/172950)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [Steam尖叫游戏节现已隆重开幕，万圣贴纸免费领](https://www.gcores.com/articles/172949)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《冲就完事模拟器》将于11月16日迎来《回到未来》联动](https://www.gcores.com/articles/172948)
+append_entries: 4
+Finish: 2023-10-27 03:22:25.904906
