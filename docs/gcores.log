@@ -13732,3 +13732,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《堕落之主》公布媒体赞誉宣传片](https://www.gcores.com/articles/173003)
 append_entries: 1
 Finish: 2023-10-27 15:34:15.335651
+------------------------------------------------------
+Started: 2023-10-27 15:48:36.009664
+Existing_entries: 310
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-27 15:48:36.220045
