@@ -13462,3 +13462,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [寻找儿时回忆：独立游戏《变色龙童绘历险》Steam首次公开](https://www.gcores.com/articles/172956)
 append_entries: 5
 Finish: 2023-10-27 05:25:12.567788
+------------------------------------------------------
+Started: 2023-10-27 05:34:12.270529
+Existing_entries: 304
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-27 05:34:12.483658
