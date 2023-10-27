@@ -13780,3 +13780,15 @@ Existing_entries: 310
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-27 17:33:50.683228
+------------------------------------------------------
+Started: 2023-10-27 17:48:41.015027
+Existing_entries: 310
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [动画电影《灌篮高手/The First Slam Dunk》日版影碟今日起正式接受预订](https://www.gcores.com/articles/172984)
+append_entries: 1
+Finish: 2023-10-27 17:48:43.119070
