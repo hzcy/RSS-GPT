@@ -4,6 +4,123 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>发布首款 AI PC，联手英伟达，联想的 AI 新浪潮有什么不一样</title>
+<link>https://www.ifanr.com/1566344?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1566344?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p>在 AI 与芯片竞争如日中天的 2023 年，想同时得到英伟达和 AMD 的鼎力支持绝非易事，但联想是个例外；想让英特尔和高通为同一个品牌站台难如登天，但联想也是个例外。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566345" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2023/10/WechatIMG5cc8a6961978c739243b45c913fd6107.jpeg" width="1919" /></p>
+<p>10 月 24 日，NVIDIA、AMD、英特尔、高通、微软等科技公司 CEO 罕见地出席同一场活动，那是第九届联想 TechWord —— 联想集团 CEO 杨元庆在活动上展示了一系列紧扣 AI 主题的产品与技术，用杨元庆的话说就是：</p>
+<blockquote><p>AI For All。</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1566358" height="1056" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2023-10-25-15.25.14.png" width="1920" /></p>
+<p>联想是世界上保有量最大的 PC 品牌之一，光 ThinkPad 系列的销量就超过 2 亿台，无论是 AI 芯片还是 AI 软件，只有进入使用场景中才能发挥最大化价值，我想这就是联想 TechWorld 大会如此受瞩目的原因。</p>
+<p><strong>爱范儿也在第一时间来到了现场</strong>，通过和各大科技巨头的 CEO 交流，逐渐对联想描绘的「AI 赋能的新时代」有了不一样的认识；也通过每家公司对 AI 不同视角的解读，对「AI for All」有了更深的理解。</p>
+<h3>联想的次世代电脑 —— AI PC</h3>
+<p>其实「AI For All」不是什么新概念，早在 2017 年联想就已经确认了这个战略，并持续推动集团转型。时至今日，联想在 TechWorld 上重提「AI For All」，更多是希望向行业展示其成果，其中最重要的产品就是：AI PC。</p>
+<p>准确来讲，AI PC 并不是某一款具体的产品，而是联想对于下一代 PC 的定义，真正上市的产品要等到明年才会交付。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566348" height="689" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2.png" width="1269" /></p>
+<p>联想智能设备业务集团（IDG）总裁 Luca Rossi 在会后的采访中也向爱范儿透露了，未来一两年 AI 与 PC 会带来的一些惊喜：</p>
+<blockquote><p>我想跟大家分享的是未来我们的 CPU 处理器上会加载一个 NPU。NPU 将帮助我们更好地管理 AI 相关的工作负载，提升效能，降低电池消耗，提高整体的速度和性能。</p>
+<p>同时，会有与之相匹配的软件推向市场，这些软件不仅来自微软，也会来自许多其他的独立软件开发商（ISV）。这些软件将充分利用 NPU 的力量，实现高速运行 AI 算法和 AI 推理。</p>
+<p>AMD 已经推出了 Rise in AI 处理器。在未来的两到三个月，还会有英特尔的 Meteor Lake。这两款 CPU 都加载了 NPU，能够极大加速 AI 推理能力。</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1566346" height="1752" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jpjp.png" width="2880" /></p>
+<p>同时联想集团董事长兼 CEO 杨元庆也非常实诚的回答了 AI PC 和用户见面的大致时间，以及联想对于 PC 市场的预测：</p>
+<blockquote><p>AI PC 今年肯定见不着，但明年肯定能见到。但是不是最理想化的最完善的，可能要一代一代的去加以优化。</p>
+<p>PC 市场的话明年大部分时间还不会受 AI PC 的刺激，明年市场应该会恢复增长。有可能的话从季度开始就恢复年比年的增长。前几个季度是季度比季度都在改善，我们相信这个季度的话不但会比上个季度好，还很有可能见到年比年的正增长。</p>
+<p>明年全球的个人电脑市场大概会在 5% 左右的单位数增长。当然 AI PC 也有一个成熟的过程，在一开始可能还是高端产品，在发布以后占到整个市场的 10% 左右就不错了，然后再逐渐把它推到主流。</p>
+<p>但是我相信未来可能每一部电脑都是人工智能的电脑。</p></blockquote>
+<p><strong>在个人智能终端能够运行个人大模型，将会是 AI PC 最重要的能力。</strong></p>
+<p>联想认为，AI PC 设备将会是用户的数字延伸，是「个人的人工智能双胞胎」。联想通过大模型压缩技术，让原本需要强大算力的大模型能够在本地胜任大部分工作，减少对云端处理能力的依赖。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566350" height="727" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt4.png" width="1269" /></p>
+<p>但目前，对边缘计算的管理，就像管理 1 万家不同的商店一样，起码从规模上就是一个非常困难的事情。</p>
+<p>要如何管理、如何平衡提供更好的算力和更经济、更可持续的发展？联想基础设施方案业务集团（ISG）总裁 Kirk Skaugen 用实际的例子，介绍了联想的技术手段：</p>
+<blockquote><p>我们开发了一个联想开放云自动化部署平台 (LOC-A)，能更快速响应客户需求，这为我们赢得了大量的边缘用例。</p>
+<p>例如，你是一家快餐连锁店，你只需在边缘侧验证商店编号，它就会告诉你，你是否有自助服务终端、开车点餐服务等，然后我们可以从云端下载所有内容到裸机，并在几分钟内安装完成。如果用传统的方法要花几周才完成，那时人们可能会把它们运送到仓库中，然后放置几个月，当它被送回来使用时，软件系统可能已经过期了。</p>
+<p>现在有了联想开放云自动化部署平台，再携手我们的合作伙伴。第一，我们可以提供 CPU 补丁、安全补丁、应用程序更新，这样在部署服务器后立即就能使用。第二，我们深信混合人工智能世界，有一部分堆栈在云中会很好，但是如果没有了互联网连接，你仍需要经营你的商店、仍希望有分析、想做所有事情，比如了解你的员工在商店中工作了多少小时、确保售货亭和一切都正常。</p>
+<p>所以你不能把所有东西都移到云端，而是应该本地与云端平衡部署。</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1566349" height="847" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt3.png" width="1269" /></p>
+<p>与此同时，在这些设备上建立本地知识库，个人大模型将使用存储在设备或家庭服务器上的个人数据进行推理。在此基础上，联想延伸出了「企业级人工智能双胞胎」的概念，提供企业级的智能化方案。</p>
+<h3>联想混合大模型 —— 给数据安全「上把锁」</h3>
+<p>联想认为，拥有持续学习能力、提供个性化并保护用户隐私的服务、配备知识库适应用户需求以及可自然交互这四项特征，将会是 AI PC 的关键。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566355" height="1056" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2023-10-25-15.22.57.png" width="1920" /></p>
+<p>打造全景式的人工智能，就必须建立「个人 &#8211; 公共」的沟通渠道，带来交流便利的同时，也产生了一个两难的处境。</p>
+<p>人们既希望拥有公共大模型回答问题的功能，又希望自己的数据仅仅留存在自己的设备上或自己的企业内部，避免个人隐私、商业机密，变成公众信息的一部分。</p>
+<p>如果要做到「既要-也要」，联想给出的答案是：通过「个人大模型」和「企业级大模型」来实现。</p>
+<p>联想的大模型压缩技术，通过用个人大模型将存储在设备或家庭服务器上的个人数据进行推理。除非用户授权，否则用户的个人数据永远不会被共享或发送至公有云，从而确保了个人隐私和数据安全。而企业级大模型将与公用大模型和公有云并存，构成混合形态、混合部署的人工智能。</p>
+<p>简单说，类似于网络游戏的「离线模式」或「单机模式」，你的使用数据都只会保存在你的电脑，当然只要你选择了「不上传云端」，那就不用担心个人隐私泄漏的问题。</p>
+<p>碰巧的是，微软和联想在「混合大模型」研究中有许多的合作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566351" height="722" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt5.png" width="1270" /></p>
+<p>联想也和微软在讨论，如何将个人人工智能双胞胎（AI Twin）和企业级人工智能双胞胎的相关愿景，融合进未来的解决方案中。</p>
+<p>微软把联想的设备和服务与技术相结合，为各行各业的客户提供帮助和支持。双方也将在现有合作的基础上继续努力。</p>
+<p>爱范儿在现场采访到联想 ISG 总裁 Kirk Skaugen 关于联想解决方案偏向时，他这样说道：</p>
+<blockquote><p>联想的目标是为客户提供它们想要的整合服务。联想不是仅仅宣传我们的硬件有多好，而是提供包括硬件、软件和服务在内的完整解决方案。</p></blockquote>
+<h3>杨元庆与黄仁勋放大招：混合人工智能解决方案来临</h3>
+<p>目前为止，普通用户对大模型的感知还不强，但实际上很多 500 强企业已经将大模型与自身业务进行深度结合，因此 AI PC 的爆发，很可能从企业级市场开始</p>
+<p>在今年的 TechWord ，联想也宣布将与英伟达合作推出一个新的混合人工智能计划，将下一代云人工智能技术带给世界各地的企业用户。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566360" height="1056" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2023-10-25-15.57.54.png" width="1920" /></p>
+<p>联想将人工智能驱动的算力引入数据生成的各个地方，从边缘到云端，帮助企业轻松部署定制化的生成式人工智能应用，推动创新和转型，覆盖千行百业。</p>
+<p>每个企业对私域大模型的构建，都会有不一样的需求，比如制造、交通、医疗、金融、能源等等领域的客户，都对大模型提出了不一样的要求。</p>
+<p>联想服务业务集团（SSG）总裁黄建恒将所有的诉求总结为了三个方面——客服、市场推广、运维效率：</p>
+<blockquote><p>现在我看到大概有三个比较成熟的 AI 场景，第一就是客服，尤其是在面对客户比较多的地方，比如说银行，比如运营商，全球的运营商，因为它们有很大的 call center，本来就面对庞大的客户的这些需求。第二，市场推广，其实建立 AI 的应用也非常成熟。第三，运维服务效率的提升，比如说通过 AI App 让我们的交付更快更有效率。</p>
+<p>我们自己内部研究也看到，除了这三个场景，其实所有专业知识的要求，其实 Gen AI 都能有比较好的效果。</p>
+<p>比如说我跟一个大学谈，这个大学每一年招生可能有 5 万个申请，5 万个申请你怎么一个一个看？而且看完以后能让你可以选到好的学生再做下一步的面试？这个是一个非常好通过 AI 来解决的问题。</p>
+<p>再如律师，因为很多文件其实它都是有规则在后面的，怎么去看这个合同，怎么去草拟一个合同，这些也是非常适合用 AI 的场景。</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1566361" height="1056" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2023-10-25-15.58.26.png" width="1920" /></p>
+<p>和英伟达在人工智能领域的合作关系，杨元庆也给出了最新的展望：</p>
+<blockquote><p>英伟达在我们的战略合作伙伴关系中，过去是比较重要的，未来可能会更重要。</p>
+<p>过去我们的游戏电脑，用的是英伟达的显卡，工作站也是用他的 GPU，高性能计算也是，在很多需要 GPU 的方面都有广泛的合作。我们也是英伟达比较重要的比较大的客户，未来合作肯定就更广泛了，尤其是延展到 AI 的计算、人工智能的基础架构这些新的领域。</p>
+<p>英伟达也希望不仅仅占有公有大模型的市场，在企业的应用、私有人工智能、私有云做基础的私有人工智能等等领域都要更加有所作为，也包括把人工智能的计算带到边缘，带到产生数据的地方。英伟达在这些方面都是有雄心壮志的。</p>
+<p>当然英伟达提供芯片，最后要做成产品推向市场的还得是我们。所以我们双方会是一个更加全方位的合作伙伴，从终端设备到边缘计算到数据中心，到私有云、公有云。</p></blockquote>
+<h3>联想的 AI 新浪潮</h3>
+<p>在联想的构想中，今后的 AI PC 不仅仅是搭载了 AI 能力的 PC 终端，而是二者都可以通过「传统」与「新兴」相结合的方式，来为用户提供更智能的未来生活。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566357" height="1056" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2023-10-25-15.24.14.png" width="1920" /></p>
+<p>联想集团首席技术官、高级副总裁芮勇，用三个场景将二者的关系串联在一起：</p>
+<blockquote><p>AI 怎么帮助 PC？你在不同的场景使用这个模式的时候，他其实已经是帮你去优化了很多东西，什么时候应该把最强大的电量都给你，计算量都给你，把内存都给你。</p>
+<p>比如说你在玩一个游戏，他知道你是在做直接把给性能给你调到最高，但是性能调到最高的话，显然电池用的多。但有的时候就是上网回复电子邮件，我没有必要把我的 CPU、我的电池都搞在那么高的一个性能，所以他会去帮助你分配处理。再比如放腿上的时候可能就是上网，放在桌子上的时候可能我是比较认真的工作，这两个他会去做这种差异化的优化。</p>
+<p>PC 怎么帮着 AI ？刚才元庆已经提了，新的大模型出现之后，PC 一定是一个 AI 的载体，我觉得除了做载体以外，我们还觉得它还是一个入口。大模型今后它一定是以设备端作为一个入口。联想每年新的设备都是 1 亿多台，手机、平板、 PC 等等，这些都会成为新的个人的大模型的入口。</p></blockquote>
+<p>未来三年，联想将在 AI 研发上投入 10 亿美金，而在杨元庆看来：「10 亿美元不是多了，而是根本不够用。」</p>
+<p>就在联想 TechWorld 大会后第二周，小米正式发布了打造「人车家全生态」的澎湃 OS，其中能够跨设备的智能思考中枢 HyperMind 让人印象深刻。11 月初，vivo 开发者大会上也将发布 vivo 的自研 AI 大模型与操作系统。放眼海外，OpenAI 最新一轮估值已经超过 800 亿美元，不到一年时间里，一跃成为全球前三的独角兽企业。</p>
+<p><img alt="" class="alignnone size-full wp-image-1566359" height="1056" src="https://s3.ifanr.com/wp-content/uploads/2023/10/jt2023-10-25-15.26.31.png" width="1920" /></p>
+<p>AI 领域的快速发展，正在重塑全球科技行业的竞技格局。正如杨元庆所说的那样：</p>
+<blockquote><p>竞争对手每天都都不一样，我们最早做 PC 的时候，那时候的竞争对手是国产的品牌。今天就完全不一样，所以永远在变化……我们就要勇立潮头，就是要在把握大趋势大方向的情况下，成为领航的企业，而不是成为追赶的企业。</p></blockquote>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/tifan" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/tifan" style="color: #000; text-decoration: none;" target="_blank">Difan Zhang (Alex)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;"></div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:tifan@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="https://www.ifanr.com/tifan" style="margin-right: 14px; text-decoration: none;" target="_blank">Twitter</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1566344">原文链接</a> ·
+<a href="https://www.ifanr.com/1566344#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 27 Oct 2023 10:31:29 +0000</pubDate>
+<updated>Fri, 27 Oct 2023 10:31:29 +0000</updated>
+</item>
 
 <item>
 <title>3999 起！小米 14 杀疯了，越级对标 iPhone 15 Pro， 澎湃 OS 惊艳亮相</title>
