@@ -13384,3 +13384,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《冲就完事模拟器》将于11月16日迎来《回到未来》联动](https://www.gcores.com/articles/172948)
 append_entries: 4
 Finish: 2023-10-27 03:22:25.904906
+------------------------------------------------------
+Started: 2023-10-27 03:34:09.502517
+Existing_entries: 299
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-27 03:34:09.777777
