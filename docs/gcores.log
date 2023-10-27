@@ -13642,3 +13642,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [首周价68.8元，逃狱题材CRPG《动物迷城》将于11月3日上线](https://www.gcores.com/articles/172992)
 append_entries: 2
 Finish: 2023-10-27 11:33:50.890100
+------------------------------------------------------
+Started: 2023-10-27 11:48:39.604676
+Existing_entries: 309
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-27 11:48:39.759593
