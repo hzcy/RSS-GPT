@@ -11486,3 +11486,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [早报｜荣耀手机国内市场份额跃至第一/小米 14 起售价 3999 元/6G 或最晚 2030 年投入商用](https://www.ifanr.com/1566312?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-27 02:06:40.149123
+------------------------------------------------------
+Started: 2023-10-27 02:27:34.786463
+Existing_entries: 91
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-27 02:27:36.334105
