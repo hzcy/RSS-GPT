@@ -12386,3 +12386,10 @@ Existing_entries: 95
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-28 16:48:41.637305
+------------------------------------------------------
+Started: 2023-10-28 17:07:39.428119
+Existing_entries: 95
+Fetching from https://www.ifanr.com/feed
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/ifanr7
