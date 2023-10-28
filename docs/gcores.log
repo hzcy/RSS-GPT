@@ -14302,3 +14302,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《王者荣耀世界》全新实机演示，生动的王者世界已在眼前](https://www.gcores.com/articles/172848)
 append_entries: 1
 Finish: 2023-10-28 16:38:22.511780
+------------------------------------------------------
+Started: 2023-10-28 16:48:43.234412
+Existing_entries: 312
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-28 16:48:43.428874
