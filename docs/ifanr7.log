@@ -12014,3 +12014,15 @@ Existing_entries: 94
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-10-27 23:48:23.343998
+------------------------------------------------------
+Started: 2023-10-28 00:39:36.046412
+Existing_entries: 94
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 524 Server Error:  for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [早报｜华为前三季度销售收入 4566 亿元 / 品牌方否认李佳琦卖假货 / 2024 放假安排公布 | 未来周报](https://www.ifanr.com/1566391?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-10-28 00:42:58.945447
