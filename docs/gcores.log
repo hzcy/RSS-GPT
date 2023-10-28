@@ -14290,3 +14290,15 @@ Existing_entries: 311
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-28 16:28:00.368737
+------------------------------------------------------
+Started: 2023-10-28 16:36:47.865598
+Existing_entries: 311
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 502 Server Error: Bad Gateway for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《王者荣耀世界》全新实机演示，生动的王者世界已在眼前](https://www.gcores.com/articles/172848)
+append_entries: 1
+Finish: 2023-10-28 16:38:22.511780
