@@ -14914,3 +14914,15 @@ Existing_entries: 317
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-29 18:34:29.284277
+------------------------------------------------------
+Started: 2023-10-29 18:48:44.840957
+Existing_entries: 317
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [任天堂申请新专利，“可一分为二”的双屏游戏设备](https://www.gcores.com/articles/173056)
+append_entries: 1
+Finish: 2023-10-29 18:48:48.143337
