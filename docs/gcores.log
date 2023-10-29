@@ -14590,3 +14590,15 @@ Existing_entries: 312
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-29 06:11:32.840290
+------------------------------------------------------
+Started: 2023-10-29 06:26:59.475476
+Existing_entries: 312
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《老友记》主演马修·派瑞于家中去世，年仅五十四岁](https://www.gcores.com/articles/173033)
+append_entries: 1
+Finish: 2023-10-29 06:27:01.904682
