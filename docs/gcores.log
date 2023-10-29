@@ -14602,3 +14602,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [《老友记》主演马修·派瑞于家中去世，年仅五十四岁](https://www.gcores.com/articles/173033)
 append_entries: 1
 Finish: 2023-10-29 06:27:01.904682
+------------------------------------------------------
+Started: 2023-10-29 06:35:15.976172
+Existing_entries: 313
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-29 06:35:16.384947
