@@ -14926,3 +14926,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [任天堂申请新专利，“可一分为二”的双屏游戏设备](https://www.gcores.com/articles/173056)
 append_entries: 1
 Finish: 2023-10-29 18:48:48.143337
+------------------------------------------------------
+Started: 2023-10-29 19:07:09.904137
+Existing_entries: 318
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-29 19:07:10.422455
