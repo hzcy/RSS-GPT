@@ -14866,3 +14866,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [剧场版《魔法少女小圆 沃普尔吉斯的回天》特报1.1公开](https://www.gcores.com/articles/173051)
 append_entries: 2
 Finish: 2023-10-29 16:36:57.212776
+------------------------------------------------------
+Started: 2023-10-29 16:48:31.897808
+Existing_entries: 317
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-29 16:48:32.308956
