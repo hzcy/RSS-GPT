@@ -14734,3 +14734,15 @@ Existing_entries: 313
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-29 11:48:54.372316
+------------------------------------------------------
+Started: 2023-10-29 12:15:17.414414
+Existing_entries: 313
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [下周节目预告 10.30~11.5](https://www.gcores.com/articles/173046)
+append_entries: 1
+Finish: 2023-10-29 12:15:20.331053
