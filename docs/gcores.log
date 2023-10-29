@@ -14848,3 +14848,21 @@ Existing_entries: 315
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-29 16:28:07.573936
+------------------------------------------------------
+Started: 2023-10-29 16:36:52.199636
+Existing_entries: 315
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [TV动画《青之驱魔师 岛根启明篇》片头曲解禁映像公开，2024年1月播出](https://www.gcores.com/articles/173052)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [剧场版《魔法少女小圆 沃普尔吉斯的回天》特报1.1公开](https://www.gcores.com/articles/173051)
+append_entries: 2
+Finish: 2023-10-29 16:36:57.212776
