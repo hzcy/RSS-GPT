@@ -15400,3 +15400,18 @@ Existing_entries: 333
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-30 12:48:32.751565
+------------------------------------------------------
+Started: 2023-10-30 13:11:55.639329
+Existing_entries: 333
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [JOYTOY战锤40K新品公布：宏声野战炮与重锤火箭发射器参战](https://www.gcores.com/articles/173118)
+Token length: 713
+Summarized using GPT-3.5-turbo-16k
+Append: [《英灵神殿》开发者日志：重型武器](https://www.gcores.com/articles/173057)
+append_entries: 2
+Finish: 2023-10-30 13:12:20.046255
