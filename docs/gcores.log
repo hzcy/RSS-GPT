@@ -15106,3 +15106,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《GTA5》在线模式公布万圣节宣传片，上线就送万圣节面具和降落伞包](https://www.gcores.com/articles/173060)
 append_entries: 4
 Finish: 2023-10-30 02:48:46.785732
+------------------------------------------------------
+Started: 2023-10-30 03:10:10.220631
+Existing_entries: 322
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-30 03:10:10.466477
