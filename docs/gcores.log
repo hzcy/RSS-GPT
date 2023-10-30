@@ -15364,3 +15364,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [“FPS模式”挺有想法，联想拯救者举办LEGION GO掌机新品体验会](https://www.gcores.com/articles/173074)
 append_entries: 3
 Finish: 2023-10-30 10:48:50.736983
+------------------------------------------------------
+Started: 2023-10-30 11:08:25.113189
+Existing_entries: 333
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-30 11:08:25.300440
