@@ -15262,3 +15262,33 @@ Existing_entries: 326
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-30 08:28:13.995216
+------------------------------------------------------
+Started: 2023-10-30 08:36:23.480832
+Existing_entries: 326
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [剧场版《间谍过家家 CODE: White》公开新预告片，12月22日上映](https://www.gcores.com/articles/173088)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [手游《错误游戏 Re：set》宣布将于2024年1月5日停服](https://www.gcores.com/articles/173105)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Falcom公布《英雄传说 闪之轨迹 北方战争》手游最新预告](https://www.gcores.com/articles/173096)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [武侠游戏《逸剑风云决》10月更新上线，DLC正在规划中](https://www.gcores.com/articles/173092)
+append_entries: 4
+Finish: 2023-10-30 08:36:28.755943
