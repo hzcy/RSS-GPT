@@ -15340,3 +15340,27 @@ Existing_entries: 330
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-30 10:37:25.882524
+------------------------------------------------------
+Started: 2023-10-30 10:48:44.715276
+Existing_entries: 330
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [手游《王国之心 Missing-Link》宣传片公开，2024年上线](https://www.gcores.com/articles/173119)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [销售额397.22亿日元：光荣特库摩公开上半财年财报](https://www.gcores.com/articles/173114)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [“FPS模式”挺有想法，联想拯救者举办LEGION GO掌机新品体验会](https://www.gcores.com/articles/173074)
+append_entries: 3
+Finish: 2023-10-30 10:48:50.736983
