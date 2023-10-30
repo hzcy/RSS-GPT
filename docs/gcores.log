@@ -15451,3 +15451,15 @@ Existing_entries: 335
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-30 14:34:50.141435
+------------------------------------------------------
+Started: 2023-10-30 14:48:30.052720
+Existing_entries: 335
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《使命召唤》系列20周年纪念视频，官推发文回顾系列历代作品](https://www.gcores.com/articles/173104)
+append_entries: 1
+Finish: 2023-10-30 14:48:33.207281
