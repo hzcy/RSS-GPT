@@ -15076,3 +15076,33 @@ Existing_entries: 318
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-30 02:39:00.494181
+------------------------------------------------------
+Started: 2023-10-30 02:48:36.577025
+Existing_entries: 318
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [微软封杀未授权第三方Xbox外设，两周后彻底无法使用](https://www.gcores.com/articles/173067)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [前《战地》团队打造，免费射击游戏《The Finals》确认采用AI配音](https://www.gcores.com/articles/173063)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [不再免费推出：《迪士尼梦幻星谷》宣布调整正式版价格计划](https://www.gcores.com/articles/173061)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《GTA5》在线模式公布万圣节宣传片，上线就送万圣节面具和降落伞包](https://www.gcores.com/articles/173060)
+append_entries: 4
+Finish: 2023-10-30 02:48:46.785732
