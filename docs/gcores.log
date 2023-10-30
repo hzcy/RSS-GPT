@@ -15292,3 +15292,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [武侠游戏《逸剑风云决》10月更新上线，DLC正在规划中](https://www.gcores.com/articles/173092)
 append_entries: 4
 Finish: 2023-10-30 08:36:28.755943
+------------------------------------------------------
+Started: 2023-10-30 08:48:41.426388
+Existing_entries: 330
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-30 08:48:41.602534
