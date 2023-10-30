@@ -15172,3 +15172,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [像素风肉鸽游戏《亡灵法师》现已结束抢先体验并正式发售，万圣节特价45元](https://www.gcores.com/articles/173068)
 append_entries: 4
 Finish: 2023-10-30 04:36:02.278681
+------------------------------------------------------
+Started: 2023-10-30 04:48:16.090151
+Existing_entries: 326
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-30 04:48:16.295720
