@@ -15142,3 +15142,33 @@ Existing_entries: 322
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-30 04:26:57.042406
+------------------------------------------------------
+Started: 2023-10-30 04:35:56.634281
+Existing_entries: 322
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [恭喜Team Spirit获得第十二届Dota2国际邀请赛冠军！](https://www.gcores.com/articles/173064)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [更多演员公布：《隐秘的角落》日影版《Gold Boy》公开新特报](https://www.gcores.com/articles/173072)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [Abylight工作室推出万圣节活动，带来游戏更新及专属折扣](https://www.gcores.com/articles/173070)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [像素风肉鸽游戏《亡灵法师》现已结束抢先体验并正式发售，万圣节特价45元](https://www.gcores.com/articles/173068)
+append_entries: 4
+Finish: 2023-10-30 04:36:02.278681
