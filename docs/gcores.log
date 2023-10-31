@@ -15973,3 +15973,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [【福利】FANTHFUL出品《幽灵诡计》主题官方授权系列周边](https://www.gcores.com/articles/173163)
 append_entries: 3
 Finish: 2023-10-31 10:10:23.954015
+------------------------------------------------------
+Started: 2023-10-31 10:29:58.106481
+Existing_entries: 350
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-31 10:29:58.391829
