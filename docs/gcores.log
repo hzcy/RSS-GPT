@@ -15829,3 +15829,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [EA公布《Apex英雄》“点燃”赛季预告，导管将于11月1日实装](https://www.gcores.com/articles/173146)
 append_entries: 3
 Finish: 2023-10-31 05:48:45.108188
+------------------------------------------------------
+Started: 2023-10-31 06:12:39.830507
+Existing_entries: 343
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-31 06:12:40.342272
