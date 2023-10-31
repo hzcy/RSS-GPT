@@ -15997,3 +15997,15 @@ Existing_entries: 350
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-31 11:08:11.073215
+------------------------------------------------------
+Started: 2023-10-31 11:19:33.160720
+Existing_entries: 350
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [机甲少女降临，Nitroplus新作《Dolls Nest》正式公布](https://www.gcores.com/articles/173190)
+append_entries: 1
+Finish: 2023-10-31 11:19:37.026435
