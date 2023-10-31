@@ -15805,3 +15805,27 @@ Existing_entries: 340
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-31 05:33:53.161943
+------------------------------------------------------
+Started: 2023-10-31 05:48:40.969794
+Existing_entries: 340
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《机战佣兵VI 境界天火》游戏原声带已正式发布](https://www.gcores.com/articles/173148)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [下一站西班牙：《荒野的召唤：垂钓者》新保护区今日推出](https://www.gcores.com/articles/173147)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [EA公布《Apex英雄》“点燃”赛季预告，导管将于11月1日实装](https://www.gcores.com/articles/173146)
+append_entries: 3
+Finish: 2023-10-31 05:48:45.108188
