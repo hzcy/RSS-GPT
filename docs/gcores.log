@@ -15883,3 +15883,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [讲述安倍晴明的学生时代：真人电影《阴阳师0》2024年上映](https://www.gcores.com/articles/173152)
 append_entries: 4
 Finish: 2023-10-31 07:09:08.126898
+------------------------------------------------------
+Started: 2023-10-31 07:20:39.937369
+Existing_entries: 347
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-31 07:20:40.266603
