@@ -4,6 +4,127 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>Apple Watch👌👌 隔空手势发布！这是它背后的故事 | 独家</title>
+<link>https://www.ifanr.com/1565282?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1565282?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<blockquote><p>苹果昨晚正式推送了 watchOS10.1，为两款新 Apple Watch 带来了双指互点两下（Double Tap）——指尖轻点就可以隔空操控屏幕：切歌、接电话、回复微信。两周前，我与 Apple Watch 的产品经理打了一通越洋电话，聊了聊这个四两拨千斤的手势背后的故事。</p>
+<p>硬哲学是爱范儿报道硬件设计的栏目，我们希望剥离技术和参数的外衣，探求设计与人文的本源。</p></blockquote>
+<p><img alt="" class="aligncenter size-full wp-image-1565565" height="615" src="https://s3.ifanr.com/wp-content/uploads/2023/10/169483783582146.gif" width="1271" /></p>
+<p>「双指互点两下」，今年新 Apple Watch 的全新功能，不是产品经理灵感乍现下的神来之笔，而来自每个用户都感同身受的——「那些只能用鼻子点击手表按钮的 moment」。</p>
+<p>在接受爱范儿的独家专访时，watchOS 的软件工程师 David Clark 直言不讳，Apple Watch 在交互上始终存在一些不尽人意：</p>
+<blockquote><p>当你遛狗的时候，电话来了。你一手拿着 Mac 赶往下一个会议，突然收到一条来自同事的消息。烘焙时手表设置的计时器响了，但你另一只手沾满了蛋液，你不想碰它。</p></blockquote>
+<p>Apple Watch 产品经理 Eric Charles 说，这些手足无措的时刻，实际上耗费了用户更多时间去思考如何操作。团队希望在关键时刻能提供一种可靠且直观的方式，确保一切都能顺利运行，而无需额外的操作。</p>
+<h3>重视 Apple Watch 的手势交互，因为每个人都在经历「情境性残疾」</h3>
+<p>「双指互点两下」的雏形可以追溯到 2015 年，彼时 Apple Watch 发布还不满一年。</p>
+<p>在一份名为《Motion and gesture input from a wearable device》的专利文件中，苹果试图探索通过肌腱感知和骨骼运动作为输入命令的可能。</p>
+<p><img alt="" class="aligncenter wp-image-1565295" height="815" src="https://s3.ifanr.com/wp-content/uploads/2023/10/patent.jpg" width="606" /></p>
+<p>&nbsp;</p>
+<p>6 年后，这些交互上的探索率先催生了 watchOS 8 的辅助触控（AssistiveTouch），用户可以通过捏紧、捏紧两下、握拳、握拳两次四种手势隔空操控手表。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1565288" height="360" src="https://s3.ifanr.com/wp-content/uploads/2023/10/IMG_7911.gif" width="640" /></p>
+<p>作为无障碍功能的一部分，手势操控在当时要解决的问题是：</p>
+<blockquote><p>如果用户只有一只手，他该如何操控 Apple Watch？</p></blockquote>
+<p>从所有人角度出发是苹果设计原则之一，他们认为不应以人群多寡做差异对待，残障人士应该拥有同等使用产品的权利。</p>
+<p>但在官方交互设计的文档中，<a href="https://developer.apple.com/design/human-interface-guidelines/inclusion">苹果对「残障」的定义却不太寻常</a>：</p>
+<blockquote><p>每个人都可能经历残疾。除了大多数人随着年龄增长所经历的残疾外，还有一些暂时性的残疾——比如由于感染导致的短期听力丧失——以及一些特定情境下的残疾——比如在嘈杂的火车上无法听清——这些都可能在不同的时间影响到每个人。</p></blockquote>
+<p>手机可以单手操控，但 Apple Watch 从设计之初就固定于用户手腕之上，当你触摸屏幕时，实际上两只手都占用了。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1565559" height="345" src="https://s3.ifanr.com/wp-content/uploads/2023/10/watch.gif" width="658" /></p>
+<p>某种意义上，每个 Apple Watch 用户都只有一只手，他们都经历过「情境性残疾」。</p>
+<p>要解决这个问题，只有语音和手势操控两条路可选。基于物理动作的手势操控显然更为自然，它不依赖于界面的按钮和控件，尤为适合 Apple Watch 这种屏幕逼仄的设备。</p>
+<p>实际上，初代 Apple Watch 就支持的「抬腕唤醒」，就奠定了手势交互的基本范式。</p>
+<p>苹果研究过多种手部动作，其中不乏一些复杂的手势操作。</p>
+<p><img alt="" class="aligncenter wp-image-1565294 " height="727" src="https://s3.ifanr.com/wp-content/uploads/2023/10/gesture-905x1024.jpg" width="643" /></p>
+<p>「双指互点两下」最终从多种手势方案中脱颖而出，源自于它满足两个标准：</p>
+<ul>
+<li>简单直观</li>
+<li>目的性明确</li>
+</ul>
+<p>前者要求没有学习门槛，目的性明确要求这个动作必须能代表用户的意图，不是误触的结果。</p>
+<p>相同的理由，「双指互点两下」只能在亮屏状态下才能激活。Eric 解释说，如果用户无法看到屏幕，就可能不知道做出了什么回应。</p>
+<h3>心率传感器的小 bug，意外催生了「双指互点两下」</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1565560" height="900" src="https://s3.ifanr.com/wp-content/uploads/2023/10/double-tap-1.jpg" width="1600" /></p>
+<p>「双指互点两下」看似简单，只需将两个手指并拢，但其背后的运作原理却颇为复杂。</p>
+<p>「双指互点两下」基于一个由机器学习构建的算法，其数据来自于三个传感器：加速度传感器、陀螺仪和光学心率传感器。传感器会来检测手和手指轻点两下时的微小运动和血流变化的特征，从而准确获取用户的真实输入意图。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1565561" height="338" src="https://s3.ifanr.com/wp-content/uploads/2023/10/v2-6914119064faf9c2c5ede9aeecf60d4e_b.gif" width="600" /></p>
+<p>光学心率传感器是不可或缺的一环，尽管它并非为手势操控而生，但在多年的研究中团队发现，用户日常的手腕动作会改变手腕与心率传感器的接触，即使是最细微的缝隙，都会对心率传感器获取数据产生影响。</p>
+<p>彼之砒霜，吾之蜜糖。这一意外的发现，让团队揭示了手势操作与心率传感器的关联。如果没有这些缝隙，「双指互点两下」的手势可能就无从实现。</p>
+<p>正如 David 所说：</p>
+<blockquote><p>相同的传感器，相同的数据，我们能够实现截然不同的目的。</p></blockquote>
+<p>与辅助功能的手势操控运行在 CPU 上不同，「双指互点两下」调用了 S9 芯片的四核神经网络引擎，这使得算法检测提高了 15% 的准确性。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1565567" height="1202" src="https://s3.ifanr.com/wp-content/uploads/2023/10/s9.jpg" width="2014" /></p>
+<p>这就可以解释：为什么旧款 Apple Watch 不支持「双指互点两下」，而辅助触控的手势在可靠性上也逊色许多。</p>
+<p>团队在开发过程中遇到了诸多挑战。比如，在面对不同体格、肢体长度甚至手势的细微差异时，如何确保每个用户都能获得一致的体验？如何克服蓝牙无线信号和 LTE 带来的干扰？</p>
+<p>David 提到，团队从公司内部收集了大量数据，来训练机器学习模型，模型会把不必要的杂讯从中取出，确保在各种场景中检测手势的可靠性，特别是在非静止的场景中，都能准确地监测到手势。</p>
+<h3>「双指互点两下」能做什么，取决于 Primary Action</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1566102" height="1102" src="https://s3.ifanr.com/wp-content/uploads/2023/10/Apple-Watch-double-tap-3-up_big.jpg.large_2x.jpg" width="1960" /></p>
+<p>解决了算法的问题，苹果还需要在软件层面设计一个机制，来确定「双指互点两下」能做什么。</p>
+<p>在 Apple Watch Series 9/Ultra 的体验中我曾提到，「双指互点两下」的操作对象并不具备既定指向性。与双指缩放不同，后者总会带来缩放效果。而双指互点两下在不同 app 中，带来的结果也不尽相同。</p>
+<p>根据人机交互中的信息加工理论，在与界面交互的过程中，用户和机器之间会不断进行信息的双向处理，既定的反馈有助于增强操作的满足感，降低使用门槛，反之则会影响效率和体验。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1565293" height="450" src="https://s3.ifanr.com/wp-content/uploads/2023/10/65a393e0-9d16-4425-b764-3f169fe1a24f.gif" width="600" /></p>
+<p>苹果的解决方案是，为不同场景不同 App 设置合乎逻辑的 Primary Action（主要操作）。比如来电时，最合乎逻辑的操作就是接听，再次互点就是挂断。对于微信通知，最合乎逻辑的方式应该是回复，所以双指互点能够直接激活语音转文字功能，再次双指互点完成发送。</p>
+<blockquote><p>我们的原则是，你不需要过多思考，只需在需要时采取行动。</p></blockquote>
+<p>在一个月的使用中我发现，与应用内部的手势相比，通知类的即时手势反馈更为实用，尤其在电话和微信这些高频应用场景中。前者只是锦上添花，后者才是雪中送炭。</p>
+<p>这也给开发者留有了更大的想象空间。当我问及开发者如何利用 Double Tap 提升软件体验时，David 说出了我心里的答案：回应通知。</p>
+<blockquote><p>开发者可以利用现有的通知 API，将最重要的操作放在合适的位置。这样当通知到来，用户可以直接双指互点来完成操作。</p></blockquote>
+<h3>「双指互点两下」解决的问题，正是 Apple Watch 研发初衷</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1553934" height="857" src="https://s3.ifanr.com/wp-content/uploads/2023/06/kevin-lynch-caros.jpg" width="1524" /></p>
+<p><a href="https://www.wired.com/2015/04/the-apple-watch/">Wired 杂志</a>记录了苹果研发 Apple Watch 鲜为人知的故事。经历了产品定义上的摇摆不定，团队终于洞察到 Apple Watch 存在的理由——智能手机正在毁掉你的生活。</p>
+<p>用 Apple Watch 软件的技术负责人 Kevin Lynch 说，人们带着手机，频繁地看着屏幕。人们对那些在餐桌上埋头于手机的人嗤之以鼻，却在每次手机叮咚或震动时，不由自主地将手伸进口袋。</p>
+<p>团队最终决定打造一款设备，一种你既不会也不能连续使用几个小时的设备，它能过滤掉大部分的信息，只为你提供最重要的信息。</p>
+<p>如果说制造让用户沉迷的产品是商业公司的基本逻辑，那么 Apple Watch 可能是第一款反注意力的苹果设备。</p>
+<p>在开发者网站上，苹果强调 Apple Watch 体验的核心在于 Moment，<a href="https://www.ifanr.com/1553925">Kevin Lynch 在之前的采访</a>中甚至给这个 Moment 框定了时间期限：从过去的 10 秒缩短到 2 秒。</p>
+<p>「双指互点两下」的诞生，是 Apple Watch 对于摆脱干扰的一次跃进。在不少场景，我已经不需要劳烦另一手去操控手表，也不需要时时刻刻为密集的消息通知而掏出手机。</p>
+<p>Apple Watch 可能无法彻底解放双手，也不会成为对抗信息过载的终究武器，但它以一种四两拨千斤的方式提供了一个崭新的视角：在信息洪流裹挟着焦虑涌来之时，除了充耳不闻，我们还能以一种怎样从容的方式与机器相处。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/hezongcheng" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/hezongcheng" style="color: #000; text-decoration: none;" target="_blank">何宗丞 (Jonathan Ho)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">从技术的旁观者与记录者，成为技术影响生活方式的实践者。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:jonathan@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://twitter.com/hezongcheng" style="margin-right: 14px; text-decoration: none;" target="_blank">Twitter</a>
+
+          
+                                  <a href="https://www.flickr.com/photos/hezongcheng/" style="margin-right: 14px; text-decoration: none;" target="_blank">Flickr</a>
+
+          
+                                  <a href="http://weibo.com/hezongcheng" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://plus.google.com/118051041556695317207" style="margin-right: 14px; text-decoration: none;" target="_blank">Google+</a>
+
+          
+                                  <a href="https://www.ifanr.com/1" style="margin-right: 14px; text-decoration: none;" target="_blank">9</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1565282">原文链接</a> ·
+<a href="https://www.ifanr.com/1565282#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Tue, 31 Oct 2023 08:40:31 +0000</pubDate>
+<updated>Tue, 31 Oct 2023 08:40:31 +0000</updated>
+</item>
 
 <item>
 <title>苹果史上最短发布会！一大波 Mac 新品来袭，最大彩蛋居然是 iPhone</title>
