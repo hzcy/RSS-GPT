@@ -15757,3 +15757,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [M3系列芯片公布，MacBook Pro可选深空黑配色](https://www.gcores.com/articles/173143)
 append_entries: 4
 Finish: 2023-10-31 03:34:29.230468
+------------------------------------------------------
+Started: 2023-10-31 03:48:32.631648
+Existing_entries: 340
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-31 03:48:32.859340
