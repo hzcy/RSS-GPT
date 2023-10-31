@@ -15853,3 +15853,33 @@ Existing_entries: 343
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-31 06:48:34.094279
+------------------------------------------------------
+Started: 2023-10-31 07:08:57.314608
+Existing_entries: 343
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [赫尔辛基自然博物馆授权，萨卡班甲鱼模型2024年发售](https://www.gcores.com/articles/173156)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《PUI PUI 天竺鼠车车》新作休闲手游开发中](https://www.gcores.com/articles/173155)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [【福利】国产怪谈悬疑恋爱AVG游戏《恋爱绮谈~不存在的夏天~》正式发售](https://www.gcores.com/articles/173153)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [讲述安倍晴明的学生时代：真人电影《阴阳师0》2024年上映](https://www.gcores.com/articles/173152)
+append_entries: 4
+Finish: 2023-10-31 07:09:08.126898
