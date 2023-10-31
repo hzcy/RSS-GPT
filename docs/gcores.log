@@ -16057,3 +16057,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [低至1折：Steam万圣节活动促销好价汇总](https://www.gcores.com/articles/173209)
 append_entries: 2
 Finish: 2023-10-31 13:25:31.094272
+------------------------------------------------------
+Started: 2023-10-31 13:33:44.152631
+Existing_entries: 353
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-10-31 13:33:44.427195
