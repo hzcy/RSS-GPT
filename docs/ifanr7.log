@@ -13716,3 +13716,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [苹果史上最短发布会！一大波 Mac 新品来袭，最大彩蛋居然是 iPhone](https://www.ifanr.com/1566589?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-31 03:48:31.187536
+------------------------------------------------------
+Started: 2023-10-31 04:11:19.404756
+Existing_entries: 101
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-31 04:11:20.905921
