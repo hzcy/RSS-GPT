@@ -15727,3 +15727,33 @@ Existing_entries: 336
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-31 03:22:27.727945
+------------------------------------------------------
+Started: 2023-10-31 03:34:19.883227
+Existing_entries: 336
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《使命召唤：现代战争3》(2023)公布解锁时间，至少需79GB可用空间](https://www.gcores.com/articles/173145)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《人中之龙8》最新中文配音版剧情预告片公开](https://www.gcores.com/articles/173116)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《守望先锋》“归来”X女子音乐组合LE SSERAFIM游戏内活动预告公开](https://www.gcores.com/articles/173144)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [M3系列芯片公布，MacBook Pro可选深空黑配色](https://www.gcores.com/articles/173143)
+append_entries: 4
+Finish: 2023-10-31 03:34:29.230468
