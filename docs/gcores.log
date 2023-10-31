@@ -15949,3 +15949,27 @@ Existing_entries: 347
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-10-31 09:48:44.696670
+------------------------------------------------------
+Started: 2023-10-31 10:10:17.956638
+Existing_entries: 347
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Bungie工作室进行裁员，《马拉松》或将延期](https://www.gcores.com/articles/173173)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [TV动画《公主大人，接下来是“拷问”时间》PV公开，2024年1月开播](https://www.gcores.com/articles/173165)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [【福利】FANTHFUL出品《幽灵诡计》主题官方授权系列周边](https://www.gcores.com/articles/173163)
+append_entries: 3
+Finish: 2023-10-31 10:10:23.954015
