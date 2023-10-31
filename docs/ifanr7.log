@@ -13662,3 +13662,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [早报｜苹果刚刚发布多款新品/华为申请注册遥遥领先商标/反垄断办回应李佳琦被指控价](https://www.ifanr.com/1566587?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-10-31 01:38:13.821733
+------------------------------------------------------
+Started: 2023-10-31 02:12:02.855169
+Existing_entries: 100
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-10-31 02:12:04.733183
