@@ -16423,3 +16423,15 @@ Existing_entries: 357
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-01 05:34:04.157329
+------------------------------------------------------
+Started: 2023-11-01 05:48:30.028871
+Existing_entries: 357
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [万智牌《依夏兰迷窟》机核独家预览无边框单卡](https://www.gcores.com/articles/173158)
+append_entries: 1
+Finish: 2023-11-01 05:48:32.021708
