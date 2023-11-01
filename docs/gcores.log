@@ -16739,3 +16739,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [享受穿搭与点赞：《时尚造梦》制作人神山敬介Q&A](https://www.gcores.com/articles/173273)
 append_entries: 2
 Finish: 2023-11-01 16:12:09.915174
+------------------------------------------------------
+Started: 2023-11-01 16:30:43.706430
+Existing_entries: 371
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-01 16:30:43.961795
