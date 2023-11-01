@@ -16555,3 +16555,40 @@ Existing_entries: 362
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-01 09:48:44.499631
+------------------------------------------------------
+Started: 2023-11-01 10:09:57.844943
+Existing_entries: 362
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [平台跳跃解谜新作《电兔拉比》正式公开，首支预告放出](https://www.gcores.com/articles/173254)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [边打太鼓边健身！《太鼓之达人》全新控制器将在12月13日登场](https://www.gcores.com/articles/173255)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [Devolver Digital收购《异星探险家》开发商System Era](https://www.gcores.com/articles/173257)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [国产奇幻动作肉鸽游戏《觉醒者：遗忘之誓》11月7日发售，国区定价58元](https://www.gcores.com/articles/173253)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《匹诺曹的谎言》开发者信函，未来更新计划公布](https://www.gcores.com/articles/173250)
+Append: [采用原相3398传感器，雷柏VT9PRO mini中小手4K轻量化双模无线游戏鼠标上市](https://www.gcores.com/articles/173247)
+append_entries: 6
+Finish: 2023-11-01 10:10:09.358853
