@@ -16655,3 +16655,9 @@ Summarized using GPT-3.5-turbo
 Append: [退休人员的对话：神谷英树&三上真司将参与现场对谈](https://www.gcores.com/articles/173259)
 append_entries: 1
 Finish: 2023-11-01 13:11:32.722005
+------------------------------------------------------
+Started: 2023-11-01 13:25:16.918300
+Existing_entries: 369
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-01 13:25:17.156249
