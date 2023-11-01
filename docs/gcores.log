@@ -16357,3 +16357,33 @@ Existing_entries: 353
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-01 03:48:19.866399
+------------------------------------------------------
+Started: 2023-11-01 04:11:22.661575
+Existing_entries: 353
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [同人游戏《血源卡丁车》将于2024年1月31日在PC推出](https://www.gcores.com/articles/173234)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [免费游玩《天穗之咲稻姬》：NS会员限定活动“试玩同乐会”将于11月6日开启](https://www.gcores.com/articles/173232)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [XGP十一月上旬新增游戏阵容揭晓：含《人中之龙 7 外传 无名之龙》等多款大作](https://www.gcores.com/articles/173231)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《方舟：生存飞升》登顶：Steam周销量排行榜|2023年10月第4周](https://www.gcores.com/articles/173230)
+append_entries: 4
+Finish: 2023-11-01 04:11:28.944082
