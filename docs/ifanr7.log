@@ -14208,3 +14208,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [全新奥迪纯电 A4：去年就应该发布，但其实后年才能上市](https://www.ifanr.com/1566533?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-01 01:43:02.182933
+------------------------------------------------------
+Started: 2023-11-01 02:16:18.421209
+Existing_entries: 104
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-01 02:16:20.181421
