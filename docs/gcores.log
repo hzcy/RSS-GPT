@@ -16721,3 +16721,21 @@ Existing_entries: 369
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-01 15:48:22.107907
+------------------------------------------------------
+Started: 2023-11-01 16:12:05.400405
+Existing_entries: 369
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [褒贬不一：《超级舞动 瓦力欧制造》媒体评分汇总](https://www.gcores.com/articles/173274)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [享受穿搭与点赞：《时尚造梦》制作人神山敬介Q&A](https://www.gcores.com/articles/173273)
+append_entries: 2
+Finish: 2023-11-01 16:12:09.915174
