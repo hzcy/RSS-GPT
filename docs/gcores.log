@@ -16387,3 +16387,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《方舟：生存飞升》登顶：Steam周销量排行榜|2023年10月第4周](https://www.gcores.com/articles/173230)
 append_entries: 4
 Finish: 2023-11-01 04:11:28.944082
+------------------------------------------------------
+Started: 2023-11-01 04:27:14.648048
+Existing_entries: 357
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-01 04:27:15.108803
