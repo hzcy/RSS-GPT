@@ -16435,3 +16435,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [万智牌《依夏兰迷窟》机核独家预览无边框单卡](https://www.gcores.com/articles/173158)
 append_entries: 1
 Finish: 2023-11-01 05:48:32.021708
+------------------------------------------------------
+Started: 2023-11-01 06:12:57.172561
+Existing_entries: 358
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-01 06:12:57.432522
