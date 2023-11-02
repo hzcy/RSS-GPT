@@ -14730,3 +14730,15 @@ Existing_entries: 105
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-02 00:41:21.362107
+------------------------------------------------------
+Started: 2023-11-02 01:37:31.530164
+Existing_entries: 105
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [早报｜下一代 Apple Watch 两大新功能曝光 / 茅台出厂价上调 20％ / 微软发布 Windows 11 重大更新](https://www.ifanr.com/1566751?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-02 01:37:34.959640
