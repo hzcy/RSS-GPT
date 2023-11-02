@@ -17330,3 +17330,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《萌宠拆拆乐》试玩Demo上线steam啦](https://www.gcores.com/articles/173297)
 append_entries: 3
 Finish: 2023-11-02 18:28:26.508198
+------------------------------------------------------
+Started: 2023-11-02 18:37:14.794334
+Existing_entries: 374
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-02 18:37:14.980503
