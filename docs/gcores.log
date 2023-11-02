@@ -17309,3 +17309,24 @@ Existing_entries: 371
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-02 18:11:52.006609
+------------------------------------------------------
+Started: 2023-11-02 18:28:11.719737
+Existing_entries: 371
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1226
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY战锤40K新品公布：剑卫旗手与寂灭者参战](https://www.gcores.com/articles/173296)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [佳能推出RF 24-105mm F2.8 L IS USM Z 镜头](https://www.gcores.com/articles/173288)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《萌宠拆拆乐》试玩Demo上线steam啦](https://www.gcores.com/articles/173297)
+append_entries: 3
+Finish: 2023-11-02 18:28:26.508198
