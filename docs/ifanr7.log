@@ -15258,3 +15258,27 @@ Existing_entries: 106
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-03 00:41:28.002293
+------------------------------------------------------
+Started: 2023-11-03 01:38:22.964921
+Existing_entries: 106
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [苹果在中国发布了最大产品，处处都有 iPhone 的影子](https://www.ifanr.com/1566794?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [早报｜iPhone 在中国收入创新高，苹果营收低于预期/微信输入法支持跨设备复制粘贴/康师傅回应涨价](https://www.ifanr.com/1566955?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [小鹏月销破 2 万，理想破 4 万，比亚迪破 30 万！国产新能源上演 10 月狂飙](https://www.ifanr.com/1566878?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2023-11-03 01:38:29.950333
