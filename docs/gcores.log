@@ -17789,3 +17789,33 @@ Existing_entries: 392
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-03 11:08:21.512536
+------------------------------------------------------
+Started: 2023-11-03 11:19:49.669392
+Existing_entries: 392
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《气球塔防6》不限号测试将于11月开启](https://www.gcores.com/articles/173348)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [Xbox开机广告惹争议：微软《使命召唤：现代战争3》宣传方式引发玩家不满](https://www.gcores.com/articles/173345)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [百万销量好评如潮：独游《图形工厂》即将在蒸汽平台及Wegame发售](https://www.gcores.com/articles/173347)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《铁拳8》新角色“Victor Chevalier”角色宣传片公布](https://www.gcores.com/articles/173340)
+append_entries: 4
+Finish: 2023-11-03 11:19:53.942587
