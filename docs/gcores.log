@@ -17903,3 +17903,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [开放世界生存恐怖游戏《迷雾计划》将在Steam发售](https://www.gcores.com/articles/173363)
 append_entries: 1
 Finish: 2023-11-03 14:48:30.463191
+------------------------------------------------------
+Started: 2023-11-03 15:09:46.438066
+Existing_entries: 398
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 15:09:46.625996
