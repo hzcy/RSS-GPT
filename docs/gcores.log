@@ -17837,3 +17837,15 @@ Existing_entries: 396
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-03 12:16:59.306019
+------------------------------------------------------
+Started: 2023-11-03 12:49:06.071907
+Existing_entries: 396
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [“洪荒演武”卡牌收录大探秘，多重惊喜震撼来袭](https://www.gcores.com/articles/173354)
+append_entries: 1
+Finish: 2023-11-03 12:49:09.053199
