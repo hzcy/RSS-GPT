@@ -17618,3 +17618,42 @@ Existing_entries: 381
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-03 06:12:25.381360
+------------------------------------------------------
+Started: 2023-11-03 06:28:27.800843
+Existing_entries: 381
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [还是大年初一，《流浪地球3》定档2027年2月6日](https://www.gcores.com/articles/173325)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [现在是逃狱时间！策略题材CRPG《动物迷城》现已发售](https://www.gcores.com/articles/173323)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《舍伍德侠盗团》试玩版再次开放,发售前均可体验](https://www.gcores.com/articles/173317)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Bungie就裁员发布公开信，承诺不辜负玩家期望](https://www.gcores.com/articles/173322)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [第一人称解谜游戏《塔罗斯的法则2》正式推出，国区售价108元](https://www.gcores.com/articles/173321)
+Append: [国产种田《沙石镇时光》更新正式版 特别好评、限时首发折扣](https://www.gcores.com/articles/173314)
+Append: [《塞尔达传说》系列制作人青沼英二 荣获法国艺术与文学骑士勋章](https://www.gcores.com/articles/173312)
+Append: [《机械战警：暴戾都市》公布真人版预告片，国区售价199元](https://www.gcores.com/articles/173305)
+append_entries: 8
+Finish: 2023-11-03 06:28:37.435015
