@@ -17504,3 +17504,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [鬼蟹担任负责人：网易成立Fantastic Pixel Castle工作室](https://www.gcores.com/articles/173304)
 append_entries: 2
 Finish: 2023-11-03 02:38:42.858573
+------------------------------------------------------
+Started: 2023-11-03 02:48:28.455201
+Existing_entries: 376
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 02:48:28.688441
