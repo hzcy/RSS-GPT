@@ -18011,3 +18011,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [Weappy工作室公布《这就是警察》中电影《血衫》故事梗概，或暗示新游戏即将推出](https://www.gcores.com/articles/173326)
 append_entries: 1
 Finish: 2023-11-03 19:33:42.090723
+------------------------------------------------------
+Started: 2023-11-03 19:48:28.799273
+Existing_entries: 399
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 19:48:30.100953
