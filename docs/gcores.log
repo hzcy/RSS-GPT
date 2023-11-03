@@ -17735,3 +17735,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《真人快打1》DLC角色“全能侠”实机演示公布](https://www.gcores.com/articles/173320)
 append_entries: 3
 Finish: 2023-11-03 08:48:31.653950
+------------------------------------------------------
+Started: 2023-11-03 09:09:58.068348
+Existing_entries: 392
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 09:09:58.309084
