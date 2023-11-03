@@ -17540,3 +17540,39 @@ Existing_entries: 376
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-03 04:11:17.851486
+------------------------------------------------------
+Started: 2023-11-03 04:26:55.273731
+Existing_entries: 376
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [金狮子动力甲！《原始袭变》联动《怪物猎人》宣传视频公布](https://www.gcores.com/articles/173310)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《大护法》导演新作，动画电影《大雨》发布定档预告](https://www.gcores.com/articles/173311)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [索尼互娱全资收购英国视频深度学习公司iSIZE](https://www.gcores.com/articles/173306)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《生死轮回》开发者新作：“代号西格玛”首曝实机流程演示](https://www.gcores.com/articles/173307)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《饥饿游戏：鸣鸟与蛇之歌》官宣定档，十一月中旬上映](https://www.gcores.com/articles/173309)
+append_entries: 5
+Finish: 2023-11-03 04:27:04.544147
