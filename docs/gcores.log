@@ -17819,3 +17819,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《铁拳8》新角色“Victor Chevalier”角色宣传片公布](https://www.gcores.com/articles/173340)
 append_entries: 4
 Finish: 2023-11-03 11:19:53.942587
+------------------------------------------------------
+Started: 2023-11-03 11:33:51.604783
+Existing_entries: 396
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 11:33:51.807975
