@@ -15282,3 +15282,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [小鹏月销破 2 万，理想破 4 万，比亚迪破 30 万！国产新能源上演 10 月狂飙](https://www.ifanr.com/1566878?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2023-11-03 01:38:29.950333
+------------------------------------------------------
+Started: 2023-11-03 02:12:19.826017
+Existing_entries: 109
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-03 02:12:21.953632
