@@ -17576,3 +17576,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《饥饿游戏：鸣鸟与蛇之歌》官宣定档，十一月中旬上映](https://www.gcores.com/articles/173309)
 append_entries: 5
 Finish: 2023-11-03 04:27:04.544147
+------------------------------------------------------
+Started: 2023-11-03 04:35:07.835023
+Existing_entries: 381
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 04:35:08.112551
