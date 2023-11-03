@@ -18113,3 +18113,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《魔兽世界》揭晓三大资料片、《守望先锋》公布新英雄：暴雪嘉年华2023消息汇总](https://www.gcores.com/articles/173367)
 append_entries: 1
 Finish: 2023-11-03 23:33:47.711278
+------------------------------------------------------
+Started: 2023-11-03 23:48:28.690683
+Existing_entries: 400
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-03 23:48:28.923410
