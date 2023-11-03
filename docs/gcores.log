@@ -18101,3 +18101,15 @@ Existing_entries: 399
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-03 23:22:12.056748
+------------------------------------------------------
+Started: 2023-11-03 23:33:45.380875
+Existing_entries: 399
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《魔兽世界》揭晓三大资料片、《守望先锋》公布新英雄：暴雪嘉年华2023消息汇总](https://www.gcores.com/articles/173367)
+append_entries: 1
+Finish: 2023-11-03 23:33:47.711278
