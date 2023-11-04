@@ -18581,3 +18581,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [晋级决赛：《守望先锋》世界杯中国代表队3比2战胜韩国代表队](https://www.gcores.com/articles/173385)
 append_entries: 1
 Finish: 2023-11-04 19:33:54.433545
+------------------------------------------------------
+Started: 2023-11-04 19:48:49.805380
+Existing_entries: 405
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-04 19:48:50.351459
