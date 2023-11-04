@@ -18479,3 +18479,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [下周节目预告 11.6~11.12](https://www.gcores.com/articles/173383)
 append_entries: 1
 Finish: 2023-11-04 15:33:56.083000
+------------------------------------------------------
+Started: 2023-11-04 15:48:22.524806
+Existing_entries: 404
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-04 15:48:22.814710
