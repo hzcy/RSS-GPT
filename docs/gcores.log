@@ -18365,3 +18365,21 @@ Existing_entries: 401
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-04 11:19:27.035219
+------------------------------------------------------
+Started: 2023-11-04 11:33:27.269041
+Existing_entries: 401
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《绝区零》降噪测试预告，资格招募现已正式开启！](https://www.gcores.com/articles/173377)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [2023年9月第四周手办模型情报总汇](https://www.gcores.com/articles/173028)
+append_entries: 2
+Finish: 2023-11-04 11:33:29.915632
