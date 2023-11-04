@@ -18569,3 +18569,15 @@ Existing_entries: 404
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-04 19:18:31.184625
+------------------------------------------------------
+Started: 2023-11-04 19:33:49.252417
+Existing_entries: 404
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [晋级决赛：《守望先锋》世界杯中国代表队3比2战胜韩国代表队](https://www.gcores.com/articles/173385)
+append_entries: 1
+Finish: 2023-11-04 19:33:54.433545
