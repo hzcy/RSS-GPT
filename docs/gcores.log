@@ -18953,3 +18953,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [LPL三支队伍晋级《英雄联盟》全球总决赛四强创造历史，LNG止步八强](https://www.gcores.com/articles/173404)
 append_entries: 1
 Finish: 2023-11-05 12:41:00.389184
+------------------------------------------------------
+Started: 2023-11-05 12:55:10.205358
+Existing_entries: 407
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-05 12:55:10.703485
