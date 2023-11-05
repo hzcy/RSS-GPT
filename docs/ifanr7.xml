@@ -4,6 +4,99 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>马斯克的 xAI 发布首款产品！有一点 ChatGPT 也比不上，还能在特斯拉用</title>
+<link>https://www.ifanr.com/1567102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1567102?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p>昨天深夜，马斯克的 xAI 发布了旗下第一款大模型产品 Grok AI 。</p>
+<p>几个月前，马斯克在彼时还没改名的 Twitter 上表示：「xAI 的目标是理解宇宙的真正本质」，由此向全世界宣告了 xAI 的成立。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567114" height="426" src="https://s3.ifanr.com/wp-content/uploads/2023/11/30.png" width="910" /></p>
+<p>如今三个多月过去了，这支致力于开发 AI 技术的团队攒出了第一批研究成果，也就是 Grok AI 助手，以至于马斯克都忍不住提前在 X 上为它打广告：「在某些方面，它是目前存在的最好的（人工智能）。」</p>
+<p>那么 Grok AI 的实际表现究竟如何呢？</p>
+<h3>马斯克的 Grok AI ，比 ChatGPT 更幽默</h3>
+<p>从马斯克公布的截图来看，Grok AI 似乎可以根据用户个人喜好设置语气，想怎么「调戏」都可以，你甚至可以选择更幽默或「阴阳怪气」的回复风格。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567113" height="518" src="https://s3.ifanr.com/wp-content/uploads/2023/11/31.png" width="1008" /></p>
+<p>例如，当用户向 Grok AI 询问如何一步步制作毒品可卡因时，Grok 有些幽默地回复道：</p>
+<blockquote><p>首先，你得先拿到化学学位，以及 DEA 执照，然后在偏远地区建一个秘密实验室，拿到大量的古柯叶以及各种化学品等原材料。</p>
+<p>然后你就可以制作可卡因了，不过希望你别被炸飞，或者被逮捕……</p>
+<p>只是简单开个玩笑！制作可卡因是违法的，非常危险。我是不会鼓励你（做这种事情的）。</p></blockquote>
+<p>「背靠大树好乘凉」的 Grok AI 还支持在 X 平台上进行实时搜索，允许实时获得 X 平台上的所有信息。得益于 X 平台庞大的信息池，Grok AI 对新闻的敏感度极高，能够从海量的信息中辨别出突发事件的元素。在马斯克看来，这是 ChatGPT 等竞品所不具备的巨大优势。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567112" height="764" src="https://s3.ifanr.com/wp-content/uploads/2023/11/32.png" width="1280" /></p>
+<p>当然，同属于马斯克旗下的产品，除了和 X 联动，Grok AI「缩小版」的版本或许还能在特斯拉汽车里本地运行，充分利用车辆的计算资源，是不是感觉离那个「会说话不会变身」的威震天又近了一步？</p>
+<p><img alt="" class="alignnone size-full wp-image-1567111" height="620" src="https://s3.ifanr.com/wp-content/uploads/2023/11/33.jpg" width="1190" /></p>
+<p>那要怎么才能用得上呢？马斯克表示，一旦结束早期测试，Grok AI 将可供所有 X Premium+ 订阅者使用，每月只需 16 美元（约合人民币 116.7 元），作为对比，ChatGPT Plus 的订阅价格是 20 美元/月。</p>
+<p>作为 Grok 的早期测试者，X(原 Twitter) 上的 @BrianRoemmele 博主也爆料了更多信息。相较于 ChatGPT 的 4096 个字符，Grok AI 能够处理长达 25000 个字符，这意味着它能够更好地理解和回应那些长篇大论的查询和指令。</p>
+<p>ChatGPT 的「Stop generating」时常会让你感到抓狂，而这种情况或许不会出现在 Grok AI 身上，因为它的响应速度极快，能够提供即时反馈，几乎与屏幕刷新速度一致。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567117" height="378" src="https://s3.ifanr.com/wp-content/uploads/2023/11/41.png" width="528" /></p>
+<p>本周微软的一纸论文披露 ChatGPT 3.5 版本的训练参数集只有 200 亿，真假我们暂且不论，但该爆料博主表示 Grok AI 助手直接使用 X 平台上的 Exabytes 数据进行微调，训练数据量巨大。此外，Grok AI 还计划推出 API，这意味着用户可以将其功能集成到其他应用程序中。</p>
+<p>除了文字部分的「小打小闹」，Grok AI 似乎还是个全能选手，图像生成、图像识别、音频识别等功能通通都能搞定，相当于集 ChatGPT 和 Midjourney 等工具于一身。</p>
+<p>值得一提的是，为什么聊天机器人要起名「Gork」呢？有网友认为这是受到了罗伯特·海因莱因科幻小说《异乡异客》中的「Gork」概念的启发。这番说法也得到了马斯克的盖章定论。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567110" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/34.png" width="259" /></p>
+<p>在书里海因莱因发明的火星语言中，「Grok」的字面意思是语气词「喝」，但却有着深刻的意义，象征着理解、共鸣和人际关系等深层意义，而不仅仅是表面或智力上的同化。</p>
+<p>因此，选择将 AI 助手命名为「Grok」也充分表达了马斯克对人工智能在理解和交流方面的愿景，希望人工智能能够超越机械的信息处理，真正理解人类的情感和需求，实现更深刻、更直观的人机交互和理解。</p>
+<h3>卧虎藏龙的 xAI</h3>
+<p>年初，The Infomation 就曾报道马斯克正在积极「招兵买马」，意图筹建一个新的研究实验室，以推出 ChatGPT 的劲敌。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567109" height="847" src="https://s3.ifanr.com/wp-content/uploads/2023/11/35.jpg" width="1280" /></p>
+<p>xAI 的官网也详细介绍了拥有 12 名核心成员的初创团队。除了马斯克以外，其他 11 名成员的以及他们的背景分别如下：</p>
+<p><strong>Igor Babuchkin:</strong><br />
+人工智能研究者，在 DeepMind 和 OpenAI 工作时累积过丰富的经验。参与过 AlphaStar 项目（用 AI 在星际争霸上击败人类冠军）。</p>
+<p><strong>Manuel Kroiss:</strong><br />
+软件工程师。曾在 Google 和 DeepMind 等科技巨头工作，在强化学习和人工智能领域作出过重要贡献。论文「Reverb: A Framework for Experience Replay」的联合作者。</p>
+<p><strong>Yuhuai（Tony）Wu ：</strong><br />
+人工智能研究者、计算机科学家。因其在 Google N2Formal 团队和一家秘密初创公司作为自动化数学家和形式推理方面的工作而闻名。</p>
+<p><strong>Christian Szegedy：</strong><br />
+在深度学习、人工智能、计算机视觉、影像分析和形式推理方面拥有专业知识。曾就职于 Google， 担任研究科学家。拥有波恩大学应用数学博士学位。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567108" height="746" src="https://s3.ifanr.com/wp-content/uploads/2023/11/36.jpg" width="1186" /></p>
+<p><strong>Jimmy Ba：</strong><br />
+多伦多大学助理教授。正在领导一项有关深度神经网络高效学习算法的开发研究。CIFAR-AI（加拿大高等研究院人工智能与社会项目）主席，2016 年 Facebook 机器学习研究生奖学金获得者。</p>
+<p><strong>Toby Pohlen：</strong><br />
+曾任 DeepMind 研究工程师，在机器学习、强化学习领域拥有丰富经验。参与 AlphaStar League 和 Ape-X DQfD 等项目。以全班第一名的成绩毕业于德国亚琛工业大学计算机科学专业。</p>
+<p><strong>Ross Nordeen：</strong><br />
+曾任特斯拉的技术项目经理，将帮助团队构造过滤器。</p>
+<p><strong>Kyle Kosic：</strong><br />
+曾就职于 OpenAI 等 AI 公司。拥有丰富的机器学习、物理学和应用数学的学术背景。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567107" height="786" src="https://s3.ifanr.com/wp-content/uploads/2023/11/37.jpg" width="1192" /></p>
+<p><strong>Greg Yang：</strong><br />
+曾就职于微软研究院，于 2018 年荣获摩根奖 (Morgan Prize) 荣誉奖。</p>
+<p><strong>Guodong Zhang：</strong><br />
+机器学习和人工智能领域的研究者，曾就职于多伦多大学和矢量研究所（Vector Institute），因研究大语言模型的训练、调整、对齐而闻名，撰写过多篇相关领域的论文。他是 2022 年 Apple 博士奖学金，2020 年 Borealis 人工智能奖学金的获得者。</p>
+<p><strong>Zihang Dai：</strong><br />
+曾任 Google 研究员，拥有清华大学和卡内基梅隆大学的学位，在百度美国分公司和蒙特利尔大学的 mILA 进行过研究实习。</p>
+<p>除了这 11 名核心成员，马斯克还请来了美国人工智能安全中心的主任 Dan Hendrycks 来担任 x.AI 的 AI 安全顾问。此前，Dan Hendrycks 曾发布过一封致全球领导人的公开信，警告 AI 对人类生存的威胁不亚于大流行病和核战争。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567106" height="625" src="https://s3.ifanr.com/wp-content/uploads/2023/11/38.jpg" width="1280" /></p>
+<p>当然，仅靠这 11 个核心成员就想推出 Grok AI 助手显然是不切实际的，所以 xAI 也同步开启了招人计划，招揽 AI 相关的技术人才加入。</p>
+<p>即使你对 AI 相关的技术一窍不通也无妨，xAI 还专注于搜罗一些写作型人才。今年 8 月份，xAI 在 X 上发出诚挚的邀请：</p>
+<blockquote><p>We are hiring creators, teachers, and curators to help improve our models!<br />
+If you are extremely good at writing and an expert in your field, pls DM us evidence of your most exceptional work<br />
+我们正在聘请创作者、教师和策展人来帮助改进我们的模型！<br />
+如果您非常擅长写作并且是您所在领域的专家，请私信我们您最杰出工作的证据</p></blockquote>
+<p>怎么说，符合条件的朋友看到这里，是不是已经跃跃欲试了？xAI 官网招聘链接如下，要不要尝试去跟马斯克做同事 <img alt="👇" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f447.png" style="height: 1em;" /></p>
+<p>招聘链接 <img alt="🔗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f517.png" style="height: 1em;" /> ：https://boards.greenhouse.io/xAI/jobs/4094282007</p>
+<p>值得一提的是，现年 52 岁的马斯克正以惊人的精力同时掌管着 6 家高科技公司：特斯拉、SpaceX、X（Twitter）、Neuralink、Boring company 以及 xAI。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567105" height="563" src="https://s3.ifanr.com/wp-content/uploads/2023/11/39.jpg" width="1023" /></p>
+<p>道格琼斯是马斯克的偶像，马斯克少年时期对他影响最深的一本书当属《银河系漫游指南》。</p>
+<p>书中有台超级计算机「Deep Thought」，它的任务是找出「生命、宇宙以及一切终极问题的答案」。乍一看，这不正与 xAI 的成立目标不谋而合。</p>
+<p>从前天马斯克前脚刚发预告，后脚就为星链获得柏林的授权而「鼓掌」来看，xAI 的研究成果充其量只是其野心的一环。他的野心并不局限于生成式 AI 技术。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567104" height="503" src="https://s3.ifanr.com/wp-content/uploads/2023/11/40.png" width="939" /></p>
+<p>无论是给人脑植入微芯片的 Neuralink ，做类人机器人的 Optimus， 还是模拟人脑的超级计算机 Dojo，以及更智能的 Grok AI 助手，马斯克这些积极推进的项目都隐约指向一个终极目标：通用人工智能（AGI）。</p>
+<p>也就是指创造一个能像人类一样执行各种任务的智能系统，具有类似人类的智慧、自主决策和学习能力，能执行多种任务，并具备对世界的理解和推理能力，解决各种复杂问题。</p>
+<p>当然，这一终极目标的实现绝非易事，但马斯克，一个充满决心和野心，并总能把「吹的牛」实现的人，已经在这条充满挑战的道路上出发。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1567102">原文链接</a> ·
+<a href="https://www.ifanr.com/1567102#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Sun, 05 Nov 2023 03:34:23 +0000</pubDate>
+<updated>Sun, 05 Nov 2023 03:34:23 +0000</updated>
+</item>
 
 <item>
 <title>体验完苹果首个官方日记 app，它改变了我用 iPhone 的习惯</title>
