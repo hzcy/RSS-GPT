@@ -16650,3 +16650,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [智己 LS6 低价出击，想做高端的国产品牌，都有一个活下去的难题](https://www.ifanr.com/1567193?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-05 14:33:54.751607
+------------------------------------------------------
+Started: 2023-11-05 14:48:22.395618
+Existing_entries: 113
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-05 14:48:24.132527
