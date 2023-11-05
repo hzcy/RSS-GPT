@@ -18941,3 +18941,15 @@ Existing_entries: 406
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-05 12:15:19.664313
+------------------------------------------------------
+Started: 2023-11-05 12:40:58.176399
+Existing_entries: 406
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [LPL三支队伍晋级《英雄联盟》全球总决赛四强创造历史，LNG止步八强](https://www.gcores.com/articles/173404)
+append_entries: 1
+Finish: 2023-11-05 12:41:00.389184
