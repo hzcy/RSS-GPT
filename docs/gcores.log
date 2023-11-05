@@ -18701,3 +18701,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《守望先锋》世界杯：沙特阿拉伯代表队3比2战胜中国代表队](https://www.gcores.com/articles/173386)
 append_entries: 1
 Finish: 2023-11-05 01:43:45.990015
+------------------------------------------------------
+Started: 2023-11-05 02:16:34.797607
+Existing_entries: 406
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-05 02:16:35.076236
