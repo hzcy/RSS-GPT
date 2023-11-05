@@ -18995,3 +18995,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [节奏类音游《节奏医生》主线剧情第五幕免费更新已上线！](https://www.gcores.com/articles/173407)
 append_entries: 1
 Finish: 2023-11-05 14:07:37.462629
+------------------------------------------------------
+Started: 2023-11-05 14:23:24.948690
+Existing_entries: 408
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-05 14:23:25.170721
