@@ -16890,3 +16890,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [早报｜OpenAI 开发者大会前瞻 / 何小鹏疑喊话余承东 / 李佳琦公司回应员工收百万好处费](https://www.ifanr.com/1567219?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-06 01:41:53.383586
+------------------------------------------------------
+Started: 2023-11-06 02:16:25.471401
+Existing_entries: 114
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-06 02:16:27.327423
