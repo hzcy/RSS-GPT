@@ -19439,3 +19439,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [TV动画《银河英雄传说 Die Neue These》续集制作决定](https://www.gcores.com/articles/173439)
 append_entries: 1
 Finish: 2023-11-06 08:38:46.026633
+------------------------------------------------------
+Started: 2023-11-06 08:48:53.795730
+Existing_entries: 415
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-06 08:48:54.137436
