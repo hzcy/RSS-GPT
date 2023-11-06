@@ -19427,3 +19427,15 @@ Existing_entries: 414
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-06 08:29:21.307999
+------------------------------------------------------
+Started: 2023-11-06 08:38:43.486227
+Existing_entries: 414
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [TV动画《银河英雄传说 Die Neue These》续集制作决定](https://www.gcores.com/articles/173439)
+append_entries: 1
+Finish: 2023-11-06 08:38:46.026633
