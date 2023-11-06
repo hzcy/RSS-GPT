@@ -19283,3 +19283,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《APEX 英雄》X歌手Post Malone限时联动模式将于明日开启](https://www.gcores.com/articles/173418)
 append_entries: 5
 Finish: 2023-11-06 02:38:45.683842
+------------------------------------------------------
+Started: 2023-11-06 02:48:28.692733
+Existing_entries: 413
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-06 02:48:28.917668
