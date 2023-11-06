@@ -19247,3 +19247,39 @@ Existing_entries: 408
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-06 02:16:28.961577
+------------------------------------------------------
+Started: 2023-11-06 02:38:36.099531
+Existing_entries: 408
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [主打心理恐怖：《死亡岛2》首个DLC“艺廊” 即将在PC推出](https://www.gcores.com/articles/173423)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [爆爽击杀！动作肉鸽《诸子无双》11月15日发售，定价36元](https://www.gcores.com/articles/173359)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [还在做：顽皮狗澄清《最后生还者：第二章》多人模式没有取消](https://www.gcores.com/articles/173422)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [任天堂将在香港开设快闪店，打卡就送原创贴纸](https://www.gcores.com/articles/173419)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《APEX 英雄》X歌手Post Malone限时联动模式将于明日开启](https://www.gcores.com/articles/173418)
+append_entries: 5
+Finish: 2023-11-06 02:38:45.683842
