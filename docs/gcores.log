@@ -19698,3 +19698,33 @@ Existing_entries: 433
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-09 03:48:28.177399
+------------------------------------------------------
+Started: 2023-11-09 04:11:21.130115
+Existing_entries: 433
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《雨中冒险 回归》发售预告公布，游戏今日正式推出](https://www.gcores.com/articles/173567)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《守望先锋》联赛宣告终结，暴雪娱乐将探索电竞项目的新方向](https://www.gcores.com/articles/173558)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [开发团队就《丁丁历险记：法老的雪茄》游戏体验致歉，承诺持续解决现有问题](https://www.gcores.com/articles/173556)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [官方DLSS支持来了：《星空》现已在Steam推出测试版](https://www.gcores.com/articles/173555)
+append_entries: 4
+Finish: 2023-11-09 04:11:32.088001
