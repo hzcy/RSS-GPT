@@ -4,6 +4,108 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>M3 iMac 评测：撬动 Intel 钉子户的又一台利器</title>
+<link>https://www.ifanr.com/1567406?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1567406?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="aligncenter size-full wp-image-1567418" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063402.jpg" width="2048" /></p>
+<p>在 Mac 过渡自研芯片的两年半之后，我仍然使用着三年前 iMac 的谢幕之作。</p>
+<p>这台机器堪称 Intel 的末代机皇：10 核心 i9-10910 处理器，16GB 显存的 Radeon Pro 5700XT ，32GB DDR4 内存，以及 1TB 固态硬盘，时至今日，它对于一个文字工作者而言仍然绰绰有余。</p>
+<p>而另一方面，随着 Mac Studio 产品线的加入，实际上 iMac 在整个 Mac 产品线的身位从中档降低为中低档：它无法选购 Pro 和 Max 芯片，内存不可插拔，屏幕从 27 英寸 5K 缩小到 24 英寸 4.5K，连曾经的 SD 卡槽也砍掉了。</p>
+<p>于是，当我拿到新款 iMac，我非常好奇：M3 加持下的 iMac 究竟进步有多大？它能够撬动 Intel 的钉子户吗？</p>
+<p><img alt="" class="aligncenter wp-image-1567414" height="1500" src="https://s3.ifanr.com/wp-content/uploads/2023/11/M3-iMac.jpeg" width="2000" /></p>
+<p>轻薄的机身，七彩的外观，硕大的下巴，磁吸的充电线，集成在适配器的网线接口，甚至一模一样的 Lightning 接口的键盘和鼠标，由于延续了上一代 iMac 的设计，我们把评测的重点放在性能测试上。</p>
+<p>基础款 iMac 配备了 8 核 CPU 和 8 核 GPU，8GB+256G，起售价 10999 元。我的评测机型则升级到了 10 核 GPU、24GB 统一内存+1TB 固态硬盘，价格达 19398 元，包括带数字键盘的 Touch ID 键盘、Magic Mouse 和 Magic Trackpad。</p>
+<h3>CPU 性能测试</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1567419" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063592.jpg" width="2048" /></p>
+<p>iMac 上那颗 M3 是业界首批采用 3nm 制程工艺的 PC 芯片，核心数量上与 M2 保持一致，依然采用 4 大核 + 4 小核，10 核 GPU 的设计。值得关注的是，M3 的单核最高频率突破了 4GHz。</p>
+<p><img alt="" class="aligncenter wp-image-1567434" height="476" src="https://s3.ifanr.com/wp-content/uploads/2023/11/geekbench.jpg" width="487" /></p>
+<p>在 GeekBench 跑分中，无论单核还是多核，相比 M1 iMac 都有着 25% 的提升，其中，多核的表现直逼 M1 Max 和 M2 Max，相比 M2 大约有 20% 左右的提升。</p>
+<p>当然，M3 和 M3 Max 的差距也被拉得更大，后者的性能表现已经超越了 Mac Studio 上的 M2 Ultra。</p>
+<p>此时再看三年前 Intel 的末代机皇，已经是垫底的存在，无论是单核多核，几乎被 M3 甩开两倍。</p>
+<p>相较于 M2，M3 在 GPU 的规格上提升不明显，但引入了 A17 Pro 相似的架构，增加了动态缓存、硬件光线追踪和网格着色的特性，有效地提升了 GPU 在通用计算场景的性能。</p>
+<h3>GPU 性能测试</h3>
+<p><img alt="" class="aligncenter wp-image-1567433" height="415" src="https://s3.ifanr.com/wp-content/uploads/2023/11/GFXBench.jpg" width="562" /></p>
+<p>在 GFXBench 4K Aztex Ruins（High Tier）offscreen 测试中，M3 iMac 测试为 51 FPS，相比 M1 有着接近 40% 的提升，相比 M2 的 Macbook Pro 也有 9% 的提升。</p>
+<p>而在这一局里，采用了独立显卡的 iMac 2020，表现尚可。</p>
+<h3>硬盘读写速度</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1567420" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063292.jpg" width="2048" /></p>
+<p>从 BlackMagic Disk 的测试中也能看到，新 iMac 相比上一代 iMac 低配版，写入速度有较大提升。但对比 M3 Max 则有着接近一倍的差距。</p>
+<p>结合前两台产品的规律，芯片等级、固态硬盘的容量，都直接关乎硬盘的读写速度，可见苹果刀法之精准。</p>
+<p><img alt="" class="aligncenter wp-image-1567435" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/11/BlackMagic-Disk.png" width="527" /></p>
+<h3>后期渲染速度测试</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1567423" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063452.jpg" width="2048" /></p>
+<p>剪片子是 Mac 的传统强项。我们使用达芬奇渲染了一段 30 分钟的 4K 50FPS H.265 编码 MP4 格式的视频。</p>
+<p><img alt="" class="aligncenter wp-image-1567436" height="451" src="https://s3.ifanr.com/wp-content/uploads/2023/11/dafeniq.jpg" width="538" /></p>
+<p>M3 的 iMac 的渲染速度相比 M2 快了 4 分钟，已经与 M2 Pro 的 Mac mini 相当。而我们那台 8GB 内存的 M1 iMac，由于一直弹窗内存不足，甚至无法完成导出，直接退出战斗。</p>
+<p>搭载 M3 Max 的机型则显示出巨大的优势，只要一半的时间。不过我们也发现，M3 Max 相较于 M2 Max、M1 Max 并没有显著提升，猜测 M3 的视频编解码性能可能没有明显升级。</p>
+<p>面对针对 HEVC 做了优化的 M 系列处理器，Intel 的 iMac 则是没有任何竞争力了。</p>
+<p>另外，M3 iMac 增加了对 AV1 编码的解码能力，这个在看流媒体的时候能降低 CPU 占用率，也算是个特别的升级点。</p>
+<h3>iMac 不是当年的 iMac 了，桌面电脑应该如何选择？</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1567421" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063332.jpg" width="2048" /></p>
+<p>如开篇所说，随着 Mac Studio 的出现，以及 iMac Pro 产品线的取消，iMac 的定位在产品线中降低了一个身位，但这也让它的目标用户更加精准——它不再是一台适用于工作室的生产力工具，而是一台适用于多人共享的家用电脑。</p>
+<p>它轻薄简洁美观的一体设计，集成了电脑主机、摄像头、显示屏、六扬声器系统、麦克风等所有配件，整个设备不足 5 kg。</p>
+<p>它既不占用桌面空间，又总能成为环境里视线的焦点。正如很多公司、商业收银柜台常常摆着两台 iMac，为空间增色添彩，是 iMac 一个不可忽略的卖点。</p>
+<p>M3 芯片可以毫无压力地胜任文字、图片和视频剪辑工作，哪怕是相对繁重的 3D 设计，也不会表现明显的性能瓶颈，非常适合没有移动办公场景的家庭环境。</p>
+<p>此外，每个家庭成员都可以建立自己的账户，凭借 Touch ID 一键登录。</p>
+<p>由于 iMac 跳过了一代芯片的更新，让这台搭载了 M3 的 iMac 表现出显著的性能差异，相比 M1 有接近一倍的提升，但如果对标 MacBook Air 上的 M2，提升就相对有限了。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1567422" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063352.jpg" width="2048" /></p>
+<p>如果你是 21 英寸 Intel iMac 的钉子户，M3 iMac 是非常理想的继任者，无论是浏览网页、后期修图剪片，你都能感到明显速度的提升。至于 27 英寸的 iMac 用户，则需要在屏幕尺寸上做一些妥协，或者考虑  Studio Display + 电脑的方案。</p>
+<p>如果你是三年前 M1 iMac 的用户，选购的是 8GB 内存版本，可以视日常运行的情况考虑是否置换 M3 iMac。</p>
+<p>在 M3 iMac 的配置选择上，我们建议至少 16GB+512GB 的版本。</p>
+<p>至于 iMac 、Mac mini 和 Mac Studio 如何选择：如果不考虑桌面空间利用率，更在乎实用性，Mac mini+显示器，不失为一个更经济的选择。</p>
+<p>如果你从事大量繁重的 3D 渲染和建模的工作，搭载 M2 Ultra 的 Mac Studio，依然代表了苹果最强的桌面性能。</p>
+<p>最后的建议是，对于创作者而言，不要去等待一个可能会变得更好的设备，只需入手当下最合适的工具，然后去创作即可。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/hezongcheng" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/hezongcheng" style="color: #000; text-decoration: none;" target="_blank">何宗丞 (Jonathan Ho)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">从技术的旁观者与记录者，成为技术影响生活方式的实践者。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:jonathan@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://twitter.com/hezongcheng" style="margin-right: 14px; text-decoration: none;" target="_blank">Twitter</a>
+
+          
+                                  <a href="https://www.flickr.com/photos/hezongcheng/" style="margin-right: 14px; text-decoration: none;" target="_blank">Flickr</a>
+
+          
+                                  <a href="http://weibo.com/hezongcheng" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://plus.google.com/118051041556695317207" style="margin-right: 14px; text-decoration: none;" target="_blank">Google+</a>
+
+          
+                                  <a href="https://www.ifanr.com/1" style="margin-right: 14px; text-decoration: none;" target="_blank">9</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1567406">原文链接</a> ·
+<a href="https://www.ifanr.com/1567406#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 09 Nov 2023 02:52:06 +0000</pubDate>
+<updated>Thu, 09 Nov 2023 02:52:06 +0000</updated>
+</item>
 
 <item>
 <title>早报｜马斯克征志愿者切除头骨植芯片/华为未独占卫星通讯功能/「室温超导」论文被撤稿</title>
