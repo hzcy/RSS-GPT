@@ -20190,3 +20190,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [Steam Deck OLED版正式公布，11月16日发售](https://www.gcores.com/articles/173594)
 append_entries: 1
 Finish: 2023-11-09 21:48:25.368627
+------------------------------------------------------
+Started: 2023-11-09 22:08:45.971331
+Existing_entries: 445
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-09 22:08:46.205386
