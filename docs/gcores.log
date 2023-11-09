@@ -19884,3 +19884,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [【福利】超百种结局！奇异恋爱模拟 《末日狂欢人外岛》今日正式发售](https://www.gcores.com/articles/173574)
 append_entries: 2
 Finish: 2023-11-09 09:22:25.424136
+------------------------------------------------------
+Started: 2023-11-09 09:34:20.017094
+Existing_entries: 442
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-09 09:34:20.508463
