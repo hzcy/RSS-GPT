@@ -19998,3 +19998,21 @@ Existing_entries: 442
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-09 14:34:12.730287
+------------------------------------------------------
+Started: 2023-11-09 14:48:43.712398
+Existing_entries: 442
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 502 Server Error: Bad Gateway for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《雨中冒险》十周年庆典，Gearbox公布系列多个新项目](https://www.gcores.com/articles/173586)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [孙悟空将于11月16日加入《鸦卫奇旅》](https://www.gcores.com/articles/173584)
+append_entries: 2
+Finish: 2023-11-09 14:48:48.428465
