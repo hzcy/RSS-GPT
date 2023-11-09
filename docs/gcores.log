@@ -19728,3 +19728,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [官方DLSS支持来了：《星空》现已在Steam推出测试版](https://www.gcores.com/articles/173555)
 append_entries: 4
 Finish: 2023-11-09 04:11:32.088001
+------------------------------------------------------
+Started: 2023-11-09 04:27:38.947296
+Existing_entries: 437
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-09 04:27:39.201501
