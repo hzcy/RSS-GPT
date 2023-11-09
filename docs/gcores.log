@@ -19794,3 +19794,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [以剑代笔，纵横天下：国产独立游戏《墨境》首支PV公开](https://www.gcores.com/articles/173566)
 append_entries: 3
 Finish: 2023-11-09 06:12:37.221878
+------------------------------------------------------
+Started: 2023-11-09 06:28:32.395139
+Existing_entries: 440
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-09 06:28:32.615598
