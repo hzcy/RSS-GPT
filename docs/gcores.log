@@ -19866,3 +19866,21 @@ Existing_entries: 440
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-09 09:09:40.754271
+------------------------------------------------------
+Started: 2023-11-09 09:22:22.847899
+Existing_entries: 440
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《漫威蜘蛛侠2》11天销量突破500万：索尼公布最新财报](https://www.gcores.com/articles/173575)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [【福利】超百种结局！奇异恋爱模拟 《末日狂欢人外岛》今日正式发售](https://www.gcores.com/articles/173574)
+append_entries: 2
+Finish: 2023-11-09 09:22:25.424136
