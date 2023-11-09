@@ -20178,3 +20178,15 @@ Existing_entries: 444
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-09 21:33:59.855040
+------------------------------------------------------
+Started: 2023-11-09 21:48:23.708631
+Existing_entries: 444
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 502 Server Error: Bad Gateway for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [Steam Deck OLED版正式公布，11月16日发售](https://www.gcores.com/articles/173594)
+append_entries: 1
+Finish: 2023-11-09 21:48:25.368627
