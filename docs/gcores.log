@@ -19770,3 +19770,27 @@ Existing_entries: 437
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-09 05:48:37.316869
+------------------------------------------------------
+Started: 2023-11-09 06:12:24.874269
+Existing_entries: 437
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [美国演员工会罢工结束；《毒液3》延期至明年十一月](https://www.gcores.com/articles/173571)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《卧龙》X《仁王》联动上线：DLC“风起荆襄”发售日公布](https://www.gcores.com/articles/173570)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [以剑代笔，纵横天下：国产独立游戏《墨境》首支PV公开](https://www.gcores.com/articles/173566)
+append_entries: 3
+Finish: 2023-11-09 06:12:37.221878
