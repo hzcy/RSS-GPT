@@ -17588,3 +17588,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [28.98 万起，比亚迪子品牌首款车型上市，硬派 SUV 进入新时代](https://www.ifanr.com/1567569?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-09 15:48:37.442825
+------------------------------------------------------
+Started: 2023-11-09 16:11:40.291563
+Existing_entries: 124
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-09 16:11:42.148935
