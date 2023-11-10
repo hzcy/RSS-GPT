@@ -17786,3 +17786,15 @@ Existing_entries: 124
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-10 00:41:46.948343
+------------------------------------------------------
+Started: 2023-11-10 01:39:34.054879
+Existing_entries: 124
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 502 Server Error: Bad Gateway for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [早报｜GPTs 功能正式上线 / 苹果正利用大语言模型改造 Siri / 华为智选车首款轿车智界 S7 亮相](https://www.ifanr.com/1567593?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-10 01:39:37.239866
