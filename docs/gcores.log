@@ -20412,3 +20412,27 @@ Existing_entries: 451
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-10 07:20:28.916577
+------------------------------------------------------
+Started: 2023-11-10 07:33:29.472307
+Existing_entries: 451
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《时空幻境》周年纪念版将于2024年4月30日发售](https://www.gcores.com/articles/173602)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [港服“任天堂游戏兑换券”现已限时回归，售价649港币](https://www.gcores.com/articles/173600)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《舍伍德侠盗团》公布开发者直播游玩Demo视频](https://www.gcores.com/articles/173598)
+append_entries: 3
+Finish: 2023-11-10 07:33:32.913349
