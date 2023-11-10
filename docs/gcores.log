@@ -20286,3 +20286,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [【机核发行】两双手与一段奇遇：免费回合制解迷游戏《奇愈地下城》Steam页面正式上线](https://www.gcores.com/articles/173572)
 append_entries: 1
 Finish: 2023-11-10 03:22:54.814854
+------------------------------------------------------
+Started: 2023-11-10 03:33:57.939183
+Existing_entries: 446
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-10 03:33:58.148871
