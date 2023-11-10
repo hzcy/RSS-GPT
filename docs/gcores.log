@@ -20478,3 +20478,27 @@ Existing_entries: 454
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-10 09:22:11.008949
+------------------------------------------------------
+Started: 2023-11-10 09:34:06.220792
+Existing_entries: 454
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [动视官方整活：庆祝《使命召唤》新作上线，专家“线上问诊”开假条](https://www.gcores.com/articles/173615)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《遗迹2：真皇的苏醒》将于11月15日推出，带来新职业“祭祀者”](https://www.gcores.com/articles/173614)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [LEVEL5出品，《奇幻生活i：转圈圈的龙与偷取时间的少女》宣布延期发售](https://www.gcores.com/articles/173612)
+append_entries: 3
+Finish: 2023-11-10 09:34:09.357658
