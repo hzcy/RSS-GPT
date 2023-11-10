@@ -20748,3 +20748,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [Weappy工作室公布模拟经营类新作《好莱坞动物》，将于2024年推出](https://www.gcores.com/articles/173593)
 append_entries: 3
 Finish: 2023-11-10 19:18:41.453709
+------------------------------------------------------
+Started: 2023-11-10 19:33:36.278991
+Existing_entries: 461
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-10 19:33:36.451566
