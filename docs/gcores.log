@@ -20328,3 +20328,39 @@ Existing_entries: 446
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-10 05:09:17.648823
+------------------------------------------------------
+Started: 2023-11-10 05:25:24.209517
+Existing_entries: 446
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [独立游戏《图形工厂》国内正式发售，登陆Wegame平台和蒸汽平台](https://www.gcores.com/articles/173608)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [圆谷×Netflix，CG动画电影《奥特曼：崛起》预告公开](https://www.gcores.com/articles/173605)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [正式官宣，《海王 2：失落的王国》定档 12 月 20 日](https://www.gcores.com/articles/173606)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《双城之战》第二季定档2024年11月](https://www.gcores.com/articles/173604)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《女神异闻录5 乱战：魅影攻手》全球累计销量达200万](https://www.gcores.com/articles/173603)
+append_entries: 5
+Finish: 2023-11-10 05:25:29.574791
