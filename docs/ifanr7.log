@@ -17972,3 +17972,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [在全球最顶尖的摄影展上，我看到了手机拍照的新美学](https://www.ifanr.com/1567502?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-10 09:09:20.382466
+------------------------------------------------------
+Started: 2023-11-10 09:22:07.459603
+Existing_entries: 126
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-10 09:22:08.897592
