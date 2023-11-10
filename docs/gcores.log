@@ -20724,3 +20724,27 @@ Existing_entries: 458
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-10 19:07:45.093134
+------------------------------------------------------
+Started: 2023-11-10 19:18:34.038280
+Existing_entries: 458
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [多人科幻生存《时空错乱之旅》将于11月30日登陆主机平台](https://www.gcores.com/articles/173634)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [多人合作种田《伊科内岛：筑梦之地》今日正式上线](https://www.gcores.com/articles/173633)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [Weappy工作室公布模拟经营类新作《好莱坞动物》，将于2024年推出](https://www.gcores.com/articles/173593)
+append_entries: 3
+Finish: 2023-11-10 19:18:41.453709
