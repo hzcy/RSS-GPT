@@ -20436,3 +20436,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [《舍伍德侠盗团》公布开发者直播游玩Demo视频](https://www.gcores.com/articles/173598)
 append_entries: 3
 Finish: 2023-11-10 07:33:32.913349
+------------------------------------------------------
+Started: 2023-11-10 07:48:10.964735
+Existing_entries: 454
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-10 07:48:11.256897
