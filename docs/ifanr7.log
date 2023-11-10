@@ -18062,3 +18062,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [华为新战略发布，智选车升级「鸿蒙智行」，中国汽车迎来新范式](https://www.ifanr.com/1567673?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-10 13:11:42.442895
+------------------------------------------------------
+Started: 2023-11-10 13:25:37.193210
+Existing_entries: 127
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-10 13:25:39.209445
