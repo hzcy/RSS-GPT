@@ -20502,3 +20502,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [LEVEL5出品，《奇幻生活i：转圈圈的龙与偷取时间的少女》宣布延期发售](https://www.gcores.com/articles/173612)
 append_entries: 3
 Finish: 2023-11-10 09:34:09.357658
+------------------------------------------------------
+Started: 2023-11-10 09:48:42.607112
+Existing_entries: 457
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-10 09:48:42.803916
