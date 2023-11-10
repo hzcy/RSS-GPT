@@ -20598,3 +20598,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [JOYTOY战锤40K新品公布：裁决者&赎罪引擎参战](https://www.gcores.com/articles/173627)
 append_entries: 1
 Finish: 2023-11-10 13:48:38.599597
+------------------------------------------------------
+Started: 2023-11-10 14:08:55.067220
+Existing_entries: 458
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-10 14:08:55.289367
