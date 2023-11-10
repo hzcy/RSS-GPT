@@ -20364,3 +20364,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《女神异闻录5 乱战：魅影攻手》全球累计销量达200万](https://www.gcores.com/articles/173603)
 append_entries: 5
 Finish: 2023-11-10 05:25:29.574791
+------------------------------------------------------
+Started: 2023-11-10 05:33:53.265356
+Existing_entries: 451
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-10 05:33:53.403550
