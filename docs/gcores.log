@@ -20880,3 +20880,15 @@ Existing_entries: 461
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-11 03:03:53.645902
+------------------------------------------------------
+Started: 2023-11-11 03:24:57.381492
+Existing_entries: 461
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [2023年金摇杆奖获奖名单出炉，《博德之门3》获得终极年度游戏奖](https://www.gcores.com/articles/173645)
+append_entries: 1
+Finish: 2023-11-11 03:24:58.968796
