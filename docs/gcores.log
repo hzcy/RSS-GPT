@@ -20892,3 +20892,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [2023年金摇杆奖获奖名单出炉，《博德之门3》获得终极年度游戏奖](https://www.gcores.com/articles/173645)
 append_entries: 1
 Finish: 2023-11-11 03:24:58.968796
+------------------------------------------------------
+Started: 2023-11-11 03:33:55.610276
+Existing_entries: 462
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-11 03:33:55.822401
