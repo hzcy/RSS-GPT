@@ -21000,3 +21000,9 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [网飞版《3 体》剧集先导预告发布，明年三月播出](https://www.gcores.com/articles/173652)
 append_entries: 1
 Finish: 2023-11-11 07:33:45.193979
+------------------------------------------------------
+Started: 2023-11-11 07:48:23.816073
+Existing_entries: 463
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-11 07:48:23.938416
