@@ -18332,3 +18332,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [早报｜iPhone 15 Pro 支持录制空间视频/ChatGPT 版微型手机来了/腾讯将在中国独家代理 Meta VR 头显｜未来周报](https://www.ifanr.com/1567741?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-11 00:41:14.184467
+------------------------------------------------------
+Started: 2023-11-11 01:37:15.582359
+Existing_entries: 128
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-11 01:37:17.496034
