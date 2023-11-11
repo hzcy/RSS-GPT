@@ -20988,3 +20988,15 @@ Existing_entries: 462
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-11 07:19:22.698625
+------------------------------------------------------
+Started: 2023-11-11 07:33:42.859970
+Existing_entries: 462
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [网飞版《3 体》剧集先导预告发布，明年三月播出](https://www.gcores.com/articles/173652)
+append_entries: 1
+Finish: 2023-11-11 07:33:45.193979
