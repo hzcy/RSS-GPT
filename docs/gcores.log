@@ -21684,3 +21684,15 @@ Existing_entries: 465
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-12 13:48:47.173491
+------------------------------------------------------
+Started: 2023-11-12 14:08:02.280852
+Existing_entries: 465
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [WBG及T1晋级《英雄联盟》S13总决赛](https://www.gcores.com/articles/173682)
+append_entries: 1
+Finish: 2023-11-12 14:08:05.643649
