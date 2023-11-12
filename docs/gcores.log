@@ -21582,3 +21582,21 @@ Existing_entries: 463
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-12 09:48:26.875187
+------------------------------------------------------
+Started: 2023-11-12 10:09:03.821164
+Existing_entries: 463
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [下周节目预告 11.13~11.19](https://www.gcores.com/articles/173674)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [大锤工作室数名工作人员爆料，《使命召唤 现代战争2023》表现差强人意，是为公司高层决策及IW工作室霸凌行为导致](https://www.gcores.com/articles/173662)
+append_entries: 2
+Finish: 2023-11-12 10:09:07.566069
