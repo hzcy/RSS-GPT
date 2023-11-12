@@ -21600,3 +21600,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [大锤工作室数名工作人员爆料，《使命召唤 现代战争2023》表现差强人意，是为公司高层决策及IW工作室霸凌行为导致](https://www.gcores.com/articles/173662)
 append_entries: 2
 Finish: 2023-11-12 10:09:07.566069
+------------------------------------------------------
+Started: 2023-11-12 10:26:37.217805
+Existing_entries: 465
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-12 10:26:37.426357
