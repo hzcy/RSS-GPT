@@ -21996,3 +21996,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [玩家人数过少，《火箭竞技场》将于11月14日退出EA Play](https://www.gcores.com/articles/173689)
 append_entries: 3
 Finish: 2023-11-13 03:48:13.200760
+------------------------------------------------------
+Started: 2023-11-13 04:11:50.000642
+Existing_entries: 469
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-13 04:11:50.232531
