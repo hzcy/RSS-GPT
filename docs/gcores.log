@@ -22056,3 +22056,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [网飞宣布引入《哈迪斯》、《时空幻境》及《死亡之门》等游戏至移动平台](https://www.gcores.com/articles/173693)
 append_entries: 2
 Finish: 2023-11-13 05:48:26.822698
+------------------------------------------------------
+Started: 2023-11-13 06:12:37.454785
+Existing_entries: 471
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-13 06:12:37.618815
