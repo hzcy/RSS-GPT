@@ -22297,3 +22297,15 @@ Existing_entries: 481
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-13 14:09:35.025976
+------------------------------------------------------
+Started: 2023-11-13 14:26:46.926547
+Existing_entries: 481
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [RTS《终结者 黑暗命运- Defiance》将于12月8日发售](https://www.gcores.com/articles/173726)
+append_entries: 1
+Finish: 2023-11-13 14:26:48.366999
