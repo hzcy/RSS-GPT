@@ -22261,3 +22261,15 @@ Existing_entries: 480
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-13 12:49:23.683405
+------------------------------------------------------
+Started: 2023-11-13 13:12:14.944711
+Existing_entries: 480
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《莉可丽丝》×MAYLA推出联名高跟鞋，11月15日开售](https://www.gcores.com/articles/173723)
+append_entries: 1
+Finish: 2023-11-13 13:12:17.025666
