@@ -22219,3 +22219,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《铁拳8》最后一名首发角色“Reina”角色宣传片公布](https://www.gcores.com/articles/173712)
 append_entries: 3
 Finish: 2023-11-13 10:39:51.424965
+------------------------------------------------------
+Started: 2023-11-13 10:48:31.232000
+Existing_entries: 480
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-13 10:48:31.399184
