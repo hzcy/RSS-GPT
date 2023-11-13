@@ -22038,3 +22038,21 @@ Existing_entries: 469
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-13 05:34:22.905647
+------------------------------------------------------
+Started: 2023-11-13 05:48:23.426450
+Existing_entries: 469
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Ado首次出场，第74届红白歌合战歌手名单公布](https://www.gcores.com/articles/173700)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [网飞宣布引入《哈迪斯》、《时空幻境》及《死亡之门》等游戏至移动平台](https://www.gcores.com/articles/173693)
+append_entries: 2
+Finish: 2023-11-13 05:48:26.822698
