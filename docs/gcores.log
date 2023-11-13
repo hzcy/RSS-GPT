@@ -22195,3 +22195,27 @@ Existing_entries: 477
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-13 10:30:45.034591
+------------------------------------------------------
+Started: 2023-11-13 10:39:47.530437
+Existing_entries: 477
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《大侠立志传》11月16日将迎来正式版发售](https://www.gcores.com/articles/173720)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [【福利】肉鸽塔防《CD2：陷阱大师》现已正式发售](https://www.gcores.com/articles/173716)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《铁拳8》最后一名首发角色“Reina”角色宣传片公布](https://www.gcores.com/articles/173712)
+append_entries: 3
+Finish: 2023-11-13 10:39:51.424965
