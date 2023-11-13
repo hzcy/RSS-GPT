@@ -19388,3 +19388,9 @@ Bing: ContentTypeError: 0, message='Attempt to decode JSON with unexpected mimet
 Append: [早报｜阿里回应多款产品「崩了」/ 郭明錤爆料 2024 款 iPad 系列 / 华为悬赏 200 万解答 2 道题](https://www.ifanr.com/1567847?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-13 01:42:16.923512
+------------------------------------------------------
+Started: 2023-11-13 02:16:40.222154
+Existing_entries: 130
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-13 02:16:42.026852
