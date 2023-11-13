@@ -5,11 +5,154 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>手机行业终结「小核」的历史，恰是芯片历史的一次进步</title>
+<link>https://www.ifanr.com/1567642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1567642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="alignnone size-full wp-image-1567657" height="720" src="https://s3.ifanr.com/wp-content/uploads/2023/11/2-2.jpg" width="1280" /></p>
+<p>虽然手搓芯片是一个梗，但苹果公司的第一款电脑 Apple I 确实是手工打造而成。</p>
+<p>做出苹果首款电脑时，乔布斯 20 岁，沃兹尼亚克 25 岁，MOS 6502 这款芯片的晶体管数量只有 3000 多个。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567656" height="456" src="https://s3.ifanr.com/wp-content/uploads/2023/11/3.png" width="726" /></p>
+<div class="editor-image-source">
+<p>▲ MOS 6502 芯片</p>
+</div>
+<p>MOS 6502 及其改款是 Apple I、Apple II 和 Apple III 这三款电脑所使用的芯片，它们的廉价和「够用」让 Apple II 获得了巨大成功，也让 Apple III 跌落谷底。</p>
+<p>「够用」经常是一个自欺欺人的相对概念，比如说前两年一款中端手机芯片足够让《王者荣耀》这样一款大型手游以高画质 90fps 的帧率流畅运行，但远不足以让《原神》在中画质下以 60fps 帧率运行。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567655" height="527" src="https://s3.ifanr.com/wp-content/uploads/2023/11/4-1.png" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲ Motorola 68000 芯片</p>
+</div>
+<p>1984 年，初代 Macintosh 电脑发布，曾在芯片选用栽过大跟头的乔布斯果断换芯，采用了 Motorola 68000 芯片，68000 的意思是，这款芯片内部有 68000 个晶体管。</p>
+<p>在芯片性能飙升的基础上，初代 Macintosh 电脑的图形界面和鼠标操作才能得以实现。</p>
+<p>到了 90 年代，英特尔推出了让它步入巅峰独孤求败的奔腾系列处理器，乱序执行和超标量 (Superscalar) 架构这些影响深远的技术在此出现。</p>
+<p>而此时的苹果选择和摩托罗拉以及 IBM 结盟，推出搭载 PowerPC 芯片的电脑，这也是为什么那个时期苹果笔记本会叫 PowerBook 的原因。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567654" height="960" src="https://s3.ifanr.com/wp-content/uploads/2023/11/5-1.png" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲ IBM Power4 服务器芯片（左）和英特尔处理器</p>
+</div>
+<p>而 Power 一词除了代表力量和性能之外，其实是 Performance Optimization With Enhanced RISC（一种 CPU 架构）的缩写，当时 IBM 的服务器芯片就是以 Power 命名，装在苹果电脑的芯片是同类型架构芯片，因此叫 PowerPC 芯片。</p>
+<p>在 2001 年，IBM 发布了世界上首颗双核处理器芯片 Power4，正式开启了处理器的多核心时代。</p>
+<p>然后就是 PowerPC 芯片逐渐难堪大用，苹果心不甘情不愿地投向死敌英特尔，借着又自立门户，用 M 系芯片彻底斩断了英特尔的联系。</p>
+<p>苹果电脑的兴衰史，亦是一场「芯衰史」，落后就要消失，不谈感情，全是技术。</p>
+<h3>天玑 9300，准备终结「小核」的历史</h3>
+<p>当下不过是历史的另一种重演。</p>
+<p>不久之前，高通骁龙 8 Gen3 旗舰芯片发布，其架构从上代的 1 超大核（1 Cortex X3 核心）+4 大核（2 Cortex A715 核心+2 A710 核心）+3 小核（3 Cortex A510 核心）的架构，变为 1 超大核（1 Cortex X4 核心）+5 大核（5 Cortex A720 核心）+2 小核（2 Cortex A520 核心）。</p>
+<p>两代芯片之间的架构转变主要有两点，一是小核减少，大核增加；二是大核架构统一，小大核被取消。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567653" height="1164" src="https://s3.ifanr.com/wp-content/uploads/2023/11/6-3.jpg" width="1164" /></p>
+<p>作为骁龙 8 Gen3 的直接竞争对手，刚刚发布的联发科天玑 9300 则做得更为激进，直接取消了小核心（A520 核心），转而采用 4 超大核（4 Cortex X4 核心）+4 大核（4 Cortex A720 核心）的全大核设计。</p>
+<p>如前面所言，「够用」经常是一个自欺欺人的相对概念。</p>
+<p>太多以当下论断未来的说法最终被证伪，最著名的莫过于 1943 年 IBM 董事长沃森说「全世界对计算机的需求量总共可能只有 5 台」。</p>
+<p>以及比尔盖茨在 1981 年说「640KB 内存对任何人来说都应该足够了」。</p>
+<p>需求和性能是双生的，上游芯片厂商，下游手机厂商，游戏和软件开发商，以及用户，在这场需求和性能的双生循环中，都扮演着同样的角色。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567652" height="204" src="https://s3.ifanr.com/wp-content/uploads/2023/11/7-2.png" width="360" /></p>
+<p>细致入微的芯片架构，和以亿计算出货量的宏大手机市场，有着千丝万缕的联系。</p>
+<p>市场份额之争，与性能乃至能效比之争，有时候呈现微妙的关系，譬如苹果独孤求败的每年 Q4 季度，是因为搭载新 A 系芯片的 iPhone 出货，在代际上领先高通和联发科一代，然后接着到年底才是这两家的旗舰芯片发布和出货。</p>
+<p>这种错峰的架势，在这两年改变颇大。</p>
+<p>在 10 月底和 11 月初，高通和联发科就已经发布并出货了旗舰芯片，以求在 Q4 和苹果正面对垒，原因何在？</p>
+<p>有一点可以推测，那就是因为 A 系芯片的性能和能效双重优势，日渐被缩进，乃至如今互有胜负，大家谁也不怵谁。</p>
+<p>另外，隔壁 PC 市场已经证明了，挤牙膏的厂商会受到严厉惩罚。</p>
+<p>看似矛盾的局面于是形成，一方面是用户换机周期变长，换机动力减弱，另一方面行业上下游全都不敢挤牙膏，以求产品能够刺激消费者。</p>
+<p>最显著的例子莫过于首发天玑 9300 的 vivo X100 系列，在标准版上，就已经有了天玑 9300 芯片+UFS4.0 存储+ LPDDR5T 内存的顶尖性能组合，以及「广角+主摄+长焦」的旗舰影像配置。在以往，这样的配置应该是 Pro 款才会有的。</p>
+<p>在《原神》之后，手机上运行主机级别的开放世界游戏已经从奢想变为现实，越来越多的游戏开发商毫不留情地去压榨手机的性能和能效还有散热极限，同时，直播的兴起，还有手机厂商在游戏模式以及多任务上的挖掘，内存的加大，也意味着一款手机同时可能会承担不止一个的重负载任务。</p>
+<p>再者，再不关心技术趋势的人也应该察觉到了 AIGC 大潮的来临，同样是 vivo，其旗下的 OriginOS 4 已经搭载了基于大语言模型的「蓝心小 V」智能助手，提供百变的 AI 服务。</p>
+<p>性能，是以上所有趋势的交叉点。</p>
+<p>小核，就是性能这个关键词的「阿喀琉斯之踵」。</p>
+<p>甚至，小核，还可能掣肘能效的原因之一。</p>
+<p>回望历史，关于芯片的「阿喀琉斯之踵」有太多太多，可能是晶体管数量，可能是核心数量，可能是制程工艺，也可能是更深层次的原因。</p>
+<h3>终结「小核」的全大核架构，更强还更省电了</h3>
+<p>性能更强，同时更省电，在常规认知当中会被认为是不可调和的矛盾，但在半导体和消费电子行业，却是自始至终的追求。</p>
+<p>2005 年苹果宣布将转投英特尔的时候，不少苹果粉丝异常愤怒，抨击苹果的投敌行为是数典忘祖。</p>
+<p>但是到了他们发现 2006 年搭载英特尔芯片的 MacBook 不仅性能更强，而且续航更长的时候，这些人的手都没闲着，要么在鼓掌，要么在掏钱。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567651" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/8-2.jpg" width="1280" /><br />
+<img alt="" class="alignnone size-full wp-image-1567650" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/9-3.jpg" width="1280" /></p>
+<p>更强且更省电，这也是天玑 9300 给出的答案。</p>
+<p>有趣的是，这个答案有一部分写在历史当中。</p>
+<p>1995 年，英特尔推出了 Pentium Pro 处理器，其中首发了名为「乱序执行（out-of-order execution）」的技术，这个技术也在联发科的沟通会上出现。</p>
+<p>芯片在处理指令的时候，有两种方式，面对汹涌而来的计算指令，一个接一个地处理执行，像菜谱一样按部就班地洗菜切菜烧水煮菜起锅，这是「顺序执行（in-of-order execution）」。</p>
+<p>而「乱序执行（out-of-order execution）」则不然，不讲究先来后到，手头空了就处理指令，哪怕这个指令是后面来的，就好比烧水耗时久，开水一开始也用不上，就可以把烧水放在切菜前面，菜切好了，水也开了，这样就缩短了整个做饭的时间。</p>
+<p>ARM 架构下的小核，以近两代的 Cortex A510 和 Cortex A520 为例，除了主频相比于超大核和大核更低之外，它们都只能做「顺序执行」，看似省电，其实性能低，执行效率低。</p>
+<p>这就类似于现代企业管理观念当中，企业家用 100 万工资雇佣 10 个精干的员工，还是花 80 万雇佣 10 个平庸的员工的选择一样，后者直觉上省钱了，但业绩利润贡献往往远不如前者，看似省，实则亏。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567649" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/10-3.jpg" width="1280" /></p>
+<p>至此，我们就可以明白，为什么高通会在骁龙 8 Gen3 上减少小核的数量，联发科干脆在天玑 9300 上取消 Cortex A520 小核。</p>
+<p>其实就是渐进式改革和革命性改变的区别。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567648" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/11-2.png" width="1280" /></p>
+<p>最终的成果就是，采用全大核架构的天玑 9300 喜提了 antutu 综合性能第一，在 GeekBench 6 里也获得了多核性能第一的成绩。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567647" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/12-1.jpg" width="1280" /></p>
+<p>都支持乱序执行的 8 个核心，大大提升了执行效率，说人话就是「做事快，休息也久」，从而达到了性能强同时功耗低的两全。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567646" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/13-2.jpg" width="1280" /></p>
+<p>与采用传统大小核架构的上代天玑 9200 相比，天玑 9300 在各种场景都实现了功耗降低，尤其是在 Wi-Fi 热点开启时，功耗甚至能少 30%。</p>
+<p>以重载游戏，加微信视频同时开启为例，看似是两个 app 在同时运行，实际上背后会有很多处理线程在运行，这多个线程都会占用处理器资源。</p>
+<p>比如主线程保证游戏的整体流程，渲染线程负责图形渲染，形成画面，物理线程负责处理游戏内的物理模拟，比如物体碰撞和运动等等，此外音频网络这些也可能会占用线程。</p>
+<p>微信视频通话虽然对手机的压力没有重载游戏那么大，一样也会有主线程，视频线程，音频线程等等。</p>
+<p>在如此多线程需要处理的时候，小核多的处理器就会「剪不断理还乱」，把压力扔给大核和超大核，出现核心全部占用的情况，甚至是超大核做小事的情况，这时候功耗自然就高。</p>
+<p>但如果是全大核，面对多线程的时候，就会游刃有余，按需分配，还能空出一两个核心出来。</p>
+<p>这也是全大核架构性能强，还省电的另一个原因。</p>
+<h3>历史不后退，「核战」永不停</h3>
+<p>旧时王谢堂前燕，飞入寻常百姓家，20 多年前，IBM 的双核处理器 Power4 是为了应对服务器这种超级重载需求而生，如今集成了 8 个大核 227 亿个晶体管的天玑 9300 可以藏身于不过 200 克的手机。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567645" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/14-3.jpg" width="1280" /></p>
+<p>首发于服务器处理器上的多核概念，鼎盛于 big LITTLE 架构，主要用于智能手机，但如今 PC 端处理器则更为激进，出现了诸多 12 核，乃至 24 核甚至更多核心的处理器。</p>
+<p>处理器的核心之战，也就是所谓「核战」从未停过，也从来都不是局部战争。</p>
+<p>虽然性能架构大相径庭，但多核的概念并非一成不变，早先的「胶水四核」或者「一核有难，九核围观」亦是「核战」历史的弯路或者阶段局限性。</p>
+<p>小核的历史，也是从多到少，从开始的半壁江山，到偏安一隅，再到退出舞台。</p>
+<p>天玑 9300 的思路，与另一边苹果 A 系芯片思路类似，在近几年苹果 A 系芯片里，2+4 是惯用架构，即 2 个性能核，和 4 个能效核，一直以来，苹果 A 系芯片的单核成绩遥遥领先，多核成绩也名列前茅，原因就是性能核大到夸张，比一般芯片的超大核还大，能效核的性能也不俗，不输其他芯片的大核，所以才能在核心数少的情况下，单核无敌多核不弱。</p>
+<p>小核退出历史舞台，恰是行业的进步。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567644" height="852" src="https://s3.ifanr.com/wp-content/uploads/2023/11/15-3.jpg" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲ 联发科资深副总经理暨无线通信事业部总经理徐敬全博士</p>
+</div>
+<p>联发科资深副总经理暨无线通信事业部总经理徐敬全博士说：</p>
+<p>天玑 9300 是联发科迄今为止最强大的旗舰移动芯片，通过我们开创性的全大核架构设计，为旗舰智能手机带来令人惊叹的计算力突破。独特的全大核 CPU 结合新一代 APU、GPU、ISP 以及联发科特有的前沿技术，不仅可以显著提升终端性能和能效，还将为消费者带来卓越的端侧生成式 AI 体验。</p>
+<p>一直以来，大众认为联发科处理器市占率高是因为站稳了中低端，在高端手机上一直扮演追赶者的角色，到了天玑 9300 这一代，联发科在技术创新上的坚决和果敢，获得了回报。</p>
+<p><img alt="" class="alignnone size-full wp-image-1567643" height="384" src="https://s3.ifanr.com/wp-content/uploads/2023/11/16-3.jpg" width="1280" /></p>
+<p>无论是全大核架构在性能和功耗上的优良表现，还是第七代 APU 能够运行超过 330 亿参数的端侧大模型，是联发科一款里程碑意义的产品，同时也是手机行业乃至芯片史上值得被记住的一款芯片。</p>
+<p>正如天玑 9300 的诸多技术能够从历史当中找到线索，如今天玑 9300 亦可是代表芯片历史趋势的线索。</p>
+<p>「全大核」架构就是这种线索技术。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank">刘学文</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">在命运的塑料大棚里，每棵被喷了过多农药的白菜心中，都曾经有一个成为无公害有机蔬菜的梦想。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:owenliu@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://weibo.com/u/1731822990" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://www.ifanr.com/5" style="margin-right: 14px; text-decoration: none;" target="_blank">1</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1567642">原文链接</a> ·
+<a href="https://www.ifanr.com/1567642#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 13 Nov 2023 04:18:25 +0000</pubDate>
+<updated>Mon, 13 Nov 2023 04:18:25 +0000</updated>
+</item>
+
+<item>
 <title>卡戴珊的内衣品牌不只是 CK 劲敌，还想做下一个耐克</title>
 <link>https://www.ifanr.com/1567814?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1567814?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p>「等我长大变有名，你会记住我这个美丽的女孩儿。」少年时的金·卡戴珊如是说。</p>
 <p>网红这行，不怕争议满身，只怕默默无闻。卡戴珊懂得《狂飙》高启强的「风浪越大鱼越贵」，不惜把自己作为商品，告诉了后来的网红什么叫「为了出名而出名」。</p>
 <p><img alt="" class="size-full wp-image-1567815 aligncenter" height="282" src="https://s3.ifanr.com/wp-content/uploads/2023/11/kim11.gif" width="490" /></p>
@@ -159,9 +302,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 13 Nov 2023 03:56:33 +0000</pubDate>
-<updated>Mon, 13 Nov 2023 03:56:33 +0000</updated>
 </item>
-
 <item>
 <title>ChatGPT 之父投资，前苹果员工打造，这款产品想成为 AI 时代的 iPhone</title>
 <link>https://www.ifanr.com/1567591?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>

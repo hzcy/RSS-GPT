@@ -19454,3 +19454,15 @@ GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com
 Append: [卡戴珊的内衣品牌不只是 CK 劲敌，还想做下一个耐克](https://www.ifanr.com/1567814?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-13 04:11:47.713805
+------------------------------------------------------
+Started: 2023-11-13 04:27:25.697140
+Existing_entries: 133
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [手机行业终结「小核」的历史，恰是芯片历史的一次进步](https://www.ifanr.com/1567642?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-13 04:27:28.799627
