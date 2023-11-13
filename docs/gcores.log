@@ -22465,3 +22465,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [2023年TGA年度大奖提名公布，《心灵杀手2》及《博德之门3》并列最多提名](https://www.gcores.com/articles/173738)
 append_entries: 2
 Finish: 2023-11-13 20:22:37.462916
+------------------------------------------------------
+Started: 2023-11-13 20:35:27.601700
+Existing_entries: 485
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-13 20:35:27.897943
