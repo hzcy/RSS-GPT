@@ -22309,3 +22309,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [RTS《终结者 黑暗命运- Defiance》将于12月8日发售](https://www.gcores.com/articles/173726)
 append_entries: 1
 Finish: 2023-11-13 14:26:48.366999
+------------------------------------------------------
+Started: 2023-11-13 14:35:23.517865
+Existing_entries: 482
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-13 14:35:23.690803
