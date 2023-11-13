@@ -19412,3 +19412,15 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [苹果：我们的产品不收「环保税」| Feel Good 周报](https://www.ifanr.com/1567775?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-13 02:48:33.663481
+------------------------------------------------------
+Started: 2023-11-13 03:10:05.510979
+Existing_entries: 131
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [ChatGPT 之父投资，前苹果员工打造，这款产品想成为 AI 时代的 iPhone](https://www.ifanr.com/1567591?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-13 03:10:09.096348
