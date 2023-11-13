@@ -22375,3 +22375,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [任天堂新一期“Indie World”独立游戏发布会将于本月15日举行](https://www.gcores.com/articles/173733)
 append_entries: 1
 Finish: 2023-11-13 17:08:35.969068
+------------------------------------------------------
+Started: 2023-11-13 17:24:22.631553
+Existing_entries: 483
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-13 17:24:22.896906
