@@ -22116,3 +22116,40 @@ Existing_entries: 471
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-13 08:28:52.684829
+------------------------------------------------------
+Started: 2023-11-13 08:37:48.372438
+Existing_entries: 471
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《使命召唤：现代战争Ⅲ》M站用户评分1.4分，媒体评分50分](https://www.gcores.com/articles/173695)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [暴走P创作，《有氧拳击 feat.初音未来 -和Miku一起锻炼-》主题曲介绍PV公开](https://www.gcores.com/articles/173710)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [小黄金船当主角，《赛马娘》新漫画11月末连载开始](https://www.gcores.com/articles/173704)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《天穗之咲稻姬》迎来3周年，作者称来年上半年发布“重要公告”](https://www.gcores.com/articles/173698)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [雷柏VT9Air双模无线游戏鼠标上市](https://www.gcores.com/articles/173703)
+Append: [“Denshi”视觉小说游戏《ghostpia Season One》中文版本将于11月16日发布](https://www.gcores.com/articles/173702)
+append_entries: 6
+Finish: 2023-11-13 08:37:53.274887
