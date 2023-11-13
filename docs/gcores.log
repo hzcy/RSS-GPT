@@ -22363,3 +22363,15 @@ Existing_entries: 482
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-13 16:48:31.441186
+------------------------------------------------------
+Started: 2023-11-13 17:08:33.411557
+Existing_entries: 482
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [任天堂新一期“Indie World”独立游戏发布会将于本月15日举行](https://www.gcores.com/articles/173733)
+append_entries: 1
+Finish: 2023-11-13 17:08:35.969068
