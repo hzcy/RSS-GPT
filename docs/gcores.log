@@ -22885,3 +22885,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [IGN8分：索尼串流掌机PlayStation Portal媒体体验汇总](https://www.gcores.com/articles/173778)
 append_entries: 1
 Finish: 2023-11-14 13:26:57.089671
+------------------------------------------------------
+Started: 2023-11-14 13:35:27.139125
+Existing_entries: 496
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-14 13:35:27.434488
