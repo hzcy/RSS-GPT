@@ -22723,3 +22723,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [成为管理大亨：《迪斯科模拟器》现已上线试玩序章](https://www.gcores.com/articles/173743)
 append_entries: 3
 Finish: 2023-11-14 07:20:38.015424
+------------------------------------------------------
+Started: 2023-11-14 07:33:38.465228
+Existing_entries: 491
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-14 07:33:38.715550
