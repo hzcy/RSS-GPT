@@ -22561,3 +22561,21 @@ Existing_entries: 485
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-14 01:40:02.680760
+------------------------------------------------------
+Started: 2023-11-14 02:15:00.176006
+Existing_entries: 485
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《女神异闻录3 Reload》新预告公布，介绍“忠实伴侣”虎狼丸](https://www.gcores.com/articles/173740)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [Remedy宣布将代号为“Vanguard”的游戏重启，打造一款出色的合作多人游戏](https://www.gcores.com/articles/173739)
+append_entries: 2
+Finish: 2023-11-14 02:15:02.692439
