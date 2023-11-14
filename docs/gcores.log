@@ -22645,3 +22645,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《阿凡达：潘多拉边境》现已进厂压盘，12月7日准时发售](https://www.gcores.com/articles/173741)
 append_entries: 1
 Finish: 2023-11-14 04:48:29.030947
+------------------------------------------------------
+Started: 2023-11-14 05:09:09.785755
+Existing_entries: 488
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-14 05:09:09.984306
