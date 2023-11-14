@@ -19958,3 +19958,15 @@ Existing_entries: 135
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-14 03:10:06.989746
+------------------------------------------------------
+Started: 2023-11-14 03:23:16.946667
+Existing_entries: 135
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [vivo X100 标准版体验：起步即旗舰](https://www.ifanr.com/1567922?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-14 03:23:19.929690
