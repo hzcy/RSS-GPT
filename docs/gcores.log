@@ -22633,3 +22633,15 @@ Existing_entries: 487
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-14 04:35:12.553855
+------------------------------------------------------
+Started: 2023-11-14 04:48:27.823169
+Existing_entries: 487
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《阿凡达：潘多拉边境》现已进厂压盘，12月7日准时发售](https://www.gcores.com/articles/173741)
+append_entries: 1
+Finish: 2023-11-14 04:48:29.030947
