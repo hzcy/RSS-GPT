@@ -22579,3 +22579,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [Remedy宣布将代号为“Vanguard”的游戏重启，打造一款出色的合作多人游戏](https://www.gcores.com/articles/173739)
 append_entries: 2
 Finish: 2023-11-14 02:15:02.692439
+------------------------------------------------------
+Started: 2023-11-14 02:32:40.812893
+Existing_entries: 487
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-14 02:32:41.030608
