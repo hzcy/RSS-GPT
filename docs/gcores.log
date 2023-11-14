@@ -22741,3 +22741,33 @@ Existing_entries: 491
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-14 08:12:57.871031
+------------------------------------------------------
+Started: 2023-11-14 08:27:42.466313
+Existing_entries: 491
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [爆款续作《全网公敌：新世界》Steam限时试玩版首次公开！](https://www.gcores.com/articles/173757)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [拉瑞安工作室电影动画主管Jim Southworth去世，官方发文悼念](https://www.gcores.com/articles/173753)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [鸟山明《沙漠大冒险》宣布推出动画系列，2024年春季上线Disney+](https://www.gcores.com/articles/173752)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [拉瑞安工作室电影动画主管吉姆·索斯沃斯去世](https://www.gcores.com/articles/173737)
+append_entries: 4
+Finish: 2023-11-14 08:27:47.737779
