@@ -22771,3 +22771,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [拉瑞安工作室电影动画主管吉姆·索斯沃斯去世](https://www.gcores.com/articles/173737)
 append_entries: 4
 Finish: 2023-11-14 08:27:47.737779
+------------------------------------------------------
+Started: 2023-11-14 08:36:17.078463
+Existing_entries: 495
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-14 08:36:17.575586
