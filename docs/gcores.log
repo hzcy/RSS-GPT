@@ -22699,3 +22699,27 @@ Existing_entries: 488
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-14 07:08:49.254937
+------------------------------------------------------
+Started: 2023-11-14 07:20:31.676614
+Existing_entries: 488
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《遗迹2：真皇的苏醒》DLC现已登陆PC，PS5 和Xbox Series X|S](https://www.gcores.com/articles/173748)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [B站TGA 2023玩家投票开启，快来评选你心中的年度最佳](https://www.gcores.com/articles/173747)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [成为管理大亨：《迪斯科模拟器》现已上线试玩序章](https://www.gcores.com/articles/173743)
+append_entries: 3
+Finish: 2023-11-14 07:20:38.015424
