@@ -23317,3 +23317,27 @@ Existing_entries: 507
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-15 06:38:54.261793
+------------------------------------------------------
+Started: 2023-11-15 06:48:26.606377
+Existing_entries: 507
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [限量200把，Gibson Brands Japan×《孤独摇滚！》推出官方联名电吉他](https://www.gcores.com/articles/173810)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《极限竞速》2.0更新现已开始推送，修复多项游戏漏洞](https://www.gcores.com/articles/173809)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《霍格沃茨之遗》Nintendo Switch版发售预告片公布](https://www.gcores.com/articles/173807)
+append_entries: 3
+Finish: 2023-11-15 06:48:32.354674
