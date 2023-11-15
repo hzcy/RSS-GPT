@@ -23275,3 +23275,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [XGP十一月下旬新增游戏阵容揭晓：含《女神异闻录5 战略版》等三款作品](https://www.gcores.com/articles/173799)
 append_entries: 5
 Finish: 2023-11-15 04:48:34.054850
+------------------------------------------------------
+Started: 2023-11-15 05:09:22.199122
+Existing_entries: 507
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-15 05:09:22.383809
