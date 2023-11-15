@@ -23413,3 +23413,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [古墓丽影 x 万智牌全新联动单卡](https://www.gcores.com/articles/173801)
 append_entries: 4
 Finish: 2023-11-15 08:48:32.893141
+------------------------------------------------------
+Started: 2023-11-15 09:10:17.866191
+Existing_entries: 514
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-15 09:10:18.173031
