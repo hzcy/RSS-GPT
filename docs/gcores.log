@@ -23155,3 +23155,39 @@ Existing_entries: 497
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-15 02:18:04.581798
+------------------------------------------------------
+Started: 2023-11-15 02:39:53.720707
+Existing_entries: 497
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《星际拓荒》登录Switch平台、《香缇》新作公布：任天堂独立游戏直面会内容汇总](https://www.gcores.com/articles/173790)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《潜行者2》参展2023「核聚变游戏节」成都站，A07展区见](https://www.gcores.com/articles/173750)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [Steam Deck登顶，《雨中冒险 回归》上榜：Steam周销量排行榜|2023年11月第2周](https://www.gcores.com/articles/173789)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [村长模拟器《中世纪王朝》将于12月7日推出多人模式](https://www.gcores.com/articles/173788)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [经典免费多人MMO《Trove》国际服正式更新中文名《宝藏世界》，简中支持及全新DLC同步推出](https://www.gcores.com/articles/173787)
+append_entries: 5
+Finish: 2023-11-15 02:40:05.063741
