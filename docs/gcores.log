@@ -23341,3 +23341,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [《霍格沃茨之遗》Nintendo Switch版发售预告片公布](https://www.gcores.com/articles/173807)
 append_entries: 3
 Finish: 2023-11-15 06:48:32.354674
+------------------------------------------------------
+Started: 2023-11-15 07:09:10.461563
+Existing_entries: 510
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-15 07:09:10.637984
