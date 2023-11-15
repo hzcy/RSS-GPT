@@ -4,6 +4,77 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>手机电脑里的 GPT，要先解决这个「屏幕孤岛」难题</title>
+<link>https://www.ifanr.com/1567974?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1567974?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="" class="aligncenter size-full wp-image-1567978" height="720" src="https://s3.ifanr.com/wp-content/uploads/2023/11/screen.png" width="1260" /></p>
+<p>1995 年，押井守改编士郎正宗的科幻漫画《攻壳机动队》剧场上映，故事主角草薙素子是世界上第一批全身义体化改造的人类。在动画电影的海报上，一丝不挂的素子除了脑部和少部分脊髓之外，全身都连接着机械化的设备。这是二三十年前科幻作者们对人类与设备连接共存的幻想与隐喻。</p>
+<p>时过境迁，在《攻壳机动队》上映近三十年后，尽管我们的生活与赛博世界仍相去甚远，但如何去更好地与设备相连，已经成为一个无法避免的问题。</p>
+<div>
+<div class="image-uploaded gallery old-record-id-doxcn7PSJ8dwKGaaQzbERQbkNNg"><img alt="" class="alignnone size-full wp-image-1568007" height="537" src="https://s3.ifanr.com/wp-content/uploads/2023/11/1-2.png" width="813" /></div>
+</div>
+<h3>屏幕过载难题</h3>
+<p>德勤在 2023 年的《互联网消费者调查报告》中表示，平均每个美国家庭拥有 13 种类型、21 台设备，与 2021 年居家办公时期相比已经减少了 20%，越来越多人面临「设备天花板」。大家开始意识到，拥有太多的设备不是一件好事，让设备之间更好地联通才是关键。</p>
+<p>这不是一件容易的事情。</p>
+<p>差不多就在士郎正宗开始连载《攻壳机动队》的时候，大洋彼岸的微软在苹果 Macintosh 电脑上推出了 Microsoft Office 办公套件——如今最大的软件公司和硬件公司，也是探索设备与人类更好相连的先驱。在 PC 互联网的发展阶段，一个人只有一台电脑，用一台设备处理某几件事情的时候，这是一个行之有效的办法。</p>
+<p>但在移动互联网时代，老办法不奏效了——因为我们要面对的屏幕过载了。</p>
+<div>
+<div class="image-uploaded gallery old-record-id-doxcnYyiXEUuUbH8tFPwIfSkwid"><img alt="" class="alignnone size-full wp-image-1568005" height="617" src="https://s3.ifanr.com/wp-content/uploads/2023/11/2-2.png" width="1080" /></div>
+</div>
+<p>屏幕过载，不仅是指屏幕数量过多，而且屏幕的形态也各不一样，这意味着屏幕背后的场景千差万别。</p>
+<p>同一个文件，在手机上可能就是为了查阅收发信息，放电脑上更多是要进行更复杂的编辑处理，而一旦放到电视上，可能就是为了会议演示。更复杂的是，这些屏幕的载体往往是不同厂牌的设备——你可能是用荣耀手机、小米电视和华硕电脑，设备形态、品牌和操作系统都不一样，这时候，通常只能打开不那么聪明的文件传输助手……这显然不是什么好办法。</p>
+<p>未来学家把移动智能设备比作人体之外的「器官」，那么信息就是让这些「器官」与人体相连的血液。屏幕过载难题，本质上是信息过载和场景过载，移动互联网的发展让原子化的智能设备无处不在，但并没有完全解决信息之间的互联互通，倒不如说，本该通畅流转的信息，反而随着设备的形态、品牌、系统差异化变成一座座孤岛。</p>
+<p>要解决这个问题，自然也要脱离设备们在形态、品牌和系统层面的桎梏，从底层入手。</p>
+<h3>用 AI 连接一切</h3>
+<p>前不久，高通在骁龙技术峰会上发布了跨平台技术 Snapdragon Seamless，这套解决方案旨在让使用 Android、Windows 和其他操作系统的骁龙终端发现彼此，并能像使用统一的整合系统般工作以共享信息。看几个例子，会更明白一些——</p>
+<p>手机上有个文件要处理时，用电脑鼠标就可以把文件拖过来：</p>
+<div>
+<div class="image-uploaded gallery old-record-id-doxcn5EUYYEGMZdA5UnEMQ4DQph"><img alt="" class="alignnone size-full wp-image-1568011" height="480" src="https://s3.ifanr.com/wp-content/uploads/2023/11/3-2.gif" width="853" /></div>
+</div>
+<p>戴着无线耳机听歌时，临时电脑上要开个会，耳机就会自动暂停音乐并且接入会议：</p>
+<div>
+<div class="image-uploaded gallery old-record-id-doxcnXUfwVEDgBOVRMJM7XrFRue"><img alt="" class="alignnone size-full wp-image-1568012" height="480" src="https://s3.ifanr.com/wp-content/uploads/2023/11/4-1.gif" width="853" /></div>
+</div>
+<p>戴着 AR 眼镜做瑜伽的时候，手机可以追踪你的肢体动作，而智能手表检测到的身体信息，也会投射到镜片上：</p>
+<div>
+<div class="image-uploaded gallery old-record-id-doxcnIHWLhySShEJnKZAzmMJSmT"><img alt="" class="alignnone size-full wp-image-1568013" height="480" src="https://s3.ifanr.com/wp-content/uploads/2023/11/88.gif" width="853" /></div>
+</div>
+<p>这其中最有趣的是，在这些情景里，你不需要专门去买某个厂牌的设备——你甚至可以用小米手机、华硕电脑、荣耀手表、vivo 耳机来实现这一切，因为这是从芯片底层实现互联互通，也就一口气打破了设备形态、OEM 厂牌和操作系统的桎梏。</p>
+<p>底层技术的支持，让消费者的决策权最大程度地握在自己手里。高通技术公司副总裁 Dino Bekis 表示：</p>
+<blockquote><p>Snapdragon Seamless 打破了终端和操作系统之间的壁垒，是真正秉承「用户至上」理念的跨终端解决方案。</p></blockquote>
+<p>要让过载的信息流通起来不是一件容易事，高通的解决办法是引入更先进的 AI 技术，以及算力更强的 AI 芯片。</p>
+<p>ChatGPT 等大语言模型百家争鸣，让 AI 成为人人可感的技术，但要通过 AI 连接一切，首先 AI 得做到润物细无声。每一个人连接的设备、场景都各有不同，数据模型也呈现高度个性化。云端通用大模型的算力虽强，但响应速度、定制能力都有不足，也存在较大的数据隐患。</p>
+<p>这也是为什么设备终端厂商都在探索端侧大模型的原因，而高通作为其中最大的底层技术供应商，也有着最大的先发优势。</p>
+<p>在骁龙峰会上，除了 Android 旗舰手机的性能担当第三代骁龙 8 移动平台，高通还留了很大的篇幅给到骁龙 X Elite 芯片——这是面向明年 AI PC 的平台，采用 4nm 制程工艺，有着超越同类产品的能效，但更重要的是，该平台围绕 AI 能力进行了专门设计。</p>
+<div>
+<div class="image-uploaded gallery old-record-id-doxcnZC1b3EJulAnxfSJirlsTUg"><img alt="" class="alignnone size-full wp-image-1568002" height="460" src="https://s3.ifanr.com/wp-content/uploads/2023/11/6-1.png" width="720" /></div>
+</div>
+<p>0.6 秒，这是搭载骁龙 X Elite 的电脑用 Stable Diffusion 生成一张图片所花的时间，这个开源 AI 生图模型就是年初火到要干掉证件照的《妙鸭相机》的技术根基。如果是云端大模型，你可能要等数十秒钟才能生成一张图，而用端侧大模型可以跑到一秒内。骁龙峰会时，骁龙 X Elite 芯片已经可以跑 130 亿参数的大模型，是首个能在终端侧运行超过 100 亿参数生成式 AI 模型的平台之一，另一款是第三代骁龙 8。</p>
+<p>尽管和 ChatGPT 这样通过云端跑 1000 亿参数的云端大模型仍有差距，但随着生成式 AI 模型开源生态的发展迭代，生成式模型能力会越来越强，所需要的参数将越来越少，最终会成为端侧大模型最夯实的壁垒——因为不是每个人都愿意把自己的隐私数据放到云端。</p>
+<p>每年 PC 市场有一半的设备是销售给商务用户，意味着大量用户其实并不希望自己的商业机密被传到互联网上，而端侧大模型的优势就在于绝佳的私密性，在保护隐私的同时也能提供良好的可定制功能，更贴近日常使用习惯。</p>
+<p>这也是高通和骁龙的芯片为什么注重 AI 底层能力开发与互通的关键。当用户使用新的终端时，高通能够帮助用户将个性化模型直接迁移到新终端上，通过 Snapdragon Seamless 等能力，帮助用户在不同终端之间实现高效工作，提供跨终端的无缝衔接体验。</p>
+<p>除此之外，高通提供支持的 AI 终端助手还将具备访问所有底层应用程序的能力，可以将手机、PC 里的原子化信息跨 app、跨终端进行收集整理，不需要在多个应用程序之间切换就可以完成复杂任务——这些底层技术研发背后的思考，是出于对移动互联网更迭的深刻洞察。这是把芯片深植在数亿移动设备里的厂商才能做到的事情，而高通恰好是其中之一。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568001" height="405" src="https://s3.ifanr.com/wp-content/uploads/2023/11/7-3.png" width="720" /></p>
+<p>在骁龙峰会上，我们既能看到像小米、OPPO、荣耀这样的终端厂商，也有微软这样的操作系统巨头，还有 BlackmagicDesign 等生产力软件开发商，这家来自澳洲的科技公司，是影视行业最重要的「卖水人」之一。他们宣布旗下的影视编辑软件达芬奇 DaVinci Resolve 将于 2024 年登陆骁龙 X Elite 平台，代表先进生产力的卖水人们入场，这是对新的芯片平台最好的站台——让终端、系统和工具的缔造者们一起坐下来聊聊，我想这也是骁龙峰会的价值所在。</p>
+<p>毫无疑问，2024 年将会是 AI 设备海量涌现的年份，也是智能设备换机潮的一个重要拐点。我们将面临更多与设备连接共处的问题，统一的智能终端生态体验，将会是最重要的产品竞争力，而高通和骁龙将成为其中最大的助力。</p>
+<p>我想，到时候更多地能把设备的选择权握在自己手里，总归不是一件坏事。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1567974">原文链接</a> ·
+<a href="https://www.ifanr.com/1567974#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Wed, 15 Nov 2023 04:00:28 +0000</pubDate>
+<updated>Wed, 15 Nov 2023 04:00:28 +0000</updated>
+</item>
 
 <item>
 <title>早报｜小米汽车信息曝光，售价或超 30 万 / 雀巢回应网易举报 / 兑现承诺，李想发 AI 换脸跳楼视频</title>

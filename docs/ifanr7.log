@@ -20510,3 +20510,15 @@ Existing_entries: 138
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-15 03:48:33.471731
+------------------------------------------------------
+Started: 2023-11-15 04:11:42.879666
+Existing_entries: 138
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [手机电脑里的 GPT，要先解决这个「屏幕孤岛」难题](https://www.ifanr.com/1567974?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-15 04:11:45.967538
