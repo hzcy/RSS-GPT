@@ -23383,3 +23383,33 @@ Existing_entries: 510
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-15 08:37:49.630432
+------------------------------------------------------
+Started: 2023-11-15 08:48:28.944548
+Existing_entries: 510
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [Key社恋爱ADV新作《Anemoi》正式公开，17日公布详情](https://www.gcores.com/articles/173827)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [中国首家小岛工作室快闪店将于近期在北京开业](https://www.gcores.com/articles/173822)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [庆祝《维多利亚》系列20周年:《维多利亚3》全新内容包正式推出](https://www.gcores.com/articles/173818)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [古墓丽影 x 万智牌全新联动单卡](https://www.gcores.com/articles/173801)
+append_entries: 4
+Finish: 2023-11-15 08:48:32.893141
