@@ -24020,3 +24020,41 @@ Existing_entries: 527
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-16 09:48:42.369366
+------------------------------------------------------
+Started: 2023-11-16 10:10:28.991330
+Existing_entries: 527
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [漫威原创剧集《假如…？》第二季预告公开](https://www.gcores.com/articles/173878)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [任天堂公布《斯普拉遁3》新赛季2023冬“Chill Season”宣传视频](https://www.gcores.com/articles/173874)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《小鸡快跑2：鸡块新时代》公布预告，十二月登录网飞](https://www.gcores.com/articles/173873)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [《地狱弹珠》弹珠台上的肉鸽塔防！现开放Demo](https://www.gcores.com/articles/173869)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [限时抽选登舰资格，解锁大刘同款沉浸式《三体》体验之旅](https://www.gcores.com/articles/173870)
+Append: [开放世界推箱子冒险游戏《海天岛传说》中文Demo现已更新](https://www.gcores.com/articles/173866)
+Append: [策略卡牌构筑RPG游戏《纵横命途》将于11月29日发售](https://www.gcores.com/articles/173865)
+append_entries: 7
+Finish: 2023-11-16 10:10:38.244257

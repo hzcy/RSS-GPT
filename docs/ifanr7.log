@@ -21182,3 +21182,15 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [ColorOS 14 超前众测体验，新系统，新在哪里？](https://www.ifanr.com/1568057?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-16 09:48:40.338339
+------------------------------------------------------
+Started: 2023-11-16 10:10:23.809921
+Existing_entries: 141
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [专访「什么都没有」CEO 丨多样性公司](https://www.ifanr.com/1568174?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-16 10:10:27.185318
