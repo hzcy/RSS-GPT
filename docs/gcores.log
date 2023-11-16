@@ -23803,3 +23803,40 @@ Existing_entries: 514
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-16 03:48:19.901568
+------------------------------------------------------
+Started: 2023-11-16 04:11:44.745624
+Existing_entries: 514
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《刺客信条：幻景》将于12月推出永久死亡模式及新游戏+](https://www.gcores.com/articles/173847)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《自杀小队：战胜正义联盟》公布最新实机演示，PC配置要求同步揭晓](https://www.gcores.com/articles/173844)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [「核聚变游戏节」2023成都站丨Paras Games准备了新惊喜](https://www.gcores.com/articles/173816)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [故事驱动RPG游戏《奇唤士》宣布延期发售，2024年2月21日推出](https://www.gcores.com/articles/173845)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [拉瑞安工作室将于TGA颁奖典礼揭晓《博德之门3》Xbox版发售时间](https://www.gcores.com/articles/173842)
+Append: [CDPR正在开发《巫师 3：狂猎》模组编辑器，预计2024年推出](https://www.gcores.com/articles/173841)
+append_entries: 6
+Finish: 2023-11-16 04:11:50.071513
