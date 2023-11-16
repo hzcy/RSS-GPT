@@ -23960,3 +23960,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [Team Ladybug开发，全新类银河城动作游戏《幻刃奇美拉》2024年春季发售](https://www.gcores.com/articles/173860)
 append_entries: 2
 Finish: 2023-11-16 07:21:20.924022
+------------------------------------------------------
+Started: 2023-11-16 07:33:44.712847
+Existing_entries: 527
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-16 07:33:44.888950
