@@ -23882,3 +23882,39 @@ Existing_entries: 520
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-16 05:48:25.089837
+------------------------------------------------------
+Started: 2023-11-16 06:13:05.010894
+Existing_entries: 520
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [游戏茶馆×机核网，“Indie Game Night@CD”—独游之夜活动11月25日举办](https://www.gcores.com/articles/173858)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [地下城沙盒模拟经营新游《纳赫鲁博王国地下城大师》现已登陆PC和Mac](https://www.gcores.com/articles/173857)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [微软推出自家AI计算芯片与云服务定制芯片Azure Maia 100、Azure Cobalt 100](https://www.gcores.com/articles/173856)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [系列首部 3DCG，动画电影《蜡笔小新：新次元！超能力大决战》公布最新预告](https://www.gcores.com/articles/173853)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [国风动作单机《诸子无双》Steam正式发售，限时32.4元](https://www.gcores.com/articles/173795)
+append_entries: 5
+Finish: 2023-11-16 06:13:12.088103
