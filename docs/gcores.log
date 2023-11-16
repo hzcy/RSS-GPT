@@ -23942,3 +23942,21 @@ Existing_entries: 525
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-16 07:09:16.046357
+------------------------------------------------------
+Started: 2023-11-16 07:21:18.367337
+Existing_entries: 525
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [舞台、同伴、地图探索：《圣兽之王》公开新详情介绍](https://www.gcores.com/articles/173863)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [Team Ladybug开发，全新类银河城动作游戏《幻刃奇美拉》2024年春季发售](https://www.gcores.com/articles/173860)
+append_entries: 2
+Finish: 2023-11-16 07:21:20.924022
