@@ -20990,3 +20990,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [早报｜小米汽车终于要来了 / SpaceX 星舰本周五再度发射 / 扛不住，ChatGPT Plus 暂停新用户注册](https://www.ifanr.com/1568091?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-16 01:43:26.676426
+------------------------------------------------------
+Started: 2023-11-16 02:18:34.712457
+Existing_entries: 140
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-16 02:18:36.658138
