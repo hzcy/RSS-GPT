@@ -24535,3 +24535,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [《女神异闻录5 战略版》今日发售，国区售价319元起](https://www.gcores.com/articles/173905)
 append_entries: 4
 Finish: 2023-11-17 06:18:52.131423
+------------------------------------------------------
+Started: 2023-11-17 06:29:56.766275
+Existing_entries: 546
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-17 06:29:57.064069
