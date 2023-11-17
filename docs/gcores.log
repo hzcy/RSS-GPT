@@ -24601,3 +24601,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [免费游玩《倾听画语: 最美好的景色》：NS会员限定活动“试玩同乐会”将于11月20日开启](https://www.gcores.com/articles/173902)
 append_entries: 2
 Finish: 2023-11-17 08:28:23.066656
+------------------------------------------------------
+Started: 2023-11-17 08:37:16.895066
+Existing_entries: 548
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-17 08:37:17.083500
