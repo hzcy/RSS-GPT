@@ -21722,3 +21722,12 @@ Existing_entries: 146
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-17 10:10:15.489492
+------------------------------------------------------
+Started: 2023-11-17 10:29:14.213410
+Existing_entries: 146
+Fetching from https://www.ifanr.com/feed
+Token length: 3472
+Summarized using GPT-3.5-turbo-16k
+Append: [M3 MacBook Pro 评测：Mac 可以打游戏了，但这不是它最大的亮点](https://www.ifanr.com/1568170?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-17 10:29:43.941394

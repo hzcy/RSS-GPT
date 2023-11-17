@@ -4,6 +4,76 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>M3 MacBook Pro 评测：Mac 可以打游戏了，但这不是它最大的亮点</title>
+<link>https://www.ifanr.com/1568170?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1568170?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 苹果, MacBook Pro, M3 芯片, 阳极氧化, 黑色笔记本电脑
+
+<br><br>总结:<br>这篇文章讲述了苹果公司的一项新技术，专注于改进 MacBook Pro 的外观和性能。文章首先介绍了人眼识别颜色的原理，并提到苹果公司在阳极氧化工艺方面的创新，特别是在实现纯正黑色方面的挑战。苹果通过改进阳极氧化蚀刻技术，使铝合金表面的氧化颗粒更粗糙，从而增强铝合金部件的漫反射，创造出一种更深、更纯净的黑色。文章还讨论了新款 MacBook Pro，尤其是搭载 M3 Pro/Max 芯片机型的独特配色「深空黑」，以及它相较于银色和深空灰款式的抗指纹特性。最后，文章提到了 M3 芯片的性能特点，包括其在 GPU 性能和耐用程度上的提升。 <div>
+<p><img alt="" class="aligncenter size-full wp-image-1568176" height="1365" src="https://s3.ifanr.com/wp-content/uploads/2023/11/DSC063762.jpg" width="2048" /></p>
+<p>众所周知，人眼之所以能看见色彩斑斓的世界，是因为不同波长的光反射到了我们眼里，波长较长的光成为了明艳的红色，波长较短的光则是深郁的蓝色，而当大部分可见波长的光线不可见时，就有了黑色。</p>
+<p>2019 年 5 月，苹果公司提交了一项名为 <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11751349">「使阳极氧化部件具备哑光黑色外观」</a>的专利。</p>
+<p>阳极氧化是近几年在电子设备外观上最常见的工艺之一，通过对铝合金进行化学处理，使其表面覆盖一层氧化物，增强铝合金的耐磨性和抗腐蚀性，还能有效防指纹等油污沾染。</p>
+<p>在专利中，苹果表示，尽管在阳极氧化工艺过程中，可以通过添加着色材料颗粒的方式为电子设备上色，使其拥有五彩缤纷的铝合金外壳，但要实现纯正的黑色并不容易。打磨得过于光滑的外壳会造成炫光，导致视觉上呈现深灰色。</p>
+<p>为此，苹果改进了阳极氧化的蚀刻技术，在微观层面上让铝合金表面的氧化颗粒更加粗糙，进而增强铝合金部件的漫反射——光线被反射到了四面八方，进入眼睛的光线更少了，也就显得这个部件更黑了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568254" height="656" src="https://s3.ifanr.com/wp-content/uploads/2023/11/10-2.png" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲MacBook Pro 表面经放大后的影像，左侧为深空灰，右侧为深空黑，图片来源：ifixit</p>
+</div>
+<p>这就是新款 MacBook Pro「深空黑」的来由，是搭载 M3 Pro/Max 芯片机型的独占配色，M3 款则是银色和深空灰两种配色，还少了一个雷雳 4 接口。</p>
+<p>实测下来，这可能是黑色笔记本电脑里最抗指纹的那一款——但仍然会沾上指纹，相较银色款而言，深空黑 MacBook Pro 好看是真好看，耐脏也是真的不耐脏。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568253" height="960" src="https://s3.ifanr.com/wp-content/uploads/2023/11/12-2.png" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲左边为深空黑，右边为深空灰，图片来源：ifixit</p>
+</div>
+<p>一直以来，MacBook Pro 都是苹果最重要的技术试验田。</p>
+<p>2006 年，乔布斯在 Macworld 大会上宣布将放弃 PowerPC 处理器转投 Intel 阵营，并推出苹果第一代 MacBook Pro 笔记本电脑——搭载 Intel Core 处理器。</p>
+<p>两年后，采用了阳极氧化工艺、Unibody 一体化设计的第二代 MacBook Pro 横空出世，后来这项技术被广泛运用在 MacBook Air、iPhone 等苹果产品上。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568252" height="434" src="https://s3.ifanr.com/wp-content/uploads/2023/11/13-2.png" width="824" /></p>
+<div class="editor-image-source">
+<p>▲ 2008 年款 MacBook Pro，图片来源：Apple</p>
+</div>
+<p>而自 2020 年至今，历经三年迭代，苹果旗下的 Mac 产品线已经用 M 系列芯片完全取代了 Intel 平台，跟着一起被淘汰的还有 Touch Bar。现在 Mac 上最显性的英特尔技术，是那个和苹果共同研发的雷雳端口——这意味着 ARM 架构硬件平台借着移动互联网的东风终于杀回桌面端，苹果显然是其背后最大的推手。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568251" height="1200" src="https://s3.ifanr.com/wp-content/uploads/2023/11/14-5.jpg" width="1200" /></p>
+<p>早前，爱范儿对几款搭载 M3 和 M3 Max 芯片的 Mac 新品进行了性能测试。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568250" height="890" src="https://s3.ifanr.com/wp-content/uploads/2023/11/16-5.jpg" width="908" /></p>
+<p>这是业界首批采用 3nm 制程工艺的 PC 芯片，M3 和前两代芯片的核心数保持一致，最高支持 24GB 的统一内存、2TB 存储容量。CPU 仍是 4 大核 + 4 小核的设计，单核最高频率突破了 4GHz，并采用了全新架构的 10 核 GPU，新增了动态缓存功能，支持硬件加速网格着色、光线追踪技术等特性——简而言之，M3 和 M3 Pro 都属于常规更新，处理器性能小幅升级，图形性能有了长足提升，补齐了 M 系芯片的一块短板。</p>
+<p>GPU 性能带来显形体验在于，用 Mac 打游戏终于不是一句空话。以年度游戏提名代表《博德之门 3》为例，M3 芯片+16GB 内存的配置可以稳定 2K 分辨率（3024×1964 像素）流畅地跑中画质 30 帧，而 M3 Pro 版可以跑最高画质 30 帧，如果耐心调节一下配置，打开 FSR 甚至可以跑到 60 帧——换言之，只有厂商愿意移植，M3 版 Mac 打游戏是一点问题没有——问题是还没有厂商愿意走出这一步。</p>
+<p>打开我的 Steam 游戏库，超过 200 个游戏里只有 50 个左右适配了 macOS，其中 2023 年推出的游戏只有：《博德之门 3》《潜水员戴夫》和《完蛋！我被美女包围了！》。</p>
+<p>像《生化危机 8》《死亡搁浅》这样的热门 3A 大作，虽然有 macOS 版本但仅限 App Store 发行，如果要玩这些游戏，你还得在 App Store 上再买一份，游戏进度也得从头再来——玩家要付出的成本实在太高了。显然，现阶段要在 Mac 上玩游戏只满足了充分条件，但真的没什么必要。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568257" height="853" src="https://s3.ifanr.com/wp-content/uploads/2023/11/20-2.jpg" width="1280" /></p>
+<p>M3 Max 则是另一副光景，最高配备了 16 核心的 CPU，比 M2 Max 多了四个大核，单核性能和多核性能都远超 M2 Max，在 GeekBench 跑分测试中，M3 Max 的单核性能比 M2 Max 强 20% 左右，但多核性能要强上 50%，能跟 M2 Ultra 打得有来有回，并且支持最高 128GB 统一内存、8TB 存储空间，是真正的移动工作站。</p>
+<p>经实测，在视频剪辑等场景下，M3 Max 没有跟前两代 Max 芯片拉开太大差距，但一旦涉及到图形渲染的作业，M3 Max 就能充分发挥图形性能，相较前两代有着跨越式的提升。</p>
+<p>我们用达芬奇渲染了一段 30 分钟的 4K 50FPS H.265 编码 MP4 格式的视频——这已经是媒体工作中处理压力比较大的场景。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568249" height="812" src="https://s3.ifanr.com/wp-content/uploads/2023/11/17-3.jpg" width="974" /></p>
+<p>搭载 M3 的 MacBook Pro 花了 18 分钟 22 秒，这已经跟同配置的 M2 Pro 机型不相伯仲，比低配版 M2 机型要快了近 4 分钟，M1 机型则是持续报错无法渲染，直接退出战斗。</p>
+<p>但这项任务对高端局的选手压力不大，M3 Max 的 MacBook Pro 则只需要 8 分半钟就处理完了，不过 M1 Max 和 M2 Max 机型也能跑到差不多的成绩。</p>
+<p>有意思的是，我们使用 Pr 跑了一个更为复杂的后期渲染工程项目文件进行压力测试，这个文件中有较多特效设计，更考验设备的图形性能。经实测，我们发现 48GB 统一内存的 M3 Max 机型渲染时间在 15 分钟左右，而 96GB 统一内存的 M2 Max 设备渲染时间不到 10 分钟，由于手头设备有限，我们无法控制变量进行精准测试，但可以看到尽管芯片性能大幅提升，但软件适配、内存大小等因素也会成为瓶颈。</p>
+<p>这次 M3 版 MacBook Pro 起步存储容量提升到了 512GB，并解决了之前 M2 版本存在的降速问题——然而统一内存起步容量还是 8GB，虽然 macOS 与其他 PC 操作系统相比，对于内存的调用有着更高的效率，但对于一台 Pro 冠名的电脑而言，8GB 内存还是有些捉襟见肘。</p>
+<p>当然，如果你的主要工作内容更偏商务或图文处理，没有重度的视频剪辑或应用开发需求，希望有一款比 MacBook Air 屏幕更优秀、拓展性更好的电脑，那入门款 MacBook Pro 确实也是一个可选项。但考虑到 MacBook Pro 的耐用程度和使用场景，我们更建议选购 16GB 内存的版本。</p>
+<p>能耗方面是苹果 M 系芯片的传统强项。几款 M3 系设备稳中向好，根据官网的数据电池续航力从 18 小时提升到了 22 小时，而实际体验下来，基本上不带充电器外出一天也完全够用，当然 M1、M2 设备你用起来也不会有太大的区别，都是业内独一档的优秀。</p>
+<p><img alt="" class="alignnone size-full wp-image-1568258" height="853" src="https://s3.ifanr.com/wp-content/uploads/2023/11/23-3.jpg" width="1280" /></p>
+<p>明年，移动 PC 市场想必会群雄割据，而苹果的 M3 系列设备将会是这场大战的排头兵——在能耗算力等优势项目稳步提升，并针对图形处理等传统劣势进行补强，向六边形战士靠拢。</p>
+<p>对于任何计算设备而言，核心算力平台的迭代是件大事，而 Apple M 系列芯片的横空出世和快速崛起，也彻底打破了移动设备的算力瓶颈，那套在 iPhone 被论证的成功方法论，被 Mac 快速复制。在苹果的牵引下，高通也在今年发布了面向 PC 平台的骁龙 Elite X 芯片，英特尔也亮出 Intel Core Ultra 这张手牌。</p>
+<p>显然，所有人的目标都不是为了更快的剪片速度、更好的渲染效率或者更丰富的游戏体验——这些老生常谈的话题，激发不了潜在已久的海量换机需求，但 ChatGPT 引领的 AI 浪潮正在影响每一个人的心智。</p>
+<p>发明 ChatGPT 的 OpenAI 和提供算力的芯片制造商 NVIDIA 分别是全球最值钱的创业公司和上市公司之一，背后投射了无数人对 AI 时代大潮的期待与焦虑。AI 时代，每一个人都应该拼命努力，好让自己不被颠覆。</p>
+<p>在那之前，工欲善其事，必先利其器。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1568170">原文链接</a> ·
+<a href="https://www.ifanr.com/1568170#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 17 Nov 2023 10:07:33 +0000</pubDate>
+<updated>Fri, 17 Nov 2023 10:07:33 +0000</updated>
+</item>
 
 <item>
 <title>Qi2 标准即将落地，Android 手机也能用上苹果 MagSafe 同款无线充</title>
