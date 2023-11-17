@@ -24728,3 +24728,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [国产悬疑叙事游戏《吃香》发售，Steam首周38元](https://www.gcores.com/articles/173940)
 append_entries: 1
 Finish: 2023-11-17 12:17:22.908798
+------------------------------------------------------
+Started: 2023-11-17 12:49:28.906224
+Existing_entries: 555
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-17 12:49:29.058957
