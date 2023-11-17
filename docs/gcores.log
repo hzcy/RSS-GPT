@@ -24716,3 +24716,15 @@ Existing_entries: 554
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-17 11:48:21.592001
+------------------------------------------------------
+Started: 2023-11-17 12:17:21.546896
+Existing_entries: 554
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [国产悬疑叙事游戏《吃香》发售，Steam首周38元](https://www.gcores.com/articles/173940)
+append_entries: 1
+Finish: 2023-11-17 12:17:22.908798
