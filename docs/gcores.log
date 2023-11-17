@@ -24655,3 +24655,40 @@ Existing_entries: 548
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-17 10:38:33.273637
+------------------------------------------------------
+Started: 2023-11-17 10:48:28.176942
+Existing_entries: 548
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《渔帆暗涌》现已推出首个DLC“冰寒之境”](https://www.gcores.com/articles/173906)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [下周节目预告 11.20~11.26](https://www.gcores.com/articles/173935)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [突发情况！《主播女孩重度依赖》剧本作者Nyalra在浦东机场走失](https://www.gcores.com/articles/173934)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《博德之门3》实体豪华版正式公布，现已开启预定](https://www.gcores.com/articles/173926)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [“不可能杂货”变可能：蘑菇山造型无线耳机宣布商品化](https://www.gcores.com/articles/173930)
+Append: [TV动画《古连泰沙U》公布新视觉图&第1弹声优信息，2024年开播](https://www.gcores.com/articles/173929)
+append_entries: 6
+Finish: 2023-11-17 10:48:32.932648
