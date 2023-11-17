@@ -24463,3 +24463,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [全新周边、游戏试玩：Gamera Games「核聚变游戏节」2023成都站展台介绍](https://www.gcores.com/articles/173876)
 append_entries: 4
 Finish: 2023-11-17 04:14:19.427662
+------------------------------------------------------
+Started: 2023-11-17 04:28:19.319119
+Existing_entries: 542
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-17 04:28:19.643368
