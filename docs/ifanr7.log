@@ -21512,3 +21512,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [早报｜iPhone 消息发送明年将迎来大更新 / 抖音测试付费短视频 / 小米汽车将于明年上半年正式发布](https://www.ifanr.com/1568245?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-11-17 01:43:15.798404
+------------------------------------------------------
+Started: 2023-11-17 02:18:19.361601
+Existing_entries: 143
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-17 02:18:21.503052
