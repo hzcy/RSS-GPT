@@ -24397,3 +24397,9 @@ GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fake
 Append: [现代科幻冒险游戏《地平线之间》将于2024年登陆主机和PC](https://www.gcores.com/articles/173898)
 append_entries: 3
 Finish: 2023-11-17 02:18:27.531129
+------------------------------------------------------
+Started: 2023-11-17 02:39:56.746084
+Existing_entries: 538
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-17 02:39:56.969743
