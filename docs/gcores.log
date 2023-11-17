@@ -24505,3 +24505,33 @@ Existing_entries: 542
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-17 05:48:36.496138
+------------------------------------------------------
+Started: 2023-11-17 06:18:48.181104
+Existing_entries: 542
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《美少女梦工厂2 新生》宣布延期至2024年5月30日发售](https://www.gcores.com/articles/173916)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《NARUTO X BORUTO 火影忍者 终极风暴羁绊》已于今日上市！](https://www.gcores.com/articles/173914)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [战略RPG+Roguelike+卡牌，《C.A.R.D.S. RPG: The Misty Battlefield》宣布将于2024年发布](https://www.gcores.com/articles/173912)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [《女神异闻录5 战略版》今日发售，国区售价319元起](https://www.gcores.com/articles/173905)
+append_entries: 4
+Finish: 2023-11-17 06:18:52.131423
