@@ -24433,3 +24433,33 @@ Existing_entries: 538
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-17 03:48:28.673664
+------------------------------------------------------
+Started: 2023-11-17 04:14:15.372500
+Existing_entries: 538
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [育碧黑五大促现已开启,满98再送50元](https://www.gcores.com/articles/173910)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [PS5 Access控制器将于12月6日全球同步上市，建议零售价689元人民币](https://www.gcores.com/articles/173909)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [M26 来了！《名侦探柯南：黑铁的鱼影》确认引进](https://www.gcores.com/articles/173904)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Append: [全新周边、游戏试玩：Gamera Games「核聚变游戏节」2023成都站展台介绍](https://www.gcores.com/articles/173876)
+append_entries: 4
+Finish: 2023-11-17 04:14:19.427662
