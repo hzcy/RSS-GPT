@@ -24583,3 +24583,21 @@ Existing_entries: 546
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-17 08:12:25.720743
+------------------------------------------------------
+Started: 2023-11-17 08:28:20.970622
+Existing_entries: 546
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 403 Client Error: Forbidden for url: https://ai.fakeopen.com/v1/chat/completions
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: RuntimeError: HTTP Error 403: 
+Append: [《冲就完事模拟器》现已推出新DLC“回到未来特别组合包”](https://www.gcores.com/articles/173919)
+Summarization failed, append the original article
+error: RetryProvider failed:
+GeekGpt: HTTPError: 429 Client Error: Too Many Requests for url: https://ai.fakeopen.com/v1/chat/completions
+Phind: RuntimeError: HTTP Error 403: 
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [免费游玩《倾听画语: 最美好的景色》：NS会员限定活动“试玩同乐会”将于11月20日开启](https://www.gcores.com/articles/173902)
+append_entries: 2
+Finish: 2023-11-17 08:28:23.066656
