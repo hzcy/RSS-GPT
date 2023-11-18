@@ -25033,3 +25033,9 @@ Phind: TypeError: __init__() got an unexpected keyword argument 'user_data_dir'
 Append: [《无间冥寺》团队新作《鸦卫奇旅》推出孙悟空更新](https://www.gcores.com/articles/173908)
 append_entries: 1
 Finish: 2023-11-18 03:10:18.207346
+------------------------------------------------------
+Started: 2023-11-18 03:23:13.065119
+Existing_entries: 556
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-18 03:23:13.230573
