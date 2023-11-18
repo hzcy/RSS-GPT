@@ -25068,3 +25068,9 @@ Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
 Append: [包含Roguelike生存模式，《最后生还者 第二章 复刻版》将于2024年1月19日登陆PS5](https://www.gcores.com/articles/173945)
 append_entries: 1
 Finish: 2023-11-18 04:28:34.870089
+------------------------------------------------------
+Started: 2023-11-18 04:36:55.697315
+Existing_entries: 557
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-18 04:36:55.855959
