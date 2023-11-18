@@ -25057,3 +25057,14 @@ Existing_entries: 556
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-18 04:11:49.538363
+------------------------------------------------------
+Started: 2023-11-18 04:28:33.834273
+Existing_entries: 556
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Phind: TypeError: __init__() got an unexpected keyword argument 'user_data_dir'
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [包含Roguelike生存模式，《最后生还者 第二章 复刻版》将于2024年1月19日登陆PS5](https://www.gcores.com/articles/173945)
+append_entries: 1
+Finish: 2023-11-18 04:28:34.870089
