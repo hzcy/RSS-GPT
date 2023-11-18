@@ -25212,3 +25212,19 @@ Existing_entries: 557
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-18 10:26:50.480482
+------------------------------------------------------
+Started: 2023-11-18 10:34:38.453361
+Existing_entries: 557
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: TypeError: __init__() got an unexpected keyword argument 'user_data_dir'
+Append: [2023年10月第一周手办模型情报总汇](https://www.gcores.com/articles/173456)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Phind: TypeError: __init__() got an unexpected keyword argument 'user_data_dir'
+Append: [《半衰期》迎来25周年生日，原作限时喜加一](https://www.gcores.com/articles/173950)
+append_entries: 2
+Finish: 2023-11-18 10:34:45.430355
