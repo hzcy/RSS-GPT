@@ -22055,3 +22055,9 @@ Phind: RuntimeError: HTTP Error 403:
 Append: [突发 | ChatGPT 之父被 OpenAI 开除！AI 圈迎来地震](https://www.ifanr.com/1568331?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 2
 Finish: 2023-11-18 00:42:22.330711
+------------------------------------------------------
+Started: 2023-11-18 01:40:42.566175
+Existing_entries: 149
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-11-18 01:40:44.458802
