@@ -25833,3 +25833,12 @@ Existing_entries: 560
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-19 14:07:49.286255
+------------------------------------------------------
+Started: 2023-11-19 14:24:09.093802
+Existing_entries: 560
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [T1轻取WBG,斩获《英雄联盟》S13总决赛冠军](https://www.gcores.com/articles/173984)
+append_entries: 1
+Finish: 2023-11-19 14:24:39.708006
