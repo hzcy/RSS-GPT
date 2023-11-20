@@ -26247,3 +26247,9 @@ Summarized using GPT-3.5-turbo
 Append: [香草社最新作《圣兽之王》先行实机演示公开](https://www.gcores.com/articles/174014)
 append_entries: 3
 Finish: 2023-11-20 07:48:52.980676
+------------------------------------------------------
+Started: 2023-11-20 08:13:36.395150
+Existing_entries: 570
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-20 08:13:36.628823
