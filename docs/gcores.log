@@ -26436,3 +26436,9 @@ Summarized using GPT-3.5-turbo
 Append: [日本一新作《Bar Stella Abyss》正式公布，2024年2月29日发售](https://www.gcores.com/articles/174047)
 append_entries: 1
 Finish: 2023-11-20 16:13:47.387737
+------------------------------------------------------
+Started: 2023-11-20 16:30:33.702845
+Existing_entries: 573
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-20 16:30:34.125422
