@@ -26427,3 +26427,12 @@ Existing_entries: 572
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-20 15:48:34.759169
+------------------------------------------------------
+Started: 2023-11-20 16:13:01.528248
+Existing_entries: 572
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 620
+Summarized using GPT-3.5-turbo
+Append: [日本一新作《Bar Stella Abyss》正式公布，2024年2月29日发售](https://www.gcores.com/articles/174047)
+append_entries: 1
+Finish: 2023-11-20 16:13:47.387737
