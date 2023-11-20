@@ -4,6 +4,317 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>突发！李斌内部讲话曝光：蔚来将开放换电网络，首个合作伙伴明日公布</title>
+<link>https://www.ifanr.com/1568584?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1568584?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<p><img alt="" class="alignnone size-full wp-image-1568587" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/11/tmm1.jpg" width="1200" /></p>
+<blockquote>
+<p class="p1"><span class="s1">活下来，把寒气传递给每一个人。</span></p>
+</blockquote>
+<p class="p1"><span class="s1">去年 8 月，任正非在一次面向华为内部的谈话中这样说道。如今，这股寒气已经吹到了车圈。</span></p>
+<p class="p1"><span class="s1">寒潮过境，众生平等。</span></p>
+<p class="p1"><span class="s1">10 月，奇瑞捷豹路虎开启了新一轮裁员，裁员比例约为 15%-20%，涉及产品工程、质量管理、生产制造以及物流发运管理等多个部门。</span></p>
+<p class="p1"><span class="s1">合资车企在寒风中瑟瑟发抖，新势力们也同样「难逃一劫」。本月初，李斌向蔚来内部发布了一封沉重的全员信，表示蔚来将进行组织优化，降本增效，按计划，将减少 10% 左右的部门岗位。</span></p>
+<p><img alt="" class="alignnone size-full wp-image-1568585" height="714" src="https://s3.ifanr.com/wp-content/uploads/2023/11/1682058562572077326.jpg" width="1270" /></p>
+<p class="p1"><span class="s1">蔚来，就像是房间里的大象。</span></p>
+<p class="p1"><span class="s1">「高举高打」的品牌路线塑造了蔚来，然而为人津津乐道的高端豪华，此刻也正成为蔚来一件褪不去的长衫。为了讲述高端故事，蔚来在这些年触及了大量的配套业务，换电站资源扩张、电池自研投入、入局智能手机、芯片自研甚至包括出海布局。</span></p>
+<p class="p1"><span class="s1">蔚来今年的半年报显示，蔚来半年净亏损同比扩大 139.7%，亏损累计达到 107.9 亿元。</span></p>
+<p class="p1"><span class="s1">为自己的大规模扩张买单，现在的蔚来就处在一个震荡深坑之中。</span></p>
+<p class="p1"><strong><span class="s1">就在今天，李斌在蔚来内部发起了面向全体员工的讲话，重点谈及近期组织优化、销量压力，以及未来两年发展方向等话题。</span></strong></p>
+<p><img alt="" class="alignnone size-full wp-image-1568586" height="793" src="https://s3.ifanr.com/wp-content/uploads/2023/11/16925807111563126857.jpg" width="1280" /></p>
+<p class="p1"><span class="s1">针对员工提出的换电业务是否可持续经营的质疑，李斌也进行了正面回应。</span></p>
+<p class="p1"><strong><span class="s1">他表示，换电是蔚来巨大的先发优势，目前已经到了面向全行业开放的时刻，明天就会宣布蔚来的第一家合作伙伴。与此同时，蔚来还在与 4-5 家车企进行合作洽谈。</span></strong></p>
+<p class="p1"><span class="s1">实际上，在今年 4 月举办的中国电动汽车百人会论坛上，李斌就表示，「换电服务到了可以对外输出的阶段」，希望其他企业能与蔚来共享、共建充换电基础设施，并透露已有车企在就此事与蔚来进行讨论。</span></p>
+<p class="p1"><span class="s1">今年 8 月，曾有网传消息称，蔚来和奔驰达成合作，蔚来将向后者开放换电平台，开启新的盈利模式。但当时，蔚来并未对这一消息的真实性作出回应。</span></p>
+<blockquote>
+<p class="p1"><span class="s1">当前市场充满巨大机遇，对每一家公司也提出了更高的要求。</span></p>
+</blockquote>
+<p class="p1"><span class="s1">蔚来总裁秦力洪在广州车展如此说道。他和李斌都认为，面对当下的市场机遇，蔚来不会倒闭，也不可能倒闭。</span></p>
+<p class="p1"><span class="s1">下面是李斌内部讲话原文：</span></p>
+<p class="p1"><em><span class="s1">全行业不是只有我们在做换电，认认真真在做的就有 7 家公司。而换电这条路非常艰辛，但这是难而正确的事情，目前我们已累计为用户提供了超过 3200 万次换电。</span></em></p>
+<p class="p1"><em><span class="s1">大家想象一下，把换电想象成 2003 年时亚马逊要做云服务，有几个点非常像:</span></em></p>
+<p class="p1"><em><span class="s1">第一，网络效应强。换电和云服务非常像，换电网络就相当于能源互联网的云服务基础设施。如果没有一个可靠的全国甚至全球网络，肯定不行。今天很多人做换电，没办法去建立全国网络。</span></em></p>
+<p class="p1"><em><span class="s1">第二，投资规模大，投资周期长。亚马逊、谷歌等做厂房和设备，都是投入了超过千万级美金。当然我们的换电投入没有他们这么大的投资量级，但时间周期也很长。但换算到等效的投资效率，还是很高。</span></em></p>
+<p class="p1"><em><span class="s1">第三，从服务自己再到服务外部客户，一旦做成了，门槛非常高。因为最开始别人也不信能做成，但当发展到一定阶段时，别人就会发现投资门槛、运营门槛非常高，因为这是基础设施建设。</span></em></p>
+<p class="p1"><em><span class="s1">总体来看，换电网络就相当于能源互联网的云服务基础设施。你去看今天的阿里、腾讯、亚马逊、微软等的云服务，他们很大一部分市值都来自于「云服务」。</span></em></p>
+<p class="p1"><em><span class="s1">如果没有云，他们的市值都会打折扣。而这些公司在建立「云服务」的过程中，都亏损了许多年才最终实现现在的成功。</span></em></p>
+<p class="p1"><em><span class="s1">我们换电业务今天的节点，已经到了可对外开放的时候，我们会把我们下一代电池包的标准一 800V 的高压快换平台，给到全行业。明天我们就会发布第一家合作，后面还有 4-5 家在谈。</span></em></p>
+<p class="p1"><em><span class="s1">所以，并不是全行业只有我们在做换电，而是全行业只有我们做的最早、最坚决，并且已经有先发优势。对于其他公司的加入，我们十分欢迎。</span></em></p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/tanjiewen" style="color: #000; text-decoration: none;" target="_blank">李华 (李华)</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">带轮子的都关注，欢迎交流。
+邮箱：tanjiewen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:tanjiewen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="https://www.ifanr.com/5" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1568584">原文链接</a> ·
+<a href="https://www.ifanr.com/1568584#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 13:36:43 +0000</pubDate>
+<updated>Mon, 20 Nov 2023 13:36:43 +0000</updated>
+</item>
 
 <item>
 <title>大反转！ Sam Altman 回归再生变数，OpenAI 三天换了三个 CEO</title>
