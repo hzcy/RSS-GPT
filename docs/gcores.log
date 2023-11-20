@@ -26349,3 +26349,15 @@ Existing_entries: 570
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-20 12:51:16.725986
+------------------------------------------------------
+Started: 2023-11-20 13:14:05.211720
+Existing_entries: 570
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 485
+Summarized using GPT-3.5-turbo-16k
+Append: [争执告一段落：原OpenAI创始人Sam Altman及Greg Brockman加入微软](https://www.gcores.com/articles/174034)
+Token length: 1214
+Summarized using GPT-3.5-turbo
+Append: [绝对的统治力！DCQ豪取三连冠，晋级卡普空杯！](https://www.gcores.com/articles/174032)
+append_entries: 2
+Finish: 2023-11-20 13:14:21.614225
