@@ -26232,3 +26232,18 @@ Existing_entries: 567
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-20 07:34:13.082913
+------------------------------------------------------
+Started: 2023-11-20 07:48:30.371058
+Existing_entries: 567
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [米山舞 Albemuth组合结成1周年纪念视频公布](https://www.gcores.com/articles/174022)
+Token length: 418
+Summarized using GPT-3.5-turbo
+Append: [《有氧拳击 feat.初音未来 -和Miku一起锻炼-》搭档&曲目信息公开](https://www.gcores.com/articles/174017)
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: [香草社最新作《圣兽之王》先行实机演示公开](https://www.gcores.com/articles/174014)
+append_entries: 3
+Finish: 2023-11-20 07:48:52.980676

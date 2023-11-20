@@ -4,6 +4,603 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+<item>
+<title>米山舞 Albemuth组合结成1周年纪念视频公布</title>
+<link>https://www.gcores.com/articles/174022</link>
+<guid>https://www.gcores.com/articles/174022</guid>
+<content:encoded><![CDATA[
+<div> 米山舞, 角色设计, 深脊界, 虚拟歌手组合, Albemuth（存流&明透）
+
+<br><br>总结:<br>由米山舞负责角色设计及插图的虚拟歌手组合“Albemuth（存流&明透）”，隶属于“深脊界”项目，近日庆祝了其组合成立的第一周年。为此特别发布了一张周年纪念专辑，同时公布了专辑的封面画和相关宣传视频。这一动作标志着Albemuth在虚拟音乐领域中的稳步发展，以及其与粉丝的紧密联系。通过这样的周年庆典活动，Albemuth进一步巩固了其在虚拟音乐界的地位，并展现了其独特艺术风格和持续的创新能力。 <div>
+<img src="https://image.gcores.com/299d88267a75a1960a98c21ca0a56b0d-1500-844.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>由米山舞负责角色设计及插图的深脊界 虚拟歌手组合 Albemuth（存流&amp;明透）公布了结成1周年纪念的专辑封绘及视频。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
+<figure>
+<img alt="" src="https://image.gcores.com/5128907e86338e2c3c894b086ca1ef29-1350-1350.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/22d5f1f0354a0937f06403524340bbf7-1250-1250.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/299d88267a75a1960a98c21ca0a56b0d-1500-844.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/17c7841fd01bd322e66b173c1261c8b0-1920-1080.jpg" />
+
+</figure><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 06:13:04 GMT</pubDate>
+<updated>Mon, 20 Nov 2023 06:13:04 GMT</updated>
+</item>
+<item>
+<title>《有氧拳击 feat.初音未来 -和Miku一起锻炼-》搭档&amp;曲目信息公开</title>
+<link>https://www.gcores.com/articles/174017</link>
+<guid>https://www.gcores.com/articles/174017</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/50e50b5c974cb35fc82170aefb10dc81-1136-640.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《有氧拳击》系列新作《有氧拳击 feat.初音未来 -和Miku一起锻炼-》（Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ- ）公开了新的搭档及收录的曲目信息。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在游戏中除初音未来以外，镜音双子和巡音流歌也将作为搭档登场，只要坚持锻炼就可以解锁4位搭档；每个角色都有本作中特有的新服装。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/70dff6b8b484dd104858bc69895212cc-680-680.png" />
+
+</figure><div class="story_block-spoiler d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>玩家可以在“每日锻炼”和“自由锻炼”中选择搭档一同锻炼，还可以在新的模式“MIKUCISE”中跟随原曲锻炼。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/50e50b5c974cb35fc82170aefb10dc81-1136-640.jpg" />
+<figcaption> (1/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/13a20208897cf12f454bec4598019e1f-974-549.jpg" />
+<figcaption> (2/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/5c94761190d22992f0767d70105de51c-974-549.jpg" />
+<figcaption> (3/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/aa7363d35768044d81a6b5a36de241c5-1844-1038.jpg" />
+<figcaption> (4/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/db84cfcc6ebc9d50f5cefa41de15c632-974-550.jpg" />
+<figcaption> (5/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/912f2c6bdf2babef9b1e81614e363aaa-1843-1038.jpg" />
+<figcaption> (6/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/2b50912d07104cabc4f188471df54d79-1844-1038.jpg" />
+<figcaption> (7/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/ca19ccd7104bf2e04eca34720831eb0c-1844-1038.jpg" />
+<figcaption> (8/8) </figcaption>
+</figure>
+            <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>游戏收录了多首乐曲，包含经典曲目与6首新歌；另外，《有氧拳击》系列30首以上的BGM也收录在本作中。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/c93e4347dcbb915a150fde7c94ae893d-1150-937.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《有氧拳击 feat.初音未来 -和Miku一起锻炼-》将于2024年3月7日发售，登陆Nintendo Switch平台。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 05:35:18 GMT</pubDate>
+<updated>Mon, 20 Nov 2023 05:35:18 GMT</updated>
+</item>
+<item>
+<title>香草社最新作《圣兽之王》先行实机演示公开</title>
+<link>https://www.gcores.com/articles/174014</link>
+<guid>https://www.gcores.com/articles/174014</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/0a225b1c8a3230f0d266873c31d11270-1188-666.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>FAMI通公开了 Atlus x 香草社（Vanillaware）的SRPG最新作《圣兽之王》先行实机演示视频，影片约8分钟，展示了游戏的世界观剧情、进军探索及战斗玩法等内容。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
+<figure>
+<img alt="" src="https://image.gcores.com/adff2f26eff9e80c55ffe429a345a01e-1428-813.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/c9496fb483e34fd55e16493efc271b96-1428-813.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/ccdb46990a6fe061095d83dffd6baeee-1428-813.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/c600c01d4e4980d8a68b5dc0efeb20c6-1428-813.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/7dbad30bda87e4a1502104e83060fb52-1428-813.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/774bd8d03e2b0611df41f48dc86552be-1428-813.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《圣兽之王》是一款与伙伴相遇并与邪恶战斗，由VANILLAWARE献上的正统王道冒险谭。运用独特的精美图像和角色，以及高自由度的地图探索，描绘出具有崭新模拟战斗的奇幻模拟RPG作品。着重并继承1990年代的模拟RPG名作特有的沉稳氛围和战术性，且同时打造独特的战斗系统，加入现行机种特有的要素，将会带给大家怀念又崭新的独一无二游戏体验。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/d9f5ec6ab540f9d16bc005daa2bb57c9-640-1018.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《圣兽之王》将于2024年3月8日发售，登陆PS5\PS4、XSX|S、Switch等平台，支持中文。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Mon, 20 Nov 2023 05:28:07 GMT</pubDate>
+<updated>Mon, 20 Nov 2023 05:28:07 GMT</updated>
+</item>
 
 <item>
 <title>西川贵教&amp;小室哲哉负责主题曲，剧场版《高达SEED》第4弹PV公开</title>
