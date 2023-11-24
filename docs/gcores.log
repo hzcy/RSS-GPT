@@ -26584,3 +26584,15 @@ Existing_entries: 593
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-24 11:08:28.037861
+------------------------------------------------------
+Started: 2023-11-24 11:20:19.345919
+Existing_entries: 593
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1242
+Summarized using GPT-3.5-turbo
+Append: [乐游不停！2P Games携多款游戏与你相约成都核聚变](https://www.gcores.com/articles/174224)
+Token length: 461
+Summarized using GPT-3.5-turbo
+Append: [万代前员工非法转卖应废弃产品，8年获益8700万日元](https://www.gcores.com/articles/174231)
+append_entries: 2
+Finish: 2023-11-24 11:20:42.232552
