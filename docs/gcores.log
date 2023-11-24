@@ -26542,3 +26542,15 @@ Existing_entries: 591
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-24 09:34:10.687597
+------------------------------------------------------
+Started: 2023-11-24 09:48:18.257581
+Existing_entries: 591
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 766
+Summarized using GPT-3.5-turbo-16k
+Append: [硬核战场《人间地狱》今天推出了新的英国第八集团军和德意志非洲军团更新](https://www.gcores.com/articles/174225)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [以《勇者斗恶龙3》世界为舞台，桌游《勇者斗恶龙 人狼》12月23日发售](https://www.gcores.com/articles/174216)
+append_entries: 2
+Finish: 2023-11-24 09:48:47.842247
