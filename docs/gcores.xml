@@ -4,6 +4,1887 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+<item>
+<title>明日上映！蜡笔小新 2023 新剧场版发布最新预告</title>
+<link>https://www.gcores.com/articles/174210</link>
+<guid>https://www.gcores.com/articles/174210</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/54873adcd3a84c218e31a68eb16767cd-1080-583.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“蜡笔小新”系列最新剧场版《蜡笔小新：新次元！超能力大决战》将在</span></span><span style="font-weight: bold;"><span>明日</span></span><span><span>上映，官方释出最新预告：</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“在 20 和 23 数字相连的那一年，天上会降下两道光芒。”新之助被白色的光击中了，对生活充满怨恨的社畜非理谷充被黑光击中，并想用超能力扰乱世界。为了守卫世界的命运，5 岁的小新挺身而出超能力觉醒，展开一场正义与黑暗的对抗：</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/e46acb3c37376adbc54503c2ec604fe4-3500-4952.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> 本片由白组负责动画制作。制作阵容如下：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>原作：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F1802" target="_blank"><span><span>臼井儀人</span></span></a><span><span>（らくだ社）／「月刊まんがタウン」（双葉社）連載中</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>監督、脚本：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F55785" target="_blank"><span><span>大根仁</span></span></a></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>声の出演：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F44358" target="_blank"><span><span>小林由美子</span></span></a><span><span>、</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F95593" target="_blank"><span><span>ならはしみき</span></span></a><span><span>、</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F64022" target="_blank"><span><span>森川智之</span></span></a><span><span>、</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F95754" target="_blank"><span><span>こおろぎさとみ</span></span></a><span><span> </span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>  声优阵容如下：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原新之助 小林由美子</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原美冴 楢桥美纪  </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原广志 森川智之 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原向日葵 兴梠里美 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原小白 真柴摩利 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>风间彻 真柴摩利</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>樱田妮妮 林玉绪</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>佐藤正男 一龙斋贞友 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>阿呆 佐藤智惠</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>高仓文太 森田顺平   </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>吉永绿 七绪春日 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>松坂梅 富泽美智惠 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>上尾义美 三石琴乃 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>河村猎豹 大冢智子   </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>仁 永泽菜教   </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>辉信 泷本富士子 </span></span></div></li></ul><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Fri, 24 Nov 2023 05:54:52 GMT</pubDate>
+<updated>Fri, 24 Nov 2023 05:54:52 GMT</updated>
+</item>
+<item>
+<title>《巫师》原作者：从没玩过CDPR游戏，也不打算体验</title>
+<link>https://www.gcores.com/articles/174195</link>
+<guid>https://www.gcores.com/articles/174195</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/18b978f2f24922c06f74d90ff65c5d29-1000-664.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在维也纳动漫展现场，《猎魔人》系列小说的原著作者安德鲁兹·萨普科夫斯基在接受采访时表示，自己从未玩过 CD Projekt Red 的游戏，也没有这个打算。实际上，他对电子游戏没有兴趣，也没有尝试过任何其他游戏。据悉，他正在创作《猎魔人》的全新书籍，并且认为类似游戏这种再现自己作品的复制品“很奇怪”。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/8177fb73f2de1bd66e0a6928af4dfcf9-1200-633.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>安德鲁兹·萨普科夫斯的原话为：“我从来没有（玩过）。没有这个时间，对我来说就不是娱乐。不，自从这些东西在市场上出现以来一直没有。从来没玩过，也不算玩。” 当然，这一表态也不让人意外。作为一个游戏外行，在他心里，《巫师》系列能有今天，</span></span><a class="md-link" href="https://www.gcores.com/articles/102705" target="_blank"><span><span>完全是借助原著小说的名头</span></span></a><span><span>： “他们（指CDPR）写那些游戏相关的东西就是为了钱，他们肯定没有用心写这些东西。 </span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>值得一提的是，安德鲁兹·萨普科夫斯基当初拒绝了 CDPR 1%的利润分红提议，而是执意要求9500美金的游戏改编版权费一次性买断。当《巫师》系列游戏成功后，他又向 CDPR 索要大量的额外版税，最终双方达成了友好解决方案。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/a39d111091f886ab1fdf2ad4f38753be-760-430.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>此外，小说作者对于自己参与的影视剧也颇有微词。他表示，自己给了网飞不少反馈和意见，但他们从未听取任何想法。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Fri, 24 Nov 2023 01:56:17 GMT</pubDate>
+<updated>Fri, 24 Nov 2023 01:56:17 GMT</updated>
+</item>
+<item>
+<title>正式官宣！《爱乐之城》将于 12 月 22 日重映</title>
+<link>https://www.gcores.com/articles/174196</link>
+<guid>https://www.gcores.com/articles/174196</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/48782c36f92e985db3ac8d224abd6d4f-1080-607.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>由达米恩·查泽雷指导，瑞恩·高斯林、艾玛·斯通主演的歌舞爱情电影《爱乐之城》将于艺联专线重映，定档 12 月 22 日：</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/b3f9ee60b2758d84ca5243a0c1cafe16-690-1101.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本片曾于 2017 年 2 月 14 日在国内上映，讲述渴望成为一名演员的咖啡师米娅邂逅了名为塞巴斯汀男子，起初两人之间产生了小小的矛盾，但很快，米娅便被塞巴斯汀身上闪耀的才华以及他对爵士乐的纯粹追求所吸引，最终两人走到了一起，但随着时间的推移，努力追求梦想的两人，彼此之间的距离却越来越远，在理想和感情之间，他们必须做出选择……</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/4813ce4140dc74a51843e533c879cee4-1080-720.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/eab9eff182c961a54f6c9a2414780f25-1080-812.png" />
+
+</figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Fri, 24 Nov 2023 01:49:37 GMT</pubDate>
+<updated>Fri, 24 Nov 2023 01:49:37 GMT</updated>
+</item>
+<item>
+<title>《侏罗纪世界：进化2》“白垩纪掠食者”免费DLC将于本月30日推出</title>
+<link>https://www.gcores.com/articles/174194</link>
+<guid>https://www.gcores.com/articles/174194</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/70de1c2672111501e2751954554ba11b-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>游戏开发商  Frontier 宣布，旗下经营模拟游戏《侏罗纪世界：进化2》将于11月30日推出“白垩纪掠食者”免费 DLC 。开发团队表示，“白垩纪掠食者”为游戏增添四种凶残的掠食者。玩家需管控这些震人心魄、令人畏惧的恐龙，它们会在园区中争夺霸权，寻觅猎物。向游客们展示白垩纪时期的真正力量吧。 </span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>巨盗龙</span></span></div></li></ul>
+<figure>
+<img alt="" src="https://image.gcores.com/e4e984f5daece2f18c7cd2555fa371a9-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>巨盗龙属是偷蛋龙科下的一属恐龙，生活于8500万年前的上白垩纪，于2005年在中国内蒙古二连浩特的二连诺尔地层发现。它身披显眼的羽毛，双腿细长，能够在追捕猎物时进行长时间的高速奔跑。</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>昆卡猎龙 </span></span></div></li></ul>
+<figure>
+<img alt="" src="https://image.gcores.com/fedd8368f521d34360fdf6a9c588a207-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>脚亚目鲨齿龙科恐龙的一属，生存于约1亿3000万年前的白垩纪早期。背部有一处窄窄的独特凸起，由两块巨大的背椎骨组成，使得它的外形极具辨识度。这种来自白垩纪早期的敏捷型兽脚类恐龙是一名凶悍的猎手，能为园区增添不少刺激。 </span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>犹他盗龙 </span></span></div></li></ul>
+<figure>
+<img alt="" src="https://image.gcores.com/c2abdd8192f20589db3182a3ec90c2b5-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>身长约5.5米及体重300公斤，体格结构相当粗壮。 最大的驰龙之一，同时也是一种聪明而残忍的掠食者，一定能让游客惊叹不已。这种来自犹他州的掠食者拥有美丽的披羽外衣和镰刀般的利爪，能够轻易制服任何猎物。 </span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>特暴龙</span></span></div></li></ul>
+<figure>
+<img alt="" src="https://image.gcores.com/e8931ce0291d8d1a57b2024653b8d1d0-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>特暴龙属是一种兽脚亚目恐龙，属于暴龙科。特暴龙生存于晚白垩纪的亚洲地区，约7,000万年前到6,500万年。 受 Universal Pictures、Amblin Entertainment 以及 DreamWorks Animation 在 Netflix 播放的热门节目《侏罗纪世界白垩冒险营：隐秘历险》的启发。玩家需要为这种独特的霸王龙类兽脚类恐龙准备一处牢固的围栏，避免游客落入它那强有力的下颚中。 
+
+</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Fri, 24 Nov 2023 01:30:00 GMT</pubDate>
+<updated>Fri, 24 Nov 2023 01:30:00 GMT</updated>
+</item>
+<item>
+<title>《EA SPORTS FC 24》确认将于2024年加入欧洲足球锦标赛内容</title>
+<link>https://www.gcores.com/articles/174193</link>
+<guid>https://www.gcores.com/articles/174193</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/1ba525fe337eff52cd2309bf022084b0-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>EA 宣布，旗下足球游戏《EA SPORTS FC 24》确认将以更新形式加入2024年欧洲足球锦标赛内容，所有玩家均可体验。据悉，现有玩家为 Ultimate Team 招募夏季锦标赛的明星。玩家将会获得以下其中一名球员： </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/5c01f6e02aff08c19c8b8ca7cfbdae07-610-800.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>与此同时，《EA SPORTS FC 24》将会是 UEFA eEURO esports 项目的官方平台，这项全新锦标赛将包含欧洲最顶尖的玩家，代表UEFA 国家足球队。eEuro 是每年一度的锦标赛项目，入围赛到直播决赛一应俱全，而首阶段赛事将于今个夏天举行。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>订阅 EA Play，即可试玩《EA Sports FC 24》10 小时，还可以无限制体验 EA 最受喜爱的游戏合集。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Fri, 24 Nov 2023 01:17:37 GMT</pubDate>
+<updated>Fri, 24 Nov 2023 01:17:37 GMT</updated>
+</item>
+<item>
+<title>PlayStation联手摇滚乐队King Gnu，推出新品牌形象宣传片</title>
+<link>https://www.gcores.com/articles/174187</link>
+<guid>https://www.gcores.com/articles/174187</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/61c452f28b4669d4728ecafcee959b7c-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>PlayStation 今日公布了和摇滚乐队 King Gnu 和作推出的 “Play Has No Limits 突破界限”品牌形象宣传片。乐队的四位乐手分别扮演  △〇×□  的四个图标，宣传片的背景音乐则选用了乐队的新曲《):阿修羅:(》 。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
+<figure>
+<img alt="" src="https://image.gcores.com/76b4877ba676a46fbbe51244318559d3-1920-1080.jpg" />
+<figcaption> (1/7) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/718c149a220908b356b71bb0c8721d8a-1920-1080.jpg" />
+<figcaption> (2/7) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/39be1b28a5305cd7d883054e397ae824-1920-1080.jpg" />
+<figcaption> (3/7) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/6bfa21abd5300cbd9cdb7bd6d629ff83-1920-1080.jpg" />
+<figcaption> (4/7) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/119fefbaeb995ce57e33b32cbe63e6c4-1920-1080.jpg" />
+<figcaption> (5/7) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/305462da9f04fbee6a0bc7eeb96a8ca9-1920-1080.jpg" />
+<figcaption> (6/7) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/5889e6dbdc270de2ce8cb760b9d1bd2a-1920-1080.jpg" />
+<figcaption> (7/7) </figcaption>
+</figure>
+            <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>此外，在11月24日至11月30日的原宿猫街、里原宿等原宿20个地点，以及涩谷在11月27日至12月3日，此次合作的展示标志性内容将在以上地点展示。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/15c0deaa8462dfbbcb022a18866beeb2-1920-1080.jpg" />
+<figcaption> (1/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/1889fab3fa20bc5c130fc5de57055303-1920-1080.jpg" />
+<figcaption> (2/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/825e477471e4c30900ced0a5135c803f-1920-1080.jpg" />
+<figcaption> (3/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/cc0c3ef197da2377f5ead63b40192efb-1920-1280.jpg" />
+<figcaption> (4/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/8e33ce18d3a548c365ea45be50a0b8b3-1920-1080.jpg" />
+<figcaption> (5/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/cd0d33c436951dea9ecc1b3bef166075-1920-1280.jpg" />
+<figcaption> (6/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/e402ed64fceb81b013548c69c18a44c0-1920-1260.jpg" />
+
+</figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 13:34:07 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 13:34:07 GMT</updated>
+</item>
+<item>
+<title>“我将以高达形态出击！”《头号玩家》演员森崎温担任《高达SEED》剧场版声优</title>
+<link>https://www.gcores.com/articles/174178</link>
+<guid>https://www.gcores.com/articles/174178</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/457488c95b5869efabdc284be2737771-850-478.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在斯皮尔伯格执导的影片《头号玩家》中，饰演大东的演员森崎温的台词“我将以高达形态出击！”（俺はガンダムで行く！）让观众留下了深刻印象。11月23日，剧场版《高达SEED FREEDOM》官方宣布森崎温将担任新角色的声优。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/457488c95b5869efabdc284be2737771-850-478.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/3de2e360f77d56d9c0cb8214432ea089-507-303.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>森崎温在《高达SEED FREEDOM》配音的角色名为格里芬·阿尔巴莱斯特（グリフィン・アルバレスト），是新兴国家 "凡恩戴森" （ファウンデーション）女王亲卫队的队员。  </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/4e640c59a63a458fdfc5e00780104af3-640-427.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在影片《头号玩家》中，森崎温饰演的大东变身RX-78-2高达参与了战斗；剧场版《高达SEED FREEDOM》的制片人仲寿和也因这部电影认为总会有一天和森崎温建立联系。在着手剧场版的制作时，他认为森崎温能够将关键人物之一的格里芬演绎得更加出色，作为在国际舞台活跃的演员也能将《高达SEED》的魅力带给全世界的观众，因此给森崎温发送了声优邀请。他希望大家能够喜欢森崎温的演技和他配音的格里芬。</span></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 09:25:34 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 09:25:34 GMT</updated>
+</item>
+<item>
+<title>《咖啡漫谈》开发商现已全资收购Mojiken工作室</title>
+<link>https://www.gcores.com/articles/174179</link>
+<guid>https://www.gcores.com/articles/174179</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/5011afa6fc56a251d603353b93d6600b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《咖啡漫谈》开发商 Toge Productions 宣布，现已全资收购 Mojiken 工作室。 Mojiken 工作室原来是一个印尼插画工作室，后来工作室成员开始尝试制作游戏，其代表作包括 《乌鸦先生的独白》 《无垠之心》以及《往事》。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/7feb82a9b7c1d0b7e1147a4f5c32c31b-720-405.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>据悉， Mojiken 工作室仍将保留其名称，双方将携手为玩家带来更多精彩的游戏。双方表示，长期的相互信任、共同价值观和友好的互动是签订合同的重要原因，官方将在未来介绍收购后的更多计划。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 09:24:36 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 09:24:36 GMT</updated>
+</item>
+<item>
+<title>海战模拟游戏《驱逐舰：U型艇猎手》定于12月6日发售</title>
+<link>https://www.gcores.com/articles/174174</link>
+<guid>https://www.gcores.com/articles/174174</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/6fe6bad60d97a12e00a1abd100366ead-1728-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> 开发商 Iron Wolf Studio 和发行商 Daedalic Entertainment 宣布，惊险刺激的海战模拟游戏《驱逐舰：U型艇猎手》将于12月6日正式投入战斗。这款独特的二战游戏将邀请新手船员和铁血船长掌舵，保护补给船队免受纳粹德国潜艇的攻击。开发者以真实历史为基础，尽可能准确地向玩家呈现这些战斗。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本作以大西洋战役为背景，高度还原历史的反潜战争模拟游戏。游戏描述了美国和加拿大皇家海军在英国被围困期间为护航船队护航时与德国U型艇的战斗。玩家将控制一艘真实再现的弗莱彻级驱逐舰，使用真实的仪器探测并击沉可怕的U 型艇群狼作战群。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>历史准确性</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Iron Wolf Studio的开发者不遗余力地确保每一个仪器的描绘都准确无误，每一个螺栓的位置都恰到好处。他们远赴美国，不仅拍摄和研究了一艘原始的弗莱彻级驱逐舰，还采访了曾在类似舰艇上工作过的老兵。回到波兰卡托维兹的总部后，他们根据收集到的照片和描述重新制作了所有游戏素材。</span></span></div></div>
+<figure>
+<img alt="游戏总监兼制作人Bartosz Pluta美国研学期间" src="https://image.gcores.com/652b963a86cd83e6750a7c019758a26d-1216-681.jpg" />
+<figcaption>游戏总监兼制作人Bartosz Pluta美国研学期间</figcaption>
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>职业模式</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>除了战斗模式外，游戏还提供了职业生涯模式，您可以扮演一位有雄心壮志的年轻船长。该模式通过九个手工制作的任务为海战模拟游戏增添了叙事深度，任务之间还配有真实的配音和动作捕捉剪辑，进一步增强了历史沉浸感。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/6a1236e11e1d738b9f351624fe8a7539-1226-690.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>游戏特色：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>随机的天气、时间和敌人攻击模式的程序性战斗。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>详细的弗莱彻级驱逐模型，以最先进的3D技术，精心再现5个场所：舰桥、作战信息中心、声纳室、炮管和瞭望台。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>由专业配音演员、海军学校学员和美国海军专家录制的超300个语音报告，为玩家提供无与伦比的沉浸感和态势感知。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>黑暗的主题配乐，包括4个多层次的乐曲，可以根据你和敌人之间的紧张程度进行动态调整。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>性格迥异的U型艇舰长：有积极进取的、阴险的、耐心的或冷酷的专业人员——每人手中都有自己的王牌。</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>通过抢先体验进入公海旅程</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>作为一款抢先体验游戏，《驱逐舰：U型艇猎手》迅速发展成为一个活跃的社区，并基于玩家的反馈去完善游戏。随着抢先体验的结束，Iron Wolf Studio的开发者创造了一个展示游戏历程的平台，同时向新玩家介绍游戏的核心机制。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 09:22:15 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 09:22:15 GMT</updated>
+</item>
+<item>
+<title>JOYTOY战锤40K新品公布：哨兵装甲参战</title>
+<link>https://www.gcores.com/articles/174169</link>
+<guid>https://www.gcores.com/articles/174169</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/5884725c025ea8e6a0bf0da3da1b7bbc-1776-890.jpeg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>JOYTOY官方今日刚公布了《战锤40K》产品线最新单位商品，他们是来自于人类帝国禁军阵营的利刃勇士，机械神教阵营的卡斯特兰机器人，以及星界军的载具哨兵装甲！</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/af229a44544b01d0b9b6cee67e3abe16-1784-2116.jpeg" />
+
+</figure><h1 class="story_block"><div id="nopop_4r29p"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>禁军</span></span></div></div></h1><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>利刃勇士</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/cfea134069c3c71972e4b7e1c47a83c7-1334-2000.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/d492248ddfbbdb8d1a1b09a1d057a2e2-1334-2000.jpg" />
+<figcaption> (1/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/d287fc1b38bd883619ed34f6634fc3a9-1334-2000.jpg" />
+<figcaption> (2/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/a295b6b23abba5caae4c415dfcda067f-1334-2000.jpg" />
+<figcaption> (3/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/c251a659613fe92ea8261ce45c558b60-1334-2000.jpg" />
+<figcaption> (4/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/90f92ff78f0e87a95a72e465e02a38d2-1334-2000.jpg" />
+<figcaption> (5/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/dd9714e913876cfa40e5399d52e24dfe-1334-2000.jpg" />
+<figcaption> (6/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/a04c8c9ee6079f33f59f4951039a53e5-1334-2000.jpg" />
+<figcaption> (7/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/2f1d4027f308e5d5b5e1e0f9eda05c82-1334-2000.jpg" />
+<figcaption> (8/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/210a5f91e077dec7a9ada19c3efac9ee-1334-2000.jpg" />
+<figcaption> (9/9) </figcaption>
+</figure>
+            <div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><h1 class="story_block"><div id="nopop_2qb65"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>机械神教</span></span></div></div></h1><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>卡斯特兰机器人（装备磷光爆枪）</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/610fd2df31d9e9f0a3c202c42297aad1-1334-2000.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/9b3fd3008997826e5efaabd8f1ea3b62-1334-2000.jpg" />
+<figcaption> (1/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/9922f0aa4d457c482e606b84fabb7641-1334-2000.jpg" />
+<figcaption> (2/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/3161447282f952e235d97d06f0d88025-1334-2000.jpg" />
+<figcaption> (3/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/7d2177710e969b19a7aeca8763b99f1c-1334-2000.jpg" />
+<figcaption> (4/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/9001c4183ab3dd6f6237e9aa5d41d8a5-1334-2000.jpg" />
+<figcaption> (5/6) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/493c06206f95ae98f76bfa5bdc62a06d-1334-2000.jpg" />
+<figcaption> (6/6) </figcaption>
+</figure>
+            <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>视频展示</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><h1 class="story_block"><div id="nopop_5vter"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>星界军</span></span></div></div></h1><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>卡迪亚装甲哨兵</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/f252d85fdad64f0857d884887f0e8f28-1334-2000.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/31afb91fb53fb0b469ca9775ebdcdc40-1334-2000.jpg" />
+<figcaption> (1/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/201475b3384531cfe70daec46a494a05-1334-2000.jpg" />
+<figcaption> (2/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/39ec3cb4c009f8f47113d60fc92b937f-1334-2000.jpg" />
+<figcaption> (3/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/eb600cc7c5d172c8fc4b693abcc43fc8-1334-2000.jpg" />
+<figcaption> (4/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/e38a78a41a44b66e66127b8f533bb6d6-1334-2000.jpg" />
+<figcaption> (5/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/ce784bbd85cd43e6ae04f01c9c752f9f-1334-2000.jpg" />
+<figcaption> (6/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/f06f9c31d89cb37dca07917672c0da8d-1334-2000.jpg" />
+<figcaption> (7/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/dc21e59f3f87eb57dfece6b5b25e1510-1334-2000.jpg" />
+<figcaption> (8/8) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/e9f5d249cf1a68477004d97670e5b6a2-1334-2000.jpg" />
+<figcaption> (1/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/383c08e909ca6ab690bb7581c20a389e-2000-1334.jpg" />
+<figcaption> (2/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/536e21a3b305689bd24b5de00e52e20e-1334-890.jpg" />
+<figcaption> (3/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/bbfea9ff94feb652093cb0d38d536750-1334-2000.jpg" />
+<figcaption> (4/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/6b6f41ec2a19789d41c65dbee2a1868f-1334-890.jpg" />
+<figcaption> (5/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/5b7025b516e39b16159c46d4b006c623-1334-890.jpg" />
+<figcaption> (6/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/0bf0536e815cbe65ab861701446dc5d9-1334-890.jpg" />
+<figcaption> (7/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/bbd5247ee04da489f0ead353e431ed35-1334-890.jpg" />
+<figcaption> (8/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/417c29c53749ea53bbb6c35dbbfb0247-1334-890.jpg" />
+<figcaption> (9/9) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/9cac8fcc5e9812b6bc94675f0d9b0cc2-1334-890.jpg" />
+<figcaption> (1/5) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/d190b200ecf321b26247c582ff73cc9d-1334-890.jpg" />
+<figcaption> (2/5) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/263a6781affff68ec94ebff0b732dcc2-1334-890.jpg" />
+<figcaption> (3/5) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/894e8957d156527fd6da877253cc162b-1334-890.jpg" />
+<figcaption> (4/5) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/c9179720b8d37f93aba4e0a9c3b3cfea-1334-890.jpg" />
+<figcaption> (5/5) </figcaption>
+</figure>
+            <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>哨兵驾驶员</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/eb76f991537be9439dbb97b0019ceba5-1334-2000.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/c224c474a55bd80a2ab0202e234bd1be-1334-2000.jpg" />
+<figcaption> (1/4) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/c785d8be67c23a4d24ff0a428c728fe3-1334-2000.jpg" />
+<figcaption> (2/4) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/78f60bfe6eabe35cbbd9010f99234409-1334-2000.jpg" />
+<figcaption> (3/4) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/790900c79256e66ec580ccf633a33506-1334-2000.jpg" />
+<figcaption> (4/4) </figcaption>
+</figure>
+            <h1 class="story_block"><div id="nopop_eds87"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>开发者日志</span></span></div></div></h1><blockquote class="story_block story_block-quote"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>二足步行装甲的魅力谁能抵抗？战锤40K世界的哨兵装甲堂堂登场！</span></span></div></blockquote><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>未来还会有什么单位加入JOYTOY的1/18的产品线呢？咱一起来期待下次开发者日志更新吧！</span></span></div></div><h1 class="story_block"><div id="nopop_1sij7"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>附录：单位介绍</span></span></div></div></h1><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>星界军</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>哨兵装甲</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>（介绍资案文案摘抄自《战锤40K》自星界军阵营8版本CODEX圣典，图片则来自网络） </span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>哨兵机甲主要用于侦察和支援轻步兵，侦察哨兵被许多星界军兵团用来锁定和排除敌人的抵抗，在大胆的伏击中和突袭中依靠集束激光枪和炽热的钷素风暴消灭了大批敌军。侦察哨兵配备了精密的稳定用陀螺仪，以帮助他们穿越碎岩密布的坑洼战场以及崎岖难行的山坡，高效运行的双腿让它们能够静静地在茂密的灌木丛或城市废墟中漫步，同时允许它们以令人印象深刻的高速穿过开阔的地形。侦察哨兵的发电机也进行降噪改造，以免向敌人暴露它们的存在。而哨兵机甲的驾驶员们也会对他们的机体进行改进以适应他们所在的团需要应对的复杂地形。例如瓦尔拉哈冰雪战士会在机体的足部安装额外的脚钉以帮助他们的哨兵在光滑的冰面上行走，而卡塔昌丛林斗士则更喜欢在他们的机甲上按上巨大的链锯剑来劈开厚厚的丛林。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/0fb19ee055c88e6e91dc01561cba1a1e-1100-1517.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>侦察哨兵并不适合用于扩大战线的任务，因为它们未受保护的成员舱虽然允许驾驶员更好地侦察他们的猎物，但也让他们易于遭到敌人小口径武器的还击。而为了保证机动性，这些步行者也没有全副武装的战斗坦克那样强大的装甲板和钢化镀层来保护它们自己。当哨兵配备了额外的装甲时它们就成为了一流的前线部队，这让他们能大步地通过如潮水般涌来足以重创或摧毁一个更轻型的步行者的火力封锁，装甲哨兵的机械腿也被改装成带有后坐力抵消器以取代额外的稳定陀螺仪，虽然这种改造稍微降低了它们的速度，但允许它们装备更强大的武器系统。传感器阵列和鸟卜仪系统被更多的动力电池和冷却系统所取代，使装甲哨兵能够发挥其作为移动重型武器平台的作用。装甲哨兵被用作流动的猎人杀手单位，组成搜索和摧毁小组跟踪敌人的战斗坦克。一旦找到了它们的杀戮场，它们就能干净利落的收拾掉猎物——等离子束和激光炮能轻易的切开最厚的装甲层。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/e51d0b7f6d298f712088515695f0cc2f-900-652.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>当侦察哨兵在主力前方进行突击和伏击时，装甲哨兵在各列作战坦克旁边行进，或在星界军步兵阵列的前面有序行进 ，一边前行一边向敌人倾泻它们的火力。侦察哨兵和装甲哨兵通常会部署在远离帝国补给线的敌方领土上作战，哨兵中队的驾驶员在作为独立部队作战时，往往被迫使用自己的决定权——这种能力在帝国士兵中一般是没有培养出来的。因此，许多哨兵的驾驶员获得了准热门、求荣者或者不服从的特立独行者之类的名号。 </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/284cbab6a4f9a8c65e8d874d9ed37959-1920-1080.jpg" />
+
+</figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 08:49:52 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 08:49:52 GMT</updated>
+</item>
+<item>
+<title>《舍伍德侠盗团》公布最新一期开发者视频，讲述游戏音乐幕后故事</title>
+<link>https://www.gcores.com/articles/174173</link>
+<guid>https://www.gcores.com/articles/174173</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/563dab5829943fb7e95aff508a28076f-3456-2160.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>发行商 NACON 和开发商 Appeal Studios 于近日公布了《舍伍德侠盗团》幕后视频，讲述音乐的开发故事。 目前，游戏已经重启试玩版，玩家们可以免费下载游玩。这个版本的试玩版将在游戏的升级版本上提供相同的内容（教程、级别6和所有可玩角色），并进行重大改进，以为您提供更好的游戏体验。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本作是以故事为驱动的合作动作冒险游戏，适合1至4名玩家参与。该游戏节奏快，具有高度的重玩价值，以罗宾汉传说为蓝本，重新构建了一个全新的世界。利用贤者之石的力量，诺丁汉郡警长的军队积累了强大的力量，并对英格兰人民进行前所未有的压迫。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/d278dc1a4a0897f146d0174d03e32174-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在罗宾汉传奇的独特科学幻想版本中，游戏提供了爆炸性的战斗、壮观的连击和合作游戏玩法，适合喜欢在令人惊叹的环境中进行史诗般的战斗和挑战的玩家。除 Steam 外，《舍伍德侠盗团》将于12月1日在PlayStation 5、Xbox Series X|S 和Epic 游戏商城上发布。
+ </span></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 08:27:59 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 08:27:59 GMT</updated>
+</item>
+<item>
+<title>“拳击和药剂”更新现已登陆免费多人MMORPG《宝藏世界》</title>
+<link>https://www.gcores.com/articles/174172</link>
+<guid>https://www.gcores.com/articles/174172</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/1a9539cf484ad227f1679dfd57779426-1200-630.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>发行商 Gamigo 宣布，《宝藏世界》最新更新 “拳击和药剂”现已在PC上推出。该补丁包含两种全新的商业技能和一个全新的用户界面。本次补丁将引入神秘学，玩家可以通过不同的世界活动以及从神秘试剂储藏室中找到用于制作BUFF、药剂和（稀有）卷轴的配方。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold; text-decoration: underline;"><span>全新用户界面——特效查看窗口</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>目前，玩家身上的任何可见“效果”都会以图标的形式在经验值栏下方显示。“拳击和药剂”补丁将引入一个全新且备受期待的特效查看窗口，玩家可以在其中查看当前激活的效果。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/175fb7171d15eb27ba69caf113d7f52f-2108-460.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>玩家还可以滚动浏览以职业为基础的效果列表，阅读详情，在某些情况下甚至可以移除这些效果。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold; text-decoration: underline;"><span>全新商业技能——神秘学</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>从事这一职业的玩家将收集魔法，这是一种在所有冒险世界中都会出现的资源，但每次只在三个生物群落中出现。每周，魔法将开始在一个新的生物群落中生成，然后留下一个旧的生物群落。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>训练中的神秘主义者可能也想投资新的“神秘疯狂礼包”，其中的可收集物品和神秘试剂储藏室可以加速他们的进度。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold; text-decoration: underline;"><span>全新商业技能——武术</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>玩家将通过拾取现有的战利品来获得相应NPC类型的灵魂缠结以及建立恶业。代表霓虹拳击俱乐部执行任务或活动等服务行为将积累善业。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/40d3b8cc4816433feaac111c51f2168b-1281-718.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>将善业和恶业结合起来，玩家就能制作出长啸、法步和咒语。当角色使用特定的能力类型时，会消耗长啸和法步，它们会带来迷你增益的短暂效果。而咒语则会在使用特定动画状态时为玩家提供短暂的增益效果，而不会被消耗掉。咒语只有在保存圣物转化成连祷效果时才会被消耗。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 08:25:07 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 08:25:07 GMT</updated>
+</item>
+<item>
+<title>休闲六角网格策略游戏《繁荣之初》将于12月21日登陆Nintendo Switch</title>
+<link>https://www.gcores.com/articles/174170</link>
+<guid>https://www.gcores.com/articles/174170</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/73a89b6c7470831fad6fe68e691943f7-1429-804.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>发行商 Assemble Entertainment 宣布，旗下休闲益智游戏《繁荣之初》将于2023年12月21日在 Nintendo Switch 上推出。 本作是一款由 VoodooDuck 打造的舒适的六角网格软策略游戏。利用动物的独特能力，探索并填充程序生成的世界，将舒适的探索之美与克服障碍的挑战性融为一体。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>通过与动物合作，在程序生成的土地上繁衍生息并不断扩张。在扩张的过程中，您会遇到不同的动物，每种动物都有自己独特的能力，可以帮助您克服游戏中的诸多障碍。通过巧妙地连接野生动物集群，探索和扩展不断扩大的程序生成的地图。认领新发现的集群或兴趣点，就能获得更多野生动物，有时还能获得特殊奖励。游戏特色包括：</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/631d952bc91c4fc729e5ab1b78657c4c-2560-1440.png" />
+
+</figure><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>舒适满足挑战：</span></span><span><span>六边形网格为基础的软策略益智游戏与直观的设计相融合，将舒适的探索与富有挑战性的谜题相结合。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>禅意般的战役模式：</span></span><span><span>《繁荣之初》的战役模式提供了丰富的内容，这要归功于它随机生成的地图，让您解决问题的能力得到考验。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>放松与拓展：</span></span><span><span>惬意的田园诗般的环境；无论玩家技术水平如何，都是放松的绝佳选择。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>来自朋友的帮助：</span></span><span><span>包括鹿、野猪、蜜蜂和鸭子在内的8种不同动物，具有独特的能力，可以扩展您的工具组，帮助您进行探索。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> </span></span><span style="font-weight: bold;"><span>多样化的地形：</span></span><span><span>9种不同的地块类型可以让您创建精美的地图，每种地图都有独特的地形，保持游戏的新鲜感。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>重玩性至关重要：</span></span><span><span>程序生成的世界，使得每一次进入森林的体验都与众不同。</span></span></div></li></ul>
+<figure>
+<img alt="" src="https://image.gcores.com/3aa9c5b8ef9d80cca464455d1e31caa0-2560-1440.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《繁荣之初》将于 2023 年12月21日登陆 Nintendo Switch ，售价为9.99美元。Nintendo Switch 预购将于12月14日开启（预购可享受 8折优惠）。玩家也可在 Steam 上购买《繁荣之初》，该游戏已通过 Steam Deck 认证。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 08:18:12 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 08:18:12 GMT</updated>
+</item>
+<item>
+<title>《吹响！上低音号3》公布新视觉图，2024年4月开播</title>
+<link>https://www.gcores.com/articles/174168</link>
+<guid>https://www.gcores.com/articles/174168</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/b8be818dd9bc2f31aed9a6bea0e636a4-618-347.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《吹响！上低音号3》公布了新视觉图，并宣布新角色黑江真由将由户松遥担任声优。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/2ca3a3a72ea933427c0f5cb8db929c09-800-1127.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/96ad1e42eeefe4905fdc0bab71a71121-800-600.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>黑江真由是从吹奏月强校“清良女子学校”转学至北宇治高中的转校生，负责吹奏上低音号。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/8e8c742455e1d1872c194b7657ce7560-890-750.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《吹响！上低音号3》的制作及声优阵容如下：</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>STAFF</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>原作：武田綾乃（宝島社文庫「響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章」）
+監督：石原立也
+副監督：小川太一
+脚本：花田十輝
+キャラクターデザイン：池田晶子・池田和美
+総作画監督：池田和美
+楽器設定：髙橋博行
+楽器作画監督：太田稔
+美術監督：篠原睦雄
+3D美術：鵜ノ口穣二
+色彩設計：竹田明代
+撮影監督：髙尾一也
+3D監督：冨板紀宏
+音響監督：鶴岡陽太
+音楽：松田彬人
+音楽制作：ランティス、ハートカンパニー
+音楽協力：洗足学園音楽大学
+演奏協力：プログレッシブ！ウインド・オーケストラ
+吹奏楽監修：大和田雅洋
+アニメーション制作：京都アニメーション
+製作：「響け！」製作委員会2024 </span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>CAST</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>黄前久美子：黒沢ともよ
+加藤葉月：朝井彩加
+川島緑輝：豊田萌絵
+高坂麗奈：安済知佳
+黒江真由：戸松遥 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 08:15:02 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 08:15:02 GMT</updated>
+</item>
+<item>
+<title>等身大塞尔达雕像首次公开！“Nintendo Live 2024”公布新信息</title>
+<link>https://www.gcores.com/articles/174165</link>
+<guid>https://www.gcores.com/articles/174165</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/07dacac73c31860605bb75ff31784f38-820-461.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“Nintendo Live 2024”将于2024年1月20~21日在东京举行，除集结选手的“世界大会”以外，任天堂还准备了《超级马力欧》《塞尔达传说》等作品相关的各色企划。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/da69e6bb5fbef9345991e45c29cb11df-1470-769.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>现场将举行《斯普拉遁3》和《马力欧赛车8 豪华版》的比赛，其中《斯普拉遁3》的预赛在1月20日举行，决赛在1月21日举行；《马力欧赛车8 豪华版》的比赛则在1月21日举行，均会在任天堂官方油管频道进行直播。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/cb7bcab0c781877e06636d8828975d59-451-378.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在活动现场可试玩《碧姬公主 表演时刻！》。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/a647dc115c9a39a3d3a5cc6bc4ecfc81-3692-1332.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>活动两天都有《斯普拉遁3》的音乐LIVE，每天公演2场；其中1月21日第2场公演将于下午5点（北京时间，下同）开始，该场LIVE会进行直播。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/1e0ad941d7e9f24345ca7e9633eb045d-3692-1332.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《塞尔达传说》交响音乐会也将在活动每天公演2场。其中1月20日第2次公演将于下午4：30开场、5：00开演，该场会进行直播。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/07dacac73c31860605bb75ff31784f38-820-461.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>另外，活动现场会展示林克、塞尔达、加侬多夫3人的等身大雕像。塞尔达的雕像为首次展出。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/b12a7d7de77006c807e3aacf409d3a1b-4032-2266.jpg" />
+<figcaption> (1/3) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/96153a18a09d161a651974db9efb370f-3024-4032.jpg" />
+<figcaption> (2/3) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/8073530dccbf5404b78673cf49134ae3-3024-4032.jpg" />
+<figcaption> (3/3) </figcaption>
+</figure>
+            <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>加侬多夫的雕像已于11月23日在福冈三越前狮子广场首次公开展示，一同展出的还有林克雕像。</span></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 07:54:23 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 07:54:23 GMT</updated>
+</item>
+<item>
+<title>《绝地求生》公布国风地图“荣都”最新预告，吴彦祖和李政宰参演</title>
+<link>https://www.gcores.com/articles/174159</link>
+<guid>https://www.gcores.com/articles/174159</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/ae55936de4e86ca69b11c6c4edd8cc1b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>魁匠团于近日公布了旗下大逃杀游戏《绝地求生》国风地图“荣都”最新预告。官方表示，代号“Alpha”吴彦祖 Daniel Wu 和代号 Beta 的李政宰已率先抵达。作为迄今为止最大的地图，“荣都”达到了8x8公里，将会带来传统与现代完美融合。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
+<figure>
+<img alt="" src="https://image.gcores.com/98a8662805219f71666ce417082dea6a-690-1227.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/8ea808a029248fe42b72bfb2bc2fc4e8-690-1227.jpg" />
+
+</figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 05:20:19 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 05:20:19 GMT</updated>
+</item>
+<item>
+<title>《极限竞速：地平线5》5折特惠！Xbox第一方游戏Steam平台秋季特卖现已开启</title>
+<link>https://www.gcores.com/articles/174160</link>
+<guid>https://www.gcores.com/articles/174160</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/bd3624cbf547c1a76fde3338c0bb39ec-4580-2576.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fstore.steampowered.com%2Fpublisher%2FXboxGameStudios" target="_blank"><span><span>Xbox 第一方游戏 Steam 平台秋季特卖</span></span></a><span><span>已于今日（11 月 22 日）正式开启，截至 11 月 29 日。秋季特卖期间，包括《帝国时代》、《极限竞速 地平线》、《盗贼之海》、《Ori》等在内的众多 Xbox 旗下一方游戏系列作品都将加入此次促销行列，折扣最低至二五折。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>以下为本次 Xbox 第一方游戏 Steam 平台秋季特卖部分游戏作品：</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《极限竞速</span></span><span><span> </span></span><span style="font-weight: bold;"><span>地平线》系列</span></span><span><span> </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/fef0ebb6c6eb32f77fffc02728708aa2-1062-609.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>作为开放世界赛车类游戏代表，《极限竞速 地平线》系列素来以高度自由的驾驶体验、型号丰富的车辆，以及多样化的路线和路况设置备受广大玩家群体青睐。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在《极限竞速 地平线 5》中，玩家会来到充满动感节拍的墨西哥，驾驶各式车辆探索墨西哥丰富多样的地形和景观。本作除游戏本体外，还提供风格各异的 DLC 拓展包，玩家可以在风火轮公园里驾驶 1:1 大小的风火轮赛车来一个 360° 大回环，或是在巴哈拉力赛中挑战沙漠峡谷。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>或者，玩家也可以在《极限竞速 地平线 4》里驾驶在大不列颠的土地上，感受英伦风尚。本次秋季特卖期间，《极限竞速 地平线 4》优惠折扣低至三三折，《极限竞速 地平线 5》优惠折扣低至五折。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《禁闭求生》</span></span><span><span> </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/3f1335d1789a574a2655e05222c09db8-764-429.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《禁闭求生》是一款独具特色的冒险、建造类游戏。游戏中，玩家扮演的主人公被缩小到了只有昆虫般大小，身处后花园中，曾经熟悉的各种事物都变得异常“巨大”。玩家需要在这座“丛林”中展开冒险，收集物资、建造庇护所、抵御巨大昆虫的入侵，并努力寻找变回原样的方法。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本作支持多人联机游玩，并已于本月早些时候推出 1.3 更新内容——“建造与破坏（Make it or Break it）”，引入“游乐场”模式。在该模式下，玩家可独自或与好友合作，使用该模式所提供的建造工具和丰富物料设计、建造各种挑战项目，并与他人分享或共同游玩。秋季特卖期间，《禁闭求生》推出六折优惠。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《帝国时代》系列</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/4379292628171edb617b51bf007dc81d-1137-640.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《帝国时代》系列是最受欢迎的即时战略类游戏之一。本次 Steam 秋季特卖期间，《帝国时代》系列作品优惠折扣低至二五折。其中不仅有经过高清重置并增加新内容的经典《帝国时代 II：决定版》和《帝国时代 III：决定版》等，还有系列最新一作——《帝国时代 IV：周年纪念版》。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《帝国时代 IV：周年纪念版》在延续系列经典玩法的同时，融入创新的内容，以 4K 更高清的画面将广阔的帝国呈现在玩家眼前。本作中，玩家可以投身战役模式，参与 4 场影响了世界走向的恢弘战役；也可以在多人模式中与他人联机游玩。同时本作中还增加了纪录片内容，以视频的方式为玩家详解历史背后的故事与细节。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>此外，本作已于本月推出了全新 DLC 拓展包——《苏丹崛起》，新增 8 个单人战役任务，并加入了日本和拜占庭 2 个崭新文明，以及 4 个变体文明，还有 10 个新地图和新的可解锁奖励等更多内容。秋季特卖期间，《帝国时代 IV：周年纪念版》推出五折优惠。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《盗贼之海》</span></span><span><span> </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/faa414716e20e475e052c402177d2a40-1031-579.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在《盗贼之海》中，玩家可以与好友联机组成海盗团。游戏提供了丰富且自由的玩法内容，玩家不仅可以自定义角色，也能自定义海盗船，为其命名、改装，并和船员们一起出海冒险，寻宝战斗。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>此外，《盗贼之海》也在持续不断地增加新的游戏内容，在全新的第十赛季中，游戏引入了“工会”功能，并推出首个竞技航程——《海妖之歌头骨》，不断为玩家带来新的游戏体验。同时，本作的冒险模式也将于第十赛季起提供“公海”和“安全海洋”（Safer Seas）两种模式：其中“公海”模式即保持当前的经典模式；而在“安全海洋”模式下玩家则可以在私人世界中单独或与最多三位选定的好友一起游玩。秋季特卖期间，《盗贼之海》可享五折优惠。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《光环》系列</span></span><span><span> </span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/81655d03f039a5a5f8ce28c1ebf63386-1086-611.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>士官长是电子游戏史上最知名的角色之一。在《光环》系列游戏中，玩家可以化身士官长，在人工智能助手 Cortana 的协助下探索环带和星系，对抗外星敌人。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Steam 秋促期间，《光环：士官长合集》开启二五折优惠，其中囊括了《光环：致远星》、《光环 2：周年版》、《光环 3》、《光环 4》等系列 6 部作品，可以让玩家完整体验士官长的故事。同时，秋促期间系列最新作《光环 无限》（战役版）也提供四折优惠。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《Ori》系列</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/2a24f9215e0a0ec15a9925e149c56f32-799-450.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>广受好评的平台动作类游戏《Ori》融合了小清新风格的手绘画风、令人惊艳的原创音乐和充满挑战的冒险。在游戏中，玩家需要扮演小精灵奥里，在充满奇幻光影的丛林中不断跑酷探索、战斗，并不断挑战自己的操控精准度。对于喜欢考验自己的游戏操控水平的玩家来说，这绝对是一款不容错过的佳作。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本次 Steam 秋季特卖中，系列第二部作品《精灵与萤火意志》优惠折扣三三折，同时该作支持 4K HDR、120 FPS。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 04:45:16 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 04:45:16 GMT</updated>
+</item>
+<item>
+<title>说唱歌手Eminem将登陆《堡垒之夜》，官方同步推出三款主题皮肤</title>
+<link>https://www.gcores.com/articles/174156</link>
+<guid>https://www.gcores.com/articles/174156</guid>
+<content:encoded><![CDATA[
+
+<img src="https://image.gcores.com/01dbe665b5648bcb4b88f7bb7404c42b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Epic Game 今日正式确认了美国说唱歌手 Eminem 与《堡垒之夜》联动的消息。Eminem 将于12月2日的《堡垒之夜》第四章的结局时出现在游戏中，而玩家则可以在游戏商城内购买三款 Eminem 的皮肤来装扮自己的角色。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/19440db33c0df76358636f7682301796-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/c064d305256198c452363652fc6aec67-2400-1350.jpg" />
+
+</figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 23 Nov 2023 03:36:37 GMT</pubDate>
+<updated>Thu, 23 Nov 2023 03:36:37 GMT</updated>
+</item>
 
 <item>
 <title>日本一新作《Bar Stella Abyss》正式公布，2024年2月29日发售</title>
