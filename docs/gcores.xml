@@ -4,246 +4,34 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+
 <item>
 <title>明日上映！蜡笔小新 2023 新剧场版发布最新预告</title>
 <link>https://www.gcores.com/articles/174210</link>
 <guid>https://www.gcores.com/articles/174210</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/54873adcd3a84c218e31a68eb16767cd-1080-583.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“蜡笔小新”系列最新剧场版《蜡笔小新：新次元！超能力大决战》将在</span></span><span style="font-weight: bold;"><span>明日</span></span><span><span>上映，官方释出最新预告：</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“在 20 和 23 数字相连的那一年，天上会降下两道光芒。”新之助被白色的光击中了，对生活充满怨恨的社畜非理谷充被黑光击中，并想用超能力扰乱世界。为了守卫世界的命运，5 岁的小新挺身而出超能力觉醒，展开一场正义与黑暗的对抗：</span></span></div></div>
 <figure>
@@ -252,248 +40,34 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> 本片由白组负责动画制作。制作阵容如下：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>原作：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F1802" target="_blank"><span><span>臼井儀人</span></span></a><span><span>（らくだ社）／「月刊まんがタウン」（双葉社）連載中</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>監督、脚本：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F55785" target="_blank"><span><span>大根仁</span></span></a></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>声の出演：</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F44358" target="_blank"><span><span>小林由美子</span></span></a><span><span>、</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F95593" target="_blank"><span><span>ならはしみき</span></span></a><span><span>、</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F64022" target="_blank"><span><span>森川智之</span></span></a><span><span>、</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fartist%2F95754" target="_blank"><span><span>こおろぎさとみ</span></span></a><span><span> </span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>  声优阵容如下：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原新之助 小林由美子</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原美冴 楢桥美纪  </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原广志 森川智之 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原向日葵 兴梠里美 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>野原小白 真柴摩利 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>风间彻 真柴摩利</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>樱田妮妮 林玉绪</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>佐藤正男 一龙斋贞友 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>阿呆 佐藤智惠</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>高仓文太 森田顺平   </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>吉永绿 七绪春日 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>松坂梅 富泽美智惠 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>上尾义美 三石琴乃 </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>河村猎豹 大冢智子   </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>仁 永泽菜教   </span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>辉信 泷本富士子 </span></span></div></li></ul><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 05:54:52 GMT</pubDate>
-<updated>Fri, 24 Nov 2023 05:54:52 GMT</updated>
 </item>
 <item>
 <title>《巫师》原作者：从没玩过CDPR游戏，也不打算体验</title>
 <link>https://www.gcores.com/articles/174195</link>
 <guid>https://www.gcores.com/articles/174195</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/18b978f2f24922c06f74d90ff65c5d29-1000-664.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在维也纳动漫展现场，《猎魔人》系列小说的原著作者安德鲁兹·萨普科夫斯基在接受采访时表示，自己从未玩过 CD Projekt Red 的游戏，也没有这个打算。实际上，他对电子游戏没有兴趣，也没有尝试过任何其他游戏。据悉，他正在创作《猎魔人》的全新书籍，并且认为类似游戏这种再现自己作品的复制品“很奇怪”。</span></span></div></div>
 <figure>
@@ -506,248 +80,34 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>此外，小说作者对于自己参与的影视剧也颇有微词。他表示，自己给了网飞不少反馈和意见，但他们从未听取任何想法。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 01:56:17 GMT</pubDate>
-<updated>Fri, 24 Nov 2023 01:56:17 GMT</updated>
 </item>
 <item>
 <title>正式官宣！《爱乐之城》将于 12 月 22 日重映</title>
 <link>https://www.gcores.com/articles/174196</link>
 <guid>https://www.gcores.com/articles/174196</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/48782c36f92e985db3ac8d224abd6d4f-1080-607.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>由达米恩·查泽雷指导，瑞恩·高斯林、艾玛·斯通主演的歌舞爱情电影《爱乐之城》将于艺联专线重映，定档 12 月 22 日：</span></span></div></div>
 <figure>
@@ -764,248 +124,34 @@
 </figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 01:49:37 GMT</pubDate>
-<updated>Fri, 24 Nov 2023 01:49:37 GMT</updated>
 </item>
 <item>
 <title>《侏罗纪世界：进化2》“白垩纪掠食者”免费DLC将于本月30日推出</title>
 <link>https://www.gcores.com/articles/174194</link>
 <guid>https://www.gcores.com/articles/174194</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/70de1c2672111501e2751954554ba11b-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>游戏开发商  Frontier 宣布，旗下经营模拟游戏《侏罗纪世界：进化2》将于11月30日推出“白垩纪掠食者”免费 DLC 。开发团队表示，“白垩纪掠食者”为游戏增添四种凶残的掠食者。玩家需管控这些震人心魄、令人畏惧的恐龙，它们会在园区中争夺霸权，寻觅猎物。向游客们展示白垩纪时期的真正力量吧。 </span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>巨盗龙</span></span></div></li></ul>
 <figure>
@@ -1028,248 +174,34 @@
 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 01:30:00 GMT</pubDate>
-<updated>Fri, 24 Nov 2023 01:30:00 GMT</updated>
 </item>
 <item>
 <title>《EA SPORTS FC 24》确认将于2024年加入欧洲足球锦标赛内容</title>
 <link>https://www.gcores.com/articles/174193</link>
 <guid>https://www.gcores.com/articles/174193</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/1ba525fe337eff52cd2309bf022084b0-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>EA 宣布，旗下足球游戏《EA SPORTS FC 24》确认将以更新形式加入2024年欧洲足球锦标赛内容，所有玩家均可体验。据悉，现有玩家为 Ultimate Team 招募夏季锦标赛的明星。玩家将会获得以下其中一名球员： </span></span></div></div>
 <figure>
@@ -1278,14 +210,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>与此同时，《EA SPORTS FC 24》将会是 UEFA eEURO esports 项目的官方平台，这项全新锦标赛将包含欧洲最顶尖的玩家，代表UEFA 国家足球队。eEuro 是每年一度的锦标赛项目，入围赛到直播决赛一应俱全，而首阶段赛事将于今个夏天举行。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>订阅 EA Play，即可试玩《EA Sports FC 24》10 小时，还可以无限制体验 EA 最受喜爱的游戏合集。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 01:17:37 GMT</pubDate>
-<updated>Fri, 24 Nov 2023 01:17:37 GMT</updated>
 </item>
 <item>
 <title>PlayStation联手摇滚乐队King Gnu，推出新品牌形象宣传片</title>
 <link>https://www.gcores.com/articles/174187</link>
 <guid>https://www.gcores.com/articles/174187</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/61c452f28b4669d4728ecafcee959b7c-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>PlayStation 今日公布了和摇滚乐队 King Gnu 和作推出的 “Play Has No Limits 突破界限”品牌形象宣传片。乐队的四位乐手分别扮演  △〇×□  的四个图标，宣传片的背景音乐则选用了乐队的新曲《):阿修羅:(》 。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
 <figure>
 <img alt="" src="https://image.gcores.com/76b4877ba676a46fbbe51244318559d3-1920-1080.jpg" />
@@ -1358,14 +288,12 @@
 </figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 13:34:07 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 13:34:07 GMT</updated>
 </item>
 <item>
 <title>“我将以高达形态出击！”《头号玩家》演员森崎温担任《高达SEED》剧场版声优</title>
 <link>https://www.gcores.com/articles/174178</link>
 <guid>https://www.gcores.com/articles/174178</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/457488c95b5869efabdc284be2737771-850-478.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在斯皮尔伯格执导的影片《头号玩家》中，饰演大东的演员森崎温的台词“我将以高达形态出击！”（俺はガンダムで行く！）让观众留下了深刻印象。11月23日，剧场版《高达SEED FREEDOM》官方宣布森崎温将担任新角色的声优。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/457488c95b5869efabdc284be2737771-850-478.png" />
@@ -1381,14 +309,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在影片《头号玩家》中，森崎温饰演的大东变身RX-78-2高达参与了战斗；剧场版《高达SEED FREEDOM》的制片人仲寿和也因这部电影认为总会有一天和森崎温建立联系。在着手剧场版的制作时，他认为森崎温能够将关键人物之一的格里芬演绎得更加出色，作为在国际舞台活跃的演员也能将《高达SEED》的魅力带给全世界的观众，因此给森崎温发送了声优邀请。他希望大家能够喜欢森崎温的演技和他配音的格里芬。</span></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 09:25:34 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 09:25:34 GMT</updated>
 </item>
 <item>
 <title>《咖啡漫谈》开发商现已全资收购Mojiken工作室</title>
 <link>https://www.gcores.com/articles/174179</link>
 <guid>https://www.gcores.com/articles/174179</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/5011afa6fc56a251d603353b93d6600b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《咖啡漫谈》开发商 Toge Productions 宣布，现已全资收购 Mojiken 工作室。 Mojiken 工作室原来是一个印尼插画工作室，后来工作室成员开始尝试制作游戏，其代表作包括 《乌鸦先生的独白》 《无垠之心》以及《往事》。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/7feb82a9b7c1d0b7e1147a4f5c32c31b-720-405.jpg" />
@@ -1396,14 +322,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>据悉， Mojiken 工作室仍将保留其名称，双方将携手为玩家带来更多精彩的游戏。双方表示，长期的相互信任、共同价值观和友好的互动是签订合同的重要原因，官方将在未来介绍收购后的更多计划。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 09:24:36 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 09:24:36 GMT</updated>
 </item>
 <item>
 <title>海战模拟游戏《驱逐舰：U型艇猎手》定于12月6日发售</title>
 <link>https://www.gcores.com/articles/174174</link>
 <guid>https://www.gcores.com/articles/174174</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/6fe6bad60d97a12e00a1abd100366ead-1728-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> 开发商 Iron Wolf Studio 和发行商 Daedalic Entertainment 宣布，惊险刺激的海战模拟游戏《驱逐舰：U型艇猎手》将于12月6日正式投入战斗。这款独特的二战游戏将邀请新手船员和铁血船长掌舵，保护补给船队免受纳粹德国潜艇的攻击。开发者以真实历史为基础，尽可能准确地向玩家呈现这些战斗。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本作以大西洋战役为背景，高度还原历史的反潜战争模拟游戏。游戏描述了美国和加拿大皇家海军在英国被围困期间为护航船队护航时与德国U型艇的战斗。玩家将控制一艘真实再现的弗莱彻级驱逐舰，使用真实的仪器探测并击沉可怕的U 型艇群狼作战群。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>历史准确性</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Iron Wolf Studio的开发者不遗余力地确保每一个仪器的描绘都准确无误，每一个螺栓的位置都恰到好处。他们远赴美国，不仅拍摄和研究了一艘原始的弗莱彻级驱逐舰，还采访了曾在类似舰艇上工作过的老兵。回到波兰卡托维兹的总部后，他们根据收集到的照片和描述重新制作了所有游戏素材。</span></span></div></div>
 <figure>
 <img alt="游戏总监兼制作人Bartosz Pluta美国研学期间" src="https://image.gcores.com/652b963a86cd83e6750a7c019758a26d-1216-681.jpg" />
@@ -1415,14 +339,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>游戏特色：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>随机的天气、时间和敌人攻击模式的程序性战斗。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>详细的弗莱彻级驱逐模型，以最先进的3D技术，精心再现5个场所：舰桥、作战信息中心、声纳室、炮管和瞭望台。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>由专业配音演员、海军学校学员和美国海军专家录制的超300个语音报告，为玩家提供无与伦比的沉浸感和态势感知。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>黑暗的主题配乐，包括4个多层次的乐曲，可以根据你和敌人之间的紧张程度进行动态调整。</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>性格迥异的U型艇舰长：有积极进取的、阴险的、耐心的或冷酷的专业人员——每人手中都有自己的王牌。</span></span></div></li></ul><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>通过抢先体验进入公海旅程</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>作为一款抢先体验游戏，《驱逐舰：U型艇猎手》迅速发展成为一个活跃的社区，并基于玩家的反馈去完善游戏。随着抢先体验的结束，Iron Wolf Studio的开发者创造了一个展示游戏历程的平台，同时向新玩家介绍游戏的核心机制。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 09:22:15 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 09:22:15 GMT</updated>
 </item>
 <item>
 <title>JOYTOY战锤40K新品公布：哨兵装甲参战</title>
 <link>https://www.gcores.com/articles/174169</link>
 <guid>https://www.gcores.com/articles/174169</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/5884725c025ea8e6a0bf0da3da1b7bbc-1776-890.jpeg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>JOYTOY官方今日刚公布了《战锤40K》产品线最新单位商品，他们是来自于人类帝国禁军阵营的利刃勇士，机械神教阵营的卡斯特兰机器人，以及星界军的载具哨兵装甲！</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/af229a44544b01d0b9b6cee67e3abe16-1784-2116.jpeg" />
@@ -1663,14 +585,12 @@
 </figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 08:49:52 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 08:49:52 GMT</updated>
 </item>
 <item>
 <title>《舍伍德侠盗团》公布最新一期开发者视频，讲述游戏音乐幕后故事</title>
 <link>https://www.gcores.com/articles/174173</link>
 <guid>https://www.gcores.com/articles/174173</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/563dab5829943fb7e95aff508a28076f-3456-2160.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>发行商 NACON 和开发商 Appeal Studios 于近日公布了《舍伍德侠盗团》幕后视频，讲述音乐的开发故事。 目前，游戏已经重启试玩版，玩家们可以免费下载游玩。这个版本的试玩版将在游戏的升级版本上提供相同的内容（教程、级别6和所有可玩角色），并进行重大改进，以为您提供更好的游戏体验。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本作是以故事为驱动的合作动作冒险游戏，适合1至4名玩家参与。该游戏节奏快，具有高度的重玩价值，以罗宾汉传说为蓝本，重新构建了一个全新的世界。利用贤者之石的力量，诺丁汉郡警长的军队积累了强大的力量，并对英格兰人民进行前所未有的压迫。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/d278dc1a4a0897f146d0174d03e32174-1920-1080.jpg" />
@@ -1679,14 +599,12 @@
  </span></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span> </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 08:27:59 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 08:27:59 GMT</updated>
 </item>
 <item>
 <title>“拳击和药剂”更新现已登陆免费多人MMORPG《宝藏世界》</title>
 <link>https://www.gcores.com/articles/174172</link>
 <guid>https://www.gcores.com/articles/174172</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/1a9539cf484ad227f1679dfd57779426-1200-630.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>发行商 Gamigo 宣布，《宝藏世界》最新更新 “拳击和药剂”现已在PC上推出。该补丁包含两种全新的商业技能和一个全新的用户界面。本次补丁将引入神秘学，玩家可以通过不同的世界活动以及从神秘试剂储藏室中找到用于制作BUFF、药剂和（稀有）卷轴的配方。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold; text-decoration: underline;"><span>全新用户界面——特效查看窗口</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>目前，玩家身上的任何可见“效果”都会以图标的形式在经验值栏下方显示。“拳击和药剂”补丁将引入一个全新且备受期待的特效查看窗口，玩家可以在其中查看当前激活的效果。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/175fb7171d15eb27ba69caf113d7f52f-2108-460.jpg" />
@@ -1698,14 +616,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>将善业和恶业结合起来，玩家就能制作出长啸、法步和咒语。当角色使用特定的能力类型时，会消耗长啸和法步，它们会带来迷你增益的短暂效果。而咒语则会在使用特定动画状态时为玩家提供短暂的增益效果，而不会被消耗掉。咒语只有在保存圣物转化成连祷效果时才会被消耗。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 08:25:07 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 08:25:07 GMT</updated>
 </item>
 <item>
 <title>休闲六角网格策略游戏《繁荣之初》将于12月21日登陆Nintendo Switch</title>
 <link>https://www.gcores.com/articles/174170</link>
 <guid>https://www.gcores.com/articles/174170</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/73a89b6c7470831fad6fe68e691943f7-1429-804.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>发行商 Assemble Entertainment 宣布，旗下休闲益智游戏《繁荣之初》将于2023年12月21日在 Nintendo Switch 上推出。 本作是一款由 VoodooDuck 打造的舒适的六角网格软策略游戏。利用动物的独特能力，探索并填充程序生成的世界，将舒适的探索之美与克服障碍的挑战性融为一体。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>通过与动物合作，在程序生成的土地上繁衍生息并不断扩张。在扩张的过程中，您会遇到不同的动物，每种动物都有自己独特的能力，可以帮助您克服游戏中的诸多障碍。通过巧妙地连接野生动物集群，探索和扩展不断扩大的程序生成的地图。认领新发现的集群或兴趣点，就能获得更多野生动物，有时还能获得特殊奖励。游戏特色包括：</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/631d952bc91c4fc729e5ab1b78657c4c-2560-1440.png" />
@@ -1717,14 +633,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《繁荣之初》将于 2023 年12月21日登陆 Nintendo Switch ，售价为9.99美元。Nintendo Switch 预购将于12月14日开启（预购可享受 8折优惠）。玩家也可在 Steam 上购买《繁荣之初》，该游戏已通过 Steam Deck 认证。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 08:18:12 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 08:18:12 GMT</updated>
 </item>
 <item>
 <title>《吹响！上低音号3》公布新视觉图，2024年4月开播</title>
 <link>https://www.gcores.com/articles/174168</link>
 <guid>https://www.gcores.com/articles/174168</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/b8be818dd9bc2f31aed9a6bea0e636a4-618-347.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《吹响！上低音号3》公布了新视觉图，并宣布新角色黑江真由将由户松遥担任声优。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/2ca3a3a72ea933427c0f5cb8db929c09-800-1127.jpg" />
@@ -1764,14 +678,12 @@
 黒江真由：戸松遥 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 08:15:02 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 08:15:02 GMT</updated>
 </item>
 <item>
 <title>等身大塞尔达雕像首次公开！“Nintendo Live 2024”公布新信息</title>
 <link>https://www.gcores.com/articles/174165</link>
 <guid>https://www.gcores.com/articles/174165</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/07dacac73c31860605bb75ff31784f38-820-461.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>“Nintendo Live 2024”将于2024年1月20~21日在东京举行，除集结选手的“世界大会”以外，任天堂还准备了《超级马力欧》《塞尔达传说》等作品相关的各色企划。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/da69e6bb5fbef9345991e45c29cb11df-1470-769.png" />
@@ -1810,14 +722,12 @@
             <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>加侬多夫的雕像已于11月23日在福冈三越前狮子广场首次公开展示，一同展出的还有林克雕像。</span></span></div></div><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 07:54:23 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 07:54:23 GMT</updated>
 </item>
 <item>
 <title>《绝地求生》公布国风地图“荣都”最新预告，吴彦祖和李政宰参演</title>
 <link>https://www.gcores.com/articles/174159</link>
 <guid>https://www.gcores.com/articles/174159</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/ae55936de4e86ca69b11c6c4edd8cc1b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>魁匠团于近日公布了旗下大逃杀游戏《绝地求生》国风地图“荣都”最新预告。官方表示，代号“Alpha”吴彦祖 Daniel Wu 和代号 Beta 的李政宰已率先抵达。作为迄今为止最大的地图，“荣都”达到了8x8公里，将会带来传统与现代完美融合。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
 <figure>
 <img alt="" src="https://image.gcores.com/98a8662805219f71666ce417082dea6a-690-1227.jpg" />
@@ -1829,14 +739,12 @@
 </figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 05:20:19 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 05:20:19 GMT</updated>
 </item>
 <item>
 <title>《极限竞速：地平线5》5折特惠！Xbox第一方游戏Steam平台秋季特卖现已开启</title>
 <link>https://www.gcores.com/articles/174160</link>
 <guid>https://www.gcores.com/articles/174160</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/bd3624cbf547c1a76fde3338c0bb39ec-4580-2576.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fstore.steampowered.com%2Fpublisher%2FXboxGameStudios" target="_blank"><span><span>Xbox 第一方游戏 Steam 平台秋季特卖</span></span></a><span><span>已于今日（11 月 22 日）正式开启，截至 11 月 29 日。秋季特卖期间，包括《帝国时代》、《极限竞速 地平线》、《盗贼之海》、《Ori》等在内的众多 Xbox 旗下一方游戏系列作品都将加入此次促销行列，折扣最低至二五折。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>以下为本次 Xbox 第一方游戏 Steam 平台秋季特卖部分游戏作品：</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>《极限竞速</span></span><span><span> </span></span><span style="font-weight: bold;"><span>地平线》系列</span></span><span><span> </span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/fef0ebb6c6eb32f77fffc02728708aa2-1062-609.jpg" />
@@ -1864,14 +772,12 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>广受好评的平台动作类游戏《Ori》融合了小清新风格的手绘画风、令人惊艳的原创音乐和充满挑战的冒险。在游戏中，玩家需要扮演小精灵奥里，在充满奇幻光影的丛林中不断跑酷探索、战斗，并不断挑战自己的操控精准度。对于喜欢考验自己的游戏操控水平的玩家来说，这绝对是一款不容错过的佳作。</span></span></div></div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>本次 Steam 秋季特卖中，系列第二部作品《精灵与萤火意志》优惠折扣三三折，同时该作支持 4K HDR、120 FPS。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 04:45:16 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 04:45:16 GMT</updated>
 </item>
 <item>
 <title>说唱歌手Eminem将登陆《堡垒之夜》，官方同步推出三款主题皮肤</title>
 <link>https://www.gcores.com/articles/174156</link>
 <guid>https://www.gcores.com/articles/174156</guid>
 <content:encoded><![CDATA[
-
 <img src="https://image.gcores.com/01dbe665b5648bcb4b88f7bb7404c42b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Epic Game 今日正式确认了美国说唱歌手 Eminem 与《堡垒之夜》联动的消息。Eminem 将于12月2日的《堡垒之夜》第四章的结局时出现在游戏中，而玩家则可以在游戏商城内购买三款 Eminem 的皮肤来装扮自己的角色。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/19440db33c0df76358636f7682301796-1920-1080.jpg" />
@@ -1883,9 +789,7 @@
 </figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 03:36:37 GMT</pubDate>
-<updated>Thu, 23 Nov 2023 03:36:37 GMT</updated>
 </item>
-
 <item>
 <title>日本一新作《Bar Stella Abyss》正式公布，2024年2月29日发售</title>
 <link>https://www.gcores.com/articles/174047</link>

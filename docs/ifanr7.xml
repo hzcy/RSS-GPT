@@ -4,12 +4,13 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+
 <item>
 <title>特斯拉一个月涨价 4 次，它可能憋了一个「大招」</title>
 <link>https://www.ifanr.com/1568905?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568905?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> 特斯拉, 价格调整, 成本上涨, 直营模式, 电动汽车市场<br><br>总结:<br>这篇文章主要分析了特斯拉近期在中国市场多次调整其电动汽车的价格策略。文章指出，特斯拉的这一系列小幅度价格调整主要是由于生产成本上升和产线压力增大所致。同时，文章也提到，特斯拉之所以能够频繁调整价格，与其采用的直营模式有关，这与传统汽车制造商的经销商模式有显著不同。此外，特斯拉的这种策略也是为了应对市场竞争，提升毛利率，同时通过策略性的价格调整来激励消费者购买，预备年末的促销活动。总体而言，特斯拉的定价策略和销售模式在当前的电动汽车市场中显示出其独特性和灵活性。 <div>
+<div> 特斯拉, 价格调整, 成本上涨, 直营模式, 电动汽车市场<br /><br />总结:<br />这篇文章主要分析了特斯拉近期在中国市场多次调整其电动汽车的价格策略。文章指出，特斯拉的这一系列小幅度价格调整主要是由于生产成本上升和产线压力增大所致。同时，文章也提到，特斯拉之所以能够频繁调整价格，与其采用的直营模式有关，这与传统汽车制造商的经销商模式有显著不同。此外，特斯拉的这种策略也是为了应对市场竞争，提升毛利率，同时通过策略性的价格调整来激励消费者购买，预备年末的促销活动。总体而言，特斯拉的定价策略和销售模式在当前的电动汽车市场中显示出其独特性和灵活性。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1568991" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/11/tm.jpg" width="1200" /></p>
 <p class="p1"><span class="s1">近 1 个月的时间里，特斯拉涨了 4 次价。</span></p>
 <ul>
@@ -111,248 +112,34 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 08:03:20 +0000</pubDate>
-<updated>Fri, 24 Nov 2023 08:03:20 +0000</updated>
 </item>
 <item>
 <title>早报｜长安 3000 亿元入股华为车 BU？双方回应/OpenAI 技术突破曝光，或威胁人类/茶百道霸王茶姬等合资成立新公司</title>
 <link>https://www.ifanr.com/1568921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/xi_yang_hai_bian_cover.jpg" /></div>
 <div style="padding: 0 14px;">
@@ -594,248 +381,34 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 24 Nov 2023 00:28:48 +0000</pubDate>
-<updated>Fri, 24 Nov 2023 00:28:48 +0000</updated>
 </item>
 <item>
 <title>困扰 Android 多年的问题，终于要被苹果终结了</title>
 <link>https://www.ifanr.com/1568823?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568823?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <p><img alt="" class="alignnone size-full wp-image-1568901" height="608" src="https://s3.ifanr.com/wp-content/uploads/2023/11/flow.jpg" width="1080" /></p>
 <p>去年的某次采访活动上，一位提问者把他的烦恼告诉库克：「我妈妈看不到我用 iMessage 发的视频。」</p>
@@ -995,248 +568,34 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 11:09:43 +0000</pubDate>
-<updated>Thu, 23 Nov 2023 11:09:43 +0000</updated>
 </item>
 <item>
 <title>Reno11 评测：主流是怎么变成潮流的</title>
 <link>https://www.ifanr.com/1568822?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568822?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <p><img alt="" class="aligncenter size-full wp-image-1568834" height="2048" src="https://s3.ifanr.com/wp-content/uploads/2023/11/OPPO-Reno112071.png" width="3072" /></p>
 <p>在 QuestMobile 的 2023 中国移动互联网秋季报告里，OPPO Reno10 系列是 9 月激活数最多的设备之一，仅一个月就有超过 300 万台手机被激活，是国产手机 2000-3000 元的主流价格档位最热卖的产品。</p>
@@ -1326,248 +685,34 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 10:03:51 +0000</pubDate>
-<updated>Thu, 23 Nov 2023 10:03:51 +0000</updated>
 </item>
 <item>
 <title>中国特供的宝马 5 系，活成了 7 系的样子</title>
 <link>https://www.ifanr.com/1568755?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568755?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <p><img alt="" class="alignnone size-full wp-image-1568780" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/11/tmmbmw.jpg" width="1200" /></p>
 <p class="p1"><span class="s1">一条四车道宽的路，将广州车展分成了新、旧两个世界。</span></p>
@@ -1687,14 +832,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 00:58:20 +0000</pubDate>
-<updated>Thu, 23 Nov 2023 00:58:20 +0000</updated>
 </item>
 <item>
 <title>早报｜Altman 重回 OpenAI 后将接受内部调查/阿里内网披露马云一股未卖/荣耀换帅，将通过 IPO 登陆资本市场</title>
 <link>https://www.ifanr.com/1568802?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568802?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/lan_tian_yu_hu_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -1907,14 +1050,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 23 Nov 2023 00:54:31 +0000</pubDate>
-<updated>Thu, 23 Nov 2023 00:54:31 +0000</updated>
 </item>
 <item>
 <title>马斯克曝光 OpenAI 前员工匿名信，列举 Altman 多项罪状，宫斗大戏再反转？</title>
 <link>https://www.ifanr.com/1568732?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568732?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-large wp-image-1568736" height="536" src="https://s3.ifanr.com/wp-content/uploads/2023/11/Sam-Altman-responds-to-Elon-Musks-criticism-1024x536.jpeg" width="1024" /></p>
 <p>OpenAI 的宫斗大戏还在继续。</p>
 <p>今天马斯克在 X 上转发了一封据称是 Open AI 前员工的匿名信，信中指控 Sam 和 Greg Brockman 在公司向盈利模式转变期间存在严重的欺骗和操纵行为，并呼吁董事会全面调查，保护揭露者身份，反对不道德做法。</p>
@@ -1987,14 +1128,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 22 Nov 2023 04:02:14 +0000</pubDate>
-<updated>Wed, 22 Nov 2023 04:02:14 +0000</updated>
 </item>
 <item>
 <title>OpenAI 宫斗的「幕后黑手」，是 ChatGPT</title>
 <link>https://www.ifanr.com/1568726?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568726?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="aligncenter size-full wp-image-1568727" height="500" src="https://s3.ifanr.com/wp-content/uploads/2023/11/sss.png" width="1175" /></p>
 <p>当我（一次又一次天真地）以为 OpenAI 这场风波要尘埃落定时，它总能以《继承之战》编剧都没法写出来的方式反转。</p>
 <p>在超过九成 OpenAI 员工彻底撕破脸，联名要求董事会解散，并迎回 Sam Altman 后 ，董事会还没放弃抵抗。他们甚至找到了竞争对手 Anthropic，试图让两家公司合并。</p>
@@ -2068,14 +1207,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 22 Nov 2023 02:52:54 +0000</pubDate>
-<updated>Wed, 22 Nov 2023 02:52:54 +0000</updated>
 </item>
 <item>
 <title>早报｜刚刚，ChatGPT 又崩了 / 斗鱼 CEO 陈少杰被逮捕 / 特斯拉回应一个月涨价 4 次</title>
 <link>https://www.ifanr.com/1568721?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568721?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/han_leng_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -2310,14 +1447,12 @@ DC 超级英雄新片《海王 2》发布「为家而战」版新预告 (中字)
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 22 Nov 2023 01:36:09 +0000</pubDate>
-<updated>Wed, 22 Nov 2023 01:36:09 +0000</updated>
 </item>
 <item>
 <title>影石 Insta360 Ace Pro 发布：自带翻转屏的运动相机，超友好的入门选择</title>
 <link>https://www.ifanr.com/1568596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="size-full wp-image-1568638 aligncenter" height="1687" src="https://s3.ifanr.com/wp-content/uploads/2023/11/397M39143.jpg" width="3000" /></p>
 <p>11 月 21 日，影石 Insta360 带来了一个全新的运动相机系列——Insta360 Ace，系列里面有 Insta360 Ace 和 Insta360 Ace Pro 两款相机，定价分别是 2398 和 2998 元。</p>
 <h3>有翻转屏的传统运动相机</h3>
@@ -2489,14 +1624,12 @@ DC 超级英雄新片《海王 2》发布「为家而战」版新预告 (中字)
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 21 Nov 2023 13:32:46 +0000</pubDate>
-<updated>Tue, 21 Nov 2023 13:32:46 +0000</updated>
 </item>
 <item>
 <title>原来，MacBook Pro 的「小黑本」是这样「炼」成的</title>
 <link>https://www.ifanr.com/1568658?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568658?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <h3><img alt="" class="alignnone size-full wp-image-1568690" height="800" src="https://s3.ifanr.com/wp-content/uploads/2023/11/59.jpg" width="1200" /></h3>
 <p>最近 MacBook Pro 产品线迎来新成员，除了例行搭载的 M3 系列芯片，最引人注目的要数全新的深空黑配色。</p>
 <p>在以往的 MacBook Pro 系列中，苹果一直钟爱于深空灰和银色这样的浅色系设计风格，而深空黑配色却打破常规，黑得更为深邃，给人一种强烈而沉稳的金属质感。</p>
@@ -2576,14 +1709,12 @@ DC 超级英雄新片《海王 2》发布「为家而战」版新预告 (中字)
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 21 Nov 2023 12:07:40 +0000</pubDate>
-<updated>Tue, 21 Nov 2023 12:07:40 +0000</updated>
 </item>
 <item>
 <title>官宣！蔚来正式开放换电网络，李斌公布首个合作伙伴</title>
 <link>https://www.ifanr.com/1568642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568642?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="" class="alignnone size-full wp-image-1568646" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/11/tmm34.jpg" width="1200" /></p>
 <p class="p1"><span class="s1">雾都传来了好消息。</span></p>
 <p class="p1"><span class="s1">11 月 21 日，<strong>蔚来和长安汽车在重庆签署换电业务合作协议，双方将围绕换电展开合作，共同推进汽车行业高质量发展和低碳转型</strong>。具体的合作内容包括：</span></p>
@@ -2667,14 +1798,12 @@ DC 超级英雄新片《海王 2》发布「为家而战」版新预告 (中字)
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 21 Nov 2023 08:06:01 +0000</pubDate>
-<updated>Tue, 21 Nov 2023 08:06:01 +0000</updated>
 </item>
 <item>
 <title>早报｜OpenAI 超 700 名员工联名逼宫董事会，不解散就跳槽微软/iPhone 16 Pro 电池曝光/小米汽车将进行第二次冬测</title>
 <link>https://www.ifanr.com/1568589?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1568589?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/fei_yue_tai_yang_zhi_dian_cover.jpg" /></div>
 <div style="padding: 0 14px;">
 <div>
@@ -2890,9 +2019,7 @@ DC 超级英雄新片《海王 2》发布「为家而战」版新预告 (中字)
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 21 Nov 2023 00:49:11 +0000</pubDate>
-<updated>Tue, 21 Nov 2023 00:49:11 +0000</updated>
 </item>
-
 <item>
 <title>突发！李斌内部讲话曝光：蔚来将开放换电网络，首个合作伙伴明日公布</title>
 <link>https://www.ifanr.com/1568584?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
