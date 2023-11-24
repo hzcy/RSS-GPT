@@ -26596,3 +26596,9 @@ Summarized using GPT-3.5-turbo
 Append: [万代前员工非法转卖应废弃产品，8年获益8700万日元](https://www.gcores.com/articles/174231)
 append_entries: 2
 Finish: 2023-11-24 11:20:42.232552
+------------------------------------------------------
+Started: 2023-11-24 11:34:09.359970
+Existing_entries: 595
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-24 11:34:09.532067
