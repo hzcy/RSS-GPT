@@ -27679,3 +27679,12 @@ Existing_entries: 596
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-26 12:46:31.870448
+------------------------------------------------------
+Started: 2023-11-26 13:10:14.927756
+Existing_entries: 596
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 724
+Summarized using GPT-3.5-turbo
+Append: [下周节目预告 11.27~12.03](https://www.gcores.com/articles/174283)
+append_entries: 1
+Finish: 2023-11-26 13:10:33.542556
