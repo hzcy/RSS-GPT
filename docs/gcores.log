@@ -27520,3 +27520,12 @@ Existing_entries: 595
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-26 05:48:15.375156
+------------------------------------------------------
+Started: 2023-11-26 06:11:50.098588
+Existing_entries: 595
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 411
+Summarized using GPT-3.5-turbo
+Append: [《CD2：陷阱大师》核聚变游戏节-成都站day1](https://www.gcores.com/articles/174267)
+append_entries: 1
+Finish: 2023-11-26 06:12:06.781562
