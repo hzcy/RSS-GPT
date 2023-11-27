@@ -28168,3 +28168,15 @@ Existing_entries: 603
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-27 10:11:16.685623
+------------------------------------------------------
+Started: 2023-11-27 10:30:02.389209
+Existing_entries: 603
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 731
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】四人合作冒险《舍伍德侠盗团》预购豪华版现可开始游玩](https://www.gcores.com/articles/174326)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [字节跳动游戏业务朝夕光年面临大规模缩调](https://www.gcores.com/articles/174324)
+append_entries: 2
+Finish: 2023-11-27 10:30:27.451720
