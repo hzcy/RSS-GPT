@@ -28021,3 +28021,9 @@ Summarized using GPT-3.5-turbo
 Append: [任天堂香港将于12月8日举行“冬季特典”活动](https://www.gcores.com/articles/174303)
 append_entries: 3
 Finish: 2023-11-27 04:29:01.495092
+------------------------------------------------------
+Started: 2023-11-27 04:37:48.305685
+Existing_entries: 600
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-27 04:37:48.526619
