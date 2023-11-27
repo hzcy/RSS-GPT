@@ -4,6 +4,146 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>硅谷疯狂的一周，OpenAI 宫斗最大的赢家不是 Altman</title>
+<link>https://www.ifanr.com/1569154?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1569154?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 微软, OpenAI, 纳德拉, 合作, AI技术<br><br>总结:<br>文章主要讨论了微软与OpenAI之间的合作关系。自2019年起，微软对OpenAI投资超过130亿美元，成为其重要的云计算提供商和股东。两家公司的合作基于互补，OpenAI提供先进的AI技术，而微软提供必要的算力和资源。微软CEO纳德拉在公司内部也开发了代号为「图灵」的模型，但更看重与OpenAI的合作。尽管存在潜在的管理和策略分歧，此次合作被看作是科技领域的重要里程碑，体现了双方“相互依赖”的关系。此外，微软还在AI领域展开了多方面的探索和投资，表现出对AI技术和市场的深度布局和远见。
+ <div>
+<p><img alt="" class="alignnone size-full wp-image-1569167" height="788" src="https://s3.ifanr.com/wp-content/uploads/2023/11/wsj11.jpg" width="1400" /></p>
+<p>OpenAI 宫斗第一季落幕，微软有惊无险地得到了最理想的结果。</p>
+<p>微软 CEO 纳德拉一开始只是观众，提前几分钟知道了 Altman 被开除的消息，但随后他登上了舞台，扮演了推动情节的重要配角：欢迎 Altman 加入微软。</p>
+<p>这一消息保住了微软的股价，也增加了 Altman 重新上任 CEO 的筹码。Altman 的回归声明中，特别感谢了纳德拉。</p>
+<p>硅谷疯狂的五天里，纳德拉的反应游刃有余。蓦然回首，明星公司 OpenAI 的背后，站着微软这个低调的赢家。</p>
+<h3>互补的「天作之合」</h3>
+<p>OpenAI 和微软的合作，往往被视为一段科技史的佳话。</p>
+<p>OpenAI 的首届开发者大会，纳德拉作为重磅嘉宾出场，Altman 热情地介绍了他，纳德拉也表达了他对 OpenAI 的欣赏。</p>
+<p><img alt="" class="size-full wp-image-1569155 aligncenter" height="974" src="https://s3.ifanr.com/wp-content/uploads/2023/11/wsj1-1.jpg" width="1400" /></p>
+<p>高山流水的表象之下，是各取所需的商业逻辑。</p>
+<p>从 2019 年起，微软向 OpenAI 投资了 30 亿美元，等到 ChatGPT 在 2022 年末横空出世，2023 年初又追加了 100 亿美元。</p>
+<p>OpenAI 得到微软的算力和钱训练模型，微软成为 OpenAI 唯一的云计算提供商，基于 OpenAI 的模型开发产品和服务，拥有 OpenAI 49% 的股份，避开了反垄断法的雷区。</p>
+<p>很多媒体都问过纳德拉，微软和 OpenAI 的合作关系如何定义，纳德拉的答案从来没有偏离中心思想：「相互依赖」。</p>
+<p>OpenAI 离不开微软的资源，微软也离不开 OpenAI 的技术。AI 为 GitHub、Bing 和办公全家桶等产品提供动力，或者赋予它们新生。</p>
+<p>自 20 世纪 90 年代的鼎盛时期以来，在反垄断大战和错过智能手机革命之后，微软再次被认为是历史性技术变革的领头羊。</p>
+<p><img alt="" class="size-full wp-image-1569156 aligncenter" height="405" src="https://s3.ifanr.com/wp-content/uploads/2023/11/bloom.jpg" width="720" /></p>
+<p>至于为什么微软不开发自己的大语言模型，纳德拉在采访中提到，内部也在开发代号「图灵」的模型，但他们不想训练多个不同的基础模型，而是让一个模型发挥平台效应，OpenAI 和他们的目标相同。</p>
+<blockquote><p>OpenAI 依靠我们建立最好的系统，我们则依靠 OpenAI 建立最好的模型，然后一起进入市场。</p></blockquote>
+<p>正如纳德拉所想，微软云平台和 OpenAI 模型之间紧密集成，是绑在一条绳上的蚂蚱，也成了微软产品和服务的卖点。</p>
+<p>一方面，微软已经有了商业化的 AI 产品，比如人气较高的编程辅助工具 GitHub Copilot、每月 30 美元但仍初出茅庐的 Microsoft 365。</p>
+<p>另一方面，除了生产力产品，微软还为其他 AI 公司提供基于 Azure 的 GPT 访问权限。</p>
+<p>所以，无数看似和微软八竿子打不着的产品，其实也在为微软带来源源不断的收入，运行着隐形而极有杀伤力的游戏规则。</p>
+<p><img alt="" class="size-full wp-image-1569157 aligncenter" height="406" src="https://s3.ifanr.com/wp-content/uploads/2023/11/azure.jpg" width="1080" /></p>
+<div class="editor-image-source">
+<p>▲ Azure 的 OpenAI 服务.</p>
+</div>
+<p>有些客户甚至更愿意通过微软使用 OpenAI 的模型，而不是直接使用，因为他们更相信微软。选择了科技巨头，功能有了保证，隐私、合规、安全方面也不必担心。</p>
+<p>当然，这段关系并非没有裂缝，那是意外上演的地方。</p>
+<p>微软没有董事会席位，在这次宫斗里吃了哑巴亏，作为最大的「金主」，开除 Altman 的消息竟然只比全世界提前几分钟知道，对 OpenAI 的运营方式也没有发言权。</p>
+<p>至少，Altman 重新上任 CEO 后，合作回到了原点，微软也有了拿到董事会席位的可能。</p>
+<p>相反，如果 Altman「拖家带口」来到微软，在内部重建 OpenAI，资金、落后的速度、不同的企业文化都是挑战，还可能引起监管机构的警觉。</p>
+<p>微软能不能拿到董事会席位依然悬而未决，但这家未雨绸缪的巨头，已经开始减少对 OpenAI 的依赖，OpenAI 不再是他们唯一的选择。</p>
+<p><img alt="" class="size-full wp-image-1569158 aligncenter" height="476" src="https://s3.ifanr.com/wp-content/uploads/2023/11/mic.jpg" width="850" /></p>
+<div class="editor-image-source">
+<p>▲ Ignite 大会.</p>
+</div>
+<p>11 月 16 日，纳德拉在微软 Ignite 大会进行主题演讲，官宣了很多 AI 开发者工具。</p>
+<p>其中一个是 Azure AI Studio，开发者可以在微软、Meta、OpenAI 和 Hugging Face 等公司的模型之间进行选择，实践「模型即服务」的理念。</p>
+<p>虽然大语言模型竞赛落后于 OpenAI 和 Google，微软也在继续开发自己的模型。</p>
+<p>11 月 20 日，微软发布了小型语言模型 Orca 2，在复杂推理任务测试中，甚至与 Meta 的 Llama-2 等大语言模型更好。</p>
+<p>另外，微软仍在修炼内功，做好挖掘金矿的铲子，包括通过空心光纤技术，提高云计算的速度，以及打造自己的定制芯片，与合作伙伴英伟达竞争。</p>
+<p>OpenAI 固然强大，却也无法掌控，微软心如明镜，不妨「合作的归合作，竞争的归竞争」。</p>
+<h3>机会留给有准备的人</h3>
+<p>OpenAI 与微软的合作，2019 年的投资只是对外的官宣，实则草蛇灰线伏延千里。</p>
+<p>纳德拉出生于印度海得拉巴，21 岁到美国学习计算机科学，1992 年加入微软，飞遍全国推广 Windows NT 操作系统，2009 年运营搜索引擎 Bing，2011 年领导云计算平台 Azure。</p>
+<p>2014 年，纳德拉成为比尔·盖茨、史蒂夫·鲍尔默之后的第三位微软 CEO，他深刻认识到云计算和 AI 的价值，他的决策也被成绩证明。</p>
+<p>自纳德拉掌舵以来，微软股价已上涨近十倍，同期标准普尔 500 指数的价值仅翻了一番。Azure 现在是整个公司的增长引擎，直接影响着微软的股票涨跌。</p>
+<p><img alt="" class="size-full wp-image-1569159 aligncenter" height="849" src="https://s3.ifanr.com/wp-content/uploads/2023/11/na1.jpg" width="639" /></p>
+<div class="editor-image-source">
+<p>▲ 2004 年的纳德拉.</p>
+</div>
+<p>工程师出身、但攻读了商学硕士的纳德拉，还推动了几次大规模的收购，包括 GitHub、领英、动视暴雪，并且比起前任「情商更高」，重视维护和亚马逊、Google 等其他巨头亦敌亦友的关系。</p>
+<p>纳德拉对云计算的布局十分成功，生成式 AI 是他下的第二个赌注，并且也和云计算紧密相关。</p>
+<p>纳德拉在微软今年的年度 Build 开发者大会提到，看似是拐点的事物，其实已经酝酿了很长时间，「过去五个月发生的事情，是过去十年的工作」。</p>
+<p><img alt="" class="size-full wp-image-1569160 aligncenter" height="801" src="https://s3.ifanr.com/wp-content/uploads/2023/11/build.jpg" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲ Build 2023 大会.</p>
+</div>
+<p>1991 年，微软成立了微软研究院，正式进军 AI，但早期的研究总被批评不够落地，无法将实验室的研究照进现实。</p>
+<p>纳德拉很早就意识到，对话智能是终极的人机界面，并在 2016 年 Build 大会的演讲中提出：「机器人是新的应用程序（bots are the new apps）。」</p>
+<p>与此同时，他希望将 AI 研究转化为有用的产品功能，「我们这个行业的美妙之处在于，不在于谁有能力，而在于谁可以真正运用能力并将其转化为有形的产品」。</p>
+<p>大语言模型的概念，让纳德拉设想的对话智能长出筋骨。</p>
+<p>2018 年，纳德拉与 Altman 相识于爱达荷州太阳谷的 Allen &amp; Co. 大会，这是他们合作关系的开端，也让纳德拉了解了 OpenAI 在做些什么。</p>
+<p><img alt="" class="size-full wp-image-1569161 aligncenter" height="932" src="https://s3.ifanr.com/wp-content/uploads/2023/11/wsj2.jpg" width="1400" /></p>
+<p>正如《华尔街日报》评价纳德拉，他是一位认识到自身局限、并愿意将权力委托给他人的领导者。</p>
+<p>这时候的纳德拉深感兴奋，但没有匆忙提出合作，他让首席技术官 Kevin Scott 访问 OpenAI，确认 GPT 能否增强微软的产品。这位首席技术官，如今也是微软 AI 策略的幕后推手。</p>
+<p>当一切准备就绪，2019 年 7 月，微软对 OpenAI 承诺了第一笔投资：10 亿美元。</p>
+<p>2020 年 6 月，OpenAI 推出了 GPT-3。对比现在的 ChatGPT，GPT-3 的问题更多，但它已经可以用各种编程语言输出代码。</p>
+<p>纳德拉「灵光一现」的时刻到来了。</p>
+<p>从 GPT 2.5 升级到 GPT- 3 时，他亲眼看到了 AI 擅长编码，预判了其中的规模效应，镜中花水中月变得真实起来，纳德拉从此成为了 AIGC 的信徒，「哇，这真的开始了」。</p>
+<p><img alt="" class="size-full wp-image-1569162 aligncenter" height="510" src="https://s3.ifanr.com/wp-content/uploads/2023/11/cod1.jpg" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲ GitHub Copilot.</p>
+</div>
+<p>机会赐给有准备的人。微软有庞大的开发者客户，也有领先的开发者平台 GitHub，存储着海量的公开源代码行。在 GPT-3 的基础上，OpenAI 和 GitHub 合作，在 2021 年 6 月推出了 AI 代码助手「Copilot」。</p>
+<p>虽然它会出错，也只能代替完成部分基础工作，但它既理解编程，也理解人类语言，给不少开发者留下了深刻印象，如同我们初次见到 ChatGPT。</p>
+<h3>人类的副驾驶</h3>
+<p>打入 OpenAI 内部的纳德拉，总比我们更早意识到世界的变化。</p>
+<p>纳德拉第一次看到 GPT-4 是在 2022 年夏天，他尝试用它翻译波斯诗歌，惊喜地发现，GPT-4 做的不只是机器翻译，而是跨越了两种语言的界限，又保留了诗歌的微妙。</p>
+<p>生成式 AI 跨越的又何止是语言。纳德拉认为，它带来的是「巨大的平台式转变」。</p>
+<p>上一次这样的转变，发生在移动时代，服务和消费变得无处不在。</p>
+<p>这一次，创造也变得无处不在，更多自然语言的 AI 工具出现，任何人都能轻松生成新事物，包括代码，「当你输入提示词时，你就是在为大语言模型编程」。</p>
+<p><img alt="" class="size-full wp-image-1569163 aligncenter" height="1446" src="https://s3.ifanr.com/wp-content/uploads/2023/11/cop3.jpg" width="1440" /></p>
+<div class="editor-image-source">
+<p>▲ 改名的 Bing Chat.</p>
+</div>
+<p>「Copilot」直译为「副驾驶」，最早被用于命名 GitHub 的代码助手，副驾驶是纳德拉的比喻，指向「以人为中心」的本质。</p>
+<p>11 月中旬，微软进行了一次「品牌重塑」，Bing、Edge 和 Windows 11 的聊天界面，都统一用了「Copilot」的称呼。</p>
+<p>最近的 Ignite 大会上，纳德拉也提到：「我们的愿景非常简单：我们是 Copilot 公司。我们相信，在未来，每个人和你所做的一切都会有一名 Copilot。」</p>
+<p>然而，更多的创造，是否也意味着更多的破坏？纳德拉的答案为「是」，工作可能会被取代，人们可能必须经历转型，AI 可能会学习偏见，但更多人群也将受益，他举过几个例子。</p>
+<p><img alt="" class="size-full wp-image-1569164 aligncenter" height="405" src="https://s3.ifanr.com/wp-content/uploads/2023/11/quartz.jpg" width="720" /></p>
+<p>当文字处理器出现时，打字员的处境发生了巨大的变化，但同时，10 亿人可以在文字处理器输入内容并创建和共享文档。</p>
+<p>在美国西海岸发布的大语言模型，可以让印度的开发者编写程序，让当地农民更加方便地填写电子表格。</p>
+<p>然而，这依然是「破坏式创新」的说辞，视角不同，可能看到的风景就不同，谁也不能保证自己不是打字员。</p>
+<p>OpenAI 政变，微软有惊无险地上了岸，但我们也看到，在这场具有历史意义的 AI 之战里，很少有人有发言权，哪怕是最开始的微软。</p>
+<p>这倒如纳德拉所说，「AI 已经无处不在，这是一个黑匣子，你和我只是目标」。但作为一位 CEO，他认为更重要的问题是，谁做了些有用的事情，谁真正帮助世界前进。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/zhangchengchen" style="color: #000; text-decoration: none;" target="_blank">张成晨</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">利若秋霜，辟除凶殃。
+工作邮箱：zhangchengchen@ifanr.com</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:zhangchengchen@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="https://www.ifanr.com/4" style="margin-right: 14px; text-decoration: none;" target="_blank">8</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1569154">原文链接</a> ·
+<a href="https://www.ifanr.com/1569154#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 27 Nov 2023 13:41:07 +0000</pubDate>
+<updated>Mon, 27 Nov 2023 13:41:07 +0000</updated>
+</item>
 
 <item>
 <title>如果未来 20 年「机器人女友」成为现实，人类能收获 AI 爱情吗？</title>
