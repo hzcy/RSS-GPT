@@ -28180,3 +28180,9 @@ Summarized using GPT-3.5-turbo
 Append: [字节跳动游戏业务朝夕光年面临大规模缩调](https://www.gcores.com/articles/174324)
 append_entries: 2
 Finish: 2023-11-27 10:30:27.451720
+------------------------------------------------------
+Started: 2023-11-27 10:39:33.201218
+Existing_entries: 605
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-27 10:39:33.695662
