@@ -28228,3 +28228,15 @@ Existing_entries: 605
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-27 12:50:41.190362
+------------------------------------------------------
+Started: 2023-11-27 13:13:14.792591
+Existing_entries: 605
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1907
+Summarized using GPT-3.5-turbo
+Append: [下一站，夏威夷：世嘉公布《人中之龙8》主要区域及探索信息介绍](https://www.gcores.com/articles/174328)
+Token length: 2865
+Summarized using GPT-3.5-turbo
+Append: [2023年10月第三周手办模型情报总汇](https://www.gcores.com/articles/174063)
+append_entries: 2
+Finish: 2023-11-27 13:13:47.151432
