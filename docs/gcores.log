@@ -28528,3 +28528,9 @@ Summarized using GPT-3.5-turbo
 Append: [《命运2》“终焉之形”延期4个月，改为2024年6月5日推出](https://www.gcores.com/articles/174341)
 append_entries: 5
 Finish: 2023-11-28 02:20:22.398894
+------------------------------------------------------
+Started: 2023-11-28 02:41:16.694105
+Existing_entries: 613
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-28 02:41:16.895563
