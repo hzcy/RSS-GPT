@@ -28816,3 +28816,12 @@ Existing_entries: 617
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-28 14:27:26.481716
+------------------------------------------------------
+Started: 2023-11-28 14:36:27.926421
+Existing_entries: 617
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 3090
+Summarized using GPT-3.5-turbo
+Append: [复古风格迷你主机，AYANEO Retro Mini PC AM01今日正式发布](https://www.gcores.com/articles/174371)
+append_entries: 1
+Finish: 2023-11-28 14:37:35.847808
