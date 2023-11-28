@@ -28630,3 +28630,9 @@ Summarized using GPT-3.5-turbo
 Append: [发售日即将公布，“《龙之信条2》ShowCase 2023”明日播出](https://www.gcores.com/articles/174355)
 append_entries: 2
 Finish: 2023-11-28 06:30:09.373140
+------------------------------------------------------
+Started: 2023-11-28 06:39:32.815675
+Existing_entries: 615
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-28 06:39:33.019439

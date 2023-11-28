@@ -4,12 +4,13 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+
 <item>
 <title>Geoff Keighley回应《潜水员戴夫》入选年度独立游戏提名，强调由评审团决定</title>
 <link>https://www.gcores.com/articles/174353</link>
 <guid>https://www.gcores.com/articles/174353</guid>
 <content:encoded><![CDATA[
-<div> 独立游戏、Geoff Keighley、TGA、《潜水员戴夫》、评审团<br><br>总结:<br>近日，TGA主持人Geoff Keighley就《潜水员戴夫》入围年度独立游戏奖项提名引起的争议做出回应。他指出独立游戏的定义模糊，不像电影行业有明确的预算限制。《潜水员戴夫》由Nexon旗下Mintrocket工作室开发，其提名资格受到争议。TGA的提名由120个媒体组成的评审团决定，除《潜水员戴夫》外，还有《Cocoon》、《渔帆暗涌》、《星之海》和《Viewfinder》入围。 <div>
+<div> 独立游戏、Geoff Keighley、TGA、《潜水员戴夫》、评审团<br /><br />总结:<br />近日，TGA主持人Geoff Keighley就《潜水员戴夫》入围年度独立游戏奖项提名引起的争议做出回应。他指出独立游戏的定义模糊，不像电影行业有明确的预算限制。《潜水员戴夫》由Nexon旗下Mintrocket工作室开发，其提名资格受到争议。TGA的提名由120个媒体组成的评审团决定，除《潜水员戴夫》外，还有《Cocoon》、《渔帆暗涌》、《星之海》和《Viewfinder》入围。 <div>
 <img src="https://image.gcores.com/bbe666d67b3ea58cec0188fe20e27f11-532-270.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>近日， 知名业界人士、TGA 主持人 Geoff Keighley  就《潜水员戴夫》入选游戏大奖年度独立游戏提名引发的讨论进行了回应。由于《潜水员戴夫》是  Nexon （代表作：《跑跑卡丁车》）旗下小规模工作室  Mintrocket 的作品，一些玩家质疑不应允许其参加提名。</span></span></div></div>
 <figure>
 <img alt="" src="https://image.gcores.com/c69f25745cd2227895a273e4ba5fa502-1315-740.jpg" />
@@ -21,248 +22,34 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>此前，机核网在内的全球媒体各自为 TGA 各项大奖提交了五个奖项的名单。换言之，《潜水员戴夫》以及其他四款游戏（《Cocoon》《渔帆暗涌》《星之海》以及《Viewfinder》）被广泛认为是今年最佳的独立游戏。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Tue, 28 Nov 2023 05:15:50 GMT</pubDate>
-<updated>Tue, 28 Nov 2023 05:15:50 GMT</updated>
 </item>
 <item>
 <title>发售日即将公布，“《龙之信条2》ShowCase 2023”明日播出</title>
 <link>https://www.gcores.com/articles/174355</link>
 <guid>https://www.gcores.com/articles/174355</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/bf80e1ebac1655e56fb6ebf015021e51-1364-767.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《龙之信条》官推发文，称“龙之信条2 ShowCase 2023”将于11月29日早5时（北京时间）播出，时长约15分钟，届时会带来包括最新宣传片在内的多个新情报。</span></span></div></div>
 <figure>
@@ -275,9 +62,7 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>系列总监伊津野英昭表示，将于明天的节目中公布《龙之信条2》的发售日。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Tue, 28 Nov 2023 05:14:49 GMT</pubDate>
-<updated>Tue, 28 Nov 2023 05:14:49 GMT</updated>
 </item>
-
 <item>
 <title>ScienceSARU负责动画制作，漫画《超自然武装当哒当》宣布TV动画化</title>
 <link>https://www.gcores.com/articles/174346</link>
