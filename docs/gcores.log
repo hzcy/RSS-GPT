@@ -28982,3 +28982,9 @@ Fetching from https://rsshub.app/gcores/category/news
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/gcores
+------------------------------------------------------
+Started: 2023-11-28 21:33:59.231922
+Existing_entries: 618
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-28 21:33:59.474740
