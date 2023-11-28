@@ -28681,3 +28681,9 @@ Summarized using GPT-3.5-turbo
 Append: [《名侦探柯南：黑铁的鱼影》宣布定档 12 月 16 日](https://www.gcores.com/articles/174361)
 append_entries: 1
 Finish: 2023-11-28 08:29:32.247116
+------------------------------------------------------
+Started: 2023-11-28 08:38:02.067078
+Existing_entries: 616
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-28 08:38:02.240481
