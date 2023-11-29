@@ -29048,3 +29048,12 @@ Existing_entries: 618
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-29 00:43:48.791326
+------------------------------------------------------
+Started: 2023-11-29 01:44:22.033157
+Existing_entries: 618
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 358
+Summarized using GPT-3.5-turbo
+Append: [明年3月22日发售，《龙之信条2》Showcase 2023直播汇总](https://www.gcores.com/articles/174381)
+append_entries: 1
+Finish: 2023-11-29 01:44:23.444837
