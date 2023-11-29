@@ -29427,3 +29427,12 @@ Existing_entries: 632
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-29 16:32:42.292380
+------------------------------------------------------
+Started: 2023-11-29 16:48:24.198620
+Existing_entries: 632
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 504
+Summarized using GPT-3.5-turbo
+Append: [CDPR公布《夜城档案》第一集，介绍夜城简史](https://www.gcores.com/articles/174435)
+append_entries: 1
+Finish: 2023-11-29 16:49:36.790108
