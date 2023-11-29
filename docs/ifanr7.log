@@ -26252,3 +26252,12 @@ Existing_entries: 177
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-11-29 12:49:49.396491
+------------------------------------------------------
+Started: 2023-11-29 13:12:47.893777
+Existing_entries: 177
+Fetching from https://www.ifanr.com/feed
+Token length: 5612
+Summarized using GPT-3.5-turbo
+Append: [Redmi K70 系列体验：3499 元起售，性能依旧强劲，外观、拍照和充电都有大升级](https://www.ifanr.com/1569297?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-11-29 13:13:24.294441
