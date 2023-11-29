@@ -29075,3 +29075,21 @@ Existing_entries: 619
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-29 02:48:21.380079
+------------------------------------------------------
+Started: 2023-11-29 03:10:19.319074
+Existing_entries: 619
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [“往日之影”销量突破430万：CD PROJEKT公布2023年第三季度财报](https://www.gcores.com/articles/174387)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [亚马逊《辐射》影视剧公布首批剧照，展现钢铁兄弟会及避难所居民风采](https://www.gcores.com/articles/174384)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [《名侦探柯南》第27部剧场版“百万美元的五稜星”信息公开](https://www.gcores.com/articles/174385)
+Token length: 415
+Summarized using GPT-3.5-turbo
+Append: [推荐2070：科幻即时战略游戏《家园3》公布配置要求](https://www.gcores.com/articles/174383)
+append_entries: 4
+Finish: 2023-11-29 03:10:43.371616
