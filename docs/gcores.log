@@ -29262,3 +29262,12 @@ Existing_entries: 627
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-29 09:34:11.586270
+------------------------------------------------------
+Started: 2023-11-29 09:48:33.320647
+Existing_entries: 627
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [《以撒的结合：忏悔》多人联机模式将于本周五开启首轮测试](https://www.gcores.com/articles/174407)
+append_entries: 1
+Finish: 2023-11-29 09:48:55.801369
