@@ -29123,3 +29123,10 @@ Existing_entries: 623
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-11-29 04:28:39.300643
+------------------------------------------------------
+Started: 2023-11-29 04:37:38.952542
+Existing_entries: 623
+Fetching from https://rsshub.app/gcores/category/news
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/gcores
