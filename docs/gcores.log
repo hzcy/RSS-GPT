@@ -29391,3 +29391,9 @@ Summarized using GPT-3.5-turbo
 Append: [《雷顿教授与蒸汽新世界》实机演示公开：“LEVEL5 VISION 2023 II”情报汇总](https://www.gcores.com/articles/174420)
 append_entries: 1
 Finish: 2023-11-29 14:49:32.222822
+------------------------------------------------------
+Started: 2023-11-29 15:10:22.091322
+Existing_entries: 632
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-29 15:10:22.263084
