@@ -29202,3 +29202,9 @@ Summarized using GPT-3.5-turbo
 Append: [《星际公民》新预告公布，单日筹款达350万美元](https://www.gcores.com/articles/174399)
 append_entries: 1
 Finish: 2023-11-29 07:09:50.440525
+------------------------------------------------------
+Started: 2023-11-29 07:21:28.079500
+Existing_entries: 627
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-29 07:21:28.281052
