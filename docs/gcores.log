@@ -29971,3 +29971,9 @@ Summarized using GPT-3.5-turbo
 Append: [还有新活:《赛博朋克2077》将于12月5日推出2.1免费版本更新](https://www.gcores.com/articles/174490)
 append_entries: 2
 Finish: 2023-11-30 15:09:49.095159
+------------------------------------------------------
+Started: 2023-11-30 15:23:48.007432
+Existing_entries: 654
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-30 15:23:48.179628
