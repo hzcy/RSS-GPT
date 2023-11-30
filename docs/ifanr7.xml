@@ -4,6 +4,142 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>英伟达黄仁勋的豪赌：行走在破产边缘，打造万亿 AI「军火商」</title>
+<link>https://www.ifanr.com/1569356?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1569356?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 英伟达、CUDA、人工智能、神经网络、黄仁勋
+
+<br><br>总结:<br>
+这篇文章讲述了英伟达如何从一家专注于游戏显卡的公司，通过创始人黄仁勋的领导和对创新技术的投入，逐渐转型成为人工智能领域的领军企业。文章重点介绍了英伟达的CUDA技术如何支持了神经网络的发展，尤其是在图像识别和深度学习方面的应用，带动了整个人工智能技术的进步。此外，文章还提到了黄仁勋对于公司未来发展方向的远见和决策，以及他在面对困境时的坚持和创新精神，这些都是英伟达成功的关键因素。 <div>
+<p><img alt="" class="aligncenter size-full wp-image-1569399" height="500" src="https://s3.ifanr.com/wp-content/uploads/2023/11/aaa.png" width="1175" /></p>
+<p>营收翻两倍至 181 亿美元，利润从去年同期的 6.8 亿美元直接飙升到 92 亿。</p>
+<p>在 AI 浪潮下，英伟达最近一季度以超于期待的「炸裂」表现，从台积电手上夺走桂冠，<a href="https://wallstreetcn.com/articles/3702818">成为「芯片之王」</a>。</p>
+<blockquote><p>人工智能领域正在进行一场战争，而英伟达是唯一的军火商。</p></blockquote>
+<p>一位华尔街分析师曾如此评论。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569369" height="930" src="https://s3.ifanr.com/wp-content/uploads/2023/11/231204_r43451web-story-1.jpg" width="960" /></p>
+<p>英伟达今天享受的「AI 红利」，来自于黄仁勋十多年前的「豪赌」。通过《纽约客》最近一篇深度报道，我们得以看到这场决定性的「豪赌」背后的更多细节。</p>
+<p>成功从来没发打包票，破产永远都在边缘。</p>
+<h3>点燃人工智能的「大爆炸」时刻</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1569370" height="1280" src="https://s3.ifanr.com/wp-content/uploads/2023/11/JensenHuang_GTC.jpg" width="1920" /></p>
+<blockquote><p>那是第一个 8K 分辨率的游戏机，占了整面墙，太美了。</p></blockquote>
+<p>2000 年，斯坦福学生 Ian Buck 用 32 个英伟达 GeForce 显卡连在一起，外加 8 个投影仪来玩《雷神之锤》，自己造了个高清游戏机。</p>
+<p>最开始，英伟达 GeForce 的成功来自于游戏《雷神之锤》的助力。在游戏的「死亡竞赛」模式中，GPU 的并行计算让玩家能有速度优势，因此 GeForce 每每出新品都会有玩家跟上。</p>
+<p>Buck 也好奇，除了让自己投手榴弹速度快点以外 GeForce 还能做什么。</p>
+<p>后来，Buck 成功黑进了显卡的原始编程工具「着色器（shader）」，利用其并行计算，将 GeForce 变成了一台低成本的超级计算机。</p>
+<p>没过多久，Buck 就成了英伟达的员工。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569360" height="811" src="https://s3.ifanr.com/wp-content/uploads/2023/11/nvidia-ian-buck-logo.jpg" width="1449" /></p>
+<div class="editor-image-source">
+<p>▲ Ian Buck 现在已经是英伟达的副总裁</p>
+</div>
+<p>黄仁勋想让 Buck 做一套软件，让每一个 GeForce 都能变成超级计算机。同时，也让硬件团队在芯片结构上进行对应改造。</p>
+<p>2006 年，Buck 为英伟达做的 CUDA 正式推出，可支持研究人员和编程人员通过编程语言来更个性化和高效地利用 GPU 的计算能力。</p>
+<p>然而，消费者对于黄仁勋想给大家普及的超级计算机没啥兴趣。在硅谷流行的科技播客「Acquired」如此评论道：</p>
+<blockquote><p>他们在这种新的芯片架构上花了巨款。</p>
+<p>他们花了几十亿美元，目标在于服务学术和科学计算的一个小众领域，那在当时还是一个不大的市场 —— 市场规模肯定比他们投入那几十亿小。</p></blockquote>
+<p>当时的英伟达也在广撒网，努力寻找目标客户。试了股票交易员、石油勘探公司、分子生物学家等等，但并没有考虑过人工智能领域。</p>
+<p>甚至连「AI 教父」主动「上门」都没有感觉。</p>
+<p>这也难怪。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569366" height="1333" src="https://s3.ifanr.com/wp-content/uploads/2023/11/LU6E2IS4BWHKR3G576X2C7JUYI-1.jpg" width="2000" /></p>
+<div class="editor-image-source">
+<p>▲「AI 教父」Geoffrey Hinton</p>
+</div>
+<p>今天，我们会称 Geoffrey Hinton 为「AI 教父」。</p>
+<p>然而，在 2009 年，Hinton 是在被资本嫌弃的 AI 领域里，研究在该领域里还要算上是小众的「神经网络」。</p>
+<p>Hinton 那年给英伟达写了一封这样的邮件：</p>
+<blockquote><p>我刚给上千个机器学习研究人员说，他们都该去买英伟达的显卡。你可以免费寄一个给我吗？</p></blockquote>
+<p>结果？当然是被拒绝了。</p>
+<p>在那之前，Hinton 曾尝试用英伟达 CUDA 平台去训练神经网络来识别人类语言，发现成果的质量比想象中好很多，于是决定在行业会议上展示。</p>
+<p>虽然英伟达不肯给 Hinton 送显卡，但 Hinton 依旧鼓励学生用它。</p>
+<p>其中最关键的，是他门下两位出色的程序员 Alex Krizhevsky 和 Ilya Sutskever。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569368" height="800" src="https://s3.ifanr.com/wp-content/uploads/2023/11/hinton1-FINAL.jpg" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲（从左至右）Ilya Sutskever、Alex Krizhevsky 和 Geoffrey Hinton</p>
+</div>
+<p>眼尖的读者应该有发现，后者就是 OpenAI 的首席科学家，那个主导了 ChatGPT 背后技术的人。</p>
+<p>2012 年，Sutskever 和 Krizhevsky 买了两个英伟达 GeForce 显卡，在一周时间里就给神经网络灌了数百万张图片数据，训练出了「AlexNet」。事后 Sutskever 回想：</p>
+<blockquote><p>GPU 出现了，感觉就像奇迹一般。</p></blockquote>
+<p>他的感叹不无理由。</p>
+<p>也是同一年，Google 曾购置了一万六千多个 CPU 来训练他们的神经网络，以做到可以识别出猫咪视频。</p>
+<p>而 AlexNet 却能够正确地识别电动车、猎豹、货运船等内容的图像，只用了两个 GPU。</p>
+<p>2012 年，在当年仍相当权威的大规模视觉识别挑战赛（ImageNet Large Scale Visual Recognition Challenge）中，AlexNet 以 top-5 误差 15.3% 的成绩夺冠，表现远优于第二名和之前的参赛者，出众到还一度被怀疑作弊。Hinton 评论说：</p>
+<blockquote><p>那是一种大爆炸时刻。一种范式的转变。</p></blockquote>
+<p>虽不是刻意为之，但英伟达就这样点燃了人工智能的「大爆炸」时刻。</p>
+<h3>成为一家 AI 公司</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1569371" height="1093" src="https://s3.ifanr.com/wp-content/uploads/2023/11/Smiles-scaled-1.jpg" width="2048" /></p>
+<blockquote><p>（黄仁勋）他在周五晚上发出一份邮件，表示公司一切将围绕深度学习展开，我们不再是一家图像公司。</p>
+<p>在接下来的周一清晨，我们就成为了一家 AI 公司。</p>
+<p>真的，就是那么快。</p></blockquote>
+<p>英伟达副总裁 Greg Estes 告诉《纽约客》。</p>
+<p>在 AlexNet 登场之后，没过几年，近乎所有参加大规模视觉识别挑战赛的人都选用了神经网络这种形式。</p>
+<p>到了 21 世纪 10 年代中期，用 GPU 训练的神经网络在图片识别的准确度已经达到 96%，这个精确水平甚至已经超过了人类。</p>
+<p>黄仁勋的超级计算机愿景成真，他开始找下一个目标：</p>
+<blockquote><p>我们能够解决计算机视觉问题，一个完全无组织结构的问题，这个事实指向了一个问题：「你还能教它什么其他的东西？」</p></blockquote>
+<p>黄仁勋内心的答案似乎是 —— 一切。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569374" height="1966" src="https://s3.ifanr.com/wp-content/uploads/2023/11/107198977-1677173650792-huang.jpg" width="2949" /></p>
+<p>他认为神经网络将改变社会，他也可以用 CUDA 来垄断这背后所需硬件的市场。</p>
+<p>他纵身一跃，开启了英伟达的 AI 征途。</p>
+<p>这次，AI 行业的领军人物不再需要给英伟达写邮件申请免费显卡了。</p>
+<p>2016 年 8 月，黄仁勋亲自将世界上首台 DGX-1 送到 OpenAI 的办公室。</p>
+<p>当时还未和 OpenAI 决裂的马斯克亲自开箱了这个由 3000 人耗时 3 年打造的成果。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569373" height="810" src="https://s3.ifanr.com/wp-content/uploads/2023/11/204723-1-1.jpg" width="1080" /></p>
+<p>在官方新闻稿中，黄仁勋开玩笑地说：</p>
+<blockquote><p>如果这是唯一一个出货的产品，那这个项目造价就高达 20 亿美元了。</p></blockquote>
+<p>谁能想到，第二年 Google 就公布了一种新的神经网络训练架构 Transformer。</p>
+<p>这次的新突破再被 Sutskever 抓住，引领 OpenAI 建造出来第一个 GPT 模型，一切都建立于英伟达的超级计算机上。</p>
+<p>一年前的今天，OpenAI 正式向公众发布了 ChatGPT，改变了一切，其中也包括英伟达。</p>
+<p>订单不止，供不应求。</p>
+<p>在 2023 年，英伟达的股价累计飙升超过 200%，成为全球首家市值突破万亿美元的芯片制造商。</p>
+<p>曾经不被看好的 CUDA 也<a href="https://36kr.com/p/2472160982785923">聚合了 400 万名开发者</a>，成为了英伟达在 AI 领域的另一「护城河」。</p>
+<p>无论是航空航天、生物科学、机械以及能源探索等领域研究，大部分都是在 CUDA 之上进行。</p>
+<p>英伟达最新的 AI 产品 DGX H100 则是一个重达 370 磅的金属盒子，定价高达 50 万美元。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569372" height="680" src="https://s3.ifanr.com/wp-content/uploads/2023/11/Keynote-Wrap-Up-Image.jpg" width="1280" /></p>
+<p>和当时送到 OpenAI 办公室的 DGX-1 相比，新产品运行速度提升了五倍。</p>
+<p>想要训练出 AlexNet，一分钟内就搞定。</p>
+<h3>总是「在破产边缘」的成功者</h3>
+<p><img alt="" class="aligncenter size-full wp-image-1569377" height="683" src="https://s3.ifanr.com/wp-content/uploads/2023/11/dennys-recognizes-nvidias-founding-at-restaurant-008.jpeg" width="1024" /></p>
+<p>今年 9 月，黄仁勋受邀回到加州圣何塞的那家丹尼餐厅。</p>
+<p>当年，他就是在这个餐厅的卡座里和合伙人起草文件，成立了英伟达。</p>
+<p>他们想设计一款能让竞争对手「嫉妒死（green with envy）」的芯片。黄仁勋想到了「Nvidia」这个名字，融入了拉丁语中「嫉妒（invidia）」这个词。</p>
+<p>如今的英伟达当然让竞争对手眼红，连连锁餐厅丹尼的 CEO 都特意为他们做了一块纪念牌，让英伟达的光也照在餐厅里。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569379" height="413" src="https://s3.ifanr.com/wp-content/uploads/2023/11/93486_02_nvidia-got-plaque-at-this-dennys-restaurant-the-birthplace-of-trillion-dollar-company.jpg" width="620" /></p>
+<p>然而，英伟达的成功不是一个特别典型的「成功者」故事。</p>
+<p>英伟达初成立时，喜欢电子游戏的黄仁勋认为游戏市场值得拥有更好的显卡，在 1995 年推出了首款产品 NV1。</p>
+<p>然而，NV1 并没有真正地被主流市场接受过，其中一大原因在于同年微软推出了 D3D 的 API，但 NV1 却不支持 D3D。接下来一代产品 NV2 也失败了。</p>
+<p>「赌」输了一次的黄仁勋不服气，他在 1996 年辞退了一半员工，收紧资金，把一切都押在了未经测试的新产品上：</p>
+<blockquote><p>几率 50/50，但无论如何我们都已经在破产边缘了。</p></blockquote>
+<p>当 RIVA 128 正式开售，英伟达剩下的钱只够顶一个月的开支了。所幸 RIVA 128 获得了成功，4 个月就售出了上百万件。</p>
+<p><img alt="" class="aligncenter size-full wp-image-1569380" height="1200" src="https://s3.ifanr.com/wp-content/uploads/2023/11/RIVA_128_GPU.jpeg" width="1600" /></p>
+<p>从那时起，黄仁勋就开始鼓励员工带着这种「绝望」去工作。</p>
+<p>对于黄仁勋而言，困境和失败并不陌生：</p>
+<blockquote><p>我发现，我在困境之中想东西最清晰。</p>
+<p>我的心率甚至会下降。</p></blockquote>
+<p>他甚至坚持，「失败一定要被分享」。</p>
+<p>之前，英伟达曾寄出过一款有问题的显卡，那显卡上的风扇超级响。</p>
+<p>黄仁勋没有炒掉负责这个产品的经理，而是开了一场大会，聚集了几百号人，让这个经理去讲述每一个最终导向这场闹剧的决策。</p>
+<p>把「失败」展现出来，也成为了英伟达内部的「习俗」。</p>
+<blockquote><p>你也可以由此很快看得出，谁能在这里留下，谁不可以。</p>
+<p>如果有人开始立起防御，那我就知道他们留不久了。</p></blockquote>
+<p>英伟达软件负责人 Dwight Diercks 说道。</p>
+<p>黄仁勋还喜欢鼓励员工去追求「0 亿美元市场（zero-billion-dollar market）」—— 那些不仅还没有竞争对手，甚至还没有明确顾客的实验性领域。</p>
+<p>毕竟，正如黄仁勋所言：</p>
+<blockquote><p>我一直觉得我们距离破产就只有 30 天。这一点从来没变。</p></blockquote>
+<p>没什么理由不拼一把。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1569356">原文链接</a> ·
+<a href="https://www.ifanr.com/1569356#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 30 Nov 2023 08:50:19 +0000</pubDate>
+<updated>Thu, 30 Nov 2023 08:50:19 +0000</updated>
+</item>
 
 <item>
 <title>Sam Altman 最新专访：曝光回归内幕，首度回应 Q* 模型</title>

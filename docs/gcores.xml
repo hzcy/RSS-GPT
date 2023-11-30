@@ -4,6 +4,562 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+<item>
+<title>《最终幻想7 永恒危机》Steam版12月7日上线</title>
+<link>https://www.gcores.com/articles/174466</link>
+<guid>https://www.gcores.com/articles/174466</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/345f5b9519ee62f154e02a113c3b9ccf-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《最终幻想7 永恒危机》官方宣布该作的Steam版将于12月7日正式上线。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/d48f5e76fe765db5d204e412f91f791a-679-355.png" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/6af642aa50bc5c9172da800e20c29e32-593-328.png" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>Steam版数据可和手机版共享。另外，Steam版的新玩家也将获得当时预约手游玩家同样的奖励道具。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
+<figure>
+<img alt="" src="https://image.gcores.com/345f5b9519ee62f154e02a113c3b9ccf-1280-720.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/6b7af5737729a2bf371a4f2a1b22d494-1920-1080.jpg" />
+
+</figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《最终幻想7 永恒危机》为基本游玩、道具氪金的运营型游戏，手机版已于9月正式开服。目前手游版的新活动已于11月30日上线，追加了蒂法及露缇亚的新服装和武器。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 30 Nov 2023 07:37:00 GMT</pubDate>
+<updated>Thu, 30 Nov 2023 07:37:00 GMT</updated>
+</item>
+<item>
+<title>《Rabi-Ribi》制作组新作《Tevi》现已发售，支持简繁中文</title>
+<link>https://www.gcores.com/articles/174471</link>
+<guid>https://www.gcores.com/articles/174471</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+ <div>
+<img src="https://image.gcores.com/513c2196ee3887183acac2cda957b91c-1712-747.png" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《Rabi-Ribi》制作团队类银河恶魔城新作</span></span><a class="md-link" href="https://www.gcores.com/link?target=https%3A%2F%2Fwww.tevi.games%2F" target="_blank"><span><span>《TEVI》</span></span></a><span><span>现已发售，登陆Steam及Switch平台。Steam首周优惠10%售价88.2元，支持官方繁简中文。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在结合类银河战士恶魔城、像素风格、弹幕等要素的 2D 平台探险动作游戏中，化身为身手敏捷的兔耳少女，与旅途中邂逅的伙伴们——天使与恶魔，于广大的奇幻世界展开令人难忘的冒险旅程，并逐步解开故事背后的真相。</span></span></div></div>
+<figure>
+<img alt="" src="https://image.gcores.com/4ff0ce914260c3814f9c665e453164f4-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/ac7128dcdb569229ab1d256b10c67a11-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/6307a5a7b048e43ba595157d2a64a924-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/aff85c52847123e682a194aaf67526c5-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/c860f16ae59f5a17c23d70943629931c-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/a9d0dc0f789daa2456559a0c609ce536-1920-1080.jpg" />
+
+</figure>
+<figure>
+<img alt="" src="https://image.gcores.com/baecbacbfe99e889918d0925f8182e31-1066-1169.png" />
+<figcaption> (1/4) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/568ef3f5fd3ade8fd5d7cd4b8d1d6ff1-1066-1169.png" />
+<figcaption> (2/4) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/3d1a395d269f38f146565847f5c3112e-1066-1169.png" />
+<figcaption> (3/4) </figcaption>
+</figure>
+            
+<figure>
+<img alt="" src="https://image.gcores.com/2b990848831b14c8c0a6360bb1f8e5cf-1066-1169.png" />
+<figcaption> (4/4) </figcaption>
+</figure>
+            <div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="font-weight: bold;"><span>Cast：</span></span></div></div><ul class="public-DraftStyleDefault-ul"><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-reset public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>采维（配音：Lynn）</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>希莉雅（配音：日笠陽子）</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>赛布尔（配音：藤原夏海）</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>泽玛（配音：杉田智和）</span></span></div></li><li class="story_block public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-listLTR"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>维娜（配音：釘宮理恵） </span></span></div></li></ul>
+<figure>
+<img alt="" src="https://image.gcores.com/83b19fbe16a2b26a1bdeda643a110154-684-900.jpg" />
+
+</figure><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
+]]></content:encoded>
+<pubDate>Thu, 30 Nov 2023 07:28:35 GMT</pubDate>
+<updated>Thu, 30 Nov 2023 07:28:35 GMT</updated>
+</item>
 
 <item>
 <title>腾讯育碧3A级“首秀” ，《全境封锁2》国服成功出道</title>
