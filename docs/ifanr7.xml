@@ -4,6 +4,98 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>Sam Altman 最新专访：曝光回归内幕，首度回应 Q* 模型</title>
+<link>https://www.ifanr.com/1569384?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1569384?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> Altman回归、OpenAI、董事会、安全与进展、内部问题
+
+<br><br>总结:<br>
+OpenAI的首席执行官Sam Altman在经历被解雇后重新回归公司。他对于自己被解雇的原因保持沉默，表示这一问题更适合由董事会来回答，并强调他对OpenAI的热爱及其在安全和有益的人工智能方面取得的进展。同时，Altman提到，他认为重要的是让审查过程自然进行，不受干扰。在整个事件中，OpenAI没有失去任何员工或客户，且研究和产品发展仍在持续。此外，Altman认为，公司在他缺席时也能正常运作，这说明了他挑选或培养了出色的领导团队。整个事件反映了OpenAI内部的一些问题，但具体细节尚不明朗。 <div>
+<p><img alt="" class="alignnone wp-image-1569395 size-full" height="1333" src="https://s3.ifanr.com/wp-content/uploads/2023/11/Sam_Altman_keynote_OpenAI_DevDay.jpeg" width="2000" /></p>
+<p>一年前的今天，OpenAI 发布了 ChatGPT ，引发了人工智能的寒武纪大爆发。</p>
+<p>技术进化的加速感越来越强，「见证历史」已经习以为常，伴随着兴奋、焦虑、担忧、反思……所有人似乎都在迫切翻开历史新的一页。</p>
+<p>OpenAI 在经历最近一系列混乱后，今天也正式宣布了 Altman 的回归，而公司最大的投资者微软，也将作为非投票的观察员加入董事会。</p>
+<p>同时<a href="https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired"> Altman 还接受了 The Verge 的专访</a>，谈到了回归前的一些内幕，以及早前被曝光的 Q* 模型——那个被认为可能威胁人类的 AI 技术。</p>
+<p>不过在这次采访中，Altman 多次拒绝回答人们最为关心的问题：究竟为什么他会被解雇？</p>
+<p>当 OpenAI 董事会在解雇 Sam Altman 一天后，又请求他回归时，Altman 起初感到了抗拒、受伤和愤怒。他在电话中告诉记者：</p>
+<blockquote><p>我花了几分钟时间才从中走出来，克服了自我和情绪，然后想，‘是的，我当然想做这件事。’ 显然，我非常热爱这家公司，并且在过去四年半的时间里全心投入其中，但实际上，我花了更长的时间。我们在我非常关心的使命上取得了巨大进展，那就是安全且有益的人工智能。</p></blockquote>
+<p><img alt="" class="alignnone wp-image-1569385 size-full" height="723" src="https://s3.ifanr.com/wp-content/uploads/2023/11/sa.jpg" width="1081" /></p>
+<p>以下是 The Verge 与 对 OpenAI 首席执行官 Sam Altman 和首席技术官 Mira Murati 的完整采访，爱范儿略作编辑：</p>
+<p>Q：Sam，我想首先谈谈房间里的大象，那就是我们仍然不知道你最初为什么会被解雇。你认为你为什么被解雇？</p>
+<p>Altman：董事会将在此处进行独立审查。我非常欢迎这一点。现在我没有太多要说的，但我期待了解更多。</p>
+<p>Q：你认为董事会为什么说他们对你失去了信任？</p>
+<p>Altman：这更适合他们回答。</p>
+<p>Q：你刚才在 X 上说，「很明显，你和董事会成员之间存在真正的误解。」这些误解是什么？</p>
+<p>Altman：我还没准备好谈论这个。我认为让这个审查过程进行非常重要。我很乐意谈论任何前瞻性的事情。我想会有一段时间，我非常乐意谈论这里发生的事情，但现在不是时候。</p>
+<p>Q：你能告诉我你为什么现在不能谈论它吗？</p>
+<p>Altman：我只是想让这个过程进行，不干预。</p>
+<p>Q：你在给员工的信中提到了 Ilya Sutskever（OpenAI 的首席科学家）。你能告诉我为什么他改变了主意，决定和其他人站在一起吗？</p>
+<p>Mira Murati：我们不知道。你得问 Ilya。</p>
+<p>Q：Sam，回顾起来，让你回来的主要动力是什么？</p>
+<p>Altman：这真的很有趣。周六早上，一些董事会成员打电话给我，问我是否愿意谈论这个问题。我的第一反应有点抗拒，就像，「天哪，我受伤了，我很生气，我认为这很糟糕。」</p>
+<p>然后我几乎立即开始思考，显然，我非常热爱这家公司，并且在过去四年半的时间里全心投入其中，但实际上，我花了更长的时间。我们在我非常关心的使命上取得了巨大进展，那就是安全且有益的人工智能。但也是这里的人和所有对我们抱有巨大期望的合作伙伴，还有 Mira 和领导团队以及这里所有做出了不可思议工作的人。我花了几分钟时间才从中走出来，克服了自我和情绪，然后想，「是的，我当然想做这件事。」</p>
+<p>Q：所以董事会要求你回来？</p>
+<p>Altman：是的。</p>
+<p>Q：你起初犹豫了吗？</p>
+<p>Altman：不会太久。在那之后发生在我身上的事情让我有很多感觉。</p>
+<p>Q：很明显员工支持你。你认为这有多大影响？</p>
+<p>Altman：我们肯定是以一个更强大、更团结、更专注和承诺的团队走出这个过程。我认为我们之前就有很强的信念和专注，现在我认为我们有了更多。所以这是我对所有这些事情的一线希望。</p>
+<p>在整个过程中，我们没有失去一个员工，一个客户。他们不仅在面对难以管理的增长时保持了产品的运行，还推出了新功能。研究进展继续进行。</p>
+<p>Q：你想回到董事会吗？</p>
+<p>Altman：尽管这听起来像一个公关说辞，但要说现在这不是我的重点领域。我有一堆非常困难、重要且紧急的工作要做。我想做好我的工作，但这不像（在）董事会或不在。现在我没有花时间思考这个问题。</p>
+<p>Q：「改进我们的治理结构」意味着什么？非营利控股公司结构会改变吗？</p>
+<p>Altman：这更适合董事会成员回答，但也不是现在。老实说，他们需要时间，我们将支持他们去思考。显然我们的治理结构有问题。找到解决这个问题的最佳方法需要一段时间。我完全明白为什么人们现在想要一个答案。但我也认为期待立即得到答案是完全不合理的。</p>
+<p>Q：为什么你认为这是不合理的？我认为人们看到了关于发生了什么的很多模糊之处。看起来像是分歧，而不是不当行为或类似的事情。</p>
+<p>Altman：哦，只是因为设计一个真正好的治理结构，尤其是对于如此有影响力的技术，不是一个一周的问题。这将需要真正的时间来思考，辩论，获得外部观点，进行压力测试。这需要一段时间。</p>
+<p>Q：刚刚发生的事件是否会改变 OpenAI 对安全工作的方法？</p>
+<p>Murati：不会。这与安全无关。</p>
+<p>Q：关于你们最近取得的 Q* 模型突破的报道，那是怎么一回事？</p>
+<p>Altman：对于那次不幸的泄露，我没有特别的评论。但其实我们之前一直在强调，就像两周前我们说的，一年前我们说的，更早之前我们说的——我们预计这项技术的进展将继续迅速，同时我们也期望继续努力弄清楚如何使其安全且有益。这就是我们以前每天起床的原因。这也是我们将来每天起床的原因。我认为我们在这一点上一直非常一致。</p>
+<p>不评论任何具体的事情或项目，我们相信进步就是研究。你总有可能遇到障碍，但我们预计进步将继续显著。我们想与世界接触，弄清楚如何使这项技术尽可能好。</p>
+<p>Q：最后一个问题。我确定你还在思考所有这些。我知道这一切都很新鲜。你从这整个事件中学到了什么？</p>
+<p>我想我现在还没有一个简洁有力的回答。显然学到了很多，但我仍在努力理解这一切。我的意思是，肯定有很多可以说的，但我认为我现在还没有准备好……我现在只能给出一个冗长而杂乱的答案。</p>
+<p>Altman: 好吧，我们以后再谈。</p>
+<p>挂断电话后，Altman 几分钟后又打了回来：</p>
+<p>我学到了公司真的可以在没有我的情况下正常运转，这是一件非常好的事情。我很高兴回来，别误会我的意思。但我回来时没有任何「哦，我必须做这个，或者公司需要我之类的」压力。</p>
+<p>我自以为感觉很好，因为我要么是挑选了出色的领导者，要么是很好地指导了他们。感觉公司没有我也会完全没问题，团队已经准备好并且提升了，这感觉非常好。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/ifanr" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/ifanr" style="color: #000; text-decoration: none;" target="_blank">爱范儿</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">爱范儿，让未来触手可及。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:admin@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="https://www.ifanr.com/4" style="margin-right: 14px; text-decoration: none;" target="_blank">7</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1569384">原文链接</a> ·
+<a href="https://www.ifanr.com/1569384#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Thu, 30 Nov 2023 07:45:57 +0000</pubDate>
+<updated>Thu, 30 Nov 2023 07:45:57 +0000</updated>
+</item>
 
 <item>
 <title>早报｜马云内网罕见发言，拼多多市值一度超越阿里/华为新合资公司估值或达 2500 亿/滴滴补偿无门槛打车券</title>
