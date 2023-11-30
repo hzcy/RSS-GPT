@@ -29887,3 +29887,9 @@ Summarized using GPT-3.5-turbo
 Append: [《孤独的美食家》2023年除夕特别篇12月31日播出](https://www.gcores.com/articles/174483)
 append_entries: 2
 Finish: 2023-11-30 11:09:34.991382
+------------------------------------------------------
+Started: 2023-11-30 11:20:41.973081
+Existing_entries: 652
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-11-30 11:20:42.144345
