@@ -30659,3 +30659,12 @@ Existing_entries: 682
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-01 19:18:39.609935
+------------------------------------------------------
+Started: 2023-12-01 19:33:43.266807
+Existing_entries: 682
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [3D动作平台游戏《佩妮大逃脱》揭晓全新动画宣传片](https://www.gcores.com/articles/174550)
+append_entries: 1
+Finish: 2023-12-01 19:34:20.722678
