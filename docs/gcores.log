@@ -30584,3 +30584,9 @@ Summarized using GPT-3.5-turbo
 Append: [《美少女万华镜异闻 雪女》宣布再度延期，2024年4月26日发售](https://www.gcores.com/articles/174548)
 append_entries: 5
 Finish: 2023-12-01 16:12:43.770009
+------------------------------------------------------
+Started: 2023-12-01 16:31:11.875888
+Existing_entries: 681
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-01 16:31:12.052560
