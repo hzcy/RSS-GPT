@@ -30563,3 +30563,24 @@ Existing_entries: 676
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-01 15:48:35.356897
+------------------------------------------------------
+Started: 2023-12-01 16:12:22.796332
+Existing_entries: 676
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 38
+Summarized using GPT-3.5-turbo
+Append: [《GTA》新作首个预告将于12月5日晚22时公布](https://www.gcores.com/articles/174555)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [TV动画《摇曳露营△》第3季公开第2弹PV，2024年4月发售](https://www.gcores.com/articles/174553)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [《Code Geass》系列新作“夺回的Z”将于12月18日公布新消息](https://www.gcores.com/articles/174552)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [动画《异世界自杀小队》PV公开，2024年播出](https://www.gcores.com/articles/174551)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [《美少女万华镜异闻 雪女》宣布再度延期，2024年4月26日发售](https://www.gcores.com/articles/174548)
+append_entries: 5
+Finish: 2023-12-01 16:12:43.770009
