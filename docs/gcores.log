@@ -30280,3 +30280,9 @@ Summarized using GPT-3.5-turbo
 Append: [挥拳燃脂 即刻开始！《有氧拳击2拳力舞动》现已正式发售](https://www.gcores.com/articles/174494)
 append_entries: 2
 Finish: 2023-12-01 05:27:23.988338
+------------------------------------------------------
+Started: 2023-12-01 05:35:09.974311
+Existing_entries: 661
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-01 05:35:10.179049
