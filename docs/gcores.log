@@ -30385,3 +30385,21 @@ Existing_entries: 666
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-01 09:09:59.112868
+------------------------------------------------------
+Started: 2023-12-01 09:23:45.069033
+Existing_entries: 666
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [《疯狂的麦克斯：狂暴女神》公布首支预告](https://www.gcores.com/articles/174525)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [跨年上映，《舒克贝塔·五角飞碟》新预告公布](https://www.gcores.com/articles/174526)
+Token length: 1352
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY战锤40K新品公布：拦截者小队参战](https://www.gcores.com/articles/174506)
+Token length: 763
+Summarized using GPT-3.5-turbo
+Append: [国风独立动作游戏《平寇志》正式定档12月7日](https://www.gcores.com/articles/174522)
+append_entries: 4
+Finish: 2023-12-01 09:24:27.056013
