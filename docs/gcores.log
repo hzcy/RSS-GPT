@@ -30355,3 +30355,9 @@ Summarized using GPT-3.5-turbo
 Append: [《The Grand Tour》将在2024年迎来最终季](https://www.gcores.com/articles/174508)
 append_entries: 5
 Finish: 2023-12-01 07:48:54.372687
+------------------------------------------------------
+Started: 2023-12-01 08:12:52.414734
+Existing_entries: 666
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-01 08:12:52.678289
