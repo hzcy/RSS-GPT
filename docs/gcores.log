@@ -31132,3 +31132,9 @@ Summarized using GPT-3.5-turbo
 Append: [2023年10月第四周手办模型情报总汇](https://www.gcores.com/articles/174292)
 append_entries: 1
 Finish: 2023-12-02 16:37:47.650325
+------------------------------------------------------
+Started: 2023-12-02 16:48:40.271404
+Existing_entries: 685
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-02 16:48:42.079117
