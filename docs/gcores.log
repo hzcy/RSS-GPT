@@ -31022,3 +31022,14 @@ Existing_entries: 683
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-02 12:15:26.495849
+------------------------------------------------------
+Started: 2023-12-02 12:40:46.702042
+Existing_entries: 683
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ContentTypeError: 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1199.4')
+Liaobots: ClientConnectorError: Cannot connect to host liaobots.work:443 ssl:False [Connect call failed ('198.44.165.30', 443)]
+Append: [下周节目预告 12.4~12.10](https://www.gcores.com/articles/174570)
+append_entries: 1
+Finish: 2023-12-02 12:45:08.357455
