@@ -31033,3 +31033,9 @@ Liaobots: ClientConnectorError: Cannot connect to host liaobots.work:443 ssl:Fal
 Append: [下周节目预告 12.4~12.10](https://www.gcores.com/articles/174570)
 append_entries: 1
 Finish: 2023-12-02 12:45:08.357455
+------------------------------------------------------
+Started: 2023-12-02 12:54:55.680193
+Existing_entries: 684
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-02 12:54:55.844354
