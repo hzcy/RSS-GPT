@@ -31420,3 +31420,18 @@ Existing_entries: 685
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-03 06:27:17.934390
+------------------------------------------------------
+Started: 2023-12-03 06:35:05.019330
+Existing_entries: 685
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [权游前传《龙之家族》第二季首曝预告](https://www.gcores.com/articles/174585)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [《黑袍纠察队》第四季先导预告公布，将于2024年开播](https://www.gcores.com/articles/174584)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [真人剧集《光环》发布第二季预告，2月8日登陆流媒体](https://www.gcores.com/articles/174581)
+append_entries: 3
+Finish: 2023-12-03 06:35:20.904989
