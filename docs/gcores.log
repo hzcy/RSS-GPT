@@ -31435,3 +31435,9 @@ Summarized using GPT-3.5-turbo
 Append: [真人剧集《光环》发布第二季预告，2月8日登陆流媒体](https://www.gcores.com/articles/174581)
 append_entries: 3
 Finish: 2023-12-03 06:35:20.904989
+------------------------------------------------------
+Started: 2023-12-03 06:48:43.969099
+Existing_entries: 688
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-03 06:48:44.254919

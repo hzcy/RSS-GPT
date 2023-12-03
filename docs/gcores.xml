@@ -4,6 +4,7 @@
 <title>资讯 | 机核 GCORES</title>
 <link>https://www.gcores.com/news</link>
 
+
 <item>
 <title>权游前传《龙之家族》第二季首曝预告</title>
 <link>https://www.gcores.com/articles/174585</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 《龙之家族》第二季、HBO Max、《血与火》、乔治·R·R·马丁、2024年夏季
 
-<br><br>总结:<br>HBO Max 即将在 2024 年夏季推出《权游》衍生剧集《龙之家族》的第二季，该剧基于乔治·R·R·马丁在 2018 年出版的《血与火》。这部剧集将继续深入探讨坦格利安家族的内部纷争，名为“血龙狂舞”。乔治·R·R·马丁本人也参与了第二季的剧本创作，总计 8 集，由 Clare Kilner 等五位导演负责拍摄不同剧集。 <div>
+<br /><br />总结:<br />HBO Max 即将在 2024 年夏季推出《权游》衍生剧集《龙之家族》的第二季，该剧基于乔治·R·R·马丁在 2018 年出版的《血与火》。这部剧集将继续深入探讨坦格利安家族的内部纷争，名为“血龙狂舞”。乔治·R·R·马丁本人也参与了第二季的剧本创作，总计 8 集，由 Clare Kilner 等五位导演负责拍摄不同剧集。 <div>
 <img src="https://image.gcores.com/1a9230f75bfb7fcd3d8f7ae03f2ba397-1280-720.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>HBO Max 于近日放出了旗下《权游》衍生剧集《龙之家族》第二季的首个先导预告。该剧确定将于2024年夏季在 HBO Max 流媒体平台播出。本剧的故事围绕乔治·R·R·马丁于2018年出版的《血与火》改编而成，将继续聚焦坦格利安家族的内部纷争“血龙狂舞”。 </span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
 <figure>
 <img alt="" src="https://image.gcores.com/aeec49094a9f93b41a390869e1369f6e-1280-720.jpg" />
@@ -23,248 +24,34 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>据悉，《龙之家族》第二季的剧本同样将由乔治·R·R·马丁参与。第二季共计8集，包括  Clare Kilner 在内的5位导演分别负责不同的剧集。</span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Sun, 03 Dec 2023 05:41:00 GMT</pubDate>
-<updated>Sun, 03 Dec 2023 05:41:00 GMT</updated>
 </item>
 <item>
 <title>《黑袍纠察队》第四季先导预告公布，将于2024年开播</title>
 <link>https://www.gcores.com/articles/174584</link>
 <guid>https://www.gcores.com/articles/174584</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/f0f167d8aa78dc613bd483534e2e377b-1000-563.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>《黑袍纠察队》第四季先导预告与今日公布，将于2024年在亚马逊 Prime Video  独家播出。 在第四季中，世界正处于崩溃的边缘。智者与爆竹作为新角色将会有不少戏份，而 Victoria Neuman 比以往任何时候都更接近美国总统的位置，并受到正在巩固权力的祖国人的有力压制。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure>
 <figure>
@@ -277,248 +64,34 @@
 </figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>据悉，Butcher 只剩下几个月的生命，他失去了 Becca 的儿子，也失去了他作为黑袍纠察队队长的工作。队员们都受够了他的谎言。众人面临的风险胜过以往，他们必须找到一种合作的方式，在为时已晚之前拯救世界。 </span></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Sun, 03 Dec 2023 05:40:33 GMT</pubDate>
-<updated>Sun, 03 Dec 2023 05:40:33 GMT</updated>
 </item>
 <item>
 <title>真人剧集《光环》发布第二季预告，2月8日登陆流媒体</title>
 <link>https://www.gcores.com/articles/174581</link>
 <guid>https://www.gcores.com/articles/174581</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <img src="https://image.gcores.com/2856634e55aaf778388e0fdedec9a61b-1920-1080.jpg" /><div class="md-RichEditor-root"><div class="md-RichEditor-editor md-RichEditor-readonly"><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false"><div><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>派拉蒙今日公布了《光环》真人剧集的第二季首支预告，剧集定档 2024 年 2 月 8 日上线流媒体平台 Paramount Plus。</span></span></div></div><figure class="story_block story_block-atomic story_block-atomic-embed" contenteditable="false"><div class="lazyload-wrapper "><div class="lazyload-placeholder" style="height: 500px;"></div></div></figure><div class="story_block story_block-text "><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><span>在第二季中，士官长发现星盟正在计划进攻致远星，于是去寻找拯救或者毁灭人类命运的关键——光环。 </span></span></div></div>
 <figure>
@@ -539,9 +112,7 @@
 </figure><div class="story_block-empty d-none"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span><br /></span></div></div></div></div></div></div></div></div><div class="clearfix"></div>
 ]]></content:encoded>
 <pubDate>Sun, 03 Dec 2023 04:28:20 GMT</pubDate>
-<updated>Sun, 03 Dec 2023 04:28:20 GMT</updated>
 </item>
-
 <item>
 <title>2023年10月第四周手办模型情报总汇</title>
 <link>https://www.gcores.com/articles/174292</link>
