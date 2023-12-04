@@ -31973,3 +31973,9 @@ Summarized using GPT-3.5-turbo
 Append: [TGA游戏大奖2023公布最新预告，Geoff亲自剪辑预热](https://www.gcores.com/articles/174615)
 append_entries: 2
 Finish: 2023-12-04 06:14:04.114095
+------------------------------------------------------
+Started: 2023-12-04 06:30:39.835879
+Existing_entries: 700
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-04 06:30:39.988772
