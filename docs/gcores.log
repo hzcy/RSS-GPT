@@ -32120,3 +32120,12 @@ Existing_entries: 703
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-04 12:18:27.939002
+------------------------------------------------------
+Started: 2023-12-04 12:49:33.687116
+Existing_entries: 703
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [《少年西游记2》《来自星尘》及《全境封锁：曙光》过审：2023年11月份国产网络游戏审批信息公布](https://www.gcores.com/articles/174633)
+append_entries: 1
+Finish: 2023-12-04 12:50:00.681334
