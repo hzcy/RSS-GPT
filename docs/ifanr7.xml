@@ -4,6 +4,7 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+
 <item>
 <title>奔驰宝马合作建设超充网络，不止服务本品牌，补能的混战即将开始？</title>
 <link>https://www.ifanr.com/1569406?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 梅赛德斯奔驰、宝马、超级充电网络、新能源、合资公司
 
-<br><br>总结:<br>梅赛德斯奔驰和宝马计划在中国成立合资公司，共同建设和运营超级充电网络。他们计划到2024年开始建设首批超级充电站，并在2026年底前建设至少1000座充电站。这一合作旨在提升两家公司在中国新能源市场的竞争力。同时，这个超级充电网络不仅服务于奔驰和宝马车主，也向公众开放。此外，该文章还提到了其他新能源车企，如蔚来、特斯拉等，它们也在推进自己的充电网络的开放和合作。整个新能源汽车行业正逐渐从封闭的补能网络向开放合作的模式转变。 <div>
+<br /><br />总结:<br />梅赛德斯奔驰和宝马计划在中国成立合资公司，共同建设和运营超级充电网络。他们计划到2024年开始建设首批超级充电站，并在2026年底前建设至少1000座充电站。这一合作旨在提升两家公司在中国新能源市场的竞争力。同时，这个超级充电网络不仅服务于奔驰和宝马车主，也向公众开放。此外，该文章还提到了其他新能源车企，如蔚来、特斯拉等，它们也在推进自己的充电网络的开放和合作。整个新能源汽车行业正逐渐从封闭的补能网络向开放合作的模式转变。 <div>
 <p><img alt="" class="aligncenter size-full wp-image-1569412" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/11/tm1.jpg" width="1200" /></p>
 <p>「BBA」又有大新闻了。</p>
 <p>11 月 30 日，梅赛德斯奔驰宣布，将与宝马在中国合作成立合资公司，合作建设和运营超级充电网络。</p>
@@ -107,248 +108,34 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 04 Dec 2023 01:27:14 +0000</pubDate>
-<updated>Mon, 04 Dec 2023 01:27:14 +0000</updated>
 </item>
 <item>
 <title>43.5 万元起，特斯拉 Cybertruck 终于交付，马斯克当初说的都实现了吗？</title>
 <link>https://www.ifanr.com/1569418?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1569418?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <p><img alt="" class="alignnone size-full wp-image-1569584" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/12/tmmcy.jpg" width="1200" /></p>
 <p class="p1"><span class="s1">4 年前，马斯克用一把锤子、一个钢球，还有一辆造型奇特皮卡震惊了世界。</span></p>
@@ -472,248 +259,34 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 04 Dec 2023 00:49:34 +0000</pubDate>
-<updated>Mon, 04 Dec 2023 00:49:34 +0000</updated>
 </item>
 <item>
 <title>早报｜五月天被质疑假唱，官方回应/OpenAI 在中国申请 GPT-6 商标/腾讯视频回应「App 崩了」</title>
 <link>https://www.ifanr.com/1569581?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1569581?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
-<div> <!DOCTYPE html>
-<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div> 
+
     
-    <title>人机验证</title>
-    <script src="assets/jquery.min.js"></script>
-    <script src="assets/layer.js"></script>
-    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            width: 100vw;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-            font-size: 14px;
-            background-color: #1F1F1F;
-        }
+    
+    人机验证
+    
+    
+    
+    
 
-        .background {
-            position: relative;
-            background: RGBA(60,60,60, 0.6);
-            border-radius: 20px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
-            width: 400px;
-            height: 400px;
-            color: white;
-        }
 
-        .background input {
-            display: none;
-        }
-
-        .background .button {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 260px;
-            height: 60px;
-            border: 2px solid white;
-            border-radius: 30px;
-            text-align: center;
-            font-size: 20px;
-            text-transform: uppercase;
-            font-weight: bold;
-            letter-spacing: 2px;
-            transition: all 0.3s ease-in-out;
-            cursor: pointer;
-        }
-
-        .background .button:hover {
-            background-color: #343541;
-        }
-
-        .background .button .fas {
-            position: absolute;
-            color: #4caf50;
-            z-index: 2;
-            opacity: 0;
-        }
-
-        .background .circle {
-            position: absolute;
-            width: 65px;
-            height: 65px;
-            fill: none;
-            stroke: white;
-            stroke-width: 2px;
-            stroke-linecap: round;
-            stroke-dasharray: 183 183;
-            stroke-dashoffset: 183;
-            opacity: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            top: 0;
-            margin: auto;
-            pointer-events: none;
-            transform: rotate(-90deg);
-        }
-
-        .background input:checked ~ .button {
-            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
-        }
-
-        .background input:checked ~ .button .fas {
-            animation: check 0.5s ease-out 1.5s both;
-        }
-
-        .background input:checked ~ .circle {
-            animation: circle 2s ease-out 0.5s both;
-        }
-
-        @keyframes button {
-            0% {
-                width: 260px;
-                left: 70px;
-                border-color: white;
-                color: white;
-            }
-            50% {
-                color: transparent;
-            }
-            100% {
-                width: 60px;
-                left: 170px;
-                border-color: #45b078;
-                background: transparent;
-                color: transparent;
-            }
-        }
-
-        @keyframes circle {
-            0% {
-                stroke-dashoffset: 183;
-            }
-            50% {
-                stroke-dashoffset: 0;
-                stroke-dasharray: 183;
-                transform: rotate(-90deg) scale(1);
-                opacity: 1;
-            }
-            90%,
-            100% {
-                stroke-dasharray: 500 500;
-                transform: rotate(-90deg) scale(2);
-                opacity: 0;
-            }
-        }
-
-        @keyframes fill {
-            0% {
-                background: transparent;
-                border-color: white;
-            }
-            100% {
-                background: white;
-            }
-        }
-
-        @keyframes check {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-<style>
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 400;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
-            unicode-range: U+61-7a;
-        }
-        
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 600;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
-            unicode-range: U+61-7a;
-        }
-
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+41-5a;
-        }
-        @font-face{
-            font-family: 'Aileron'; 
-            font-weight: 700;
-            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
-            unicode-range: U+61-7a;
-        }
-     
-    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
-<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
 <div class="background">
-    <input type="checkbox" id="button">
-    <label for="button" class="button">
+    <input id="button" type="checkbox" />
+    <label class="button" for="button">
         点击进入<i class="fas fa-check"></i>
     </label>
-    <svg class="circle">
+    <svg class="circle" xmlns="http://www.w3.org/2000/svg">
         <circle cx="32" cy="32" r="31"></circle>
     </svg>
 </div>
 
-<script>
-    $('.button').click(() => {
-        setTimeout(() => {
-            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
-                if (res.code != 200) {
-                    layer.msg(res.msg);
-                    return;
-                }
-                window.location.reload();
-            });
-        }, 1300);
-    });
-</script>
+
  <div>
 <div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/na_chong_lang_ban_de_ren_cover.jpg" /></div>
 <div style="padding: 0 14px;">
@@ -930,9 +503,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Mon, 04 Dec 2023 00:41:01 +0000</pubDate>
-<updated>Mon, 04 Dec 2023 00:41:01 +0000</updated>
 </item>
-
 <item>
 <title>早报｜小米辟谣「雷军冰冷的 40 亿」/iPhone 16 或全系标配操作按钮/拼多多收盘市值首超阿里|未来周报</title>
 <link>https://www.ifanr.com/1569501?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
