@@ -32039,3 +32039,18 @@ Existing_entries: 700
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-04 08:48:33.826141
+------------------------------------------------------
+Started: 2023-12-04 09:10:53.017786
+Existing_entries: 700
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 142
+Summarized using GPT-3.5-turbo-16k
+Append: [《街头霸王6》×《间谍过家家》联动公布](https://www.gcores.com/articles/174625)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [《魔法使之夜》公布Steam版发售预告视频，12月13日登录Steam](https://www.gcores.com/articles/174623)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [《428：被封锁的涩谷》发售十五周年](https://www.gcores.com/articles/174616)
+append_entries: 3
+Finish: 2023-12-04 09:11:22.718829
