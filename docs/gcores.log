@@ -32054,3 +32054,9 @@ Summarized using GPT-3.5-turbo
 Append: [《428：被封锁的涩谷》发售十五周年](https://www.gcores.com/articles/174616)
 append_entries: 3
 Finish: 2023-12-04 09:11:22.718829
+------------------------------------------------------
+Started: 2023-12-04 09:24:05.635093
+Existing_entries: 703
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-04 09:24:05.858640
