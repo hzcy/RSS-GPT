@@ -31961,3 +31961,15 @@ Existing_entries: 698
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-04 05:48:32.134549
+------------------------------------------------------
+Started: 2023-12-04 06:13:34.137097
+Existing_entries: 698
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 107
+Summarized using GPT-3.5-turbo-16k
+Append: [《真人快打1》DLC追加角色「拳痴」实机预告片公布](https://www.gcores.com/articles/174614)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [TGA游戏大奖2023公布最新预告，Geoff亲自剪辑预热](https://www.gcores.com/articles/174615)
+append_entries: 2
+Finish: 2023-12-04 06:14:04.114095
