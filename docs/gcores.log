@@ -32435,3 +32435,9 @@ Summarized using GPT-3.5-turbo
 Append: [《超自然车旅 Pacific Drive》将于2024年2月正式发布](https://www.gcores.com/articles/174652)
 append_entries: 3
 Finish: 2023-12-05 03:11:00.056803
+------------------------------------------------------
+Started: 2023-12-05 03:24:05.167403
+Existing_entries: 708
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-05 03:24:05.420040
