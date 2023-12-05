@@ -32537,3 +32537,12 @@ Existing_entries: 710
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-05 07:09:34.078972
+------------------------------------------------------
+Started: 2023-12-05 07:21:26.123430
+Existing_entries: 710
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 252
+Summarized using GPT-3.5-turbo-16k
+Append: [《燕云十六声》5分钟实机PV曝光，大规模对外测试12月15日开启](https://www.gcores.com/articles/174659)
+append_entries: 1
+Finish: 2023-12-05 07:21:56.620656
