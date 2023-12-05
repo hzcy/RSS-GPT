@@ -32738,3 +32738,12 @@ Existing_entries: 719
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-05 14:48:43.867090
+------------------------------------------------------
+Started: 2023-12-05 15:10:43.077205
+Existing_entries: 719
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [《地下城与勇士》IP衍生类魂新作正式公布，将于TGA揭晓实机演示](https://www.gcores.com/articles/174655)
+append_entries: 1
+Finish: 2023-12-05 15:11:14.374355
