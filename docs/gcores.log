@@ -32420,3 +32420,18 @@ Existing_entries: 705
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-05 02:49:22.623426
+------------------------------------------------------
+Started: 2023-12-05 03:10:30.542886
+Existing_entries: 705
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 512
+Summarized using GPT-3.5-turbo
+Append: [平台动作游戏《奥特罗斯 Ultros》将于2024年2月13日发售](https://www.gcores.com/articles/174653)
+Token length: 6746
+Summarized using GPT-3.5-turbo
+Append: [地铁、新高速、浪漫约会：《赛博朋克2077》2.1更新将于北京时间12月5日19时推出](https://www.gcores.com/articles/174644)
+Token length: 365
+Summarized using GPT-3.5-turbo
+Append: [《超自然车旅 Pacific Drive》将于2024年2月正式发布](https://www.gcores.com/articles/174652)
+append_entries: 3
+Finish: 2023-12-05 03:11:00.056803
