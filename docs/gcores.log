@@ -32393,3 +32393,12 @@ Existing_entries: 704
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-05 00:44:13.078279
+------------------------------------------------------
+Started: 2023-12-05 01:45:00.528008
+Existing_entries: 704
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [R星《GTA6》首支中文预告片提前公布](https://www.gcores.com/articles/174648)
+append_entries: 1
+Finish: 2023-12-05 01:45:01.896541
