@@ -32651,3 +32651,9 @@ Summarized using GPT-3.5-turbo
 Append: [《卧龙》“风起荆襄”宣传片公开，刘备军面临新威胁](https://www.gcores.com/articles/174677)
 append_entries: 3
 Finish: 2023-12-05 10:49:23.897759
+------------------------------------------------------
+Started: 2023-12-05 11:08:25.772867
+Existing_entries: 718
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-05 11:08:25.969420
