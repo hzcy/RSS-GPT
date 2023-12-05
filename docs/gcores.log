@@ -32477,3 +32477,9 @@ Summarized using GPT-3.5-turbo
 Append: [Steam VR节现已隆重开幕，《无人深空》仅售87元](https://www.gcores.com/articles/174650)
 append_entries: 2
 Finish: 2023-12-05 04:38:27.204631
+------------------------------------------------------
+Started: 2023-12-05 04:48:20.991630
+Existing_entries: 710
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-05 04:48:21.200043
