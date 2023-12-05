@@ -29486,3 +29486,12 @@ Existing_entries: 191
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-05 17:09:22.393284
+------------------------------------------------------
+Started: 2023-12-05 17:26:37.877165
+Existing_entries: 191
+Fetching from https://www.ifanr.com/feed
+Token length: 2770
+Summarized using GPT-3.5-turbo
+Append: [蔚来三季度营收暴涨，旗舰新车月内发布，李斌透露阿尔卑斯更多消息](https://www.ifanr.com/1569761?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-05 17:27:29.199074
