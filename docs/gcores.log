@@ -32465,3 +32465,15 @@ Existing_entries: 708
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-05 04:28:47.432578
+------------------------------------------------------
+Started: 2023-12-05 04:37:49.479828
+Existing_entries: 708
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 421
+Summarized using GPT-3.5-turbo
+Append: [《时空英豪：新起点》定于2024年3月15日发售](https://www.gcores.com/articles/174654)
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [Steam VR节现已隆重开幕，《无人深空》仅售87元](https://www.gcores.com/articles/174650)
+append_entries: 2
+Finish: 2023-12-05 04:38:27.204631
