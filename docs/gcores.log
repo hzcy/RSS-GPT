@@ -32588,3 +32588,9 @@ Summarized using GPT-3.5-turbo
 Append: [《龙腾世纪: 恐惧之狼》公布预热宣传，2024夏正式揭晓](https://www.gcores.com/articles/174665)
 append_entries: 4
 Finish: 2023-12-05 08:39:00.006222
+------------------------------------------------------
+Started: 2023-12-05 08:48:46.113673
+Existing_entries: 715
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-05 08:48:46.344371
