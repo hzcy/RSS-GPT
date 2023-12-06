@@ -33191,3 +33191,15 @@ Existing_entries: 732
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-06 10:10:41.555191
+------------------------------------------------------
+Started: 2023-12-06 10:29:57.494268
+Existing_entries: 732
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 971
+Summarized using GPT-3.5-turbo
+Append: [拉瑞安公布《博德之门3》诸多趣味数据统计，已有130万名玩家通关游戏](https://www.gcores.com/articles/174719)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [惊人成绩：《GTA6》预告播放量首日破亿，比肩《GTA5》预告12年成绩](https://www.gcores.com/articles/174727)
+append_entries: 2
+Finish: 2023-12-06 10:30:38.826952
