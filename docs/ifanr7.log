@@ -29657,3 +29657,14 @@ Existing_entries: 192
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-06 00:44:06.874654
+------------------------------------------------------
+Started: 2023-12-06 01:44:07.162486
+Existing_entries: 192
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Liaobots: ClientConnectorError: Cannot connect to host liaobots.work:443 ssl:False [Connect call failed ('8.217.8.42', 443)]
+Append: [早报｜苹果市值再次突破 3 万亿美元/华为智界第二款车型曝光，对标 Model Y/小米汽车明年一季度到店](https://www.ifanr.com/1569772?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-06 01:48:30.526572
