@@ -29938,3 +29938,12 @@ Existing_entries: 193
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-06 13:48:51.037844
+------------------------------------------------------
+Started: 2023-12-06 14:09:22.229649
+Existing_entries: 193
+Fetching from https://www.ifanr.com/feed
+Token length: 4642
+Summarized using GPT-3.5-turbo
+Append: [2023 年度热词，只能是它](https://www.ifanr.com/1569831?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-06 14:09:51.154503
