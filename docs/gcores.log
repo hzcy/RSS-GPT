@@ -33050,3 +33050,18 @@ Existing_entries: 725
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-06 05:09:44.876132
+------------------------------------------------------
+Started: 2023-12-06 05:27:02.215203
+Existing_entries: 725
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1700
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】 第十张地图“荣都”今日实装：《PUBG》制作总监Kim Taehyun专访汇总](https://www.gcores.com/articles/174672)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [《极限竞速：地平线5》X《速度与激情10》联动组合包现已发售，国区售价37元](https://www.gcores.com/articles/174713)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [《名侦探柯南：黑铁的鱼影》预售开启，终极预告发布](https://www.gcores.com/articles/174711)
+append_entries: 3
+Finish: 2023-12-06 05:27:25.770389
