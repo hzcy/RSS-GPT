@@ -33476,3 +33476,12 @@ Existing_entries: 741
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-06 21:34:05.805795
+------------------------------------------------------
+Started: 2023-12-06 21:48:32.580246
+Existing_entries: 741
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 809
+Summarized using GPT-3.5-turbo-16k
+Append: [《博德之门3》被 GameSpot 评为 2023 年度游戏](https://www.gcores.com/articles/174748)
+append_entries: 1
+Finish: 2023-12-06 21:48:37.315365
