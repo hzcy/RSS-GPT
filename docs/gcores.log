@@ -33008,3 +33008,9 @@ Summarized using GPT-3.5-turbo
 Append: [Netflix真人剧集《幽游白书》公开最终预告片，12月14日上线](https://www.gcores.com/articles/174702)
 append_entries: 5
 Finish: 2023-12-06 03:24:27.870920
+------------------------------------------------------
+Started: 2023-12-06 03:34:19.435807
+Existing_entries: 725
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-06 03:34:19.695239
