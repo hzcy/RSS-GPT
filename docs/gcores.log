@@ -33215,3 +33215,15 @@ Existing_entries: 734
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-06 10:48:45.629231
+------------------------------------------------------
+Started: 2023-12-06 11:08:34.449071
+Existing_entries: 734
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1135
+Summarized using GPT-3.5-turbo
+Append: [《Fallout 76》“大西洋城——木板路乐园”现已上线](https://www.gcores.com/articles/174735)
+Token length: 991
+Summarized using GPT-3.5-turbo
+Append: [向着地表进发！《地心归途》12月15日开启抢先体验](https://www.gcores.com/articles/174722)
+append_entries: 2
+Finish: 2023-12-06 11:08:54.895535
