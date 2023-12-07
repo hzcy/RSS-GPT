@@ -33834,3 +33834,15 @@ Existing_entries: 755
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-07 13:13:01.744109
+------------------------------------------------------
+Started: 2023-12-07 13:31:08.431266
+Existing_entries: 755
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 790
+Summarized using GPT-3.5-turbo
+Append: [以母亲视角讲述一场灾难，国产僵尸题材生存游戏《苏醒之路》已正式上线Steam等平台](https://www.gcores.com/articles/174789)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [因持续遭受恐吓，任天堂宣布取消“Nintendo Live 2024 TOKYO”活动](https://www.gcores.com/articles/174785)
+append_entries: 2
+Finish: 2023-12-07 13:31:26.197719
