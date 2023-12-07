@@ -33771,3 +33771,12 @@ Existing_entries: 754
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-07 10:11:03.155313
+------------------------------------------------------
+Started: 2023-12-07 10:30:15.350173
+Existing_entries: 754
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [《最后生还者》影视剧第二季确认2025年推出](https://www.gcores.com/articles/174783)
+append_entries: 1
+Finish: 2023-12-07 10:30:41.357376
