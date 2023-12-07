@@ -33846,3 +33846,9 @@ Summarized using GPT-3.5-turbo
 Append: [因持续遭受恐吓，任天堂宣布取消“Nintendo Live 2024 TOKYO”活动](https://www.gcores.com/articles/174785)
 append_entries: 2
 Finish: 2023-12-07 13:31:26.197719
+------------------------------------------------------
+Started: 2023-12-07 13:48:43.643057
+Existing_entries: 757
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-07 13:48:43.856141
