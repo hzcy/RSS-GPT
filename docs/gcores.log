@@ -34398,3 +34398,9 @@ Summarized using GPT-3.5-turbo-16k
 Append: [CDPR联合上海交通推出《赛博朋克2077》手机交通卡卡面，其他城市陆续推出](https://www.gcores.com/articles/174852)
 append_entries: 1
 Finish: 2023-12-08 12:17:55.661620
+------------------------------------------------------
+Started: 2023-12-08 12:48:23.816522
+Existing_entries: 777
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-08 12:48:24.043920
