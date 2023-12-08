@@ -34200,3 +34200,21 @@ Existing_entries: 761
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-08 05:48:19.784623
+------------------------------------------------------
+Started: 2023-12-08 06:13:02.881917
+Existing_entries: 761
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2801
+Summarized using GPT-3.5-turbo-16k
+Append: [《博德之门3》荣获TGA年度游戏大奖：TGA2023奖项名单汇总](https://www.gcores.com/articles/174801)
+Token length: 537
+Summarized using GPT-3.5-turbo
+Append: [忍组新作《浪人崛起》公布新宣传片，2024年3月22日发售](https://www.gcores.com/articles/174816)
+Token length: 607
+Summarized using GPT-3.5-turbo
+Append: [《暗喻幻想：ReFantazio》公布新宣传片，2024年秋季发售](https://www.gcores.com/articles/174815)
+Token length: 468
+Summarized using GPT-3.5-turbo
+Append: [小岛工作室与微软首次合作新作《OD》先导预告公布](https://www.gcores.com/articles/174813)
+append_entries: 4
+Finish: 2023-12-08 06:13:07.994097
