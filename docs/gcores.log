@@ -34347,3 +34347,9 @@ Summarized using GPT-3.5-turbo
 Append: [《奥日》团队新作：动作角色扮演游戏《恶意不息》首次揭晓](https://www.gcores.com/articles/174834)
 append_entries: 5
 Finish: 2023-12-08 10:10:54.740161
+------------------------------------------------------
+Started: 2023-12-08 10:29:12.391450
+Existing_entries: 776
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-08 10:29:12.746426
