@@ -34248,3 +34248,21 @@ Existing_entries: 765
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-08 07:21:36.511910
+------------------------------------------------------
+Started: 2023-12-08 07:33:59.557502
+Existing_entries: 765
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 202
+Summarized using GPT-3.5-turbo-16k
+Append: [《最终幻想16》付费DLC信息公布，第1弹今日发售](https://www.gcores.com/articles/174827)
+Token length: 372
+Summarized using GPT-3.5-turbo
+Append: [确诊癌症：《人中之龙8》公布“临终笔记”预告](https://www.gcores.com/articles/174826)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [Capcom《怪物猎人 荒野》预告片全球首发](https://www.gcores.com/articles/174821)
+Token length: 1134
+Summarized using GPT-3.5-turbo
+Append: [硬核潜艇模拟器《驱逐舰：U型艇猎手》今日发布正式版](https://www.gcores.com/articles/174803)
+append_entries: 4
+Finish: 2023-12-08 07:34:07.757685

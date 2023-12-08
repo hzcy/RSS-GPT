@@ -30841,3 +30841,9 @@ Summarized using GPT-3.5-turbo
 Append: [这支老牌乐队想靠科技永远摇滚下去](https://www.ifanr.com/1569948?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-08 07:21:33.636834
+------------------------------------------------------
+Started: 2023-12-08 07:33:54.927406
+Existing_entries: 200
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2023-12-08 07:33:56.826311
