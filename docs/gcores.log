@@ -34296,3 +34296,15 @@ Existing_entries: 769
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-08 08:48:30.666340
+------------------------------------------------------
+Started: 2023-12-08 09:09:53.365306
+Existing_entries: 769
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 3776
+Summarized using GPT-3.5-turbo-16k
+Append: [《怪物猎人 荒野》小岛秀夫新作《OD》公布！2023年TGA游戏内容汇总](https://www.gcores.com/articles/174802)
+Token length: 877
+Summarized using GPT-3.5-turbo
+Append: [《中世界王朝》全新多人合作模式和地图现已登陆Steam](https://www.gcores.com/articles/174833)
+append_entries: 2
+Finish: 2023-12-08 09:09:57.808754
