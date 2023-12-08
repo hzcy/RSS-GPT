@@ -4,6 +4,475 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>早报｜苹果将对 iPhone 16 麦克风进行重大升级/不到 20 万，特斯拉平价电动车进展曝光/12306 改版新增折扣等信息</title>
+<link>https://www.ifanr.com/1570025?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1570025?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8320fa216d978009","b":1,"version":"2023.10.0","token":"a4fc08d68d7144a29442f19fe8834aaa"}' crossorigin="anonymous"></script>
+ <div>
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/qing_kong_xia_de_lv_zhou_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">iPhone 多点触控屏幕发明人从苹果退休</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚞" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f69e.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">铁路 12306 APP 改版，新增折扣信息</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚗" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f697.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">马斯克透露特斯拉平价电动汽车新进展</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤝" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f91d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Meta 和微软表示将购买 AMD 最新 AI 芯片</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚘" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f698.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">蔚来回应裁员比例扩大：不实消息，没有进一步裁员计划</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🧑" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f9d1.png" style="height: 1em;" />&#x200d;<img alt="💼" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4bc.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">快手开启年内最大规模组织架构调整</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">新技术会引发失业？Google CEO：正确部署可创造新岗位，不采用则可能导致失业增加</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎤" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3a4.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">苹果将对 iPhone 16 麦克风进行重大升级</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📲" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f2.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">小米澎湃 OS 首批正式版开始陆续推送</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤖" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f916.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Meta 推出独立 AI 图像生成器</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">真我 GT5 Pro 正式发布，首销 3298 元起</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🍔" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f354.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">麦当劳将引入 AI 以提供更新鲜的食物</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🔥" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f525.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">CASETiFY x《火影忍者》全新联名系列正式发布</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="👟" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f45f.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">District Vision x New Balance 合作鞋款发售</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎶" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3b6.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Taylor Swift 被《时代周刊》评为 2023 年度人物</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎥" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3a5.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《逃脱》发布新剧照</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🌑" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f311.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《阴阳师 0》发布新海报</p>
+</div>
+</div>
+</div>
+<section><img alt="重磅" src="https://s3.ifanr.com/images/ep/common-images/xin_wen.png" /></section>
+<h3>iPhone 多点触控屏幕发明人从苹果退休</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/8863e8be-1108-49ee-9db9-50ebcccf994c.jpg" /></p>
+<p>据彭博社报道，多年来负责众多关键功能开发的苹果资深高管 Steve Hotelling，即将从苹果公司退休。</p>
+<p>在苹果任职之时，他曾经负责多项关键技术的开发，包括初代 iPhone 和 iPad 的多点触控屏幕的研发，还有广受好评的 Touch ID 和 Face ID。</p>
+<p>除此之外，Hotelling 还负责监督公司的相机工程团队，并参与开发定制传感器。另一方面，Hotelling 还领导了增强现实的深度传感技术，并致力于触觉反馈和 ProMotion 高帧率显示器背后的组件的研究。</p>
+<p>在他退休之后，他的职责将会被分配给硬件技术高级副总裁 Johny Srouji 的多名直接下属。</p>
+<h3>铁路 12306 APP 改版，新增折扣信息</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/0e63b756-ef6e-484e-a5b9-6a1faac82bb1.jpeg" /></p>
+<p>据经济观察网报道，近日，铁路 12306 app 购票页面改版。</p>
+<p>与此前页面相比，新版本在查询高铁和动车车次信息时，可在查询页面直接选购座席等级，同时显示折扣信息。</p>
+<p>目前多条铁路采取折扣浮动策略，在公布票价的基础上，实际票价有所浮动。</p>
+<section><img alt="大公司" src="https://s3.ifanr.com/images/ep/common-images/da_gong_si.png" /></section>
+<h3>马斯克透露特斯拉平价电动汽车新进展</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/328e4b25-fd55-4739-b543-09bd45142b7b.jpg" /></p>
+<p>据 Business Insider 报道，马斯克近日在接受汽车制造专家 Sandy Munro 采访时表示，2.5 万美元（当前约合人民币 17.9 万元）的电动汽车开发已取得显著进展。</p>
+<p>马斯克表示，这款新车目前计划在特斯拉得克萨斯州超级工厂生产，然后将扩展至墨西哥工厂。</p>
+<p>此外，据晚点 Auto 报道，特斯拉计划重启于去年年中暂停的上海第三期汽车工厂建设，未来的生产重心可能正是平价电动车型。</p>
+<p>上海是特斯拉全球效率最高的生产中心，特斯拉美国得州工厂每下线一辆车要 76 秒，上海工厂只需 37 秒。</p>
+<h3>Meta 和微软表示将购买 AMD 最新 AI 芯片</h3>
+<p>当地时间周三，Meta、OpenAI 和微软在 AMD 投资者活动中表示，他们将使用 AMD 最新的 AI 芯片 Instinct MI300X。</p>
+<p>图形处理器（GPU）对于创建和部署 OpenAI 的 ChatGPT 等人工智能程序至关重要。众多科技公司正在寻找昂贵的英伟达 GPU 的替代品，以降低成本。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/7fe30c34-a326-48c9-b6e2-1e688ec3e1ae.jpeg" /></p>
+<p>当日，AMD 在美国加州圣何塞举行的 Advancing AI 活动上，推出其 AI 芯片 Instinct MI300 系列产品，包括 MI300A 与 MI300X 等新品与配套软件、服务等。</p>
+<p>据介绍，其 AI GPU 加速器 Instinct MI300X 由 8 个 MI300X 组成，能够提供高达 1.5TB 的 HBM3 内存容量。</p>
+<p>与英伟达的 H100 HGX 相比，Instinct MI300X 加速器在运行大语言模型推理时的吞吐量和时延表现都要明显高出一截，在各项 AI 和 HPC 项目中也更加优异。</p>
+<p>据报道，如果 AMD 最新高端芯片在明年年初开始出货时，足以满足科技公司和云服务提供商构建和服务 AI 模型的需求，那么它可能会降低开发 AI 模型的成本，并对英伟达飙升的 AI 芯片销售增长构成竞争压力。</p>
+<p>AMD 周三没有透露 MI300X 的定价，不过 AMD 首席执行官苏姿丰表示，AMD 芯片的购买和运行成本必须低于英伟达的芯片，才能说服客户购买它。</p>
+<h3>蔚来回应裁员比例扩大：不实消息，没有进一步裁员计划</h3>
+<p>据界面新闻报道，针对蔚来汽车将扩大裁员比例的消息，蔚来汽车回应表示，公司没有进一步裁员计划，并将继续在其所运营的市场进行「动态调整」。</p>
+<p>昨日早些时候，据彭博社报道，为降低成本并提高效率，蔚来汽车将进一步裁员。</p>
+<p>报道称，消息人士透露，一些部门已被要求准备预备裁员名单，可能会将单位内部原裁员比例扩大至 20% 至 30%。</p>
+<p>知情人士表示，任何削减都将主要针对非核心业务，或那些需要大量投资且不会产生快速回报的业务。销售等其他更核心的业务仍在进行招聘。</p>
+<h3>快手开启年内最大规模组织架构调整</h3>
+<p>据界面新闻，快手发布内部邮件宣布新一轮组织调整。</p>
+<p>此次组织调整涉及主站、电商、商业化、社区科学等多个业务线，是今年以来最大范围的一次组织架构调整。</p>
+<p>其中商业化事业部下本地消费业务部调整至主站线下，更名为招聘房产业务部，负责快聘、房产相关业务，取消主站产品部，主站线下成立孵化产品部，负责快影、一甜相机、回森等独立 app 产品。</p>
+<h3><a href="https://www.technologyreview.com/2023/12/06/1084539/google-ceo-sundar-pichai-on-gemini-and-the-coming-age-of-ai/"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4a1.png" style="height: 1em;" />新技术会引发失业？Google CEO：正确部署可创造新岗位，不采用则可能导致失业增加</a></h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/331e95a2-0d21-41db-97e7-8c3ad256a036.jpeg" /></p>
+<p>在 Gemini 大模型发布前夕，Google CEO Sundar Pichai 接受了《麻省理工学院技术评论》杂志的专访，他谈到即将到来的人工智能时代。</p>
+<p>关于新技术对就业市场的影响，Sundar Pichai 表示，「技术的发展并不会因为某一家公司的决策而停止」，例如 Google 从未提供面部识别 API，但其他公司也开发出了这项技术。</p>
+<p>Pichai 说道，如果公司不采取这些新技术，可能会影响其经济实力，并可能导致更多工作岗位的丧失。</p>
+<p>他认为，「正确的答案应该是负责任地部署技术并取得进展，并考虑如何减轻其可能带来的负面影响。这将创造出新的就业机会，将人们从重复性工作中解放出来，更有创意地表达自己」。</p>
+<p>对于人工智能的发展，Pichai 表示他是一个技术乐观主义者，「总的来说，我相信人类可以利用技术来造福社会。人工智能确实具有两面性，但我们需要大胆前进，推动技术的发展」。</p>
+<p>同时，他表示，「也需要社会制定出相应的框架来应对可能出现的问题，如深度造假、工作岗位被取代等。这将是我们未来十年需要努力解决的最大问题之一」。</p>
+<section><img alt="新产品" src="https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png" /></section>
+<h3>郭明錤：苹果将对 iPhone 16 麦克风进行重大升级，以提升 Siri 的 AI 体验</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/f2d18ae6-03fc-440f-a269-46436b9b2c58.jpg" /></p>
+<p>天风国际证券分析师郭明錤表示，苹果计划对 iPhone 16 麦克风进行重大升级，以改善新的人工智能增强 Siri 体验。</p>
+<p>郭明錤在其最新的报告中指出，苹果在今年第三季度重组了 Siri 团队，目标是整合 AIGC 功能和大语言模型（LLM）。</p>
+<p>语音输入将成为移动设备上 AI/AIGC/LLM 的关键接口，因此加强 Siri 的软硬件功能和规格，是推动 AIGC 的关键。</p>
+<p>他表示，所有 iPhone 16 机型的麦克风都将进行重大升级。主要是带来更好的信噪比（SNR），可显著改善 Siri 使用体验。此外，新麦克风还将具有更好的防水性能。</p>
+<p>郭明錤认为，这表明苹果预计将更多 AI/AIGC 功能集成到 Siri 中，作为 iPhone 16 的主要卖点之一。</p>
+<h3>小米澎湃 OS 首批正式版开始陆续推送</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/4f82d9c7-ed0f-48ca-8207-f25ad673f065.jpeg" /></p>
+<p>在昨晚召开的小米澎湃 OS 体验沟通会上，小米正式对外公布了小米澎湃 OS 最新发布计划。</p>
+<p>包括小米 13、Redmi K60 在内的多款机型，从昨日起逐步更新小米澎湃 OS。</p>
+<p>小米集团手机部副总裁金凡表示，小米澎湃 OS 进行了大量功能重构和全新美学设计，发布后获海量媒体与用户好评。</p>
+<p>小米澎湃 OS 技术白皮书也于昨日正式发布，详细阐述了小米澎湃 OS 的核心技术，包括各子系统的技术架构与关键技术介绍。​</p>
+<h3>Meta 推出独立 AI 图像生成器</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/e9b8d6f4-6541-4c42-8df6-51ea5ad3c4ad.jpg" /></p>
+<p>Meta 推出一款全新的、独立的 AI 图像生成器 —— Imagine with Meta，允许用户通过自然语言描述来创建图像。</p>
+<p>Imagine with Meta 由 Meta 现有的 Emu 图像生成模型提供支持，可根据文本提示创建高分辨率图像。它目前对美国用户免费使用，并且每个提示都会生成四个图像。</p>
+<p>此前，Meta 图像生成模型因带有种族偏见的图像贴纸而面临争议。为了解决此类问题，Meta 表示将开始向 Imagine with Meta 生成的图像添加隐形水印，这些水印将由人工智能模型生成，并可由相应模型检测，以提高内容透明度。</p>
+<h3>真我 GT5 Pro 正式发布，首销 3298 元起</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/dd8563a3-bc25-4dbe-b2b9-11f78afecf31.jpg" /></p>
+<p>在昨天下午的真我 realme 新品发布会上，真我 GT5 Pro 正式发布，新机搭载第三代骁龙 8、超光影潜望长焦，售价 3399 元起，首销 3298 元起。</p>
+<p>真我 GT5 Pro 提供三款配色，其中「赤岩」和「皓月」配色采用高阶科技纳米皮，超 50 万次耐磨测试，手感亲肤更耐磨；「星夜」配色则采用星闪 AG 玻璃工艺。</p>
+<p>性能方面，真我 GT5 Pro 搭载第三代骁龙 8 处理器，采用 3VC 冰山散热系统，面积达到 12000mm²，拥有 6 倍等效导热能力。此外还首发极客性能面板 2.0，首次开放 GPU+CPU 双调度。</p>
+<p>针对游戏场景，GT5 Pro 搭载全新超凡电竞光追引擎，首批支持《逆水寒》手游光线追踪 2.0。支持游戏专属内存 Pro、2160Hz 电竞触控引擎、行业首创隔膜触控模式、燃模式适配主流散热背夹。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/f8019911-0ebb-41ca-ab2f-493403aa1b79.jpeg" /></p>
+<p>影像方面，真我 GT5 Pro 搭载索尼光喻 LYT-808 超光影主摄，光影超越 1 英寸；联合高通和虹软首发超芯长焦影像系统，搭载 IMX890 超光影潜望长焦，支持 3X 光学变焦、6X 无损变焦、长焦特写、暗光长焦人像。</p>
+<section><img alt="新消费" src="https://s3.ifanr.com/images/ep/common-images/pin_pai.png" /></section>
+<h3>麦当劳将引入 AI 以提供更新鲜的食物</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/416b30f4-0883-432a-9ae2-59cb3bd9ed1d.jpeg" /></p>
+<p>麦当劳宣布与 Google 合作，从 2024 年开始部署生成式 AI 技术，届时「数千家」餐厅将进行硬件和软件升级。</p>
+<p>随着点餐设备和手机应用程序等其他系统的升级，麦当劳将能够在大量数据上使用生成式 AI 技术来优化运营。</p>
+<p>麦当劳表示，至少有一个成果是为顾客提供「更热、更新鲜的食物」。</p>
+<p>麦当劳的声明回避了 AI 是否会取代人类员工的问题，只是提到了该系统将「减少店员的复杂性」，并将「为员工和顾客提供令人兴奋的新体验」。</p>
+<h3>CASETiFY x《火影忍者》全新联名系列正式发布</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/2d96c0bc-ee71-4f5b-bc49-05e69ce7ded2.jpg" /></p>
+<p>CASETiFY 首次携手经典动画《火影忍者》，打造一系列轻便、敏捷的手机装备。</p>
+<p>此次推出以独特印刷技术打造的镜面手机壳，并有「漩涡鸣人」、「宇智波佐助」、「宇智波鼬」、「旗木卡卡西」、「波风凑」和「春野樱」6 种款式。</p>
+<p>还有印上「晓」组织红云图案的防摔手机壳与 AirPods 保护壳，以及挂有忍者武器「苦无」的多功能手机背带等单品。</p>
+<p>CASETiFY x《火影忍者》全新联名系列将于 12 月 13 日正式发售。</p>
+<h3>District Vision x New Balance 合作鞋款发售</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/53d6b052-cdd8-444e-b2a6-ee1a328478a1.jpg" /></p>
+<p>近日，New Balance 再度携手 District Vision 打造合作款越野跑鞋 Fresh Foam X More Trail。</p>
+<p>鞋款采用两种标志性大地色调的工程网眼鞋面，厚实柔软的「Fresh Foam」工程网布鞋面提供出色的透气性。</p>
+<p>两侧的「N」标志、鞋头、鞋跟稳定器和孔眼上均饰有触感覆盖层，辅以合作版鞋舌标签图案，配有两层设计的厚中底，兼具缓冲性和稳定性。</p>
+<p>据悉该合作鞋款将于 12 月 11 日在 New Balance 官网发售。</p>
+<section><img alt="好看的" src="https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png" /></section>
+<h3>Taylor Swift 被《时代周刊》评为 2023 年度人物</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/393fdb8c-b73c-4741-9cee-ac5dca04e7a8.jpg" /></p>
+<p>泰勒·斯威夫特 (Taylor Swift) 被《时代周刊》评为 2023 年「年度人物」。</p>
+<p>《时代周刊》称：「虽然她的受欢迎程度在过去几十年里不断增长，但今年 33 岁的斯威夫特实现了一种核聚变：将艺术和商业结合在一起，释放出历史性的力量」。</p>
+<p>《时代周刊》表示，斯威夫特被选中是因为她找到了一种方法，可以在一些严重黑暗的时期给世界各地的人们带来希望。</p>
+<p>斯威夫特说：「这是我所感受到的最自豪和最幸福的事情，也是我所经历过的最有创意的满足和自由」。</p>
+<h3>《逃脱》发布新剧照</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/fecebc18-d90a-402d-96d0-fc375e4fb5bc.jpeg" /></p>
+<p>西尔莎·罗南主演新片《逃脱》发布新剧照，将在圣丹斯电影节首映。</p>
+<p>基于艾米·利普罗特所著回忆录，她和芬沙伊德改编剧本，讲述刚从康复中心出来的罗娜在离开十多年后，回到了苏格兰的奥克尼群岛，回到童年时的牧羊场，再度体会到了自然之美和静谧的珍贵。</p>
+<h3>《阴阳师 0》发布新海报</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/cd4f23b2-445c-49be-9478-4a2ae0c1ac4f.jpeg" /></p>
+<p>佐藤嗣麻子编剧并执导的《阴阳师 0》发布新海报和卡司阵容。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231207/f0580811-01b9-47b2-b7d6-72a9642ef3c1.jpeg" /></p>
+<p>山崎贤人饰演安倍晴明，染谷将太饰演源博雅，奈绪饰演徽子女王，安藤政信饰演平郡贞文，村上虹郎饰演橘泰家，板垣李光人饰演帝，国村隼饰演贺茂忠行，北村一辉饰演惟宗是邦，小林薰饰演藤原义辅。</p>
+<p>本片聚焦安倍晴明学生时代的故事，将于 2024 年 4 月 19 日在日本上映。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1570025">原文链接</a> ·
+<a href="https://www.ifanr.com/1570025#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 08 Dec 2023 00:34:12 +0000</pubDate>
+<updated>Fri, 08 Dec 2023 00:34:12 +0000</updated>
+</item>
 
 <item>
 <title>真我 GT5 Pro 体验：起售价 3298 元，主摄级高质量长焦，一台性能也是旗舰级的拍照手机</title>

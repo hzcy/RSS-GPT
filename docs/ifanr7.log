@@ -30694,3 +30694,12 @@ Existing_entries: 197
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-07 23:48:30.714613
+------------------------------------------------------
+Started: 2023-12-08 00:43:52.162066
+Existing_entries: 197
+Fetching from https://www.ifanr.com/feed
+Token length: 5531
+Summarized using GPT-3.5-turbo-16k
+Append: [早报｜苹果将对 iPhone 16 麦克风进行重大升级/不到 20 万，特斯拉平价电动车进展曝光/12306 改版新增折扣等信息](https://www.ifanr.com/1570025?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-08 00:43:57.228685
