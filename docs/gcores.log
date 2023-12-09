@@ -34899,3 +34899,18 @@ Existing_entries: 778
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-09 11:19:06.982260
+------------------------------------------------------
+Started: 2023-12-09 11:33:50.610479
+Existing_entries: 778
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 690
+Summarized using GPT-3.5-turbo-16k
+Append: [合作迷你高尔夫游戏《友尽高尔夫》推出全新团队模式](https://www.gcores.com/articles/174876)
+Token length: 642
+Summarized using GPT-3.5-turbo
+Append: [休闲城镇建设游戏《愿景之城》更新增加了特殊卡牌、科学卡组和季节内容](https://www.gcores.com/articles/174875)
+Token length: 491
+Summarized using GPT-3.5-turbo
+Append: [《小小贴纸铺》新DLC“来做计划吧”将于12月18日发布](https://www.gcores.com/articles/174873)
+append_entries: 3
+Finish: 2023-12-09 11:33:53.277421
