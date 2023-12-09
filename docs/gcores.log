@@ -34938,3 +34938,12 @@ Existing_entries: 781
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-09 13:09:54.109951
+------------------------------------------------------
+Started: 2023-12-09 13:23:07.736465
+Existing_entries: 781
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 839
+Summarized using GPT-3.5-turbo
+Append: [《沙雕鸽鸽大逃杀》第二赛季今日上线](https://www.gcores.com/articles/174874)
+append_entries: 1
+Finish: 2023-12-09 13:23:31.594294
