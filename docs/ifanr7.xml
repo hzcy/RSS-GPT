@@ -4,6 +4,489 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>早报｜OpenAI 员工签署公开信或迫于压力/支付宝宣布启动鸿蒙原生应用开发/张朝阳建议年轻人要早起</title>
+<link>https://www.ifanr.com/1570161?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1570161?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"832935bc39f382ff","b":1,"version":"2023.10.0","token":"a4fc08d68d7144a29442f19fe8834aaa"}' crossorigin="anonymous"></script>
+ <div>
+<div style="padding: 0 14px; text-align: center;"><img alt="cover" src="https://s3.ifanr.com/images/ep/cover-images/yong_bao_shan_jing_de_nv_ren_cover.jpg" /></div>
+<div style="padding: 0 14px;">
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="⌚" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/231a.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">2999 元起，苹果上架纪念世界艾滋病日手表</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="👨‍💼" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f468-200d-1f4bc.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">OpenAI 员工称不想去微软工作，签署公开信是迫于压力</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤖" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f916.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Google 承认 Gemini 大模型演示视频有剪辑成分</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎭" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ad.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">法国普德赋亚洲首秀即将启幕</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">苹果计划在印度每年生产超过 5000 万部 iPhone</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🤝" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f91d.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">支付宝宣布启动鸿蒙原生应用开发</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🚘" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f698.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">比亚迪急招智驾人才，多款车型计划采用自研泊车功能</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📁" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4c1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">夸克大模型通过备案</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🛏" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f6cf.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">张朝阳建议年轻人要早起</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f1.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《崩坏：星穹铁道》获 2023 TGA 年度最佳手游</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ae.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">《重生边缘》12 月 14 日正式公测</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="💰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4b0.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">lululemon 2023 财年第三季度中国市场净营收同比增长 53%</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🌸" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f338.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">Pantone 公布 2024 年度代表色</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🐱" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f431.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">One Fun Thing | 当时装遇上可爱猫猫</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="📺" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4fa.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">周末看什么 |《冰血暴》第五季</p>
+</div>
+</div>
+<div>
+<p style="float: left; margin-right: 6px; margin-bottom: 0; width: 30px;"><img alt="🎮" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f3ae.png" style="height: 1em;" /></p>
+<div style="margin-bottom: 0; width: 88%;">
+<p style="margin-bottom: 0;">游戏推荐 |《GigaBash 巨击大乱斗》</p>
+</div>
+</div>
+</div>
+<h3><img alt="📰" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/1f4f0.png" style="height: 1em;" /> 周末也值得一看的新闻</h3>
+<h3>2999 元起，苹果上架纪念世界艾滋病日手表</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/d0861f7c-e802-40c3-8d9f-45e9ac192571.jpg" /></p>
+<p>为纪念世界艾滋病日，苹果推出一款红色铝金属 Apple Watch Series 9 手表。</p>
+<p>新款 Apple Watch 的价格与其他铝合金外壳版本保持一致，起售价 2999 元，目前已正式上架 Apple Store。</p>
+<p>此外，用户可以探索各种表盘，包括大都会、世界时间、数字单色、渐变和条纹等，全部以大胆的红色色调呈现。</p>
+<h3><a href="https://www.businessinsider.com/openai-employees-did-not-want-to-work-for-microsoft-2023-12">OpenAI 员工称不想去微软工作，签署公开信是迫于压力</a></h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/70d47954-17ce-4525-83db-5e4fa3a2678b.jpg" /></p>
+<p>上个月，OpenAI 创始人 Sam Altman 被罢免后，公司超 700 名员工签署公开信，要求董事会辞职，否则可能集体投奔微软。</p>
+<p>而据 Business Insider 报道，近日，几位 OpenAI 现任和前任员工表示，大多数员工对为微软工作并不是真正有兴趣，这只是一种「大胆的虚张声势之举」。</p>
+<p>一名 OpenAI 现任员工表示，尽管几乎所有员工都报名追随 Altman 离开，但「没有人愿意去微软」。他还说道，微软是所有大型科技公司中「最大且最慢」的公司。</p>
+<p>这名员工承认，由于对加入微软不感兴趣，许多 OpenAI 员工是「迫于压力」签署了公开信。</p>
+<p>此外，据报道，OpenAI 员工的报酬非常丰厚，基本工资通常为 30 万美元起，四年内员工还可获得价值 200 万美元的股权，有些员工的薪酬甚至更高。</p>
+<p>尽管微软同意以同等薪酬水平聘用所有 OpenAI 员工，但当时只是口头协议。一名员工还认为，微软不太可能向离职员工支付他们在加入这家科技巨头时会失去的股权。</p>
+<h3><a href="https://www.bloomberg.com/opinion/articles/2023-12-07/google-s-gemini-ai-model-looks-remarkable-but-it-s-still-behind-openai-s-gpt-4">Google 承认 Gemini 大模型演示视频有剪辑成分</a></h3>
+<p>当地时间周三，Google 突然发布其重磅 AI 杀手锏 Gemini。据介绍，Gemini 是一个多模态大模型，这意味着它可以概括并无缝地理解、操作和组合不同类型的信息，包括文本、代码、音频、图像和视频。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/7904e002-2a75-4bf6-b821-bfbdaa390199.jpg" /></p>
+<p>随后，Google 还发布了一段六分钟的演示视频，展示了多模态模型（即它理解并混合语言和视觉理解）如何灵活地响应各种输入。</p>
+<p>据彭博社报道，视频所展示的许多功能并不是独一无二的，完全可以通过 ChatGPT Plus 来复制 Gemini 的表现。</p>
+<p>Google 也承认，该视频经过了剪辑，它在视频描述中写道，「出于演示的目的，为了简洁起见，延迟已经减少，Gemini 的输出也已缩短」。</p>
+<p>另外，演示也不是实时或语音进行的。 Google 发言人表示，该视频使用了静态图片和多段提示词拼凑，才能达成这样的效果。</p>
+<h3>法国普德赋亚洲首秀即将启幕</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/81245d06-ac46-4ef7-973e-725a28dbfb20.jpg" /></p>
+<p>据普德赋官微消息，法国主题乐园品牌普德赋（Puy du Fou）亚洲首个项目「光明之城」即将揭幕。</p>
+<p>据介绍，「光明之城」是该主题公园走出欧洲的第一个项目，建筑总面积约 4.6 万平方米，包含了沉浸式剧场、配套主题餐厅以及其他配套设施，打造「全球最大的」城市中心超沉浸「行进式观影」剧场。</p>
+<p>官方表示，通过提供「超沉浸式的剧场体验」重现上世纪 30 年代的老上海风情，带来全球首部「线下实景电影」巨制。</p>
+<p>「数字潮牌」爱范儿公司为该项目提供数字化服务。这是继默林娱乐集团（Merlin Entertainments）之后，爱范儿公司数字化业务所服务的又一个重要客户。</p>
+<h3>苹果计划在印度每年生产超过 5000 万部 iPhone</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/fef18f00-055e-4370-b4e9-a8a6517c332a.jpg" /></p>
+<p>据《华尔街日报》报道，相关人士透露，苹果及其供应商的目标是在未来两到三年内，在印度每年生产超过 5000 万部 iPhone，之后还计划生产数千万部。</p>
+<p>如果计划得以实现，印度将占全球 iPhone 产量的四分之一。</p>
+<p>另据彭博社报道，知情人士透露，塔塔集团计划在印度南部泰米尔纳德邦的霍苏尔新建一家大型 iPhone 组装厂。</p>
+<p>据悉，两年内该工厂可能会配备大约 20 条装配线，并雇佣 5 万名工人。这家工厂力争在 12-18 个月内投入运营。</p>
+<h3>支付宝宣布启动鸿蒙原生应用开发</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/43e91a40-ee21-486a-9b33-0393997c3a13.jpeg" /></p>
+<p>12 月 7 日，支付宝与华为终端宣布合作，基于 HarmonyOSNEXT 启动支付宝鸿蒙原生应用开发，成为又一家启动鸿蒙原生应用开发的头部平台伙伴。</p>
+<p>华为常务董事、终端 BG CEO、智能汽车解决方案 BU 董事长余承东发文称：「华为不断和越来越多的合作伙伴一起努力，发展面向万物互联时代的鸿蒙生态。今天又迎来了重要里程碑，大家常用的支付宝也将全面启动鸿蒙原生应用开发了」。</p>
+<p>近期，华为 HarmonyOS 官方接连宣布钉钉、小红书、哔哩哔哩、高德地图、麦当劳等多家企业启动鸿蒙原生应用的开发。</p>
+<p>据介绍，截至目前，Top20 移动互联网应用中已有近半数启动了鸿蒙原生应用的开发。</p>
+<h3>比亚迪急招智驾人才，多款车型计划采用自研泊车功能</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/bda71dc4-9d50-46c3-9da2-282e3c55176d.jpeg" /></p>
+<p>据晚点 Auto 报道，比亚迪正在加快自研智驾算法、替换供应商。去年以来，多名总监及以上级别智驾人士加入比亚迪规划院。</p>
+<p>2023 年 9 月前后，原高合智能驾驶总监许凌云加入规划院电子集成部；2022 年 6 月前后，原沃尔沃汽车自动驾驶总监张立存加入规划院智能网联中心，负责智能驾驶部分创新业务；</p>
+<p>据公开信息，2023 年 8 月，原地平线智驾研发总监廖杰加入比亚迪，担任规划院智能驾驶上海团队负责人。</p>
+<p>一名猎头称，比亚迪目前仍在招聘智能驾驶算法及芯片的高级别人才。</p>
+<p>规划院近期引入多名高级别人才，这可能意味着比亚迪提高了对自研高阶智驾算法的重视。</p>
+<p>此外，据知情人士透露，目前开发的车型中，计划使用自研泊车算法的至少有 5 款。其中，自研泊车在一款新车型上成为第一供应商，该车型计划明年上市。</p>
+<h3>夸克大模型通过备案</h3>
+<p>日前，阿里智能信息事业群自研的夸克大模型已通过备案，将陆续在通识、健康、创作等领域升级内容产品与智能工具，并落地一系列 AIGC 创新应用。</p>
+<p>11 月 14 日，阿里巴巴智能信息事业群发布全栈自研、千亿级参数的夸克大模型。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/c7a3c65c-fb4d-4f9a-8ad5-00ed5ccc277f.jpeg" /></p>
+<p>该模型将应用于通用搜索、医疗健康、教育学习、职场办公等众多场景，夸克 app 也将借助自研大模型全面升级。</p>
+<p>夸克大模型也凭借四大优势，接连登顶 C-Eval 和 CMMLU 两大权威榜单，同时在法律、医疗、问答等领域的性能评测中夺冠。</p>
+<h3>张朝阳建议年轻人要早起</h3>
+<p>据新浪科技，近日，张朝阳和尹烨通过微博展开一场对话。</p>
+<p>搜狐创始人张朝阳建议，年轻人应严肃对待人生，首先树立价值观，问一问你这自己这辈子要干什么，要严肃地对待自己，不能随大流。他表示：</p>
+<blockquote><p>你为什么 6 点起来，你说我 9 点起来，我晚上还得工作，问题是这个世界 9 点钟开始运转，你 6 点钟起来想了 3 个小时之后，你 9 点钟可以马上付出行动。你起早了，晚上就睡的很好。</p></blockquote>
+<h3>《崩坏：星穹铁道》获 2023 TGA 年度最佳手游</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/0232cd0e-5856-4f05-8eff-94c5f9ff4577.jpeg" /></p>
+<p>12 月 8 日，在 TGA 2023 年颁奖典礼上，国产 3A 大作《黑神话：悟空》官宣明年 8 月 20 日发售，小岛秀夫带来和微软合作游戏《OD》，还有一系列游戏奖项公布。</p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/c45f0a96-0b9a-448d-85dc-9eaf5c472dca.jpeg" /></p>
+<p>来自中国米哈游旗下的银河冒险策略游戏《崩坏：星穹铁道》获得年度最佳移动游戏大奖。</p>
+<p>《博德之门 3》荣获 TGA 2023 年度游戏，《博德之门 3》更是狂揽 6 个重量级奖项；《心灵杀手 2》也有三个奖项入账。TGA 2023 获奖游戏汇总：</p>
+<ul>
+<li>年度游戏：《博德之门 3》</li>
+<li>最佳游戏指导：《心灵杀手 2》</li>
+<li>最佳动作冒险游戏：《塞尔达传说 王国之泪》</li>
+<li>最佳持续运营游戏：《赛博朋克 2077》</li>
+<li>最佳多人游戏：《博德之门 3》</li>
+<li>最佳艺术指导：《心灵杀手 2》</li>
+<li>最佳配乐与音乐：《最终幻想 16》</li>
+<li>最佳音效设计：《完美音浪》</li>
+<li>最佳游戏改编：《最后生还者》</li>
+<li>最佳叙事：《心灵杀手 2》</li>
+<li>最具影响力：《奇娅》</li>
+<li>最佳独立游戏：《星之海》</li>
+<li>最佳移动游戏：《崩坏 星穹铁道》</li>
+<li>最佳社区支持：《博德之门 3》</li>
+<li>最佳独立处女作：《COCOON》</li>
+<li>最佳 VR/AR 游戏：《生化危机 村庄 VR》</li>
+<li>年度内容创作者：IRONMOUSE</li>
+<li>最令人期待游戏：《最终幻想 7 重生》</li>
+<li>最佳 RPG：《博德之门 3》</li>
+<li>最佳格斗游戏：《街头霸王 6》</li>
+<li>最佳动作游戏：《装甲核心 6 境界天火》</li>
+<li>最佳无障碍游戏：《极限竞速》</li>
+<li>最佳家庭游戏：《超级马力欧兄弟 惊奇》</li>
+<li>最佳策略模拟游戏：《皮克敏 4》</li>
+<li>最佳运动/竞速游戏：《极限竞速》</li>
+<li>最佳表演：NEIL NEWBON（《博德之门 3》阿斯代伦）</li>
+<li>最佳电竞游戏：《无畏契约》</li>
+<li>最佳电竞选手：FAKER</li>
+<li>最佳电竞团队：JDG（英雄联盟）</li>
+<li>最佳电竞教练：EG. POTTER（无畏契约）</li>
+<li>最佳电竞赛事：S13 全球总决赛</li>
+</ul>
+<h3>《重生边缘》12 月 14 日正式公测</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/99f141f0-a9d0-470d-816f-946a38b7e334.jpg" /></p>
+<p>《重生边缘》12 月 14 日黎明公测来袭。</p>
+<p>12 月 7 日，《重生边缘》联合杜比实验室在深圳湾万象影城杜比影院举行了黎明公测沉浸式发布会。据悉，这还是国内首次影院路演式杜比全景声游戏发布会。</p>
+<p>在发布会上，除了公布新版本幻光黎明的相关信息外，还全球首发了《重生边缘》的主题曲——《Survive》。发布会上特别呈现了杜比全景声版的英文主题曲。</p>
+<p>据介绍，得益于杜比全景声的加持，《重生边缘》的音频团队才可以渲染出和 3D 场景呈现完全匹配的声场，突破一般 5.1 和 7.1 环绕声的限制。</p>
+<p>在游戏中，玩家可以通过听声音判断芯控纳米人的位置，了解队友的信息，使得战斗、叙事等方面，都能通过杜比全景声也能获得更加完整、更加沉浸的声音体验。</p>
+<h3>lululemon 2023 财年第三季度中国市场净营收同比增长 53%</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/2f56ea81-8fa1-4140-8c58-4f00345461e8.jpeg" /></p>
+<p>lululemon 发布 2023 财年第三季度财报。在第三季度，公司净营收同比增长 19% 至 22 亿美元，其中北美业务净营收增长 12%，国际业务净营收增长 49%，中国市场净营收同比增长 53%。</p>
+<p>对于 2023 财年第四季度，lululemon 预计净营收将在 31.35 亿美元至 31.70 亿美元之间，增长约 13% 至 14%。</p>
+<p>对于 2023 财年，lululemon 预计净营收将在 95.49 亿美元至 95.84 亿美元之间，增长约 18%。</p>
+<h3>Pantone 公布 2024 年度代表色</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/ed7ebc9d-d273-4f3d-880b-c1137bcbc3f2.jpg" /></p>
+<p>Pantone 正式公布 2024 年度色彩 —— 柔和桃（13-1023 Peach Fuzz）。</p>
+<p>据官方介绍，这是一种柔和的桃红色，通过包容的精神丰富思想、身体和心灵。</p>
+<p>这种温暖而舒适的色调，突显人与人在一起的渴望，微妙而性感，传达出关怀与分享、社区与合作的信息。</p>
+<p>同时，它还是一种感官的馈赠，营造了我们的味觉、视觉、触觉和嗅觉之间的共生关系。</p>
+<h3><img alt="✨" class="wp-smiley" src="https://s.w.org/images/core/emoji/11/72x72/2728.png" style="height: 1em;" /> 是周末啊！</h3>
+<h3>One Fun Thing | 当时装遇上可爱猫猫</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/558e528e-e212-4b93-9214-c27a2e99c6ec.jpeg" /></p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/d2c43dde-4762-4141-8cab-44c7454872ce.jpeg" /></p>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/3047a47b-b610-43df-a78d-f31d9e2b6af5.jpeg" /></p>
+<p>Coperni 2023 假日系列大片由可爱猫猫们演绎</p>
+<h3>周末看什么 |《冰血暴》第五季</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/505465c7-1bf8-4a5e-a377-499a0c1c9d48.jpg" /></p>
+<p>热剧《冰血暴》回归，第五季刚一开播，豆瓣评分便已来到 9.0 分.</p>
+<p>本季故事设定在 2019 年，将探讨两个问题：绑架在什么时候不算绑架，如果你的妻子并不是你的妻子？</p>
+<h3>游戏推荐 |《GigaBash 巨击大乱斗》</h3>
+<p><img alt="" src="https://s3.ifanr.com/images/ep/uploads/231208/a810d1a5-2529-4de2-baf3-6f3a450b3832.jpg" /></p>
+<p>本周 Epic 周免《GigaBash 巨击大乱斗》是一款多人大乱斗游戏。</p>
+<p>包括了巨大的以电影为灵感的怪兽，夸张的英雄们，毁天灭地的必杀技攻击以及可完全破坏的场地环境。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1570161">原文链接</a> ·
+<a href="https://www.ifanr.com/1570161#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Sat, 09 Dec 2023 00:30:07 +0000</pubDate>
+<updated>Sat, 09 Dec 2023 00:30:07 +0000</updated>
+</item>
 
 <item>
 <title>这支老牌乐队想靠科技永远摇滚下去</title>
