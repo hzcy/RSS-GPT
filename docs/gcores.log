@@ -35862,3 +35862,15 @@ Existing_entries: 789
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-11 06:48:20.190844
+------------------------------------------------------
+Started: 2023-12-11 07:09:43.848722
+Existing_entries: 789
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 171
+Summarized using GPT-3.5-turbo-16k
+Append: [为呈现更精良的游戏品质，《三国志8 Remake》宣布延期发售](https://www.gcores.com/articles/174930)
+Token length: 874
+Summarized using GPT-3.5-turbo
+Append: [迷宫饭OP「Sleep Walking Orchestra」完整版正式上线](https://www.gcores.com/articles/174925)
+append_entries: 2
+Finish: 2023-12-11 07:09:47.342577
