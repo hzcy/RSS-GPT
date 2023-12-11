@@ -32474,3 +32474,12 @@ Existing_entries: 204
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-11 10:11:24.943682
+------------------------------------------------------
+Started: 2023-12-11 10:31:25.126235
+Existing_entries: 204
+Fetching from https://www.ifanr.com/feed
+Token length: 4122
+Summarized using GPT-3.5-turbo-16k
+Append: [《绝区零》，不太米哈游](https://www.ifanr.com/1570075?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-11 10:31:29.949509

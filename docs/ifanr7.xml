@@ -4,6 +4,392 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>《绝区零》，不太米哈游</title>
+<link>https://www.ifanr.com/1570075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1570075?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> <!DOCTYPE html>
+<html coupert-item="9AF8D9A4E502F3784AD24272D81F0381"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>人机验证</title>
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/layer.js"></script>
+    <link rel="stylesheet" href="assets/layer.css" id="layuicss-layer">
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 14px;
+            background-color: #1F1F1F;
+        }
+
+        .background {
+            position: relative;
+            background: RGBA(60,60,60, 0.6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+            width: 400px;
+            height: 400px;
+            color: white;
+        }
+
+        .background input {
+            display: none;
+        }
+
+        .background .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 260px;
+            height: 60px;
+            border: 2px solid white;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .background .button:hover {
+            background-color: #343541;
+        }
+
+        .background .button .fas {
+            position: absolute;
+            color: #4caf50;
+            z-index: 2;
+            opacity: 0;
+        }
+
+        .background .circle {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            fill: none;
+            stroke: white;
+            stroke-width: 2px;
+            stroke-linecap: round;
+            stroke-dasharray: 183 183;
+            stroke-dashoffset: 183;
+            opacity: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: 0;
+            margin: auto;
+            pointer-events: none;
+            transform: rotate(-90deg);
+        }
+
+        .background input:checked ~ .button {
+            animation: button 0.5s ease both, fill 0.5s ease-out 1.5s forwards;
+        }
+
+        .background input:checked ~ .button .fas {
+            animation: check 0.5s ease-out 1.5s both;
+        }
+
+        .background input:checked ~ .circle {
+            animation: circle 2s ease-out 0.5s both;
+        }
+
+        @keyframes button {
+            0% {
+                width: 260px;
+                left: 70px;
+                border-color: white;
+                color: white;
+            }
+            50% {
+                color: transparent;
+            }
+            100% {
+                width: 60px;
+                left: 170px;
+                border-color: #45b078;
+                background: transparent;
+                color: transparent;
+            }
+        }
+
+        @keyframes circle {
+            0% {
+                stroke-dashoffset: 183;
+            }
+            50% {
+                stroke-dashoffset: 0;
+                stroke-dasharray: 183;
+                transform: rotate(-90deg) scale(1);
+                opacity: 1;
+            }
+            90%,
+            100% {
+                stroke-dasharray: 500 500;
+                transform: rotate(-90deg) scale(2);
+                opacity: 0;
+            }
+        }
+
+        @keyframes fill {
+            0% {
+                background: transparent;
+                border-color: white;
+            }
+            100% {
+                background: white;
+            }
+        }
+
+        @keyframes check {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+<style>
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Regular.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 400;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Regular.ttf);
+            unicode-range: U+61-7a;
+        }
+        
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Medium.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 600;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Medium.ttf);
+            unicode-range: U+61-7a;
+        }
+
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Roboto-Bold.ttf);  
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+41-5a;
+        }
+        @font-face{
+            font-family: 'Aileron'; 
+            font-weight: 700;
+            src: url(chrome-extension://mfidniedemcgceagapgdekdbmanojomk/font/Aileron-Bold.ttf);
+            unicode-range: U+61-7a;
+        }
+     
+    </style><link rel="prefetch"><style type="text/css">#_copy{align-items:center;background:#4494d5;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:13px;height:30px;justify-content:center;position:absolute;width:60px;z-index:1000}#select-tooltip,#sfModal,.modal-backdrop,div[id^=reader-helper]{display:none!important}.modal-open{overflow:auto!important}._sf_adjust_body{padding-right:0!important}.super_copy_btns_div{position:fixed;width:154px;left:10px;top:45%;background:#e7f1ff;border:2px solid #4595d5;font-weight:600;border-radius:2px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;z-index:5000}.super_copy_btns_logo{width:100%;background:#4595d5;text-align:center;font-size:12px;color:#e7f1ff;line-height:30px;height:30px}.super_copy_btns_btn{display:block;width:128px;height:28px;background:#7f5711;border-radius:4px;color:#fff;font-size:12px;border:0;outline:0;margin:8px auto;font-weight:700;cursor:pointer;opacity:.9}.super_copy_btns_btn:hover{opacity:.8}.super_copy_btns_btn:active{opacity:1}</style></head>
+<body style="background: url(&#39;assets/images/background.png&#39;) fixed no-repeat;background-size: cover;">
+<div class="background">
+    <input type="checkbox" id="button">
+    <label for="button" class="button">
+        点击进入<i class="fas fa-check"></i>
+    </label>
+    <svg class="circle">
+        <circle cx="32" cy="32" r="31"></circle>
+    </svg>
+</div>
+
+<script>
+    $('.button').click(() => {
+        setTimeout(() => {
+            $.post("/recaptcha/api/login", {token: 'abcdefghijklmnopqrst'}, res => {
+                if (res.code != 200) {
+                    layer.msg(res.msg);
+                    return;
+                }
+                window.location.reload();
+            });
+        }, 1300);
+    });
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"833d0eeb2e07627b","b":1,"version":"2023.10.0","token":"a4fc08d68d7144a29442f19fe8834aaa"}' crossorigin="anonymous"></script>
+ <div>
+<p><img alt="" class="alignnone size-full wp-image-1570054" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/12/20.jpg" width="1920" /></p>
+<p>昏暗的灯光下，一台老式复古 CRT 电视，正循环播放着各种电视广告。</p>
+<p>这是米哈游旗下最新游戏——《绝区零》的登录界面，换作是《原神》里的天空岛，或是《崩坏星穹铁道》中驶向银河的列车，大部分人估计会不假思索，直接点击进入游戏。</p>
+<p>不过，如果你愿意在《绝区零》的登录界面多待几分钟，的确会看到意外的惊喜。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570073" height="392" src="https://s3.ifanr.com/wp-content/uploads/2023/12/1.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲登录界面隐藏的杂货店广告</p>
+</div>
+<p>我细数了下，不到 5 分钟的时间内，这台电视足足播放了 14 条不重样的广告内容：有致敬特摄片的《星辉骑士》，有怪诞惊悚风的《波特山》，还有风格鲜明的能量饮料、运动球鞋和街头潮玩店广告&#8230;&#8230;</p>
+<p>光是一个登录界面，就能埋下这么多梗，也能看出制作这款游戏的团队，是一群什么样的人了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570072" height="720" src="https://s3.ifanr.com/wp-content/uploads/2023/12/2.jpg" width="1280" /></p>
+<div class="editor-image-source">
+<p>▲拿到版号的《绝区零》，近期火速开启了第二次测试</p>
+</div>
+<p>如果说米哈游之前的《原神》、《崩坏：星穹铁道》，亦或是更早的《崩坏 3》，在题材上都偏向奇幻冒险风格，那么《绝区零》，则更多呈现出一种二次元与潮流文化的碰撞融合，反倒带有些叛逆和不羁。</p>
+<p>两个月前，在接受日本 IGN 采访时，《绝区零》游戏制作人李振宇就曾表示：「都市元素，是本作有别于原神等其它米哈游游戏的重要特征之一。」设计师出身的他，更希望在风格上，做出明显的改变。</p>
+<p>这似乎也奠定了某种基调：绝区零，不太米哈游。或者说，是米哈游的 B 面</p>
+<h3>米哈游最「潮」游戏来了</h3>
+<p>「潮酷」与「街头感」，是我对绝区零的第一印象。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570071" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/3.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲六分街的整体风格，能让你联想起许多潮流街头文化空间</p>
+</div>
+<p>一来，是来自场景的感知：《绝区零》的主城区「六分街」融入了大量的街头、潮流风格元素，而且各家店面都进行了精心设计。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570070" height="1114" src="https://s3.ifanr.com/wp-content/uploads/2023/12/4-2.jpg" width="1353" /></p>
+<div class="editor-image-source">
+<p>▲每家门店都具备功能性，比如咖啡店和拉面店均可以提供增益 buff</p>
+</div>
+<p>这里有开咖啡店的机器人，装有机械义肢的拉面店老板，以及看管报摊亭的小狗。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570069" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/5.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲街机厅的游戏可以当作是附属小玩法</p>
+</div>
+<p>还有一间电玩街机厅，内置了两款致敬《贪食蛇》和《钻头小子》的街机游戏，而且，你真的可以上手去玩。</p>
+<p>加上随处可见的街头涂鸦、宣传海报、手写体招牌，以及来回行走的学生和路人，整个《绝区零》都营造出一种上世纪八九十年代的街头风，这对于玩家感知游戏格调，也起到了很好的效果。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570068" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/12/6.png" width="1920" /></p>
+<div class="editor-image-source">
+<p>▲主角的房间有着浓郁的怀旧气息</p>
+</div>
+<p>游戏内的主角所经营的录像店，更是充斥着各种复古怀旧要素：雅达利游戏主机、老式收音机、拍立得，以及布满货架的录像带影片&#8230;&#8230;</p>
+<p>你发现了吗，前文提到的登录界面中那台电视机，其实就摆在主角房间的沙发正前方。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570067" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/7-1.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲用电视墙来展现关卡</p>
+</div>
+<p>再者，《绝区零》的整体 UI 风格，也在有意识地与「潮酷」主题相融合。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570066" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/8.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲制作成录像带的回忆录</p>
+</div>
+<p>比如通过电视墙的表现手法来展现关卡，将剧情事件制作成一盘盘录像带，以及各种带有渐变色彩、闪烁特效的动态按钮等……</p>
+<p>种种这些，其实所有的设计都是在契合潮流的基调，强突显游戏的时尚感。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570065" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/9-1.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲全动态角色展示界面</p>
+</div>
+<p>还有角色的展示界面，每切换一个菜单栏，就会变换一次运镜，对角色不同角度进行展示，搭配上节奏感极强的电子背景音乐，都让游戏迸发出一种莫名的「张力」。</p>
+<p>通过各种界面细节、场景内容等设计表达，来展现游戏内文化、世界观的「自洽性」，这在《女神异闻录》、《Splatoon》等很多强风格化的游戏中，已经有了很好的诠释。</p>
+<p>在《绝区零》中，项目团队也在有意展现出自己对于都市风、街头感和潮酷文化的理解和认知。这也让本作在艺术风格的表达上，成为了目前米哈游游戏中，独树一帜的存在。</p>
+<h3>除了潮，还要爽</h3>
+<p>如果单纯描述游戏玩法的话，《绝区零》乍看之下算是个挺朴素的「3D 即时动作 RPG」，标准的多角色小队副本探索，并融入了 Rogue 自由选择元素，最终达到通关目的。</p>
+<p>但在体验了近 20 个小时后，我发现《绝区零》的战斗可以划分到「高速动作游戏」那一类：它比预想中要更爽快，更刺激，也更炫。</p>
+<p>这种感受来源于多个方面，首先最直观的一点，是战斗的「等待时间」明显变少了。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570064" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/10-1.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲ 游戏中的切人操作不存在 CD 时间，而且衔接十分自然</p>
+</div>
+<p>具体来说，我们在《原神》中看到的「换人 CD」、「技能 CD」，均在《绝区零》里被移除——尤其是切人这一操作，完全是 0 延迟触发，甚至达到了上一个角色还在放技能，下一位角色就已经出场的情况，衔接极其丝滑流畅。</p>
+<p>加上《绝区零》的战斗方式，是需要攻击敌人来叠满失衡值，从而实现破防；而战斗场地，又多为平面线性关卡，各个接敌区之间的间隙很短，也变相加快了战斗节奏。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570063" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/11.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲每一位角色释放终结技均会有动画演出</p>
+</div>
+<p>种种因素导致下，《绝区零》的战斗，其实是「鼓励进攻」的，玩家几乎不需要等待各种 CD 时间，或是无意义追怪闪避，或是寻求防御，「干架」几乎成了战斗中的唯一选择，主动进攻的欲望也变得更为强烈。</p>
+<p>其次，绝区零在战斗运用了大量定格帧与特写镜头，来提升战斗演出的表现力，进一步拉满了游戏的爽感。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570062" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/12.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲「打铁」</p>
+</div>
+<p>一个是「极限支援」，这是游戏中将「防反」与「切人」融合的机制，如果是近战角色实现判定，你就能看到类似《只狼》中的「弹刀」效果，配上熟悉的打铁声，确实非常带感。</p>
+<p>此外，当玩家触发连携技 QTE 时，镜头还会直接拉近，给当前角色一个慢动作特写镜头，并会无缝切换到下一个释放技能的角色。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570061" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/13.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲故障视觉特效在许多动画电影中也有所运用</p>
+</div>
+<p>最后，在收尾战斗时，时不时还会看到一组多视角的慢动作镜头，这里巧妙地结合了「GlitchArt」故障特效来提升视觉冲击力，其实也与游戏中通过电视墙来推进关卡的设定相符合。</p>
+<p>还有一点出乎意料，我在测试中试玩过的角色，几乎没有看到动作复用的情况——不管是角色待机、疾跑，还是战斗中的出招姿态，每个角色基本都使用了独立的动作模组。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570060" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/12/14.png" width="1920" /></p>
+<p>单看这点，《绝区零》角色所拥有的动作数，或许要比米哈游在原神、崩铁中要多得多，我想每一位经历过「动作模组复用」洗礼的玩家，更会对老米这波升级感触良深。</p>
+<h3>把控共性，寻求个性</h3>
+<p>米哈游游戏在一些内核上，是有「共性」的。</p>
+<p>往大了说，产品管线的成熟化，让原神和星铁都实现了 42 天一周期的版更节奏，这是开发流程的共性；而落到玩法上，虽然原神和星铁品类不同，但两者在角色养成、系统机制上，都有相似之处，这是核心玩法的共性。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570059" height="1196" src="https://s3.ifanr.com/wp-content/uploads/2023/12/15.png" width="1200" /></p>
+<div class="editor-image-source">
+<p>▲用原铁地材料去类比，的确能极大降低理解成本</p>
+</div>
+<p>比较有意思的是，不管是今年星铁刚上线，还是这次绝区零二测，我都能看到热心玩家制作的「一图读懂 XXX」，他们将新游戏中的各项设定，分门别类对应到老游戏中，老玩家一看，自然都心领神会。</p>
+<p>甚至，当我在《绝区零》中听到角色猫宫又奈的声线，都能听出一些熟悉感。翻看声优列表，还真的是同一个人。</p>
+<p>问题来了，作为一款主打潮酷主题的游戏，《绝区零》的「个性」在哪？一贯擅长以内容和角色打动玩家的米哈游，又如何在本作中体现它的差异化？</p>
+<p><img alt="" class="alignnone size-full wp-image-1570058" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/16.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲玩家在《绝区零》中不再扮演自己，更多是从一对兄妹的视角出发</p>
+</div>
+<p>一个是叙事视角的改变：在原神、崩铁中，我们一般是以第一人称的的身份，参与到游戏冒险之中，所以不管是旅行者还是开拓者，基本不会有太多带配音的剧情，也是为了增强玩家自己的代入感。</p>
+<p>但在《绝区零》中，虽然仍然保留了选择男女的环节，但在剧情上，更多是以铃和哲这对绳匠兄妹的视角，去经历剧情中的大小事件。</p>
+<p>这也使得游戏剧情的个人主观色彩不再那么强烈，但相对的，视角的多元化也进一步拓宽了剧情的视野，尤其是这对性格迥异的兄妹，在剧情中交互颇多，很少会有自说自话的表达方式。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570057" height="393" src="https://s3.ifanr.com/wp-content/uploads/2023/12/17.gif" width="700" /></p>
+<div class="editor-image-source">
+<p>▲漫画风的剧情演出新鲜感极强</p>
+</div>
+<p>剧情演绎的方式也得到了拓宽。这里不得不提一下《绝区零》的漫画分镜过场了，丰富的动态分格，以及气泡框、效果线等常见漫画元素的运用，大大提升了剧情演出的体验层次，重要的是，这与游戏本身潮的基调并不冲突。</p>
+<p>再者，《绝区零》目前所放出的角色群，不仅设定新颖，而且都极具辨识度。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570056" height="1440" src="https://s3.ifanr.com/wp-content/uploads/2023/12/18.jpg" width="2560" /></p>
+<p>猫耳兽娘、furry 狼哥、傲娇女仆、时尚辣妹、假面骑士机器人…… 几乎所有你能想到的亚文化元素，你都能从《绝区零》中找到对应的体现，而且除了普通人类，还有大量的亚人族、机甲等设定。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570055" height="1837" src="https://s3.ifanr.com/wp-content/uploads/2023/12/19.jpg" width="2064" /></p>
+<div class="editor-image-source">
+<p>▲游戏中不同阵营的穿搭风格，有着明显差异</p>
+</div>
+<p>此外，每一位角色均有「阵营」的设定，所以在衣着搭配上也有各自的特色——比如其中的「白祇重工~」四人组，便参考了粗犷厚重的工装风，而福瑞狼哥所属的「维多利亚家政」，更像是一群身着西装、女仆装的管家执事，风格化十分明显。</p>
+<p>角色的武器也很有意思。不仅拥有符合自身流派设定，而且基本是将生活中随处可见的道具进行改装——「白祇重工」用的是冲击钻、钉枪、柱子等「工地设备」，而「狡兔屋」用的则是短刀、双枪、手提箱等更具街头气息的武器。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570054" height="1080" src="https://s3.ifanr.com/wp-content/uploads/2023/12/20.jpg" width="1920" /></p>
+<p>哦对了，我似乎并没有看到法杖、魔导书这样的东西…</p>
+<p>我所能想到的原因，是制作团队希望做出符合游戏基调的产物，如开头所说，「都市感」、「潮酷」是绝区零的内核，比起剑与魔法的世界，或许上演一场「街头乱斗」，会更符合绝区零的调调。</p>
+<p>但，谁能保证以后不会出现一位赛博流派的法师呢？</p>
+<h3>米哈游的新征程</h3>
+<p>毫不夸张地说，目前的《绝区零》，完全不像是一款仍处于非计费测试期，未正式上线游戏的品质。</p>
+<p>它的成熟度高得惊人——不仅延续了米哈游一贯的美术优势，而丰富多元化的角色，也准确切中了当代亚文化玩家的喜好，还有酷炫的动作玩法，最展现出一个品质极高的酷潮世界。</p>
+<p>在这样的前提下，一些欠缺打磨的部分，在测试期似乎也显得不那么重要了——比如敌人种类偏少、关卡内场景较为单一、单次空洞探索时间偏长、空洞高难关对手残玩家不会很友好等等，都有再改进调优的空间。</p>
+<p>对米哈游来说，《绝区零》已经交出了一份异常新颖且大胆的答卷，或许他们要考虑的，是明年《绝区零》上线后能够达到的高度——许多公司可以碰运气开发出一个还不错的作品，但连续赢两次的可并不多。当原神和星铁，已经证明这家公司的工业化打造能力后，绝区零，是否能凭借不一样的潮酷题材，再次赢得商业与口碑上的成功？</p>
+<p>结果尚无定论，让我们拭目以待。</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1570075">原文链接</a> ·
+<a href="https://www.ifanr.com/1570075#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Mon, 11 Dec 2023 10:16:05 +0000</pubDate>
+<updated>Mon, 11 Dec 2023 10:16:05 +0000</updated>
+</item>
 
 <item>
 <title>Poly Voyager Surround 80 UC 体验：21 天续航加双重降噪，听感最舒服的办公耳麦</title>
