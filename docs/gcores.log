@@ -35829,3 +35829,18 @@ Existing_entries: 786
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-11 05:48:26.991894
+------------------------------------------------------
+Started: 2023-12-11 06:13:34.630171
+Existing_entries: 786
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 484
+Summarized using GPT-3.5-turbo-16k
+Append: [TV动画《我心里危险的东西》第2季公开正式PV，2024年1月6日开播](https://www.gcores.com/articles/174927)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [与《非自然死亡》《MIU404》同世界观，电影《LAST MILE》先导预告公开](https://www.gcores.com/articles/174926)
+Token length: 793
+Summarized using GPT-3.5-turbo
+Append: [TV动画《古连泰沙U》公开第1弹PV，2024年开播](https://www.gcores.com/articles/174929)
+append_entries: 3
+Finish: 2023-12-11 06:13:37.560099
