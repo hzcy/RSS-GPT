@@ -35754,3 +35754,18 @@ Existing_entries: 783
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-11 03:10:58.312534
+------------------------------------------------------
+Started: 2023-12-11 03:24:24.694360
+Existing_entries: 783
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 379
+Summarized using GPT-3.5-turbo
+Append: [Cygames公布新作《影之诗：超凡世界》，将于2024年推出](https://www.gcores.com/articles/174923)
+Token length: 434
+Summarized using GPT-3.5-turbo
+Append: [虚幻5全方位升级：《兄弟：双子传说》重制版上线Steam商城页](https://www.gcores.com/articles/174918)
+Token length: 335
+Summarized using GPT-3.5-turbo
+Append: [狼人杀游戏《行尸走肉：背叛》宣布停服，现有玩家可获全额退款](https://www.gcores.com/articles/174917)
+append_entries: 3
+Finish: 2023-12-11 03:24:52.582409
