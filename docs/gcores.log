@@ -35940,3 +35940,9 @@ Summarized using GPT-3.5-turbo
 Append: [卡牌塔防Roguelike游戏《最终坚守》将于2023年12月14日推出正式版](https://www.gcores.com/articles/174935)
 append_entries: 2
 Finish: 2023-12-11 09:34:53.679036
+------------------------------------------------------
+Started: 2023-12-11 09:48:30.650145
+Existing_entries: 793
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-11 09:48:30.877046
