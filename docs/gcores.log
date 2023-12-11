@@ -35928,3 +35928,15 @@ Existing_entries: 791
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-11 09:24:46.769622
+------------------------------------------------------
+Started: 2023-12-11 09:34:51.919975
+Existing_entries: 791
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 329
+Summarized using GPT-3.5-turbo
+Append: [科幻题材角色扮演游戏《深空梦里人》宣布将于2024年初更新简体中文支持](https://www.gcores.com/articles/174943)
+Token length: 733
+Summarized using GPT-3.5-turbo
+Append: [卡牌塔防Roguelike游戏《最终坚守》将于2023年12月14日推出正式版](https://www.gcores.com/articles/174935)
+append_entries: 2
+Finish: 2023-12-11 09:34:53.679036
