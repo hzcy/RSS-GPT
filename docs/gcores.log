@@ -36508,3 +36508,9 @@ Summarized using GPT-3.5-turbo-16k
 Append: [《卧龙》第三弹DLC“风起荆襄”现已发售，新增12个关卡](https://www.gcores.com/articles/174986)
 append_entries: 1
 Finish: 2023-12-12 10:10:55.873764
+------------------------------------------------------
+Started: 2023-12-12 10:30:09.506788
+Existing_entries: 808
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-12 10:30:09.667573
