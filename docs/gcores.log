@@ -36388,3 +36388,18 @@ Existing_entries: 798
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-12 06:29:52.599042
+------------------------------------------------------
+Started: 2023-12-12 06:39:27.992083
+Existing_entries: 798
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [多人动作冒险游戏《Welcome to ParadiZe》实机预告片公布，2024年2月29日发售](https://www.gcores.com/articles/174970)
+Token length: 1054
+Summarized using GPT-3.5-turbo
+Append: [更多信息公开！《暗喻幻想：ReFantazio》公布开发者访谈映像](https://www.gcores.com/articles/174964)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [《战神：诸神黄昏》DLC「Valhalla」官方介绍宣传片公布](https://www.gcores.com/articles/174968)
+append_entries: 3
+Finish: 2023-12-12 06:39:42.436127
