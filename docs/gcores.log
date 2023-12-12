@@ -36325,3 +36325,18 @@ Existing_entries: 795
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-12 04:12:12.501996
+------------------------------------------------------
+Started: 2023-12-12 04:28:40.716041
+Existing_entries: 795
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 341
+Summarized using GPT-3.5-turbo
+Append: [派对修车游戏《Speed Crew》将于2024年1月31日发售](https://www.gcores.com/articles/174962)
+Token length: 515
+Summarized using GPT-3.5-turbo
+Append: [《雪居之地》迎来风暴铃铛更新，降低基础游戏难度](https://www.gcores.com/articles/174960)
+Token length: 548
+Summarized using GPT-3.5-turbo
+Append: [《浩劫前夕》开发团队Fntastic宣布关闭工作室，现有玩家可获退款](https://www.gcores.com/articles/174959)
+append_entries: 3
+Finish: 2023-12-12 04:28:56.788392
