@@ -36439,3 +36439,27 @@ Existing_entries: 801
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-12 08:13:12.708880
+------------------------------------------------------
+Started: 2023-12-12 08:29:23.892079
+Existing_entries: 801
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 478
+Summarized using GPT-3.5-turbo-16k
+Append: [巨物攀爬模拟器《Chasing the Unseen》2024年3月7日发售](https://www.gcores.com/articles/174981)
+Token length: 693
+Summarized using GPT-3.5-turbo
+Append: [《碧海黑帆》将于24年2月16日正式发售，新一轮封测即将开启](https://www.gcores.com/articles/174975)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [《暗黑破坏神4》圣诞活动「晦暗深冬祭」中文宣传片公开](https://www.gcores.com/articles/174979)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [游戏继续，《电锯惊魂 11》将于明年九月上映](https://www.gcores.com/articles/174974)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ClientResponseError: 429, message='Too Many Requests', url=URL('https://liaobots.work/api/chat')
+Bing: TypeError: unsupported operand type(s) for |: 'dict' and 'dict'
+Append: [乃木坂46原成员高山一实原著，小说《四重星》动画电影化](https://www.gcores.com/articles/174972)
+Append: [《将熄之焰》试玩DEMO更新官方中文，免费序章将于1月9日推出](https://www.gcores.com/articles/174969)
+append_entries: 6
+Finish: 2023-12-12 08:29:27.296718
