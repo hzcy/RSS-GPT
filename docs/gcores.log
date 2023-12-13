@@ -36949,3 +36949,9 @@ Summarized using GPT-3.5-turbo
 Append: [PlayStation「2023年度精彩回顾」页面已上线](https://www.gcores.com/articles/175002)
 append_entries: 2
 Finish: 2023-12-13 06:29:57.242191
+------------------------------------------------------
+Started: 2023-12-13 06:39:20.157262
+Existing_entries: 815
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-13 06:39:20.434014
