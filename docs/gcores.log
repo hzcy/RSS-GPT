@@ -36937,3 +36937,15 @@ Existing_entries: 813
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-13 06:13:13.817384
+------------------------------------------------------
+Started: 2023-12-13 06:29:38.871909
+Existing_entries: 813
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [「Xbox 2023年度回顾」页面上线，回望你的2023年](https://www.gcores.com/articles/175003)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [PlayStation「2023年度精彩回顾」页面已上线](https://www.gcores.com/articles/175002)
+append_entries: 2
+Finish: 2023-12-13 06:29:57.242191
