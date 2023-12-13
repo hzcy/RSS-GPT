@@ -36895,3 +36895,9 @@ Summarized using GPT-3.5-turbo
 Append: [《致命公司》热度不减、Steam Deck持续登顶：Steam周销量排行榜|2023年12月第2周](https://www.gcores.com/articles/174998)
 append_entries: 4
 Finish: 2023-12-13 04:28:54.484516
+------------------------------------------------------
+Started: 2023-12-13 04:37:40.345240
+Existing_entries: 813
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-13 04:37:40.680428
