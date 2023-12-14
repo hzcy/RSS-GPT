@@ -37637,3 +37637,9 @@ Summarized using GPT-3.5-turbo
 Append: [型月经典！《魔法使之夜》现已正式登陆Steam，支持中文！](https://www.gcores.com/articles/175080)
 append_entries: 3
 Finish: 2023-12-14 10:39:43.190835
+------------------------------------------------------
+Started: 2023-12-14 10:48:33.630546
+Existing_entries: 837
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-14 10:48:33.814207
