@@ -37736,3 +37736,9 @@ Summarized using GPT-3.5-turbo
 Append: [香草社SRPG新游《圣兽之王》公布新角色、亲密度、契约仪式等最新信息](https://www.gcores.com/articles/175090)
 append_entries: 1
 Finish: 2023-12-14 15:10:32.216284
+------------------------------------------------------
+Started: 2023-12-14 15:25:09.089517
+Existing_entries: 840
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-14 15:25:09.303531
