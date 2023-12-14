@@ -37393,3 +37393,9 @@ Summarized using GPT-3.5-turbo
 Append: [《辐射4》次世代更新延期至2024年](https://www.gcores.com/articles/175040)
 append_entries: 5
 Finish: 2023-12-14 02:18:54.955979
+------------------------------------------------------
+Started: 2023-12-14 02:39:42.813196
+Existing_entries: 821
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-14 02:39:42.974792
