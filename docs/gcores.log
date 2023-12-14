@@ -37586,3 +37586,9 @@ Summarized using GPT-3.5-turbo
 Append: [TV动画《迷宫饭》将于12月15日11点公布第2弹PV](https://www.gcores.com/articles/175070)
 append_entries: 2
 Finish: 2023-12-14 08:48:49.923653
+------------------------------------------------------
+Started: 2023-12-14 09:10:00.733016
+Existing_entries: 834
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-14 09:10:00.888926
