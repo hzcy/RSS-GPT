@@ -33864,3 +33864,10 @@ Summarized using GPT-3.5-turbo
 Append: [早报｜iPhone 16 或调整相机岛设计/消息称字节跳动计划取消 PICO 5/联想回应总部 LOGO 被涂鸦成华为](https://www.ifanr.com/1570467?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2023-12-14 01:42:25.953008
+------------------------------------------------------
+Started: 2023-12-14 02:17:41.009927
+Existing_entries: 217
+Fetching from https://www.ifanr.com/feed
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/ifanr7
