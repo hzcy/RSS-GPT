@@ -37574,3 +37574,15 @@ Existing_entries: 832
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-14 08:38:09.716688
+------------------------------------------------------
+Started: 2023-12-14 08:48:33.977823
+Existing_entries: 832
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 891
+Summarized using GPT-3.5-turbo
+Append: [“特别好评”CRPG《动物迷城》冬季特惠开启](https://www.gcores.com/articles/175077)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [TV动画《迷宫饭》将于12月15日11点公布第2弹PV](https://www.gcores.com/articles/175070)
+append_entries: 2
+Finish: 2023-12-14 08:48:49.923653
