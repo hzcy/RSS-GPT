@@ -4,6 +4,112 @@
 <title>爱范儿</title>
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
+<item>
+<title>让余承东和小米吵起来的手机零部件，到底有多重要？</title>
+<link>https://www.ifanr.com/1570609?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1570609?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 华为, 小米, 铰链技术, 折叠屏手机, 软件适配<br><br>总结:<br>文章讨论了华为与小米之间关于折叠屏手机铰链技术的争议。华为的「双旋水滴铰链」和小米的「龙骨转轴」是各自在折叠屏手机上的创新之作，它们在设计、材料和结构上各有特色。文章还提到了其他品牌在折叠屏手机铰链技术上的不同尝试，例如 OPPO 和荣耀的独特设计。同时，文章指出，尽管硬件发展成熟，但软件适配和交互体验仍需改进，以更好地利用折叠屏的优势。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1570628" height="788" src="https://s3.ifanr.com/wp-content/uploads/2023/12/xiaomilonggu.png" width="1472" /></p>
+<p>这两天余承东和小米的隔空对线，刷爆了热搜。</p>
+<p>没点进词条之前，我以为他们两家在达成「全球专利交叉许可协议」后，又开展了什么重大的业务合作。</p>
+<p>没想到闹得沸沸扬扬的争论，是为了一根铰链。</p>
+<h3>争议的，究竟是什么？</h3>
+<p>这次矛盾的起因，始于「2023 年花粉大会」上，余承东的一段发言：</p>
+<blockquote><p>不太尊重我们（华为）的知识产权，拿过去随便编个名字就说自己的。双旋水滴铰链直接变成龙骨铰链，龙骨是不存在的。</p></blockquote>
+<p>对此，小米官方在微博公开回怼称，余承东的说辞不符合事实，龙骨铰链为小米自研，无论设计思路还是机械结构，都与双旋水滴铰链全然不同。</p>
+<p>小米官方表示，在研读对方公开的专利和技术资料，并实际拆解验证后，可以发现两者铰链的明显区别：</p>
+<blockquote><p>华为「双旋水滴铰链」是「2 级杆组 + 3 构件 + 4 低副」的结构<br />
+小米「龙骨转轴」采用了「3 级杆组 + 5 构件 + 7 低副」的设计</p></blockquote>
+<p><img alt="" class="alignnone size-full wp-image-1570641" height="469" src="https://s3.ifanr.com/wp-content/uploads/2023/12/23453424-1.png" width="891" /></p>
+<div class="editor-image-source">
+<p>▲小米官方亮出的表格.</p>
+</div>
+<p>想要搞清楚华为和小米的争论，我们要先了解「龙骨转轴」和「双旋水滴铰链」分别是什么。</p>
+<p>「龙骨转轴」是小米在新一代折叠旗舰机 MIX Fold3 上，采用的最新铰链技术。</p>
+<p>亮点一是材料坚硬，采用了超级钢，能够承受 1800 兆帕的强度，雷军称「只要指甲盖大小的材料，就能承受 54 吨的重量，相当于一只成年鲸鱼」。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570628" height="788" src="https://s3.ifanr.com/wp-content/uploads/2023/12/xiaomilonggu.png" width="1472" /></p>
+<p>亮点二是结构灵活，「3 级杆组 + 5 构件 + 7 低副」的专业术语乍一听过于深奥，简单来说，连杆、构件和低副越多，铰链和柔性屏贴合的越紧密。在手机跌落时还能随着屏幕一起「形变」，吸收冲击力，降低屏幕损伤的风险。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570623" height="466" src="https://s3.ifanr.com/wp-content/uploads/2023/12/longguzhuanzhou.gif" width="848" /></p>
+<p>另一边的华为，则是折叠屏「双旋水滴结构」的开创者。张朝阳曾经在「线上物理课」上，详细解释了这个结构的含义。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570647" height="287" src="https://s3.ifanr.com/wp-content/uploads/2023/12/03F2D4FF97A4E93BF717697E152F73113DE621A0_size66_w765_h287-1.png" width="765" /></p>
+<p>简单来说，水滴构型能保证屏幕在折叠后完全平行贴在一起，也能让弯折处的「压力差最小」且「曲率半径最大」，不会折叠后在屏幕上留下很深的折痕。</p>
+<p>与此同时，双旋的齿轮模组，可以保持柔性屏稳定的水滴结构，开合的过程也变得十分顺滑。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570648" height="224" src="https://s3.ifanr.com/wp-content/uploads/2023/12/98493843-1.gif" width="502" /></p>
+<p>双旋 + 水滴的结构，能减少转轴的厚度，保证转轴的稳定性，并且实现了转轴的同步开合和悬停功能。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570630" height="1094" src="https://s3.ifanr.com/wp-content/uploads/2023/12/jp2023-12-15-17.22.33.png" width="1952" /></p>
+<p>华为早在 2016 年就开始研制「双旋水滴结构」，首次应用于 Mate X2 上。在当时的发布会上，余承东放言，华为的水滴铰链是独家专利，其他公司要想实现无缝折叠屏，都必然使用了华为的专利技术。</p>
+<h3>殊途同归，但门派众多</h3>
+<p>在水滴铰链成为普遍方案之前，折叠屏的铰链技术有三种方案并存：</p>
+<ul>
+<li>U 型</li>
+<li>鹰翼型</li>
+<li>水滴型</li>
+</ul>
+<p>U 型铰链是三者当中，较早出现的一个，由三星首创。U 型铰链有效地解决了手机厚重的问题，也让折叠后的屏幕尽可能地向中轴线靠拢。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570621" height="480" src="https://s3.ifanr.com/wp-content/uploads/2023/12/DSC07321.jpg" width="720" /></p>
+<p>尽管这种方案能有效控制在控制手机重量和厚度，但屏幕之间仍然留有较大的空隙，加上封装工艺的不成熟，进灰又成了新的难题。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570610" height="364" src="https://s3.ifanr.com/wp-content/uploads/2023/12/0.jpg" width="640" /></p>
+<p>在上图和三星对比的，就是采用了「鹰翼型铰链」的外折叠 Mate X，这样的方式不仅让两块屏幕完美贴合、缩小手机厚度，也能省去一面屏幕，减少重量。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570629" height="1456" src="https://s3.ifanr.com/wp-content/uploads/2023/12/jp2023-12-15-17.22.58.png" width="1466" /></p>
+<p>但折叠后裸露在外的柔性屏，却成了保护手机的外壳，难免会有刮花的风险，因此没有成为主流的折叠方案。</p>
+<p>今年的荣耀 V Purse 的「蝶翼铰链」正是鹰翼结构的延续，当然也是今年 15 款折叠手机中，唯一一个外折叠的大屏手机。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570642" height="320" src="https://s3.ifanr.com/wp-content/uploads/2023/12/rongyao.gif" width="636" /></p>
+<p>其余 14 台新机，铰链方案虽同是水滴，但各家衍生出了多种门派：</p>
+<p><img alt="" class="alignnone size-full wp-image-1570649" height="1500" src="https://s3.ifanr.com/wp-content/uploads/2023/12/WechatIMG434.jpg" width="1125" /></p>
+<p>总结起来，这些门派都在这三点上各有所长：使用寿命、屏幕折痕、机身重量。</p>
+<p>耐用性的课代表，OPPO 得算一个。Find N3 的铰链材料为「锆合金液态金属」和「航天级合金钢」，听起来离我们很远的名词，实际上大幅延长了铰链寿命。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570624" height="488" src="https://s3.ifanr.com/wp-content/uploads/2023/12/oppo.png" width="640" /></p>
+<p>实验数据表明，经过 100 万次的折叠， Find N3 的屏幕性能、铰链、系统功能仍然保持正常可用水平。</p>
+<p>按照平均 10 次/小时的开合次数，一天满打满算使用 16 个小时的手机，相当于在如此频率的开合下，OPPO 的铰链结构能正常使用 17 年以上。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570651" height="1666" src="https://s3.ifanr.com/wp-content/uploads/2023/12/WechatIMG446.jpg" width="2500" /></p>
+<p>当年摩托罗拉 Razr 的口碑，出现了严重的两极化，问题就在它的铰链上：这的确是一台非常好看的复古智能折叠机，但上手没几个月，铰链的异响让很多首批用户从此拔草。</p>
+<p>现在，OPPO 从根上解决了这个问题，抱着「传家宝」的心态做消耗品，总会获得积极的反馈。</p>
+<p>今年较早发布的 vivo X Fold2，在屏幕折痕上表现优异，用上了高轻度纤维铰链支架，堆料够足。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570627" height="757" src="https://s3.ifanr.com/wp-content/uploads/2023/12/vivo.png" width="1169" /></p>
+<p>控制折痕的秘诀，还在铰链直径上。vivo X Fold2 的水滴铰链，直径从 4.6mm 增加到了 5.0mm，平整度提升了 40%。体验下来，其折痕控制在今年的一众新机里，的确属于第一梯队。</p>
+<p>如果我们把今年所有的折叠屏旗舰的铰链拆卸下来，放在一起比较，荣耀可能是最特别的那个，因为唯独它的结构，没有弹簧。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570643" height="1362" src="https://s3.ifanr.com/wp-content/uploads/2023/12/2023-12-15-17.36.51.png" width="2430" /></p>
+<p>荣耀将铰链起名「鲁班」，是因为它将「榫卯结构」带到了铰链中。</p>
+<p>原先 92 个零件精简至 4 个，把传统的齿轮和弹簧换成了滑动组件，通过组件中的多个凸槽和凹槽，来实现铰链的开合与多角度的悬停。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570622" height="498" src="https://s3.ifanr.com/wp-content/uploads/2023/12/honor222.jpg" width="1280" /></p>
+<p>零件少了，自然就轻了。所以今年荣耀更新的 3 台折叠屏，「轻薄」都是重要卖点。尤其是荣耀 Magic Vs2，把展开态和折叠态的厚度控制在了 5.1mm 和 10.7mm，手感惊艳。</p>
+<p>另一方面，缩减的铰链体积，也为电池留出了更多的空间，这就是荣耀在把手机做薄的同时，又能增加续航的关键因素。</p>
+<h3>始于铰链，成于体验</h3>
+<p>今年发布的 15 款折叠机，材料、工艺各有千秋，但目的都是一个：提升铰链质感。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570620" height="480" src="https://s3.ifanr.com/wp-content/uploads/2023/12/DSC01485.jpg" width="720" /></p>
+<p>折叠屏铰链的质感，不仅关乎着手机的重量、结构的寿命、屏幕的折痕，开合时的阻尼感、顺滑度也是用户到店里上手体验后，能够直观感受到的差异，成为选购时的重要参考。</p>
+<p>直接影响着手机的重量、结构的寿命、屏幕的折痕和开合时的阻尼感，而这些都是消费者在选购折叠屏手机的基础门槛。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570612" height="1329" src="https://s3.ifanr.com/wp-content/uploads/2023/12/16-e1702633183638.jpg" width="2700" /></p>
+<p>从艾瑞咨询对 2023 年折叠屏手机市场的洞察可以看出，用户购机最关注的因素就是「轻薄握持」，而重量和厚度往往基于铰链的技术。</p>
+<p>因此，厂家才会如此重视铰链的宣传，小米甚至把「龙骨转轴」放在了 MIX Fold3 宣传页的最头条。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570613" height="458" src="https://s3.ifanr.com/wp-content/uploads/2023/12/353523.png" width="1080" /></p>
+<p>但当我们把折叠屏买回家后，日常的使用感受如何，还得看大屏体验。目前这方面，大家有两个共通点：<br />
+屏幕素质优秀，各家差距不大</p>
+<p>软件适配不尽人意，缺乏杀手级应用和场景</p>
+<p>唯独 OPPO Find N3 的「超视野全景虚拟屏」，让我们看到了真正属于折叠屏手机的交互发展方向 —— 容纳更多的页面信息，创新的多任务协同方案。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570626" height="313" src="https://s3.ifanr.com/wp-content/uploads/2023/12/talkfresh.gif" width="800" /></p>
+<p>人机交互领域的先驱者唐·诺曼曾说：</p>
+<blockquote><p>一个好的设计，是那些能让用户体验无缝、直观和愉悦的设计。</p></blockquote>
+<p>对于多数折叠屏手机而言，铰链、屏幕等硬件已经足够成熟，但软件交互还不够直观、易用、富有创造性，以充分利用折叠屏的独特形态，导致体验上有割裂感。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570618" height="834" src="https://s3.ifanr.com/wp-content/uploads/2023/12/3947843430.png" width="1263" /></p>
+<p>希望 2024 年，各大厂商能把今年卷铰链技术的狠劲儿，放在卷软件、卷系统、卷交互上，在更大的方寸间深耕更多的可能性。<br />
+好在，我们已经看见了进步。</p>
+<p>&nbsp;</p>
+<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1570609">原文链接</a> ·
+<a href="https://www.ifanr.com/1570609#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 15 Dec 2023 11:18:42 +0000</pubDate>
+<updated>Fri, 15 Dec 2023 11:18:42 +0000</updated>
+</item>
 
 <item>
 <title>英特尔 AI PC 国内正式落地，联想发布小新 Pro 16 2024 酷睿 Ultra 版</title>
