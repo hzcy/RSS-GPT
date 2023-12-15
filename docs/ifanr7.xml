@@ -5,13 +5,89 @@
 <link>https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 
 <item>
+<title>英特尔 AI PC 国内正式落地，联想发布小新 Pro 16 2024 酷睿 Ultra 版</title>
+<link>https://www.ifanr.com/1570597?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+<guid>https://www.ifanr.com/1570597?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
+<content:encoded><![CDATA[
+<div> 关键词：英特尔, 酷睿 Ultra, AI PC, 联想, AIGC
+
+<br><br>总结:<br>
+英特尔在其ON技术创新峰会上推出了基于Intel 4制程工艺的Meteor Lake处理器平台，即第一代酷睿 Ultra，标志着AI PC的诞生。这一平台采用了新的分离式模块架构，并首次集成了神经网络处理单元(NPU)，专注于高效AI运算。联想随后发布了全球首款搭载酷睿 Ultra 的量产机型：联想小新 Pro 16 2024。该系列在提高内存频率和带宽方面取得重大突破，优化了与英特尔合作的剪映软件，在视频剪辑、AI抠像、视频补帧等方面实现显著性能提升。随着AI PC的普及和AIGC应用的发展，预期将成为未来用户更换电脑的主要驱动力。 <div>
+<p><img alt="" class="alignnone size-full wp-image-1570598" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/12/LX-T1.jpg" width="1200" /></p>
+<p>一直以来，无论是 PC 厂商还是上游芯片厂商，都一直头疼一个问题：如何驱动用户去更换旧电脑。</p>
+<p>2020&#8211;2022 年期间由于居家办公以及远程办公的需求陡增，驱动了一波电脑换机潮，但到了 2023 年，换机动力回落，不过技术发展并非线性，在大模型技术驱动下，AIGC 应用和需求获得了爆发性增长，PC 和手机也面临产品形态，交互方式重塑的可能性。</p>
+<p>在此背景下，英特尔在 9 月的 ON 技术创新峰会上，英特尔推出了首款基于 Intel 4 制程工艺打造的 Meteor Lake 处理器平台，即第一代酷睿 Ultra 平台，更重要的是，英特尔率先提出了 AI PC 的概念。</p>
+<p>紧接着就是在 12 月 15 日，英特尔正式在国内发布第一代酷睿 Ultra 平台。</p>
+<p>这里可以解释一下，为什么 Meteor Lake 处理器平台是第一代酷睿 Ultra，而不是 14 代酷睿。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570575" height="674" src="https://s3.ifanr.com/wp-content/uploads/2023/12/AI-61.jpg" width="1200" /></p>
+<p>今年年中，英特尔公布了酷睿 Ultra 品牌，代号 Meteor Lake，采用全新 Intel 4 制程工艺，与以往英特尔处理器架构不同的是，它采用了全新的分离式模块架构：由计算模块，SoC 模块，图形模块和 IO 模块组成。</p>
+<p>其中在 SoC 模块中，英特尔首次集成了神经网络处理单元 NPU，用来进行高能效的 AI 运算。</p>
+<p>目前 Meteor Lake 处理器平台，即酷睿 Ultra 用在了移动平台的 H 系列和 P 系列，分为酷睿 Ultra 9/7/5 三个子系列。</p>
+<p>移动平台上的 U 系列没有采用新架构，依旧是 13 代酷睿的升级版，不过依旧被命名为第一代酷睿（没有 Ultra 后缀），分为酷睿 7/5/3 三个子系列。</p>
+<p>在桌面端的 S 系列，还有 HX 系列，也是 Raptor Lake 13 代酷睿的升级版，称之为 14 代酷睿，分为酷睿 i9/i7/i5/i3 四个子系列。</p>
+<p>虽然有点复杂，但我们只需记住，只有基于拥有新架构和独立 NPU 单元的酷睿 Ultra 处理器平台，才是英特尔定义中的 AI PC。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570603" height="2522" src="https://s3.ifanr.com/wp-content/uploads/2023/12/LX-1.jpeg" width="1080" /></p>
+<p>然后就是 AI PC 的落地，紧接着第一代酷睿 Ultra 系列处理器的正式发布，联想也发布了全球第一台英特尔酷睿 Ultra 量产机型：联想小新 Pro 16 2024 酷睿 Ultra 版。</p>
+<p>一直以来，联想小新 Pro 都是联想的主力出货机型，在这个系列上成为量产英特尔酷睿 Ultra 处理器机型，联想小新研发团队基于英特尔酷睿 Ultra 平台为业界贡献了诸多 Debug 解决方案。并且结合联想小新 Pro 系列性能小钢炮的产品定位，实现了 7467MT/s 内存超高频难点的攻克。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570602" height="836" src="https://s3.ifanr.com/wp-content/uploads/2023/12/LX-2.png" width="1304" /></p>
+<p>之所以要获得超高频超高带宽的内存，是为了获得在 AIGC 创作和游戏上的更高收益。</p>
+<p>举个例子，而在与英特尔、剪映的深度合作中，联想进一步优化了剪映在全新酷睿 Ultra 平台的视频剪辑效率。通过优化英特尔 GPU 缓存管理策略，提升 GPU 3D 利用率和稳定 GT 核心功耗，实现了高达约 16.7% 的导出速率提升。</p>
+<p>另外，联想和剪映合作，带来了其首个基于 NPU 的 AI 应用——智能抠像。借助全新的 AI 专属芯片 NPU，通过异构计算调优，实现了更优秀的每瓦功耗。相较于传统基于 iGPU 的软编软解方案，时间缩短约 72.2%，功耗减少约 71.4%。</p>
+<p>联想、英特尔和爱奇艺三方合作，完成了「AI 视频补帧」技术的落地，通过内置联想 MEMC 解码器的爱奇艺播放器，可以实现流媒体视频及本地视频的插帧播放。未来这三方还将继续在利用 AI 技术实现 MEMC、NPU 上运行的手势控制以及有关的功耗优化方面展开合作。</p>
+<p><img alt="" class="alignnone size-full wp-image-1570600" height="718" src="https://s3.ifanr.com/wp-content/uploads/2023/12/LX-4.png" width="1298" /></p>
+<p>以英特尔的号召力，搭载第一代酷睿 Ultra 处理器的 AI PC 估计会大量推出。</p>
+<p>作为长期以来 PC 份额第一的品牌，联想旗下的 PC 产品线非常丰富，联想高端线 YOGA 也在第一时间推出了搭载了第一代酷睿 Ultra 平台的 YOGA Pro 14s 2024，产品重点当然是 AI 创作。</p>
+<p>尤其是 AI 创作从文字延展到图像和视频之后，屏幕素质也需要跟上，YOGA Pro 14s 2024 的 14.5 英寸屏幕拥有 3K 的分辨率，支持 P3/sRGB 双 100% 色域，双色域 ΔE 均＜1，非常适合需要进行 AI 图像和视频创作的人群。</p>
+<p>另外，联想的 ThinkPad 和 ThinkBook 产品线预计也将会搭载第一代酷睿 Ultra 平台，以及重点优化针对性的，办公领域的 AI 应用表现。</p>
+<p>AI PC 的落地和普及，以及相关应用的落地，还有未来端侧大模型等技术带来的本地文生文，文生图，文生音乐等等 AIGC 应用，也许会成为 2023 年之后用户换机的主要动力。</p>
+  <div id="ifanr_profile" style="border: 1px solid #ccc; font-size: 14px; margin: 27px auto; font-family: Arial;">
+    <div style="overflow: hidden;"><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank"></a>
+
+      <div style="text-align: left; line-height: 23px; margin-left: 80px;">
+        <div style="padding: 10px 10px 10px 0;">
+          <div style="margin: 0; font-size: 14px;"><strong><a href="https://www.ifanr.com/author/owen" style="color: #000; text-decoration: none;" target="_blank">刘学文</a></strong>
+          </div>
+          <div style="font-size: 13px; line-height: 20px;">在命运的塑料大棚里，每棵被喷了过多农药的白菜心中，都曾经有一个成为无公害有机蔬菜的梦想。</div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: right; border-top: 1px dotted #ccc; padding: 2px 10px; font-size: 12px;">
+      <div>
+                                <a href="mailto:owenliu@ifanr.com" style="margin-right: 14px; text-decoration: none;" target="_blank">邮箱</a>
+
+          
+                                  <a href="http://weibo.com/u/1731822990" style="margin-right: 14px; text-decoration: none;" target="_blank">新浪微博</a>
+
+          
+                                  <a href="https://www.ifanr.com/5" style="margin-right: 14px; text-decoration: none;" target="_blank">1</a>
+
+          
+                </div>
+    </div>
+  </div>
+  <p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>
+<a href="https://www.ifanr.com">爱范儿</a> |
+<a href="https://www.ifanr.com/1570597">原文链接</a> ·
+<a href="https://www.ifanr.com/1570597#comments">查看评论</a> ·
+<a href="https://weibo.com/ifanr">新浪微博</a>
+</p>
+
+<br />
+<div style="text-align: center; border-top: 1px dotted #ccc;">
+</div>
+]]></content:encoded>
+<pubDate>Fri, 15 Dec 2023 08:36:14 +0000</pubDate>
+<updated>Fri, 15 Dec 2023 08:36:14 +0000</updated>
+</item>
+
+<item>
 <title>英特尔第一代酷睿 Ultra 正式发布，筑基 AI PC，能无网跑 AI 大模型</title>
 <link>https://www.ifanr.com/1570507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
 <guid>https://www.ifanr.com/1570507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</guid>
 <content:encoded><![CDATA[
 <div> 英特尔酷睿Ultra, 通义千问大模型, AI PC, NPU, 开源
 
-<br><br>总结:<br>英特尔推出了首代酷睿Ultra处理器，配备分离式模块架构和神经网络处理单元（NPU），大幅提高AI运算性能。阿里云的通义千问大模型已成功适配此平台，使得大模型可以在无网络环境的PC端运行，进一步推广了“AI PC”的概念，即集成了AI处理能力的个人电脑。此外，此文提到阿里云开源的通义千问模型已被应用到多个领域，并讨论了AI大模型在未来个人电脑和其他设备中的潜在应用，预示着人们与AI交互的方式将发生变革。 <div>
+<br /><br />总结:<br />英特尔推出了首代酷睿Ultra处理器，配备分离式模块架构和神经网络处理单元（NPU），大幅提高AI运算性能。阿里云的通义千问大模型已成功适配此平台，使得大模型可以在无网络环境的PC端运行，进一步推广了“AI PC”的概念，即集成了AI处理能力的个人电脑。此外，此文提到阿里云开源的通义千问模型已被应用到多个领域，并讨论了AI大模型在未来个人电脑和其他设备中的潜在应用，预示着人们与AI交互的方式将发生变革。 <div>
 <p><img alt="" class="alignnone size-full wp-image-1570595" height="675" src="https://s3.ifanr.com/wp-content/uploads/2023/12/AI-10.jpg" width="1200" /></p>
 <p>当我们使用 ChatGPT、文心一言和通义千问等等大语言模型支持的 AI 工具时，有一个必要条件：必需联网。</p>
 <p>因为 AI 工具的运算在云端，并非电脑本地。但是在上游芯片厂商和终端厂商看来，有网环境下大模型固然强大，但也需要无需网络也能运行的端侧大模型来补充，端云结合，才是万全之策。</p>
@@ -96,9 +172,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 15 Dec 2023 08:21:46 +0000</pubDate>
-<updated>Fri, 15 Dec 2023 08:21:46 +0000</updated>
 </item>
-
 <item>
 <title>当我们用手机拍照时，我们到底在拍些什么</title>
 <link>https://www.ifanr.com/1570506?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
