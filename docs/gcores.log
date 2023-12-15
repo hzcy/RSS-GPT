@@ -37997,3 +37997,9 @@ Summarized using GPT-3.5-turbo
 Append: [《神笔谈兵》现已实装“战术游泳”更新，特价仅售55元](https://www.gcores.com/articles/175100)
 append_entries: 5
 Finish: 2023-12-15 03:11:02.968073
+------------------------------------------------------
+Started: 2023-12-15 03:24:26.385338
+Existing_entries: 845
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-15 03:24:26.590987
