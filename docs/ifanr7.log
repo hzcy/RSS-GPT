@@ -34459,3 +34459,12 @@ Existing_entries: 219
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-15 05:09:56.535475
+------------------------------------------------------
+Started: 2023-12-15 05:26:45.248106
+Existing_entries: 219
+Fetching from https://www.ifanr.com/feed
+Token length: 4305
+Summarized using GPT-3.5-turbo
+Append: [当我们用手机拍照时，我们到底在拍些什么](https://www.ifanr.com/1570506?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-15 05:27:21.026493
