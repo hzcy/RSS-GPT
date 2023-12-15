@@ -38112,3 +38112,9 @@ Summarized using GPT-3.5-turbo
 Append: [《Dota2》现已实装迎霜节更新，V社持续严打小号](https://www.gcores.com/articles/175116)
 append_entries: 3
 Finish: 2023-12-15 06:49:14.159075
+------------------------------------------------------
+Started: 2023-12-15 07:09:33.482962
+Existing_entries: 854
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-15 07:09:33.801699
