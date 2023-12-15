@@ -38230,3 +38230,12 @@ Existing_entries: 860
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-15 11:08:33.416763
+------------------------------------------------------
+Started: 2023-12-15 11:20:39.727726
+Existing_entries: 860
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 341
+Summarized using GPT-3.5-turbo
+Append: [欢庆《上古卷轴OL》10周年，B社将在中国举行线下活动](https://www.gcores.com/articles/175144)
+append_entries: 1
+Finish: 2023-12-15 11:21:00.779503
