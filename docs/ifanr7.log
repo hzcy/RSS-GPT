@@ -34540,3 +34540,12 @@ Existing_entries: 220
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-15 08:29:08.097358
+------------------------------------------------------
+Started: 2023-12-15 08:38:09.805559
+Existing_entries: 220
+Fetching from https://www.ifanr.com/feed
+Token length: 3584
+Summarized using GPT-3.5-turbo
+Append: [英特尔第一代酷睿 Ultra 正式发布，筑基 AI PC，能无网跑 AI 大模型](https://www.ifanr.com/1570507?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-15 08:38:43.540692
