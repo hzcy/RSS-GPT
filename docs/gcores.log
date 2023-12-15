@@ -38097,3 +38097,18 @@ Existing_entries: 851
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-15 06:39:01.035534
+------------------------------------------------------
+Started: 2023-12-15 06:48:35.650679
+Existing_entries: 851
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 634
+Summarized using GPT-3.5-turbo
+Append: [2D手绘类银河城游戏《康斯坦丝》预告片公布](https://www.gcores.com/articles/175123)
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: [轨迹系列20周年纪念作品《英雄传说 界の轨迹》预计2024年发售](https://www.gcores.com/articles/175119)
+Token length: 783
+Summarized using GPT-3.5-turbo
+Append: [《Dota2》现已实装迎霜节更新，V社持续严打小号](https://www.gcores.com/articles/175116)
+append_entries: 3
+Finish: 2023-12-15 06:49:14.159075
