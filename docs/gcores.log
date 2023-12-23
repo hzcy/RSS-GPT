@@ -39099,3 +39099,9 @@ Summarized using GPT-3.5-turbo
 Append: [国家新闻出版署有关负责人：《网络游戏管理办法》（征求意见稿）旨在促进行业繁荣健康发展](https://www.gcores.com/articles/175452)
 append_entries: 1
 Finish: 2023-12-23 12:16:02.166790
+------------------------------------------------------
+Started: 2023-12-23 12:40:06.906083
+Existing_entries: 881
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-23 12:40:07.118457
