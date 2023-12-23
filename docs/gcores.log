@@ -39090,3 +39090,12 @@ Existing_entries: 880
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-23 11:48:29.423029
+------------------------------------------------------
+Started: 2023-12-23 12:15:34.890525
+Existing_entries: 880
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [国家新闻出版署有关负责人：《网络游戏管理办法》（征求意见稿）旨在促进行业繁荣健康发展](https://www.gcores.com/articles/175452)
+append_entries: 1
+Finish: 2023-12-23 12:16:02.166790
