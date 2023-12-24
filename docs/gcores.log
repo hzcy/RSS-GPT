@@ -39648,3 +39648,9 @@ Summarized using GPT-3.5-turbo
 Append: [下周节目预告 12.25~12.31](https://www.gcores.com/articles/175483)
 append_entries: 1
 Finish: 2023-12-24 12:55:04.335120
+------------------------------------------------------
+Started: 2023-12-24 13:09:51.237897
+Existing_entries: 884
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-24 13:09:51.414324
