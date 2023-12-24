@@ -39531,3 +39531,15 @@ Existing_entries: 881
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-24 08:11:36.686291
+------------------------------------------------------
+Started: 2023-12-24 08:26:19.207101
+Existing_entries: 881
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [圣诞节免费更新推出，策略类自走棋《魔王终局》冬促七折优惠](https://www.gcores.com/articles/175472)
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [2024年2月发售！科幻怪谈《挣脱：十三号站点》剧情预告片“踯躅”公开](https://www.gcores.com/articles/175471)
+append_entries: 2
+Finish: 2023-12-24 08:26:38.182007
