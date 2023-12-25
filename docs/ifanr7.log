@@ -36439,3 +36439,18 @@ Existing_entries: 245
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-25 07:34:23.131802
+------------------------------------------------------
+Started: 2023-12-25 07:48:24.592401
+Existing_entries: 245
+Fetching from https://www.ifanr.com/feed
+Token length: 4017
+Summarized using GPT-3.5-turbo
+Append: [ChatGPT 之父的另一面：谎言、操控、内斗](https://www.ifanr.com/1570213?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 2437
+Summarized using GPT-3.5-turbo
+Append: [宜家跨界健身行业？这个特别的新系列下个月开抢！](https://www.ifanr.com/1570446?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4713
+Summarized using GPT-3.5-turbo
+Append: [贝索斯深度详谈：ChatGPT 不是「发明」，而是「发现」](https://www.ifanr.com/1570904?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2023-12-25 07:48:50.991322
