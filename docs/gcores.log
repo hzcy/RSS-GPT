@@ -40113,3 +40113,12 @@ Existing_entries: 895
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-25 08:36:54.398053
+------------------------------------------------------
+Started: 2023-12-25 08:48:31.480177
+Existing_entries: 895
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [一场出乎意料的冒险！与《指环王》扮演者们一起玩《博德之门3》](https://www.gcores.com/articles/175513)
+append_entries: 1
+Finish: 2023-12-25 08:48:43.367197
