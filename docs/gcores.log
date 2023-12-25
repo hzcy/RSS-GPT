@@ -40062,3 +40062,18 @@ Existing_entries: 892
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-25 06:48:51.020105
+------------------------------------------------------
+Started: 2023-12-25 07:09:46.706847
+Existing_entries: 892
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [《浩劫前夕》将于1月22日停服，已购买用户均将自动退款](https://www.gcores.com/articles/175509)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [《致命公司》位居榜首：Steamdb公布2023年游戏口碑榜](https://www.gcores.com/articles/175504)
+Token length: 526
+Summarized using GPT-3.5-turbo
+Append: [《碧蓝幻想Relink》确定推出体验版，2024年1月上架](https://www.gcores.com/articles/175501)
+append_entries: 3
+Finish: 2023-12-25 07:09:48.362641
