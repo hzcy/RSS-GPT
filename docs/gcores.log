@@ -40014,3 +40014,9 @@ Summarized using GPT-3.5-turbo
 Append: [《Baba Is You》新作《Mobile Suit Baba》12月28日6点前可免费领取](https://www.gcores.com/articles/175499)
 append_entries: 3
 Finish: 2023-12-25 04:48:46.816166
+------------------------------------------------------
+Started: 2023-12-25 05:10:09.057000
+Existing_entries: 892
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-25 05:10:09.241395
