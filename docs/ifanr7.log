@@ -36478,3 +36478,12 @@ Existing_entries: 248
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-25 08:48:28.358915
+------------------------------------------------------
+Started: 2023-12-25 09:10:24.454335
+Existing_entries: 248
+Fetching from https://www.ifanr.com/feed
+Token length: 6643
+Summarized using GPT-3.5-turbo
+Append: [说到底，我们还是希望蔚来能成功](https://www.ifanr.com/1571530?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-25 09:10:51.540318
