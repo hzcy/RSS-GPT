@@ -40692,3 +40692,18 @@ Existing_entries: 908
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-26 09:22:14.429752
+------------------------------------------------------
+Started: 2023-12-26 09:34:37.443586
+Existing_entries: 908
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1083
+Summarized using GPT-3.5-turbo-16k
+Append: [《塞尔达传说：众神的三角力量2》10 周年纪念](https://www.gcores.com/articles/175554)
+Token length: 335
+Summarized using GPT-3.5-turbo
+Append: [《战争雷霆》论坛再度出现军事机密，官方请求玩家不要效仿](https://www.gcores.com/articles/175556)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [《塞尔达传说 王国之泪》排名第1：Fami通“超流行游戏大奖2023”结果揭晓](https://www.gcores.com/articles/175555)
+append_entries: 3
+Finish: 2023-12-26 09:35:23.219468
