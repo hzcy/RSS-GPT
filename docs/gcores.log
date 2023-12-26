@@ -40575,3 +40575,15 @@ Existing_entries: 903
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-26 05:09:55.304532
+------------------------------------------------------
+Started: 2023-12-26 05:26:02.876388
+Existing_entries: 903
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 521
+Summarized using GPT-3.5-turbo
+Append: [TV动画《药师少女的独语》第1季后半部PV公开，2024年1月6日开播](https://www.gcores.com/articles/175545)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [动作RPG游戏《遗物：第一守护者》实机演示公布，2025年发售](https://www.gcores.com/articles/175544)
+append_entries: 2
+Finish: 2023-12-26 05:26:17.893543
