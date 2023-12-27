@@ -41349,3 +41349,12 @@ Existing_entries: 919
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-27 14:08:42.249965
+------------------------------------------------------
+Started: 2023-12-27 14:25:09.714342
+Existing_entries: 919
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1821
+Summarized using GPT-3.5-turbo
+Append: [太空射击游戏《边境》将于本周实装PVE模式](https://www.gcores.com/articles/175602)
+append_entries: 1
+Finish: 2023-12-27 14:25:30.771693
