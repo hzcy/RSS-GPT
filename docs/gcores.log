@@ -41136,3 +41136,15 @@ Existing_entries: 914
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-27 05:26:05.237819
+------------------------------------------------------
+Started: 2023-12-27 05:34:06.034897
+Existing_entries: 914
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: [剧场动画《魔法使之夜》第二弹PV将于12月31日公布](https://www.gcores.com/articles/175584)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [樱井政博：目前还在制作游戏，没有完全退休](https://www.gcores.com/articles/175583)
+append_entries: 2
+Finish: 2023-12-27 05:34:21.383642
