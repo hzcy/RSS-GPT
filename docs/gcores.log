@@ -41073,3 +41073,18 @@ Existing_entries: 911
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-27 03:10:52.174074
+------------------------------------------------------
+Started: 2023-12-27 03:24:03.592669
+Existing_entries: 911
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [Epic假日送好礼：解谜游戏《程序员升职记》免费领](https://www.gcores.com/articles/175579)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [《博德之门3》登顶：Steam周销量排行榜|2023年12月第3周](https://www.gcores.com/articles/175578)
+Token length: 3787
+Summarized using GPT-3.5-turbo
+Append: [《白荆回廊》启程在即！从主题行业交流会看白荆的产品创新](https://www.gcores.com/articles/175580)
+append_entries: 3
+Finish: 2023-12-27 03:24:23.800514
