@@ -41148,3 +41148,9 @@ Summarized using GPT-3.5-turbo
 Append: [樱井政博：目前还在制作游戏，没有完全退休](https://www.gcores.com/articles/175583)
 append_entries: 2
 Finish: 2023-12-27 05:34:21.383642
+------------------------------------------------------
+Started: 2023-12-27 05:48:35.627723
+Existing_entries: 916
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-27 05:48:35.802837
