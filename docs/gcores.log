@@ -42210,3 +42210,9 @@ Summarized using GPT-3.5-turbo
 Append: [英伟达悄然发布RTX 4090 D显卡，售价12999元起](https://www.gcores.com/articles/175644)
 append_entries: 2
 Finish: 2023-12-29 04:28:18.412459
+------------------------------------------------------
+Started: 2023-12-29 04:35:55.478833
+Existing_entries: 932
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-29 04:35:55.691852
