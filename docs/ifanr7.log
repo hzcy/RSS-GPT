@@ -38407,3 +38407,12 @@ Existing_entries: 255
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2023-12-28 23:48:41.224843
+------------------------------------------------------
+Started: 2023-12-29 00:35:23.314254
+Existing_entries: 255
+Fetching from https://www.ifanr.com/feed
+Token length: 4712
+Summarized using GPT-3.5-turbo
+Append: [早报 | 雷军称小米新车不可能定价 9.9 万/京东部分一线员工涨薪近 100%/OpenAI 和微软遭起诉，或赔数十亿美元](https://www.ifanr.com/1571929?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2023-12-29 00:35:59.162712
