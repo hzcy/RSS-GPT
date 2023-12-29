@@ -42252,3 +42252,12 @@ Existing_entries: 932
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-29 06:13:10.950300
+------------------------------------------------------
+Started: 2023-12-29 06:29:41.580820
+Existing_entries: 932
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [《装甲核心6 境界天火》新增排位赛断连惩罚](https://www.gcores.com/articles/175660)
+append_entries: 1
+Finish: 2023-12-29 06:30:15.448371
