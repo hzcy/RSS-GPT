@@ -42198,3 +42198,15 @@ Existing_entries: 930
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-29 04:13:36.669635
+------------------------------------------------------
+Started: 2023-12-29 04:27:26.071507
+Existing_entries: 930
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [CES 2024索尼新闻发布会将于北京时间1月9日早九点举行](https://www.gcores.com/articles/175646)
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [英伟达悄然发布RTX 4090 D显卡，售价12999元起](https://www.gcores.com/articles/175644)
+append_entries: 2
+Finish: 2023-12-29 04:28:18.412459
