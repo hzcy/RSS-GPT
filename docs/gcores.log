@@ -43317,3 +43317,9 @@ Summarized using GPT-3.5-turbo
 Append: [剧场版动画《魔法使之夜》公开第二弹PV](https://www.gcores.com/articles/175739)
 append_entries: 1
 Finish: 2023-12-31 17:34:17.663239
+------------------------------------------------------
+Started: 2023-12-31 17:48:21.968300
+Existing_entries: 939
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2023-12-31 17:48:22.291129
