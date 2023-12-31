@@ -43308,3 +43308,12 @@ Existing_entries: 938
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2023-12-31 17:24:56.269692
+------------------------------------------------------
+Started: 2023-12-31 17:33:54.194920
+Existing_entries: 938
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [剧场版动画《魔法使之夜》公开第二弹PV](https://www.gcores.com/articles/175739)
+append_entries: 1
+Finish: 2023-12-31 17:34:17.663239
