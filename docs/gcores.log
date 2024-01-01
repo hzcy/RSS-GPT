@@ -43608,3 +43608,12 @@ Existing_entries: 940
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-01 07:48:46.190209
+------------------------------------------------------
+Started: 2024-01-01 08:12:56.774990
+Existing_entries: 940
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [Epic新年送礼：139元《幽灵行者》免费领](https://www.gcores.com/articles/175745)
+append_entries: 1
+Finish: 2024-01-01 08:13:12.040958
