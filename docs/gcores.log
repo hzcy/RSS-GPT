@@ -43695,3 +43695,12 @@ Existing_entries: 941
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-01 11:19:59.244836
+------------------------------------------------------
+Started: 2024-01-01 11:33:45.521145
+Existing_entries: 941
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1445
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY《荷鲁斯大叛乱》新品公布：西吉斯蒙德参战](https://www.gcores.com/articles/175755)
+append_entries: 1
+Finish: 2024-01-01 11:34:01.653945
