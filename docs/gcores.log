@@ -43554,3 +43554,9 @@ Summarized using GPT-3.5-turbo
 Append: [小岛秀夫：新年快乐，《死亡搁浅2》和《OD》正在同步开发](https://www.gcores.com/articles/175751)
 append_entries: 1
 Finish: 2024-01-01 05:27:52.008663
+------------------------------------------------------
+Started: 2024-01-01 05:35:45.115088
+Existing_entries: 940
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-01 05:35:45.399780
