@@ -40312,3 +40312,12 @@ Existing_entries: 266
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-02 03:48:40.757382
+------------------------------------------------------
+Started: 2024-01-02 04:11:52.101672
+Existing_entries: 266
+Fetching from https://www.ifanr.com/feed
+Token length: 4493
+Summarized using GPT-3.5-turbo-16k
+Append: [AI 普惠，vivo 为先](https://www.ifanr.com/1572008?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-02 04:12:43.616136
