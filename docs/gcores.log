@@ -44664,3 +44664,9 @@ Summarized using GPT-3.5-turbo
 Append: [声优平野绫宣布与演员谷口贤志结婚](https://www.gcores.com/articles/175821)
 append_entries: 3
 Finish: 2024-01-03 06:13:29.926517
+------------------------------------------------------
+Started: 2024-01-03 06:29:24.079290
+Existing_entries: 958
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-03 06:29:24.334355
