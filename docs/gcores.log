@@ -45181,3 +45181,12 @@ Existing_entries: 979
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-15 14:09:42.191365
+------------------------------------------------------
+Started: 2024-01-15 14:27:29.377200
+Existing_entries: 979
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 411
+Summarized using GPT-3.5-turbo
+Append: [体验象棋职业生涯：《棋弈无限：中国象棋》现已在Steam发售](https://www.gcores.com/articles/176282)
+append_entries: 1
+Finish: 2024-01-15 14:27:46.382361
