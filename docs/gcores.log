@@ -45472,3 +45472,18 @@ Existing_entries: 980
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-16 04:12:07.551187
+------------------------------------------------------
+Started: 2024-01-16 04:29:01.855663
+Existing_entries: 980
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [三大派系&关键人物信息公布：《浪人崛起》公开新情报](https://www.gcores.com/articles/176299)
+Token length: 588
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想7 重生》公布新宣传片“DESTINED FOR REBIRTH”](https://www.gcores.com/articles/176296)
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [《Baba is you》作者上线三款迷你小游戏](https://www.gcores.com/articles/176297)
+append_entries: 3
+Finish: 2024-01-16 04:30:09.721224
