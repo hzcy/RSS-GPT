@@ -45487,3 +45487,9 @@ Summarized using GPT-3.5-turbo
 Append: [《Baba is you》作者上线三款迷你小游戏](https://www.gcores.com/articles/176297)
 append_entries: 3
 Finish: 2024-01-16 04:30:09.721224
+------------------------------------------------------
+Started: 2024-01-16 04:38:02.580191
+Existing_entries: 983
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-16 04:38:02.773616
