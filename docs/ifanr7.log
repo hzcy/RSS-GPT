@@ -41938,3 +41938,12 @@ Existing_entries: 292
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-16 14:27:10.688840
+------------------------------------------------------
+Started: 2024-01-16 14:37:27.815886
+Existing_entries: 292
+Fetching from https://www.ifanr.com/feed
+Token length: 4446
+Summarized using GPT-3.5-turbo
+Append: [这个苹果年度 AI 应用，为什么活不过一年？](https://www.ifanr.com/1573480?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-16 14:37:57.665979

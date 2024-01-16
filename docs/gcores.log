@@ -45742,3 +45742,9 @@ Summarized using GPT-3.5-turbo
 Append: [《冰汽时代2》实机演示首曝！这座城市正处于冲突边缘](https://www.gcores.com/articles/176336)
 append_entries: 1
 Finish: 2024-01-16 14:28:11.045417
+------------------------------------------------------
+Started: 2024-01-16 14:38:01.160471
+Existing_entries: 992
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-16 14:38:01.336310
