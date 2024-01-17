@@ -46168,3 +46168,9 @@ Summarized using GPT-3.5-turbo
 Append: [《潜水员戴夫》制作组新作公布，组队动作对战游戏《Wakerunners》](https://www.gcores.com/articles/176368)
 append_entries: 3
 Finish: 2024-01-17 08:39:55.942853
+------------------------------------------------------
+Started: 2024-01-17 08:48:16.560119
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-17 08:48:16.781566
