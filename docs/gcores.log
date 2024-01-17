@@ -46240,3 +46240,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-17 11:33:43.231654
+------------------------------------------------------
+Started: 2024-01-17 11:48:22.781382
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [【福利】国风幸存者《通神榜》将于1月18日登入Nintendo Switch平台](https://www.gcores.com/articles/176379)
+append_entries: 1
+Finish: 2024-01-17 11:48:46.300194
