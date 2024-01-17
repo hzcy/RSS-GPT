@@ -46153,3 +46153,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-17 08:29:37.409149
+------------------------------------------------------
+Started: 2024-01-17 08:39:08.300982
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [SE新作泡沫对战射击游戏《FOAMSTARS》将于2024年2月6日发售](https://www.gcores.com/articles/176377)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [《女神异闻录3 Reload》14分钟先行试玩视频放出](https://www.gcores.com/articles/176372)
+Token length: 594
+Summarized using GPT-3.5-turbo
+Append: [《潜水员戴夫》制作组新作公布，组队动作对战游戏《Wakerunners》](https://www.gcores.com/articles/176368)
+append_entries: 3
+Finish: 2024-01-17 08:39:55.942853
