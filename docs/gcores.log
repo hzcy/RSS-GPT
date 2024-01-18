@@ -46627,3 +46627,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-18 05:35:23.249566
+------------------------------------------------------
+Started: 2024-01-18 05:48:24.487267
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [B站游戏区年度榜单19日晚揭晓，多款游戏最新情报同步放出](https://www.gcores.com/articles/176417)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [1分钟了解《铁拳》系列故事！《铁拳》×いらすとや合作视频公开](https://www.gcores.com/articles/176416)
+Token length: 785
+Summarized using GPT-3.5-turbo
+Append: [NS版《空战奇兵7 未知天际 豪华版》将在2024年7月11日发售](https://www.gcores.com/articles/176411)
+append_entries: 3
+Finish: 2024-01-18 05:49:25.347109
