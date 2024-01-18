@@ -46684,3 +46684,9 @@ Summarized using GPT-3.5-turbo
 Append: [我以种田来修仙《一方灵田》今日正式发售！限时享折扣特惠](https://www.gcores.com/articles/176410)
 append_entries: 2
 Finish: 2024-01-18 07:22:54.127121
+------------------------------------------------------
+Started: 2024-01-18 07:33:45.146662
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-18 07:33:45.363318
