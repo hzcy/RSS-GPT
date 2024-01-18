@@ -46828,3 +46828,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-18 13:12:59.734432
+------------------------------------------------------
+Started: 2024-01-18 13:27:37.626373
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1451
+Summarized using GPT-3.5-turbo
+Append: [背包管理自走棋游戏《背包乱斗》将于3月8日发售抢先体验版](https://www.gcores.com/articles/176440)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [原告撤诉：网易诉暴雪案今日开庭取消](https://www.gcores.com/articles/176441)
+Token length: 1076
+Summarized using GPT-3.5-turbo
+Append: [经典重制RPG《赵云传：云汉腾龙》正式发售Steam，首周68.4元](https://www.gcores.com/articles/176400)
+append_entries: 3
+Finish: 2024-01-18 13:28:32.222398
