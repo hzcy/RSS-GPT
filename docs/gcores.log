@@ -46792,3 +46792,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-18 11:20:55.844339
+------------------------------------------------------
+Started: 2024-01-18 11:33:51.215307
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2831
+Summarized using GPT-3.5-turbo
+Append: [《圣兽之王》公布新角色、丰富兵种及培养方法等新情报](https://www.gcores.com/articles/176436)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [《物语》系列再启动：“Off Season·Monster Season”宣布动画化](https://www.gcores.com/articles/176435)
+append_entries: 2
+Finish: 2024-01-18 11:35:15.375834
