@@ -46900,3 +46900,9 @@ Summarized using GPT-3.5-turbo
 Append: [OMEN暗影精灵10 SLIM 14等新品发布，惠普10代游戏家族新品发布会今日举行](https://www.gcores.com/articles/176443)
 append_entries: 1
 Finish: 2024-01-18 15:34:42.197559
+------------------------------------------------------
+Started: 2024-01-18 15:48:36.028430
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-18 15:48:36.257750
