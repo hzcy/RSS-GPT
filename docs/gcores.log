@@ -46756,3 +46756,9 @@ Summarized using GPT-3.5-turbo
 Append: [联想拯救者及消费生态春季新品发布会，多款新品齐亮相](https://www.gcores.com/articles/176398)
 append_entries: 4
 Finish: 2024-01-18 09:50:09.607410
+------------------------------------------------------
+Started: 2024-01-18 10:11:33.489881
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-18 10:11:33.708718
