@@ -46891,3 +46891,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-18 15:24:46.215798
+------------------------------------------------------
+Started: 2024-01-18 15:34:21.780342
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2035
+Summarized using GPT-3.5-turbo
+Append: [OMEN暗影精灵10 SLIM 14等新品发布，惠普10代游戏家族新品发布会今日举行](https://www.gcores.com/articles/176443)
+append_entries: 1
+Finish: 2024-01-18 15:34:42.197559
