@@ -43480,3 +43480,12 @@ Existing_entries: 302
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-19 12:49:09.308004
+------------------------------------------------------
+Started: 2024-01-19 13:12:31.287551
+Existing_entries: 302
+Fetching from https://www.ifanr.com/feed
+Token length: 4353
+Summarized using GPT-3.5-turbo
+Append: [思域 Type R 滞销，救救本田](https://www.ifanr.com/1573811?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-19 13:13:02.296822
