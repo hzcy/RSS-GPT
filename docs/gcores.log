@@ -47191,3 +47191,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-19 05:09:54.130928
+------------------------------------------------------
+Started: 2024-01-19 05:27:08.157572
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 742
+Summarized using GPT-3.5-turbo
+Append: [《猛兽派对》将与《咩咩启示录》展开联动，玩家可获得"咩咩教主”](https://www.gcores.com/articles/176460)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [《街头霸王6》新追加角色「爱德」“环球游历”片段公布，2024年2月加入游戏](https://www.gcores.com/articles/176458)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [B站游戏区年度榜单直播节目单公布，《完蛋！我被美女包围了！》DLC预告今日放出](https://www.gcores.com/articles/176456)
+append_entries: 3
+Finish: 2024-01-19 05:28:29.534429
