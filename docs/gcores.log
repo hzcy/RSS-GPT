@@ -47326,3 +47326,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-19 09:48:15.562598
+------------------------------------------------------
+Started: 2024-01-19 10:10:29.744391
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [历史向战棋游戏《领主争锋》正式发售，折后售价64.6元](https://www.gcores.com/articles/176474)
+Token length: 390
+Summarized using GPT-3.5-turbo
+Append: [光荣特库摩将在上海开设官方周边店](https://www.gcores.com/articles/176475)
+append_entries: 2
+Finish: 2024-01-19 10:10:57.882907
