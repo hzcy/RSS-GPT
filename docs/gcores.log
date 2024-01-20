@@ -47799,3 +47799,9 @@ Summarized using GPT-3.5-turbo
 Append: [《主播女孩重度依赖》2周年新曲《月虹蝶》公开](https://www.gcores.com/articles/176510)
 append_entries: 2
 Finish: 2024-01-20 06:13:51.714895
+------------------------------------------------------
+Started: 2024-01-20 06:28:06.014456
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-20 06:28:06.250262
