@@ -43966,3 +43966,12 @@ Existing_entries: 304
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-20 10:48:22.937757
+------------------------------------------------------
+Started: 2024-01-20 11:07:38.400360
+Existing_entries: 304
+Fetching from https://www.ifanr.com/feed
+Token length: 4972
+Summarized using GPT-3.5-turbo
+Append: [苹果为什么要推出这个「反 iPhone」的功能](https://www.ifanr.com/1573880?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-20 11:07:51.701307
