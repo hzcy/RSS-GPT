@@ -47931,3 +47931,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-20 11:34:03.299143
+------------------------------------------------------
+Started: 2024-01-20 11:48:35.860682
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [TV动画《蔚蓝档案》先导PV公开，2024年4月开播](https://www.gcores.com/articles/176518)
+append_entries: 1
+Finish: 2024-01-20 11:49:00.674716
