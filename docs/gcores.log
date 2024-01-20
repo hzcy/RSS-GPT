@@ -47940,3 +47940,9 @@ Summarized using GPT-3.5-turbo
 Append: [TV动画《蔚蓝档案》先导PV公开，2024年4月开播](https://www.gcores.com/articles/176518)
 append_entries: 1
 Finish: 2024-01-20 11:49:00.674716
+------------------------------------------------------
+Started: 2024-01-20 12:15:58.975976
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-20 12:15:59.213767
