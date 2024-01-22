@@ -48873,3 +48873,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-22 07:34:09.723313
+------------------------------------------------------
+Started: 2024-01-22 07:48:18.796376
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1351
+Summarized using GPT-3.5-turbo
+Append: [《人中之龙８》中配宣传片公布，桐生一马支线剧情“死前日记”详情介绍](https://www.gcores.com/articles/176567)
+Token length: 1608
+Summarized using GPT-3.5-turbo
+Append: [在手机上玩《S4U》和《星幕协约 A.A.A.》！「暴造云玩节」即将上线](https://www.gcores.com/articles/176463)
+append_entries: 2
+Finish: 2024-01-22 07:49:26.426467
