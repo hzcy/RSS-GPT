@@ -48909,3 +48909,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-22 09:11:09.724662
+------------------------------------------------------
+Started: 2024-01-22 09:25:38.563376
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [《主播女孩重度依赖》「超绝可爱天使酱」官网页面上线](https://www.gcores.com/articles/176574)
+append_entries: 1
+Finish: 2024-01-22 09:26:05.370289
