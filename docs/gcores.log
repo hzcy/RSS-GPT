@@ -48813,3 +48813,9 @@ Summarized using GPT-3.5-turbo
 Append: [TRIGGER×Ado，乐天巧克力60周年纪念广告公开](https://www.gcores.com/articles/176563)
 append_entries: 2
 Finish: 2024-01-22 04:48:54.324053
+------------------------------------------------------
+Started: 2024-01-22 05:10:12.233617
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-22 05:10:12.422718
