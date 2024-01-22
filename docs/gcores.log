@@ -48990,3 +48990,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-22 13:13:48.681701
+------------------------------------------------------
+Started: 2024-01-22 13:28:31.798701
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [《哥斯拉大战金刚 2：帝国崛起》内地定档，3 月 29 日院线上映](https://www.gcores.com/articles/176564)
+append_entries: 1
+Finish: 2024-01-22 13:28:45.791821
