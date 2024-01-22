@@ -49167,3 +49167,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-22 20:34:11.796745
+------------------------------------------------------
+Started: 2024-01-22 20:48:18.753218
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2295
+Summarized using GPT-3.5-turbo
+Append: [助力游戏登录多平台，「主机游戏全球市场展望及开发技术沙龙」圆满结束](https://www.gcores.com/articles/176593)
+append_entries: 1
+Finish: 2024-01-22 20:48:32.519665
