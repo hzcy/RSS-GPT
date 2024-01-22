@@ -48999,3 +48999,9 @@ Summarized using GPT-3.5-turbo
 Append: [《哥斯拉大战金刚 2：帝国崛起》内地定档，3 月 29 日院线上映](https://www.gcores.com/articles/176564)
 append_entries: 1
 Finish: 2024-01-22 13:28:45.791821
+------------------------------------------------------
+Started: 2024-01-22 13:36:19.065605
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-22 13:36:19.561520
