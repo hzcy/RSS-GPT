@@ -49623,3 +49623,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-23 16:48:11.473944
+------------------------------------------------------
+Started: 2024-01-23 17:09:12.810340
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 689
+Summarized using GPT-3.5-turbo
+Append: [百尺竿头更进一步！《铁拳8》媒体评分汇总](https://www.gcores.com/articles/176645)
+Token length: 2654
+Summarized using GPT-3.5-turbo
+Append: [第 96 届“奥斯卡金像奖”提名公布，《奥本海默》获十三项提名](https://www.gcores.com/articles/176643)
+append_entries: 2
+Finish: 2024-01-23 17:10:17.056940
