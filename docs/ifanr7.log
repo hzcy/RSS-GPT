@@ -45286,3 +45286,12 @@ Existing_entries: 306
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-23 00:45:27.475653
+------------------------------------------------------
+Started: 2024-01-23 01:46:41.222076
+Existing_entries: 306
+Fetching from https://www.ifanr.com/feed
+Token length: 5245
+Summarized using GPT-3.5-turbo
+Append: [早报|苹果市值重回全球第一/抖音否认放贷余额近 4000 亿元/东方甄选或与 TikTok 合作出海](https://www.ifanr.com/1574044?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-23 01:46:55.381262
