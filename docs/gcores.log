@@ -49461,3 +49461,9 @@ Summarized using GPT-3.5-turbo
 Append: [《创造三国志》将于2024年2月1日上架Steam](https://www.gcores.com/articles/176352)
 append_entries: 2
 Finish: 2024-01-23 09:24:50.512478
+------------------------------------------------------
+Started: 2024-01-23 09:34:23.922395
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-23 09:34:24.293133
