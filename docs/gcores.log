@@ -49449,3 +49449,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-23 09:10:29.853907
+------------------------------------------------------
+Started: 2024-01-23 09:23:53.689773
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 768
+Summarized using GPT-3.5-turbo
+Append: [世界任你行！黑曜石开发者分享《宣誓》战斗细节](https://www.gcores.com/articles/176621)
+Token length: 635
+Summarized using GPT-3.5-turbo
+Append: [《创造三国志》将于2024年2月1日上架Steam](https://www.gcores.com/articles/176352)
+append_entries: 2
+Finish: 2024-01-23 09:24:50.512478
