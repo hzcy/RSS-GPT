@@ -49296,3 +49296,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-23 03:34:20.768598
+------------------------------------------------------
+Started: 2024-01-23 03:48:27.030990
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 269
+Summarized using GPT-3.5-turbo
+Append: [《尼尔》手游《NieR Re[in]carnation》宣布4月30日停服](https://www.gcores.com/articles/176604)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [拳头游戏裁员530人：不再推出外传衍生游戏，《符文之地传说》规模将缩减](https://www.gcores.com/articles/176602)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [《猛兽派对》将于本月15日开启好友通行证测试](https://www.gcores.com/articles/176601)
+Token length: 677
+Summarized using GPT-3.5-turbo
+Append: [多人合作互坑《终极拉扯》1.0正式上线，Daedalic发行商同步进行特惠促销](https://www.gcores.com/articles/176600)
+append_entries: 4
+Finish: 2024-01-23 03:49:48.571686
