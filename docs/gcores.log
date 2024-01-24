@@ -50131,3 +50131,9 @@ Summarized using GPT-3.5-turbo
 Append: [《幻兽帕鲁》公布更新路线图，优先解决服务器问题](https://www.gcores.com/articles/176704)
 append_entries: 1
 Finish: 2024-01-24 13:48:50.602271
+------------------------------------------------------
+Started: 2024-01-24 14:09:53.451321
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-24 14:09:53.656126
