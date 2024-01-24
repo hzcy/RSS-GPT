@@ -50011,3 +50011,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-24 09:23:49.023427
+------------------------------------------------------
+Started: 2024-01-24 09:34:20.211314
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [原计划于「Nintendo Live 2024 TOKYO」出演的《塞尔达传说》及《斯普拉遁3》音乐会将改为线上播出](https://www.gcores.com/articles/176690)
+Token length: 485
+Summarized using GPT-3.5-turbo
+Append: [2023年PS Store年度下载排行榜公开](https://www.gcores.com/articles/176688)
+append_entries: 2
+Finish: 2024-01-24 09:35:09.192409
