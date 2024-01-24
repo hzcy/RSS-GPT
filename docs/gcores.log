@@ -50209,3 +50209,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-24 17:26:47.208827
+------------------------------------------------------
+Started: 2024-01-24 17:35:11.174318
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1335
+Summarized using GPT-3.5-turbo
+Append: [能在你手中不断成长的AIPC，与惠普高层对谈OMEN暗影精灵新品方向](https://www.gcores.com/articles/176661)
+append_entries: 1
+Finish: 2024-01-24 17:35:46.821627
