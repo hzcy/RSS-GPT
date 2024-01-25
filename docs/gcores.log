@@ -50374,3 +50374,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-25 00:45:21.690291
+------------------------------------------------------
+Started: 2024-01-25 01:47:25.996616
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 340
+Summarized using GPT-3.5-turbo
+Append: [《糖豆人：终极淘汰赛》现已实装“各色贴纸”更新](https://www.gcores.com/articles/176711)
+append_entries: 1
+Finish: 2024-01-25 01:47:46.376011
