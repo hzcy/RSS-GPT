@@ -50458,3 +50458,9 @@ Summarized using GPT-3.5-turbo
 Append: [动作策略游戏《莉丝梵嘉：时之刃》定于2月13日发售](https://www.gcores.com/articles/176713)
 append_entries: 5
 Finish: 2024-01-25 04:41:48.909109
+------------------------------------------------------
+Started: 2024-01-25 04:48:19.906837
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-25 04:48:20.171991
