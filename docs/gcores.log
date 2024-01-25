@@ -50383,3 +50383,9 @@ Summarized using GPT-3.5-turbo
 Append: [《糖豆人：终极淘汰赛》现已实装“各色贴纸”更新](https://www.gcores.com/articles/176711)
 append_entries: 1
 Finish: 2024-01-25 01:47:46.376011
+------------------------------------------------------
+Started: 2024-01-25 02:27:32.131048
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-25 02:27:32.451512
