@@ -50598,3 +50598,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-25 09:34:14.450157
+------------------------------------------------------
+Started: 2024-01-25 09:48:31.744080
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1102
+Summarized using GPT-3.5-turbo
+Append: [国产佳作《波西亚时光》现已优化上线国行NS商店](https://www.gcores.com/articles/176748)
+Token length: 516
+Summarized using GPT-3.5-turbo
+Append: [暗黑动作肉鸽《守护者之魂》更新0.7版本，实装画面升级和中文语言支持](https://www.gcores.com/articles/176738)
+append_entries: 2
+Finish: 2024-01-25 09:49:48.091812
