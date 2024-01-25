@@ -50811,3 +50811,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-25 17:48:24.869454
+------------------------------------------------------
+Started: 2024-01-25 18:13:13.006089
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 910
+Summarized using GPT-3.5-turbo
+Append: [《泡姆泡姆》《纪元变异》等115款游戏过审:2024年1月份国产网络游戏审批信息公布](https://www.gcores.com/articles/176768)
+append_entries: 1
+Finish: 2024-01-25 18:13:35.143395
