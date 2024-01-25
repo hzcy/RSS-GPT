@@ -50577,3 +50577,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-25 08:48:24.255437
+------------------------------------------------------
+Started: 2024-01-25 09:10:52.665513
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 385
+Summarized using GPT-3.5-turbo
+Append: [克苏鲁背景Roguelite+FPS游戏《深渊魔魇》现已推出免费试玩版](https://www.gcores.com/articles/176689)
+append_entries: 1
+Finish: 2024-01-25 09:11:38.530094
