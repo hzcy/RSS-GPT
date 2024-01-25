@@ -50772,3 +50772,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-25 16:12:38.286114
+------------------------------------------------------
+Started: 2024-01-25 16:33:19.792623
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 567
+Summarized using GPT-3.5-turbo
+Append: [暴雪总裁Mike Ybarra宣布离职，动视暴雪迎来大裁员](https://www.gcores.com/articles/176765)
+append_entries: 1
+Finish: 2024-01-25 16:33:37.988448
