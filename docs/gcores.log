@@ -50850,3 +50850,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-25 19:19:32.955667
+------------------------------------------------------
+Started: 2024-01-26 07:09:35.845454
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [《来自星尘》公布发售定档预告，将于2月27日发售](https://www.gcores.com/articles/176779)
+Token length: 505
+Summarized using GPT-3.5-turbo
+Append: [欢庆游戏一周年：《HI-FI RUSH》迎来最新更新](https://www.gcores.com/articles/176773)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [打击官方服务器作弊：《幻兽帕鲁》迎来0.1.3.0更新](https://www.gcores.com/articles/176772)
+Token length: 385
+Summarized using GPT-3.5-turbo
+Append: [《地平线 西之绝境》完整版现已在Steam开启预售，国区售价414元](https://www.gcores.com/articles/176771)
+append_entries: 4
+Finish: 2024-01-26 07:10:50.836090
