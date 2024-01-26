@@ -50916,3 +50916,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-26 08:35:25.343937
+------------------------------------------------------
+Started: 2024-01-26 08:48:26.482973
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: [经典游戏《龙之谷》现已正式登陆Steam！](https://www.gcores.com/articles/176808)
+Token length: 1040
+Summarized using GPT-3.5-turbo
+Append: [开战！《铁拳8》今日正式发售](https://www.gcores.com/articles/176800)
+append_entries: 2
+Finish: 2024-01-26 08:49:18.285767
