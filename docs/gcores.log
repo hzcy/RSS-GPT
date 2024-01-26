@@ -50958,3 +50958,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-26 10:09:38.092332
+------------------------------------------------------
+Started: 2024-01-26 10:28:40.727348
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 803
+Summarized using GPT-3.5-turbo
+Append: [《幻兽帕鲁》开发商新作《Never Grave: The Witch and The Curse》免费Demo已发布](https://www.gcores.com/articles/176816)
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [在神庙的一百万种死法，异步冒险游戏《幻影深渊》正式版上线](https://www.gcores.com/articles/176780)
+append_entries: 2
+Finish: 2024-01-26 10:29:42.236520
