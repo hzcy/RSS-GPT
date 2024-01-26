@@ -50886,3 +50886,9 @@ Summarized using GPT-3.5-turbo
 Append: [日本一SRPG新作《星之深渊酒吧 BAR Stella Abyss》最新预告公布](https://www.gcores.com/articles/176783)
 append_entries: 4
 Finish: 2024-01-26 07:21:11.714822
+------------------------------------------------------
+Started: 2024-01-26 07:33:38.056956
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-26 07:33:38.222825
