@@ -47155,3 +47155,12 @@ Existing_entries: 319
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-27 00:41:10.747407
+------------------------------------------------------
+Started: 2024-01-27 01:33:49.810647
+Existing_entries: 319
+Fetching from https://www.ifanr.com/feed
+Token length: 5986
+Summarized using GPT-3.5-turbo
+Append: [早报|苹果首次开放第三方下载/俞敏洪称公司不应只依赖董宇辉/消息称小米汽车北京首家 2S 店落地](https://www.ifanr.com/1574260?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-27 01:34:06.430045
