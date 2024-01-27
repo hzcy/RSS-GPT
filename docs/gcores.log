@@ -51660,3 +51660,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-27 17:10:19.442250
+------------------------------------------------------
+Started: 2024-01-27 17:24:50.322757
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 686
+Summarized using GPT-3.5-turbo
+Append: [下周节目预告 1.29~2.4](https://www.gcores.com/articles/176852)
+append_entries: 1
+Finish: 2024-01-27 17:25:09.951632
