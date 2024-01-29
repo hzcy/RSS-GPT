@@ -52407,3 +52407,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-29 03:22:27.978908
+------------------------------------------------------
+Started: 2024-01-29 03:34:54.443678
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 701
+Summarized using GPT-3.5-turbo
+Append: [《辐射76》大西洋城“美国游乐场”更新将于3月26日实装](https://www.gcores.com/articles/176889)
+Token length: 1308
+Summarized using GPT-3.5-turbo
+Append: [欢庆龙年：《极限竞速：地平线5》揭晓春节活动详情，福星车包明日发售](https://www.gcores.com/articles/176888)
+Token length: 466
+Summarized using GPT-3.5-turbo
+Append: [《归途列车》“军团传说”DLC将于2月1日发售](https://www.gcores.com/articles/176887)
+append_entries: 3
+Finish: 2024-01-29 03:35:53.533120
