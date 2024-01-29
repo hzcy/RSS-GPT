@@ -52770,3 +52770,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-29 17:09:10.821780
+------------------------------------------------------
+Started: 2024-01-29 17:26:08.810335
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [索尼「State of Play」发布会将于2月1日凌晨6:00举行](https://www.gcores.com/articles/176942)
+append_entries: 1
+Finish: 2024-01-29 17:26:41.626068
