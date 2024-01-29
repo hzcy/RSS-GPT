@@ -52494,3 +52494,9 @@ Summarized using GPT-3.5-turbo
 Append: [剧场版《高达SEED FREEDOM》上映3天票房突破10.6亿日元](https://www.gcores.com/articles/176894)
 append_entries: 4
 Finish: 2024-01-29 06:13:25.839717
+------------------------------------------------------
+Started: 2024-01-29 06:27:44.826628
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-29 06:27:45.002878
