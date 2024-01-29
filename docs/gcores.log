@@ -52836,3 +52836,9 @@ Summarized using GPT-3.5-turbo
 Append: [TYPE-MOON《Fate/stay night》游戏PC版发售20周年](https://www.gcores.com/articles/176943)
 append_entries: 1
 Finish: 2024-01-29 19:34:04.950342
+------------------------------------------------------
+Started: 2024-01-29 19:48:09.927374
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-29 19:48:10.187372
