@@ -52599,3 +52599,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-29 10:10:30.918087
+------------------------------------------------------
+Started: 2024-01-29 10:27:30.389388
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 654
+Summarized using GPT-3.5-turbo
+Append: [地城探索游戏《Ancient Weapon Holly》将于2024年3月8日发售](https://www.gcores.com/articles/176911)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [新的家庭成员！《神偷奶爸4》首支预告公布](https://www.gcores.com/articles/176909)
+Token length: 723
+Summarized using GPT-3.5-turbo
+Append: [像素风面包店经营+迷宫探索动作RPG《亚路塔》已开放Demo试玩](https://www.gcores.com/articles/176908)
+append_entries: 3
+Finish: 2024-01-29 10:28:21.885247
