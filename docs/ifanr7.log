@@ -48433,3 +48433,12 @@ Existing_entries: 323
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-01-29 09:48:03.410131
+------------------------------------------------------
+Started: 2024-01-29 10:10:02.290455
+Existing_entries: 323
+Fetching from https://www.ifanr.com/feed
+Token length: 2136
+Summarized using GPT-3.5-turbo
+Append: [号称中文评测超越 GPT-4，百川智能发布超千亿参数大模型 Baichuan 3](https://www.ifanr.com/1574506?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-01-29 10:10:27.298480
