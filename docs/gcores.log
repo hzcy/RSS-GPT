@@ -52530,3 +52530,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-29 07:33:30.810900
+------------------------------------------------------
+Started: 2024-01-29 07:48:16.113362
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [《霍格沃茨之遗》销量突破2400万份](https://www.gcores.com/articles/176902)
+Token length: 353
+Summarized using GPT-3.5-turbo
+Append: [《沙丘》第一部与《奥本海默》将于3月1日内地重映](https://www.gcores.com/articles/176900)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [动画《龙珠DAIMA》公开新PV，2024年秋季公开](https://www.gcores.com/articles/176899)
+append_entries: 3
+Finish: 2024-01-29 07:49:32.959585
