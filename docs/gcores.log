@@ -53064,3 +53064,9 @@ Summarized using GPT-3.5-turbo
 Append: [《魔兽争霸1》《魔兽争霸2》及《暗黑破坏神1》 ​​​现已在战网发售](https://www.gcores.com/articles/176956)
 append_entries: 1
 Finish: 2024-01-30 05:48:52.741950
+------------------------------------------------------
+Started: 2024-01-30 06:12:40.477929
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-30 06:12:40.684777
