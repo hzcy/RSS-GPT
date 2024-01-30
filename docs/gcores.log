@@ -53268,3 +53268,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-30 14:25:12.589947
+------------------------------------------------------
+Started: 2024-01-30 14:34:08.185713
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 918
+Summarized using GPT-3.5-turbo
+Append: [《死亡搁浅 导演剪辑版》现已登陆 iPhone 15、iPad 和 Mac](https://www.gcores.com/articles/176983)
+append_entries: 1
+Finish: 2024-01-30 14:34:30.012914
