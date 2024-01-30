@@ -53184,3 +53184,9 @@ Summarized using GPT-3.5-turbo
 Append: [《雾锁王国》销量突破一百万份，开发者发文感谢](https://www.gcores.com/articles/176969)
 append_entries: 1
 Finish: 2024-01-30 10:36:46.927402
+------------------------------------------------------
+Started: 2024-01-30 10:48:27.545191
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-30 10:48:27.695794
