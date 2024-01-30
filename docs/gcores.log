@@ -53121,3 +53121,9 @@ Summarized using GPT-3.5-turbo
 Append: [欢庆《蔚蓝》发售六周年：N64风《蔚蓝64》现已开放下载](https://www.gcores.com/articles/176968)
 append_entries: 1
 Finish: 2024-01-30 08:12:01.478739
+------------------------------------------------------
+Started: 2024-01-30 08:25:51.183456
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-30 08:25:51.347218
