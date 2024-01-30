@@ -53010,3 +53010,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-30 04:10:47.566702
+------------------------------------------------------
+Started: 2024-01-30 04:24:55.509000
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 445
+Summarized using GPT-3.5-turbo
+Append: [《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记》将于2月14日发售PC版](https://www.gcores.com/articles/176952)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Eidos蒙特利尔裁员97人，《杀出 重围》新作据传取消](https://www.gcores.com/articles/176950)
+Token length: 761
+Summarized using GPT-3.5-turbo
+Append: [北欧类幸存者肉鸽游戏《阿斯加德的陨落》现已开放试玩Demo](https://www.gcores.com/articles/176949)
+append_entries: 3
+Finish: 2024-01-30 04:26:11.928810
