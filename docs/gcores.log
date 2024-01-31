@@ -53643,3 +53643,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-31 06:35:11.905447
+------------------------------------------------------
+Started: 2024-01-31 06:48:04.202514
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 548
+Summarized using GPT-3.5-turbo
+Append: [PS+年费会员低至6折：PlayStation港服现已开启“玩乐新年”大促](https://www.gcores.com/articles/177018)
+Token length: 715
+Summarized using GPT-3.5-turbo
+Append: [《沉默的蟋蟀》DLC「异虫拓展包」上线，大量新内容推出！](https://www.gcores.com/articles/177019)
+Token length: 466
+Summarized using GPT-3.5-turbo
+Append: [动作肉鸽游戏《苍翼：混沌效应》今日推出1.0正式版](https://www.gcores.com/articles/177016)
+append_entries: 3
+Finish: 2024-01-31 06:49:14.817405
