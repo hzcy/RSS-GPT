@@ -53601,3 +53601,9 @@ Summarized using GPT-3.5-turbo
 Append: [《星际战甲》现已支持跨平台数据互通](https://www.gcores.com/articles/177001)
 append_entries: 4
 Finish: 2024-01-31 04:49:37.777918
+------------------------------------------------------
+Started: 2024-01-31 05:09:54.114359
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-01-31 05:09:54.338479
