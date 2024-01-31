@@ -53745,3 +53745,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-31 10:09:44.633962
+------------------------------------------------------
+Started: 2024-01-31 10:27:21.441050
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 409
+Summarized using GPT-3.5-turbo
+Append: [TV动画《狼与香辛料》公开第2弹PV，4月开播](https://www.gcores.com/articles/177041)
+Token length: 423
+Summarized using GPT-3.5-turbo
+Append: [动视暴雪收购助力：微软游戏最新财季收入超越Windows](https://www.gcores.com/articles/177033)
+Token length: 362
+Summarized using GPT-3.5-turbo
+Append: [《街头霸王6》 累计销量298万：卡普空公布23年4~12月财报](https://www.gcores.com/articles/177028)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [《魔药奇谭》定档3月8日正式上线Steam](https://www.gcores.com/articles/177023)
+append_entries: 4
+Finish: 2024-01-31 10:29:09.994682
