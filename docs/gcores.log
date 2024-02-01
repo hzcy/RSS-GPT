@@ -54138,3 +54138,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-01 03:23:10.351535
+------------------------------------------------------
+Started: 2024-02-01 03:34:50.569199
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1960
+Summarized using GPT-3.5-turbo
+Append: [集众所长，“汇流”登场](https://www.gcores.com/articles/177063)
+Token length: 994
+Summarized using GPT-3.5-turbo
+Append: [回合制战术肉鸽游戏序章《流放者传说：初踏旅程》现已在Steam平台免费上线](https://www.gcores.com/articles/177068)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [《星刃》全新游戏介绍及实机影像公开](https://www.gcores.com/articles/177072)
+append_entries: 3
+Finish: 2024-02-01 03:36:10.122675
