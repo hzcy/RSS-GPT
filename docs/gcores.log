@@ -54225,3 +54225,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-01 06:28:08.463125
+------------------------------------------------------
+Started: 2024-02-01 06:37:11.206028
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [《马力欧vs咚奇刚》新宣传片公布，体验版已上架](https://www.gcores.com/articles/177090)
+Token length: 888
+Summarized using GPT-3.5-turbo
+Append: [童话城堡里的盛大婚礼：《寓言之地》今日迎来重大版本更新](https://www.gcores.com/articles/177086)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [《泡沫之星》首发加入：索尼公布2月PSN会免阵容](https://www.gcores.com/articles/177082)
+append_entries: 3
+Finish: 2024-02-01 06:38:37.676992
