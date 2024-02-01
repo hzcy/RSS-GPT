@@ -54081,3 +54081,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-01-31 23:48:32.201148
+------------------------------------------------------
+Started: 2024-02-01 00:43:16.203911
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1768
+Summarized using GPT-3.5-turbo
+Append: [小岛再公布新作《PHYSINT》！索尼State of Play发布会内容汇总](https://www.gcores.com/articles/177065)
+Token length: 336
+Summarized using GPT-3.5-turbo
+Append: [小岛秀夫将与索尼合作推出全新IP谍报动作游戏《PHYSINT》](https://www.gcores.com/articles/177071)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [《死亡搁浅2：ON THE BEACH》公布新宣传片，2025年发售](https://www.gcores.com/articles/177069)
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [《地铁》系列新作《Metro Awakening VR》正式公布，2024年发售](https://www.gcores.com/articles/177067)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [免费游戏《寂静岭：The Short Message》今日上架PS5](https://www.gcores.com/articles/177066)
+append_entries: 5
+Finish: 2024-02-01 00:44:48.622239
