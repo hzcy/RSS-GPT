@@ -54384,3 +54384,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-01 12:16:09.086716
+------------------------------------------------------
+Started: 2024-02-01 12:44:58.743281
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1511
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY战锤40K&英菲新品公布：沙库什轻型装甲与壁虎中队参战](https://www.gcores.com/articles/177160)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [JP GAMES×AI技术公司，新作RPG项目《SHALLAH》正式公布](https://www.gcores.com/articles/177164)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: [Steam版《告别回忆》系列7部作品今日发售](https://www.gcores.com/articles/177161)
+append_entries: 3
+Finish: 2024-02-01 12:46:18.068471
