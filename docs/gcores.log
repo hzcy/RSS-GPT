@@ -54507,3 +54507,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-01 17:08:40.263199
+------------------------------------------------------
+Started: 2024-02-01 17:28:34.400024
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2568
+Summarized using GPT-3.5-turbo
+Append: [保存这份节目单，2024科幻春晚看点大剧透！](https://www.gcores.com/articles/177177)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [动作类肉鸽《莫塔之子》将推出桌面棋盘游戏，于2024年春季发售](https://www.gcores.com/articles/177167)
+append_entries: 2
+Finish: 2024-02-01 17:29:33.634578
