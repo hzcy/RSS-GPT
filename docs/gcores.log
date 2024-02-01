@@ -54153,3 +54153,9 @@ Summarized using GPT-3.5-turbo
 Append: [《星刃》全新游戏介绍及实机影像公开](https://www.gcores.com/articles/177072)
 append_entries: 3
 Finish: 2024-02-01 03:36:10.122675
+------------------------------------------------------
+Started: 2024-02-01 03:48:10.196477
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-01 03:48:10.431403
