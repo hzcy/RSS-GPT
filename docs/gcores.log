@@ -54171,3 +54171,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-01 04:27:41.782074
+------------------------------------------------------
+Started: 2024-02-01 04:35:36.595350
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1571
+Summarized using GPT-3.5-turbo
+Append: [2024年2月的国产新游最前线 - 上篇](https://www.gcores.com/articles/177076)
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想7 重生》专场“State of Play”2月7日播出](https://www.gcores.com/articles/177073)
+append_entries: 2
+Finish: 2024-02-01 04:36:11.378994
