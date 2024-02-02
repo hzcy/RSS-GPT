@@ -55069,3 +55069,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-02 16:09:59.528996
+------------------------------------------------------
+Started: 2024-02-02 16:26:28.059295
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 855
+Summarized using GPT-3.5-turbo
+Append: [致敬经典之作：《国王之墓》宣布发行日期及参加Steam新品节](https://www.gcores.com/articles/177209)
+append_entries: 1
+Finish: 2024-02-02 16:27:04.341115
