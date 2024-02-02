@@ -55009,3 +55009,9 @@ Summarized using GPT-3.5-turbo
 Append: [Steam 94%特别好评游戏《深空梦里人》现已支持简体中文](https://www.gcores.com/articles/177237)
 append_entries: 2
 Finish: 2024-02-02 13:34:21.503030
+------------------------------------------------------
+Started: 2024-02-02 13:48:31.629261
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-02 13:48:32.136805
