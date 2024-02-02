@@ -54946,3 +54946,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-02 11:08:25.633130
+------------------------------------------------------
+Started: 2024-02-02 11:18:45.825898
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 539
+Summarized using GPT-3.5-turbo
+Append: [胖布丁叙事解谜新游首次公开，《窗台上的蝴蝶》现已公开商店页](https://www.gcores.com/articles/177207)
+append_entries: 1
+Finish: 2024-02-02 11:19:00.087272
