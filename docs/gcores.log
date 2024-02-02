@@ -55111,3 +55111,9 @@ Summarized using GPT-3.5-turbo
 Append: [《亡灵巫师2》参加Steam新品节，3月27日正式发售](https://www.gcores.com/articles/177211)
 append_entries: 1
 Finish: 2024-02-02 17:35:16.364664
+------------------------------------------------------
+Started: 2024-02-02 17:48:10.258098
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-02 17:48:10.504752
