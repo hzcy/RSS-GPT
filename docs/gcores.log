@@ -54847,3 +54847,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-02 07:33:40.522172
+------------------------------------------------------
+Started: 2024-02-02 07:48:12.853560
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [宝可梦官方新春特别动画《良辰有梦》公布](https://www.gcores.com/articles/177205)
+append_entries: 1
+Finish: 2024-02-02 07:48:13.496274
