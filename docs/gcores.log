@@ -55303,3 +55303,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-03 03:11:37.486311
+------------------------------------------------------
+Started: 2024-02-03 03:24:39.123046
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1835
+Summarized using GPT-3.5-turbo
+Append: [《使命召唤 现代战争2023》第二赛季更新日志概览](https://www.gcores.com/articles/177190)
+append_entries: 1
+Finish: 2024-02-03 03:24:39.617822
