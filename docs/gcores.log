@@ -56059,3 +56059,9 @@ Summarized using GPT-3.5-turbo
 Append: [新春节目预告 2.5～2.16](https://www.gcores.com/articles/177299)
 append_entries: 2
 Finish: 2024-02-04 11:48:55.083955
+------------------------------------------------------
+Started: 2024-02-04 12:14:52.269648
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-04 12:14:52.699262
