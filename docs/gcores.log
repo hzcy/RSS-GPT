@@ -56047,3 +56047,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-04 11:33:50.697366
+------------------------------------------------------
+Started: 2024-02-04 11:48:19.674698
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 358
+Summarized using GPT-3.5-turbo
+Append: [《女神异闻录3 Reload》统筹制作人和田和久：现阶段没有考虑推出加强版](https://www.gcores.com/articles/177303)
+Token length: 989
+Summarized using GPT-3.5-turbo
+Append: [新春节目预告 2.5～2.16](https://www.gcores.com/articles/177299)
+append_entries: 2
+Finish: 2024-02-04 11:48:55.083955
