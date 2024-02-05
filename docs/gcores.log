@@ -56578,3 +56578,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-05 10:29:13.412947
+------------------------------------------------------
+Started: 2024-02-05 10:37:32.756576
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [Other Tales工作室新作《轻物心语》将参加Steam新品节](https://www.gcores.com/articles/177343)
+Token length: 789
+Summarized using GPT-3.5-turbo
+Append: [开发商ACQUIR携旗下三款游戏参加Steam新品节](https://www.gcores.com/articles/177342)
+Token length: 545
+Summarized using GPT-3.5-turbo
+Append: [新国风生存建造游戏《无径之林》试玩版上线](https://www.gcores.com/articles/177341)
+Token length: 1222
+Summarized using GPT-3.5-turbo
+Append: [《全网公敌：新世界》新品节限时试玩今日上线](https://www.gcores.com/articles/177335)
+append_entries: 4
+Finish: 2024-02-05 10:38:11.200622
