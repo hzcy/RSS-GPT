@@ -51991,3 +51991,12 @@ Existing_entries: 333
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-02-05 00:42:23.944392
+------------------------------------------------------
+Started: 2024-02-05 01:39:30.408284
+Existing_entries: 333
+Fetching from https://www.ifanr.com/feed
+Token length: 4829
+Summarized using GPT-3.5-turbo
+Append: [早报｜华为重夺中国智能手机市场销量第一/苹果 Vision Pro 全球首拆/百度输入法上线付费 VIP](https://www.ifanr.com/1575018?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-02-05 01:39:32.395830
