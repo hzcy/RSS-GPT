@@ -56725,3 +56725,9 @@ Summarized using GPT-3.5-turbo
 Append: [《王国战争模拟器》参加Steam新品节](https://www.gcores.com/articles/177340)
 append_entries: 1
 Finish: 2024-02-05 16:28:18.512454
+------------------------------------------------------
+Started: 2024-02-05 16:36:36.864309
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-05 16:36:37.067628
