@@ -56827,3 +56827,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-05 20:33:46.815810
+------------------------------------------------------
+Started: 2024-02-05 20:48:18.466188
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [Steam2024年2月新品节现已隆重上线，诸多Demo值得一玩](https://www.gcores.com/articles/177367)
+append_entries: 1
+Finish: 2024-02-05 20:48:35.115197
