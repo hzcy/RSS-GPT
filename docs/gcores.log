@@ -56413,3 +56413,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-05 04:28:29.164118
+------------------------------------------------------
+Started: 2024-02-05 04:36:46.626092
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 472
+Summarized using GPT-3.5-turbo
+Append: [《哈罗德·哈利巴》现已在Steam新品节公开首个Demo](https://www.gcores.com/articles/177315)
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [《幸福工厂》将于年内脱离抢先体验并正式发售](https://www.gcores.com/articles/177314)
+Token length: 549
+Summarized using GPT-3.5-turbo
+Append: [《消逝的光芒 2》庆祝二周年生日，未来三年将持续提供更新](https://www.gcores.com/articles/177312)
+append_entries: 3
+Finish: 2024-02-05 04:37:06.752795
