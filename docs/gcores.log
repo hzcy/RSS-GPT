@@ -56428,3 +56428,9 @@ Summarized using GPT-3.5-turbo
 Append: [《消逝的光芒 2》庆祝二周年生日，未来三年将持续提供更新](https://www.gcores.com/articles/177312)
 append_entries: 3
 Finish: 2024-02-05 04:37:06.752795
+------------------------------------------------------
+Started: 2024-02-05 04:48:24.700583
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-05 04:48:24.954810
