@@ -57019,3 +57019,9 @@ Summarized using GPT-3.5-turbo
 Append: [“侏罗纪世界”新片定档 25 年 7 月，大卫·雷奇或将执导](https://www.gcores.com/articles/177377)
 append_entries: 4
 Finish: 2024-02-06 04:48:52.089957
+------------------------------------------------------
+Started: 2024-02-06 05:09:27.863025
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-06 05:09:28.081497
