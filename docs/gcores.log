@@ -57203,3 +57203,9 @@ Summarized using GPT-3.5-turbo
 Append: [《超级马力欧兄弟：惊奇》全球销量1196万：任天堂公布最新财报](https://www.gcores.com/articles/177398)
 append_entries: 1
 Finish: 2024-02-06 11:19:44.272454
+------------------------------------------------------
+Started: 2024-02-06 11:33:37.770881
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-06 11:33:37.954105
