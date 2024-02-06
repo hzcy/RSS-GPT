@@ -57001,3 +57001,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-06 04:33:30.291846
+------------------------------------------------------
+Started: 2024-02-06 04:48:04.698969
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 821
+Summarized using GPT-3.5-turbo
+Append: [Moonlighter工作室新作《灾厄堡垒》发布中配预告片](https://www.gcores.com/articles/177381)
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [“职业生涯中最大的荣幸”亨利·卡维尔谈及参与“战锤 40K” 影视化](https://www.gcores.com/articles/177378)
+Token length: 672
+Summarized using GPT-3.5-turbo
+Append: [中国志怪动作肉鸽，国产独游《墨境》携重大更新亮相新品节](https://www.gcores.com/articles/177379)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [“侏罗纪世界”新片定档 25 年 7 月，大卫·雷奇或将执导](https://www.gcores.com/articles/177377)
+append_entries: 4
+Finish: 2024-02-06 04:48:52.089957
