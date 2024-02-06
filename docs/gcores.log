@@ -57389,3 +57389,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-06 18:48:28.250903
+------------------------------------------------------
+Started: 2024-02-06 19:08:04.826628
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [支持联机肉鸽RPG《空境奇旅》官方中文版现已正式更新](https://www.gcores.com/articles/177401)
+Token length: 1085
+Summarized using GPT-3.5-turbo
+Append: [搞怪冒险生活模拟《老家奇妙日记》 Steam新品节公开试玩](https://www.gcores.com/articles/177369)
+Token length: 726
+Summarized using GPT-3.5-turbo
+Append: [神隐少女《岚与山之彼端》Steam新品节试玩现已开启](https://www.gcores.com/articles/177396)
+append_entries: 3
+Finish: 2024-02-06 19:09:22.607406
