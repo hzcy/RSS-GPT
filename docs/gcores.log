@@ -57557,3 +57557,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-07 02:48:26.259576
+------------------------------------------------------
+Started: 2024-02-07 03:10:49.314066
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 533
+Summarized using GPT-3.5-turbo
+Append: [《满庭芳：宋上繁华》重大更新实装，新年期间史低八折](https://www.gcores.com/articles/177424)
+append_entries: 1
+Finish: 2024-02-07 03:11:07.532961
