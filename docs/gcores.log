@@ -57623,3 +57623,9 @@ Summarized using GPT-3.5-turbo
 Append: [索尼公布《绝地潜兵2》“前情回顾”介绍，PC版现已开启预载](https://www.gcores.com/articles/177422)
 append_entries: 3
 Finish: 2024-02-07 05:10:37.820943
+------------------------------------------------------
+Started: 2024-02-07 05:25:23.778586
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-07 05:25:24.165781
