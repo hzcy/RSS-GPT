@@ -57524,3 +57524,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-07 00:39:36.655178
+------------------------------------------------------
+Started: 2024-02-07 01:33:38.465754
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 479
+Summarized using GPT-3.5-turbo
+Append: [试玩Demo今日推出：《最终幻想7 重生》专场State of Play消息汇总](https://www.gcores.com/articles/177420)
+append_entries: 1
+Finish: 2024-02-07 01:33:39.203591
