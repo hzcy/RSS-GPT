@@ -57677,3 +57677,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-07 07:20:23.674239
+------------------------------------------------------
+Started: 2024-02-07 07:33:32.823481
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 615
+Summarized using GPT-3.5-turbo
+Append: [《学园构想家》推出春节大更新，Steam史低特惠开启](https://www.gcores.com/articles/177434)
+append_entries: 1
+Finish: 2024-02-07 07:33:51.626485
