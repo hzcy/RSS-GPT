@@ -57608,3 +57608,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-07 04:48:02.321850
+------------------------------------------------------
+Started: 2024-02-07 05:09:49.894354
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1511
+Summarized using GPT-3.5-turbo
+Append: [全部史低价！Spiral Up Games携多款国产游戏参加 Steam 农历特卖](https://www.gcores.com/articles/177433)
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [《原子之心》现已推出农历新年促销，全新DLC同步发售](https://www.gcores.com/articles/177425)
+Token length: 1143
+Summarized using GPT-3.5-turbo
+Append: [索尼公布《绝地潜兵2》“前情回顾”介绍，PC版现已开启预载](https://www.gcores.com/articles/177422)
+append_entries: 3
+Finish: 2024-02-07 05:10:37.820943
