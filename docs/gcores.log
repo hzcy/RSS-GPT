@@ -57782,3 +57782,9 @@ Summarized using GPT-3.5-turbo
 Append: [《生化危机3》重制版即将入库:微软公布2月XGP游戏阵容](https://www.gcores.com/articles/177451)
 append_entries: 2
 Finish: 2024-02-07 11:08:44.292925
+------------------------------------------------------
+Started: 2024-02-07 11:21:24.437989
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-07 11:21:24.615564
