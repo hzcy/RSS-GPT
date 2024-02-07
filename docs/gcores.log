@@ -57716,3 +57716,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-07 08:48:10.928743
+------------------------------------------------------
+Started: 2024-02-07 09:10:12.653638
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1335
+Summarized using GPT-3.5-turbo
+Append: [88rising未发行专辑抢先在NBA®2K24推出](https://www.gcores.com/articles/177439)
+Token length: 1656
+Summarized using GPT-3.5-turbo
+Append: [《卧龙：苍天陨落 完全版》今日发布，免费试玩现已登陆Steam](https://www.gcores.com/articles/177442)
+append_entries: 2
+Finish: 2024-02-07 09:10:20.075520
