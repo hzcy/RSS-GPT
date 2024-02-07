@@ -57770,3 +57770,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-07 10:48:15.082035
+------------------------------------------------------
+Started: 2024-02-07 11:08:43.667187
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 523
+Summarized using GPT-3.5-turbo
+Append: [《背包乱斗》参与2月5日Steam新品节，开发者感谢中国玩家](https://www.gcores.com/articles/177426)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [《生化危机3》重制版即将入库:微软公布2月XGP游戏阵容](https://www.gcores.com/articles/177451)
+append_entries: 2
+Finish: 2024-02-07 11:08:44.292925
