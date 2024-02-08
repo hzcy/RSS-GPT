@@ -58247,3 +58247,9 @@ Summarized using GPT-3.5-turbo
 Append: [《疯狂动物城 2》定档 2025，《冰雪奇缘》《玩具总动员》续作接踵而至](https://www.gcores.com/articles/177481)
 append_entries: 1
 Finish: 2024-02-08 07:20:56.631550
+------------------------------------------------------
+Started: 2024-02-08 07:33:32.628468
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-08 07:33:32.813703
