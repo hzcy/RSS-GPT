@@ -58436,3 +58436,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-08 15:22:27.131646
+------------------------------------------------------
+Started: 2024-02-08 15:34:04.634791
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 560
+Summarized using GPT-3.5-turbo
+Append: [死亡就在每个角落:《橡心镇惊魂记》将于 2 月 27 日发售](https://www.gcores.com/articles/177493)
+append_entries: 1
+Finish: 2024-02-08 15:34:22.954837
