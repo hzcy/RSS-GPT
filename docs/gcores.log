@@ -58283,3 +58283,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-08 08:48:22.212129
+------------------------------------------------------
+Started: 2024-02-08 09:09:54.507477
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [《寂静之地：入侵日》发布首支预告](https://www.gcores.com/articles/177484)
+append_entries: 1
+Finish: 2024-02-08 09:10:03.854764
