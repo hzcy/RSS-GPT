@@ -58997,3 +58997,9 @@ Summarized using GPT-3.5-turbo
 Append: [二战RTS《绝密：法国‘44年》现已开启预购，将于3月6日发售](https://www.gcores.com/articles/177373)
 append_entries: 1
 Finish: 2024-02-09 15:33:37.509456
+------------------------------------------------------
+Started: 2024-02-09 15:48:12.774684
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-09 15:48:12.961449
