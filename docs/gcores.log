@@ -58850,3 +58850,9 @@ Summarized using GPT-3.5-turbo
 Append: [小岛秀夫畅聊《死亡搁浅2》：官方栏目“HideoTube”特别节目今晚播出](https://www.gcores.com/articles/177523)
 append_entries: 3
 Finish: 2024-02-09 09:22:22.204580
+------------------------------------------------------
+Started: 2024-02-09 09:33:36.592985
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-09 09:33:36.785406
