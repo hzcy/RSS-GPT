@@ -58649,3 +58649,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-09 00:40:14.497767
+------------------------------------------------------
+Started: 2024-02-09 01:33:50.326704
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 906
+Summarized using GPT-3.5-turbo
+Append: [《神笔谈兵》1.0正式版将于2月22日推出](https://www.gcores.com/articles/177488)
+append_entries: 1
+Finish: 2024-02-09 01:34:00.393455
