@@ -60446,3 +60446,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-12 08:34:41.044909
+------------------------------------------------------
+Started: 2024-02-12 08:48:22.601496
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 414
+Summarized using GPT-3.5-turbo
+Append: [《死侍与死党》发布最新预告，2024 年 7 月北美上映](https://www.gcores.com/articles/177578)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [新王登基，Spirit 3:0 轻取Faze clan赢得2024 IEM 卡托维兹冠军](https://www.gcores.com/articles/177577)
+append_entries: 2
+Finish: 2024-02-12 08:48:34.623277
