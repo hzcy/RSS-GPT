@@ -60422,3 +60422,9 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-12 07:33:34.450319
+------------------------------------------------------
+Started: 2024-02-12 07:48:00.780072
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-12 07:48:00.977224
