@@ -60860,3 +60860,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-13 03:33:43.721711
+------------------------------------------------------
+Started: 2024-02-13 03:48:19.636702
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [微软将于2月16日介绍Xbox业务新动向](https://www.gcores.com/articles/177594)
+append_entries: 1
+Finish: 2024-02-13 03:48:24.617045
