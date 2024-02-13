@@ -60893,3 +60893,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-13 04:48:33.735688
+------------------------------------------------------
+Started: 2024-02-13 05:10:24.562563
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [《碧蓝幻想Relink》全球销量破百万，官方贺图公开](https://www.gcores.com/articles/177596)
+append_entries: 1
+Finish: 2024-02-13 05:10:32.784427
