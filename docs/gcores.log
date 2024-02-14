@@ -61496,3 +61496,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-14 07:21:24.334350
+------------------------------------------------------
+Started: 2024-02-14 07:33:26.568639
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2495
+Summarized using GPT-3.5-turbo
+Append: [2024年2月第二周手办模型情报总汇](https://www.gcores.com/articles/177598)
+append_entries: 1
+Finish: 2024-02-14 07:33:34.814219
