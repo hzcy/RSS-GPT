@@ -61961,3 +61961,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-15 03:48:17.904814
+------------------------------------------------------
+Started: 2024-02-15 04:11:53.310885
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 394
+Summarized using GPT-3.5-turbo
+Append: [银河城游戏《奥特罗斯 Ultros》现已在PS5、PS4和PC上推出](https://www.gcores.com/articles/177633)
+append_entries: 1
+Finish: 2024-02-15 04:11:59.907133
