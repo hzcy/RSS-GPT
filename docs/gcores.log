@@ -62021,3 +62021,9 @@ Summarized using GPT-3.5-turbo
 Append: [《行星边际》系列IP的特许经营权已被Daybreak出售给一个空壳公司](https://www.gcores.com/articles/177632)
 append_entries: 3
 Finish: 2024-02-15 05:48:39.697826
+------------------------------------------------------
+Started: 2024-02-15 06:12:28.609887
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-15 06:12:28.870262
