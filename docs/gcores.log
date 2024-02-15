@@ -62402,3 +62402,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-15 21:34:36.129688
+------------------------------------------------------
+Started: 2024-02-15 21:48:29.953452
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 810
+Summarized using GPT-3.5-turbo
+Append: [《暗黑4》3月28日加入XGP，四款游戏将登陆其他主机平台。Xbox播客节目资讯汇总](https://www.gcores.com/articles/177659)
+append_entries: 1
+Finish: 2024-02-15 21:48:37.785540
