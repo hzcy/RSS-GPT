@@ -62261,3 +62261,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-15 15:48:29.524713
+------------------------------------------------------
+Started: 2024-02-15 16:11:08.637710
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 896
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】开放世界多人生存游戏《小小世界》 现已正式发售](https://www.gcores.com/articles/177648)
+append_entries: 1
+Finish: 2024-02-15 16:11:31.507232
