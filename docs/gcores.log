@@ -62810,3 +62810,9 @@ Summarized using GPT-3.5-turbo
 Append: [个人独立游戏《废柴队友》商店页面开放](https://www.gcores.com/articles/177673)
 append_entries: 1
 Finish: 2024-02-16 16:11:36.204954
+------------------------------------------------------
+Started: 2024-02-16 16:28:08.678302
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-16 16:28:08.941947
