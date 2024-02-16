@@ -58159,3 +58159,12 @@ Existing_entries: 343
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-02-16 13:33:45.544936
+------------------------------------------------------
+Started: 2024-02-16 13:48:11.851294
+Existing_entries: 343
+Fetching from https://www.ifanr.com/feed
+Token length: 4140
+Summarized using GPT-3.5-turbo
+Append: [揭秘最强视频生成模型 Sora，OpenAI 是怎么实现 1 分钟一镜到底的？](https://www.ifanr.com/1575461?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-02-16 13:48:26.262121
