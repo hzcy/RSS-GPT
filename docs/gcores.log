@@ -63671,3 +63671,9 @@ Summarized using GPT-3.5-turbo
 Append: [均分64，《碧海黑帆》媒体评分汇总](https://www.gcores.com/articles/177700)
 append_entries: 2
 Finish: 2024-02-18 06:48:42.862864
+------------------------------------------------------
+Started: 2024-02-18 07:10:34.028811
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-18 07:10:34.302762
