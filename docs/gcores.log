@@ -63659,3 +63659,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-18 06:34:41.036629
+------------------------------------------------------
+Started: 2024-02-18 06:48:13.386737
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 451
+Summarized using GPT-3.5-turbo
+Append: [《极乐迪斯科》开发商 ZA/UM裁员近四分之一](https://www.gcores.com/articles/177704)
+Token length: 915
+Summarized using GPT-3.5-turbo
+Append: [均分64，《碧海黑帆》媒体评分汇总](https://www.gcores.com/articles/177700)
+append_entries: 2
+Finish: 2024-02-18 06:48:42.862864
