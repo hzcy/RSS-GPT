@@ -63740,3 +63740,9 @@ Summarized using GPT-3.5-turbo
 Append: [《地铁 离去》销量突破1000万份，新作准备中](https://www.gcores.com/articles/177714)
 append_entries: 5
 Finish: 2024-02-18 09:09:27.606349
+------------------------------------------------------
+Started: 2024-02-18 09:20:57.708919
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-18 09:20:57.946233
