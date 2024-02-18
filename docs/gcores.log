@@ -63896,3 +63896,9 @@ Summarized using GPT-3.5-turbo
 Append: [《古墓丽影1-3复刻版》现已正式推出，劳拉强势回归](https://www.gcores.com/articles/177744)
 append_entries: 2
 Finish: 2024-02-18 15:23:22.371454
+------------------------------------------------------
+Started: 2024-02-18 15:33:27.653810
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-18 15:33:27.847475
