@@ -64370,3 +64370,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-19 10:48:04.580749
+------------------------------------------------------
+Started: 2024-02-19 11:07:57.358099
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 909
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】《终结者: 黑暗命运 - 反抗》将于2月21日发售](https://www.gcores.com/articles/177782)
+Token length: 719
+Summarized using GPT-3.5-turbo
+Append: [黑暗奇幻策略游戏《戈德》全新DLC“联盟”将于本月28日发售](https://www.gcores.com/articles/177785)
+Token length: 427
+Summarized using GPT-3.5-turbo
+Append: [新品节最受欢迎前五十：官方发布《血清》最新探索视频](https://www.gcores.com/articles/177784)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [《绝地潜兵2》同时在线人数峰值突破40万](https://www.gcores.com/articles/177779)
+append_entries: 4
+Finish: 2024-02-19 11:09:41.342026
