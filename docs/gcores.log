@@ -64199,3 +64199,9 @@ Summarized using GPT-3.5-turbo
 Append: [《幻兽帕鲁》将接入第三方反作弊系统](https://www.gcores.com/articles/177758)
 append_entries: 4
 Finish: 2024-02-19 04:35:06.968237
+------------------------------------------------------
+Started: 2024-02-19 04:48:19.812939
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-19 04:48:20.014084
