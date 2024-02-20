@@ -60205,3 +60205,12 @@ Existing_entries: 351
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-02-20 09:09:24.789342
+------------------------------------------------------
+Started: 2024-02-20 09:21:30.318621
+Existing_entries: 351
+Fetching from https://www.ifanr.com/feed
+Token length: 4158
+Summarized using GPT-3.5-turbo
+Append: [GPT-4 更强的标志，原来藏在了 logo 里](https://www.ifanr.com/1575665?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-02-20 09:21:43.786051
