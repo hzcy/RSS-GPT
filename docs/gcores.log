@@ -64697,3 +64697,9 @@ Summarized using GPT-3.5-turbo
 Append: [新一期任天堂直面会将于2月21日播出](https://www.gcores.com/articles/177807)
 append_entries: 1
 Finish: 2024-02-20 02:05:00.124989
+------------------------------------------------------
+Started: 2024-02-20 02:25:58.127141
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-20 02:25:58.350227
