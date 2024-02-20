@@ -64757,3 +64757,9 @@ Summarized using GPT-3.5-turbo
 Append: [V社发布2023年Steam回顾，全面提升玩家及开发者使用体验](https://www.gcores.com/articles/177810)
 append_entries: 2
 Finish: 2024-02-20 04:29:55.262198
+------------------------------------------------------
+Started: 2024-02-20 04:38:17.392811
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-20 04:38:17.677393
