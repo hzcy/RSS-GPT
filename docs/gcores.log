@@ -64889,3 +64889,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-20 09:21:47.461178
+------------------------------------------------------
+Started: 2024-02-20 09:33:25.125177
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [宝可梦直播活动将于2月27日播出](https://www.gcores.com/articles/177836)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [超自然主题PVE动作游戏：中村育美新作《KEMURI》公开幕后制作花絮](https://www.gcores.com/articles/177835)
+Token length: 489
+Summarized using GPT-3.5-turbo
+Append: [《博德之门 3》发行总监在 DICE 颁奖舞台上阐述行业现状](https://www.gcores.com/articles/177833)
+Token length: 571
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想7 重生》主题歌单曲碟4月3日发售](https://www.gcores.com/articles/177831)
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [GSC《艾尔登法环》「白狼战鬼」figma可动手办今日开启预定](https://www.gcores.com/articles/177829)
+append_entries: 5
+Finish: 2024-02-20 09:36:15.259018
