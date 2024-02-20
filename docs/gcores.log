@@ -65015,3 +65015,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-20 13:48:06.142789
+------------------------------------------------------
+Started: 2024-02-20 14:08:49.535792
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 400
+Summarized using GPT-3.5-turbo
+Append: [经典“豆腐车”走向新能源：丰田开启AE86 BEV Concept试驾抽选活动](https://www.gcores.com/articles/177834)
+append_entries: 1
+Finish: 2024-02-20 14:09:20.849264
