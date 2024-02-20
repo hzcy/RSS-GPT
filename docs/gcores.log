@@ -64850,3 +64850,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-20 07:48:18.847578
+------------------------------------------------------
+Started: 2024-02-20 08:11:56.121174
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2777
+Summarized using GPT-3.5-turbo
+Append: [《碧蓝幻想 Versus: Rising》DLC新角色「2B」参战！](https://www.gcores.com/articles/177828)
+append_entries: 1
+Finish: 2024-02-20 08:12:58.110600
