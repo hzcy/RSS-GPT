@@ -65809,3 +65809,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-21 21:48:28.533992
+------------------------------------------------------
+Started: 2024-02-21 22:08:44.864508
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 5142
+Summarized using GPT-3.5-turbo
+Append: [Fami通专访宫崎英高：详细介绍《艾尔登法环》DLC「黄金树幽影」](https://www.gcores.com/articles/177898)
+append_entries: 1
+Finish: 2024-02-21 22:09:32.246768
