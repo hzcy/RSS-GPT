@@ -65447,3 +65447,9 @@ Summarized using GPT-3.5-turbo
 Append: [《逃生：试炼》将于3月5日结束抢先体验并正式发售](https://www.gcores.com/articles/177873)
 append_entries: 4
 Finish: 2024-02-21 07:50:17.007896
+------------------------------------------------------
+Started: 2024-02-21 08:12:43.975519
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-21 08:12:44.174239
