@@ -65641,3 +65641,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-21 15:22:11.019755
+------------------------------------------------------
+Started: 2024-02-21 15:34:32.991011
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 2124
+Summarized using GPT-3.5-turbo
+Append: [《隐迹渐现》与《禁闭求生》即将登陆NS！任天堂第三方直面会内容汇总](https://www.gcores.com/articles/177890)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [《艾尔登法环》“黄金树幽影”将于6月21日发售，国区售价198元](https://www.gcores.com/articles/177894)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [《真・女神转生V Vengeance》将于6月21日发售，登陆全平台](https://www.gcores.com/articles/177891)
+append_entries: 3
+Finish: 2024-02-21 15:36:39.262808
