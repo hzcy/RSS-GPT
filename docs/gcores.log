@@ -65381,3 +65381,9 @@ Summarized using GPT-3.5-turbo
 Append: [巨兽归来！《巨兽战争：狂暴版》将于4月10日在PC、PlayStation和Xbox上发布](https://www.gcores.com/articles/177867)
 append_entries: 1
 Finish: 2024-02-21 05:33:57.122299
+------------------------------------------------------
+Started: 2024-02-21 05:48:20.962707
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-21 05:48:21.168650
