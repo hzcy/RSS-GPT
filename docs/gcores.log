@@ -65372,3 +65372,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-21 05:25:51.370065
+------------------------------------------------------
+Started: 2024-02-21 05:33:31.243969
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1274
+Summarized using GPT-3.5-turbo
+Append: [巨兽归来！《巨兽战争：狂暴版》将于4月10日在PC、PlayStation和Xbox上发布](https://www.gcores.com/articles/177867)
+append_entries: 1
+Finish: 2024-02-21 05:33:57.122299
