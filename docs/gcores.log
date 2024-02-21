@@ -65725,3 +65725,9 @@ Summarized using GPT-3.5-turbo
 Append: [终焉之莉莉丝团队新作《ENDER MAGNOLIA: Bloom in the mist》公布](https://www.gcores.com/articles/177893)
 append_entries: 1
 Finish: 2024-02-21 18:27:56.456214
+------------------------------------------------------
+Started: 2024-02-21 18:35:27.229544
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-21 18:35:27.471040
