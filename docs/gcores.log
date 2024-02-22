@@ -66151,3 +66151,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-22 11:48:13.680665
+------------------------------------------------------
+Started: 2024-02-22 12:15:40.770078
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 417
+Summarized using GPT-3.5-turbo
+Append: [GPASS 新春优惠活动 2 月 27 日 0 点开启！](https://www.gcores.com/articles/177930)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [探索幕末风景，《浪人崛起》公布“世界”宣传片](https://www.gcores.com/articles/177932)
+append_entries: 2
+Finish: 2024-02-22 12:16:26.393016
