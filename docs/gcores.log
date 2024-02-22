@@ -66199,3 +66199,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-22 13:48:13.572471
+------------------------------------------------------
+Started: 2024-02-22 14:10:31.750399
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 782
+Summarized using GPT-3.5-turbo
+Append: [告别加速器：二次元生存竞技MOBA《永恒轮回》亚洲2服今日Steam公测](https://www.gcores.com/articles/177935)
+Token length: 2967
+Summarized using GPT-3.5-turbo
+Append: [2024年度美国视觉效果协会奖正式公布获奖名单](https://www.gcores.com/articles/177926)
+append_entries: 2
+Finish: 2024-02-22 14:11:51.319362
