@@ -66211,3 +66211,9 @@ Summarized using GPT-3.5-turbo
 Append: [2024年度美国视觉效果协会奖正式公布获奖名单](https://www.gcores.com/articles/177926)
 append_entries: 2
 Finish: 2024-02-22 14:11:51.319362
+------------------------------------------------------
+Started: 2024-02-22 14:27:11.648348
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-22 14:27:11.901960
