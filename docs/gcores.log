@@ -66046,3 +66046,9 @@ Summarized using GPT-3.5-turbo
 Append: [电影《无主之地》先行预告公开](https://www.gcores.com/articles/177913)
 append_entries: 2
 Finish: 2024-02-22 07:49:13.883874
+------------------------------------------------------
+Started: 2024-02-22 08:12:23.157665
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-22 08:12:23.419367
