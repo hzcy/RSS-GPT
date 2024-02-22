@@ -65989,3 +65989,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-22 06:12:29.623734
+------------------------------------------------------
+Started: 2024-02-22 06:27:43.561200
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [收集猫猫要素升级！手游《猫咪后院2》今夏上线](https://www.gcores.com/articles/177919)
+Token length: 628
+Summarized using GPT-3.5-turbo
+Append: [终结者RTS《终结者: 黑暗命运 - 反抗》现已发售](https://www.gcores.com/articles/177915)
+Token length: 1462
+Summarized using GPT-3.5-turbo
+Append: [“黄金树幽影”DLC详情&公司现状：IGN Japan专访宫崎英高](https://www.gcores.com/articles/177907)
+append_entries: 3
+Finish: 2024-02-22 06:29:25.340012
