@@ -66088,3 +66088,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-22 09:33:32.758784
+------------------------------------------------------
+Started: 2024-02-22 09:48:19.343351
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 649
+Summarized using GPT-3.5-turbo
+Append: [合作砍杀游戏《奇妙大作战》确定3月26日正式上线！](https://www.gcores.com/articles/177931)
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [《艾尔登法环》全球累计销量突破2300万份](https://www.gcores.com/articles/177929)
+Token length: 1053
+Summarized using GPT-3.5-turbo
+Append: [PlayStation PULSE Elite及PULSE Explore今日于中国大陆市场上市](https://www.gcores.com/articles/177928)
+append_entries: 3
+Finish: 2024-02-22 09:50:30.265248
