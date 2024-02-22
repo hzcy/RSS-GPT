@@ -66283,3 +66283,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-22 17:08:34.568539
+------------------------------------------------------
+Started: 2024-02-22 17:23:50.214689
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 542
+Summarized using GPT-3.5-turbo
+Append: [一名姓“海老泽”的日本黑帮老大因偷运核原料被起诉](https://www.gcores.com/articles/177942)
+Token length: 906
+Summarized using GPT-3.5-turbo
+Append: [诚意满满、值得一玩：《最终幻想VII 重生》媒体评分汇总](https://www.gcores.com/articles/177940)
+append_entries: 2
+Finish: 2024-02-22 17:24:54.342782
