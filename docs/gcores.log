@@ -66034,3 +66034,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-22 07:33:20.889470
+------------------------------------------------------
+Started: 2024-02-22 07:48:11.997037
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 494
+Summarized using GPT-3.5-turbo
+Append: [SIE总裁十时裕树点名Bungie，希望其能更好的控制开发成本和开发时间](https://www.gcores.com/articles/177918)
+Token length: 615
+Summarized using GPT-3.5-turbo
+Append: [电影《无主之地》先行预告公开](https://www.gcores.com/articles/177913)
+append_entries: 2
+Finish: 2024-02-22 07:49:13.883874
