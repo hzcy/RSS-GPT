@@ -66620,3 +66620,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-23 08:12:51.707468
+------------------------------------------------------
+Started: 2024-02-23 08:27:37.004767
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [《机动战士高达 SEED FREEDOM》将于4月19日台湾上映，4月25日港澳上映](https://www.gcores.com/articles/177973)
+append_entries: 1
+Finish: 2024-02-23 08:28:06.513112
