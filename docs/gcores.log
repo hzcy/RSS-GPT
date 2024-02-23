@@ -66481,3 +66481,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-23 02:35:04.507472
+------------------------------------------------------
+Started: 2024-02-23 02:48:27.553679
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [《幻兽帕鲁》宣布玩家总数已突破2500万](https://www.gcores.com/articles/177951)
+append_entries: 1
+Finish: 2024-02-23 02:49:15.297421
