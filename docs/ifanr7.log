@@ -61795,3 +61795,10 @@ Summarized using GPT-3.5-turbo
 Append: [小米平板 6S Pro 12.4 体验：百瓦快充配上大电池大屏幕，性能最好、最实用的小米平板](https://www.ifanr.com/1575892?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-02-23 07:49:17.987576
+------------------------------------------------------
+Started: 2024-02-23 08:12:16.725593
+Existing_entries: 361
+Fetching from https://www.ifanr.com/feed
+Feed error: 522
+append_entries: 0
+error when rendering xml, skip docs/ifanr7
