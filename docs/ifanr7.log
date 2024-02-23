@@ -61899,3 +61899,12 @@ Existing_entries: 361
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-02-23 12:16:00.794125
+------------------------------------------------------
+Started: 2024-02-23 12:43:36.437344
+Existing_entries: 361
+Fetching from https://www.ifanr.com/feed
+Token length: 4195
+Summarized using GPT-3.5-turbo
+Append: [马斯克公开怒怼，Google 的 AI 怎么又翻车了？](https://www.ifanr.com/1575948?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-02-23 12:44:40.914057

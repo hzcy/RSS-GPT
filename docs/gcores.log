@@ -66722,3 +66722,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-23 12:16:04.428243
+------------------------------------------------------
+Started: 2024-02-23 12:44:44.404361
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [拳头游戏格斗游戏“Project L”正式定名为《2XKO》](https://www.gcores.com/articles/177974)
+append_entries: 1
+Finish: 2024-02-23 12:45:05.942968
