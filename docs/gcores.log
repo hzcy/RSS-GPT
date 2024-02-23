@@ -66689,3 +66689,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-23 10:48:24.126074
+------------------------------------------------------
+Started: 2024-02-23 11:08:20.958885
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 399
+Summarized using GPT-3.5-turbo
+Append: [纪录片《小岛秀夫：连接世界》现已上线Disney+独家播出](https://www.gcores.com/articles/177985)
+append_entries: 1
+Finish: 2024-02-23 11:08:41.717146
