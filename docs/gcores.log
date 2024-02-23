@@ -66490,3 +66490,9 @@ Summarized using GPT-3.5-turbo
 Append: [《幻兽帕鲁》宣布玩家总数已突破2500万](https://www.gcores.com/articles/177951)
 append_entries: 1
 Finish: 2024-02-23 02:49:15.297421
+------------------------------------------------------
+Started: 2024-02-23 03:09:46.253795
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-23 03:09:46.485995
