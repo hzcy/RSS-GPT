@@ -66629,3 +66629,9 @@ Summarized using GPT-3.5-turbo
 Append: [《机动战士高达 SEED FREEDOM》将于4月19日台湾上映，4月25日港澳上映](https://www.gcores.com/articles/177973)
 append_entries: 1
 Finish: 2024-02-23 08:28:06.513112
+------------------------------------------------------
+Started: 2024-02-23 08:34:56.392269
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-23 08:34:56.595943
