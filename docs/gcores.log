@@ -67280,3 +67280,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-24 13:23:57.284761
+------------------------------------------------------
+Started: 2024-02-24 13:33:18.173423
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1429
+Summarized using GPT-3.5-turbo
+Append: [卡普空杯小组赛结束，DCQ成功晋级16强胜者组！](https://www.gcores.com/articles/178013)
+append_entries: 1
+Finish: 2024-02-24 13:33:25.584689
