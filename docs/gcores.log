@@ -67796,3 +67796,9 @@ Summarized using GPT-3.5-turbo
 Append: [XG夺得喀山未来运动会《DOTA2》项目冠军，中国战队包揽前三](https://www.gcores.com/articles/178035)
 append_entries: 2
 Finish: 2024-02-25 11:49:28.761860
+------------------------------------------------------
+Started: 2024-02-25 12:14:41.526576
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-25 12:14:41.717806
