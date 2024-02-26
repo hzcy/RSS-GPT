@@ -68318,3 +68318,9 @@ Summarized using GPT-3.5-turbo
 Append: [谢霆锋首次执导，《新警察故事 2》五月开拍](https://www.gcores.com/articles/178084)
 append_entries: 1
 Finish: 2024-02-26 10:11:10.933172
+------------------------------------------------------
+Started: 2024-02-26 10:28:04.129812
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-26 10:28:04.301656
