@@ -68381,3 +68381,9 @@ Summarized using GPT-3.5-turbo
 Append: [日本经济新闻：Nintendo Switch后续机型2025年3月发售](https://www.gcores.com/articles/178093)
 append_entries: 1
 Finish: 2024-02-26 12:56:29.642787
+------------------------------------------------------
+Started: 2024-02-26 13:10:44.699633
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-26 13:10:44.916328
