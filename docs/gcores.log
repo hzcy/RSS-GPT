@@ -68774,3 +68774,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-27 06:11:50.340175
+------------------------------------------------------
+Started: 2024-02-27 06:26:56.530313
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 729
+Summarized using GPT-3.5-turbo
+Append: [恐怖解密游戏《Ib 恐怖美术馆》发售12周年纪念](https://www.gcores.com/articles/178115)
+Token length: 1169
+Summarized using GPT-3.5-turbo
+Append: [《ENDER MAGNOLIA: Bloom in the mist》最新宣传片公布，Steam页面公开](https://www.gcores.com/articles/178114)
+Token length: 501
+Summarized using GPT-3.5-turbo
+Append: [《铁拳8》全球累积销量已突破200万套](https://www.gcores.com/articles/178113)
+Token length: 504
+Summarized using GPT-3.5-turbo
+Append: [GPASS 新春优惠活动现已开启](https://www.gcores.com/articles/178112)
+append_entries: 4
+Finish: 2024-02-27 06:28:14.674255
