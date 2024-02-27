@@ -68999,3 +68999,9 @@ Summarized using GPT-3.5-turbo
 Append: [纪念宝可梦日：官方发布动画短片《POKÉDANCE》](https://www.gcores.com/articles/178134)
 append_entries: 1
 Finish: 2024-02-27 14:33:52.378342
+------------------------------------------------------
+Started: 2024-02-27 14:48:25.266637
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-27 14:48:25.485704
