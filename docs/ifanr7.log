@@ -63918,3 +63918,12 @@ Existing_entries: 370
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-02-27 06:34:36.547131
+------------------------------------------------------
+Started: 2024-02-27 06:48:07.398153
+Existing_entries: 370
+Fetching from https://www.ifanr.com/feed
+Token length: 3387
+Summarized using GPT-3.5-turbo
+Append: [逼近 GPT-4 的新模型发布！「欧洲版 OpenAI」联手微软，却被质疑违背初心](https://www.ifanr.com/1576245?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-02-27 06:48:26.653856
