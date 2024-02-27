@@ -69047,3 +69047,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-27 16:38:39.940621
+------------------------------------------------------
+Started: 2024-02-27 16:48:14.251345
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 479
+Summarized using GPT-3.5-turbo
+Append: [MEGA进化回归！《宝可梦 传说 Z-A》正式公开](https://www.gcores.com/articles/178139)
+append_entries: 1
+Finish: 2024-02-27 16:48:43.655122
