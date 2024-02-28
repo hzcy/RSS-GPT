@@ -69614,3 +69614,9 @@ Summarized using GPT-3.5-turbo
 Append: [啊？《最终幻想7 重生》的日版游戏光盘顺序印反了](https://www.gcores.com/articles/178189)
 append_entries: 1
 Finish: 2024-02-28 15:09:42.394652
+------------------------------------------------------
+Started: 2024-02-28 15:22:37.588687
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-28 15:22:37.992053
