@@ -69563,3 +69563,9 @@ Summarized using GPT-3.5-turbo
 Append: [Fami通新作评分：《最终幻想7 重生》38分；《圣兽之王》36分](https://www.gcores.com/articles/178179)
 append_entries: 3
 Finish: 2024-02-28 13:10:31.394598
+------------------------------------------------------
+Started: 2024-02-28 13:21:58.186775
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-28 13:21:58.374825
