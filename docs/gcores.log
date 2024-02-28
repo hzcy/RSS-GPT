@@ -69263,3 +69263,9 @@ Summarized using GPT-3.5-turbo
 Append: [《绝地潜兵2》热度不减：Steam周销量排行榜|2024年2月第3周](https://www.gcores.com/articles/178145)
 append_entries: 3
 Finish: 2024-02-28 02:36:38.238566
+------------------------------------------------------
+Started: 2024-02-28 02:48:18.100258
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-28 02:48:18.297973
