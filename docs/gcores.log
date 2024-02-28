@@ -69368,3 +69368,9 @@ Summarized using GPT-3.5-turbo
 Append: [枪牢玩腻了吗？那你应该来试试这款](https://www.gcores.com/articles/178128)
 append_entries: 4
 Finish: 2024-02-28 06:29:21.896734
+------------------------------------------------------
+Started: 2024-02-28 06:36:00.497831
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-28 06:36:00.694188
