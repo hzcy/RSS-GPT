@@ -69248,3 +69248,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-28 02:27:56.511766
+------------------------------------------------------
+Started: 2024-02-28 02:35:32.910597
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 411
+Summarized using GPT-3.5-turbo
+Append: [任天堂起诉Yuzu模拟器，指控其大规模促进盗版](https://www.gcores.com/articles/178147)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [索尼互娱宣布裁员8%，PlayStation伦敦工作室预计关闭](https://www.gcores.com/articles/178146)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [《绝地潜兵2》热度不减：Steam周销量排行榜|2024年2月第3周](https://www.gcores.com/articles/178145)
+append_entries: 3
+Finish: 2024-02-28 02:36:38.238566
