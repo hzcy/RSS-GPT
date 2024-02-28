@@ -69500,3 +69500,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-28 11:08:27.436538
+------------------------------------------------------
+Started: 2024-02-28 11:20:52.953247
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 609
+Summarized using GPT-3.5-turbo
+Append: [一次冒险一生难忘《兄弟：双子传说》重制版经典重现](https://www.gcores.com/articles/178181)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [《圣兽之王》公布“指挥官入门手册 ~战斗心得篇~”宣传片](https://www.gcores.com/articles/178176)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [类魂游戏《恩诺提利亚：终曲》宣布延期](https://www.gcores.com/articles/178175)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [Tokyo Marui推出《莉可丽丝》“千束之枪”气枪模型](https://www.gcores.com/articles/178172)
+append_entries: 4
+Finish: 2024-02-28 11:22:05.634394
