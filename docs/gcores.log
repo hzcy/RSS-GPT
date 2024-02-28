@@ -69548,3 +69548,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-28 12:55:06.679243
+------------------------------------------------------
+Started: 2024-02-28 13:09:45.520226
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [《潜水员戴夫》将于5月在日本推出NS实体版](https://www.gcores.com/articles/178184)
+Token length: 851
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY《荷鲁斯大叛乱》新品公布：荷子军团铁骑终结者参战](https://www.gcores.com/articles/178180)
+Token length: 769
+Summarized using GPT-3.5-turbo
+Append: [Fami通新作评分：《最终幻想7 重生》38分；《圣兽之王》36分](https://www.gcores.com/articles/178179)
+append_entries: 3
+Finish: 2024-02-28 13:10:31.394598
