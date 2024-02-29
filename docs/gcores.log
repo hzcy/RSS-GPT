@@ -69866,3 +69866,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-02-29 03:10:42.355781
+------------------------------------------------------
+Started: 2024-02-29 03:24:41.353157
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [《使命召唤：战区》手游定于3月21日全球推出](https://www.gcores.com/articles/178212)
+Token length: 408
+Summarized using GPT-3.5-turbo
+Append: [Remedy与505达成协议，获得《控制》IP完全所有权](https://www.gcores.com/articles/178210)
+Token length: 499
+Summarized using GPT-3.5-turbo
+Append: [EA宣布裁员5%，重生《星球大战》新作被砍](https://www.gcores.com/articles/178207)
+append_entries: 3
+Finish: 2024-02-29 03:25:24.895768
