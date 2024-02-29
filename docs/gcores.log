@@ -70115,3 +70115,9 @@ Summarized using GPT-3.5-turbo
 Append: [这回是分区祭典！《斯普拉遁3》新祭典3月23日开启](https://www.gcores.com/articles/178258)
 append_entries: 2
 Finish: 2024-02-29 11:09:13.222078
+------------------------------------------------------
+Started: 2024-02-29 11:19:41.300137
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-02-29 11:19:41.944335
