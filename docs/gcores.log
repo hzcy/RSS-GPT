@@ -70496,3 +70496,9 @@ Summarized using GPT-3.5-turbo
 Append: [《王国保卫战5：联盟》公布首个预告，详情将在近期公布](https://www.gcores.com/articles/178288)
 append_entries: 5
 Finish: 2024-03-01 04:29:33.593188
+------------------------------------------------------
+Started: 2024-03-01 04:35:49.205577
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-01 04:35:49.427359
