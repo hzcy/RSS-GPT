@@ -70887,3 +70887,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-01 19:18:17.227416
+------------------------------------------------------
+Started: 2024-03-01 19:33:30.040538
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: [快来炼金吧！原神4.5版本「铓锋锦间裁」公布](https://www.gcores.com/articles/178350)
+append_entries: 1
+Finish: 2024-03-01 19:34:17.562366
