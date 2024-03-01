@@ -70713,3 +70713,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-01 12:16:01.796459
+------------------------------------------------------
+Started: 2024-03-01 12:45:18.325060
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 571
+Summarized using GPT-3.5-turbo
+Append: [水冷笔记本来了，拯救者Y9000K 2024正式推出](https://www.gcores.com/articles/178347)
+Token length: 478
+Summarized using GPT-3.5-turbo
+Append: [《远征：泥泞奔驰游戏》现已提前解锁,国区售价169元起](https://www.gcores.com/articles/178346)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [《怪物猎人》20周年特别节目将于北京时间3月12日晚播出](https://www.gcores.com/articles/178337)
+append_entries: 3
+Finish: 2024-03-01 12:47:04.994637

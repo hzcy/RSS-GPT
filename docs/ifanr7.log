@@ -65688,3 +65688,12 @@ Existing_entries: 384
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-01 12:15:58.217614
+------------------------------------------------------
+Started: 2024-03-01 12:44:32.851984
+Existing_entries: 384
+Fetching from https://www.ifanr.com/feed
+Token length: 1958
+Summarized using GPT-3.5-turbo
+Append: [任天堂这次选择与模拟器「正面对决」](https://www.ifanr.com/1576785?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-01 12:45:14.920738
