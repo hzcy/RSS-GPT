@@ -70532,3 +70532,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-01 05:48:03.744948
+------------------------------------------------------
+Started: 2024-03-01 06:12:38.766124
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 440
+Summarized using GPT-3.5-turbo
+Append: [地球再次变四方：《数码方块地球防卫军2》定于9月26日发售](https://www.gcores.com/articles/178301)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [《街头霸王6》3月格斗通行证“洛克人节”现已推出](https://www.gcores.com/articles/178300)
+Token length: 1057
+Summarized using GPT-3.5-turbo
+Append: [《逆向坍塌：面包房行动》宣布3月22日正式发售](https://www.gcores.com/articles/178299)
+append_entries: 3
+Finish: 2024-03-01 06:14:06.493678
