@@ -71226,3 +71226,9 @@ Summarized using GPT-3.5-turbo
 Append: [【抽奖】二战回合制战略《绝密：法国‘44年》现已开启预购，将于3月6日发售](https://www.gcores.com/articles/178342)
 append_entries: 2
 Finish: 2024-03-02 10:34:13.260345
+------------------------------------------------------
+Started: 2024-03-02 10:48:20.719924
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-02 10:48:20.918863
