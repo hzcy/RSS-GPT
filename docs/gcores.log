@@ -71214,3 +71214,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-02 10:24:42.440837
+------------------------------------------------------
+Started: 2024-03-02 10:33:17.671887
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 414
+Summarized using GPT-3.5-turbo
+Append: [《恶意不息》公布最新实机演示，将于4月18日以抢先体验形式发售](https://www.gcores.com/articles/178367)
+Token length: 871
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】二战回合制战略《绝密：法国‘44年》现已开启预购，将于3月6日发售](https://www.gcores.com/articles/178342)
+append_entries: 2
+Finish: 2024-03-02 10:34:13.260345
