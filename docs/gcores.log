@@ -71298,3 +71298,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-02 13:48:27.273306
+------------------------------------------------------
+Started: 2024-03-02 14:09:06.657209
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 822
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】徜徉于氛围恐惧之中：《噩梦初醒》展示新游戏玩法](https://www.gcores.com/articles/178365)
+append_entries: 1
+Finish: 2024-03-02 14:09:21.989079
