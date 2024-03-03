@@ -71829,3 +71829,9 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-03 13:33:18.532106
+------------------------------------------------------
+Started: 2024-03-03 13:48:09.562286
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-03 13:48:09.853255
