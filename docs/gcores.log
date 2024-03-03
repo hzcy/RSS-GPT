@@ -71847,3 +71847,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-03 14:23:34.406498
+------------------------------------------------------
+Started: 2024-03-03 14:33:34.417539
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 640
+Summarized using GPT-3.5-turbo
+Append: [下周节目预告 3.6~3.10](https://www.gcores.com/articles/178404)
+append_entries: 1
+Finish: 2024-03-03 14:33:55.682784
