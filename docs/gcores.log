@@ -72176,3 +72176,9 @@ Summarized using GPT-3.5-turbo
 Append: [《黑神话: 悟空》出版方浙江出版集团透露游戏主要剧情](https://www.gcores.com/articles/178444)
 append_entries: 1
 Finish: 2024-03-04 11:17:03.811881
+------------------------------------------------------
+Started: 2024-03-04 12:04:50.923853
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-04 12:04:51.153274
