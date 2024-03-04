@@ -72128,3 +72128,9 @@ Summarized using GPT-3.5-turbo-16k
 Append: [《龙珠：超宇宙2》将于5月24日推出次世代版，现有玩家可获免费升级](https://www.gcores.com/articles/178419)
 append_entries: 4
 Finish: 2024-03-04 04:56:28.771783
+------------------------------------------------------
+Started: 2024-03-04 05:43:40.747328
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-04 05:43:40.961981
