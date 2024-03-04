@@ -67070,3 +67070,9 @@ Bing: Exception: CaptchaChallenge: Use other cookies or/and ip address
 Append: [苹果放弃造车后，雷军震惊，李想点赞，马斯克在线吃瓜](https://www.ifanr.com/1576457?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 3
 Finish: 2024-03-04 02:51:35.305479
+------------------------------------------------------
+Started: 2024-03-04 03:39:45.610612
+Existing_entries: 392
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-04 03:39:47.322995
