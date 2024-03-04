@@ -72152,3 +72152,18 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-04 07:49:54.159181
+------------------------------------------------------
+Started: 2024-03-04 09:37:10.931002
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 634
+Summarized using GPT-3.5-turbo
+Append: [东方Project二创游戏《不可思议的幻想乡-FORESIGHT-》现已上线Steam商城页](https://www.gcores.com/articles/178438)
+Token length: 590
+Summarized using GPT-3.5-turbo
+Append: [国区120元起：《奇唤士》公布定价及中文解说视频](https://www.gcores.com/articles/178436)
+Token length: 565
+Summarized using GPT-3.5-turbo
+Append: [剧场版动画《间谍过家家 代号：白》确认引进，档期待定](https://www.gcores.com/articles/178434)
+append_entries: 3
+Finish: 2024-03-04 09:39:01.305105
