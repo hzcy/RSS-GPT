@@ -67082,3 +67082,14 @@ Existing_entries: 392
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-04 04:01:19.719136
+------------------------------------------------------
+Started: 2024-03-04 04:55:41.643544
+Existing_entries: 392
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ClientResponseError: 500, message='Internal Server Error', url=URL('https://liaobots.work/api/chat')
+Bing: Exception: CaptchaChallenge: Use other cookies or/and ip address
+Append: [华为 Pocket 2 艺术定制版：光影艺术，无限想象](https://www.ifanr.com/1576942?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-04 04:55:46.703574
