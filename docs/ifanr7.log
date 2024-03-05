@@ -67738,3 +67738,12 @@ Existing_entries: 396
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-05 15:22:12.514189
+------------------------------------------------------
+Started: 2024-03-05 15:33:42.827585
+Existing_entries: 396
+Fetching from https://www.ifanr.com/feed
+Token length: 2706
+Summarized using GPT-3.5-turbo
+Append: [蔚来新车即将发布，20 万元级，成本比 Model Y 低 10%！](https://www.ifanr.com/1577183?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-05 15:34:09.746329
