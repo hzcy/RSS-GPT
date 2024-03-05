@@ -72708,3 +72708,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-05 09:09:19.324224
+------------------------------------------------------
+Started: 2024-03-05 09:21:24.091833
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [小兔子异世界冒险开启 《异幻之梦》3月7日发售](https://www.gcores.com/articles/178513)
+Token length: 1086
+Summarized using GPT-3.5-turbo
+Append: [赶着奥奖提名热度，《哥斯拉-1.0》推出日版影碟](https://www.gcores.com/articles/178493)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [克里斯·帕拉特配音动画电影《加菲猫》预告公开](https://www.gcores.com/articles/178504)
+append_entries: 3
+Finish: 2024-03-05 09:22:25.305356
