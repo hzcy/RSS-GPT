@@ -72596,3 +72596,9 @@ Summarized using GPT-3.5-turbo
 Append: [INDIE Live Expo参展游戏绝赞报名中！](https://www.gcores.com/articles/178457)
 append_entries: 5
 Finish: 2024-03-05 05:10:00.419062
+------------------------------------------------------
+Started: 2024-03-05 05:24:41.932784
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-05 05:24:42.253624
