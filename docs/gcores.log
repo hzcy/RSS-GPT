@@ -72482,3 +72482,9 @@ Summarized using GPT-3.5-turbo
 Append: [Yuzu模拟器宣布终止运营并向任天堂支付240万美元赔偿金](https://www.gcores.com/articles/178479)
 append_entries: 1
 Finish: 2024-03-05 00:41:06.943928
+------------------------------------------------------
+Started: 2024-03-05 01:34:29.582287
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-05 01:34:29.957515
