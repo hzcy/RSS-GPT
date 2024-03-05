@@ -67441,3 +67441,12 @@ Existing_entries: 395
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-05 02:34:57.907238
+------------------------------------------------------
+Started: 2024-03-05 02:48:02.273728
+Existing_entries: 395
+Fetching from https://www.ifanr.com/feed
+Token length: 6295
+Summarized using GPT-3.5-turbo
+Append: [早报|GPT-4 被全面超越/苹果发布 M3 芯片 MacBook Air/微信可加入钉钉会议](https://www.ifanr.com/1577080?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-05 02:48:37.391875
