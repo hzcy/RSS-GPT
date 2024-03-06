@@ -73494,3 +73494,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-06 18:27:06.719411
+------------------------------------------------------
+Started: 2024-03-06 18:35:06.805246
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [《对马岛之魂 导演剪辑版》宣布将于5月16日登陆PC平台](https://www.gcores.com/articles/178567)
+append_entries: 1
+Finish: 2024-03-06 18:35:36.445881
