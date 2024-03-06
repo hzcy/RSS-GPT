@@ -73272,3 +73272,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-06 09:22:11.847126
+------------------------------------------------------
+Started: 2024-03-06 09:33:53.280387
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 806
+Summarized using GPT-3.5-turbo
+Append: [NASA入局TRPG，新款游戏讲了什么？](https://www.gcores.com/articles/178550)
+Token length: 1057
+Summarized using GPT-3.5-turbo
+Append: [“印度之星”计划首批五个游戏公布](https://www.gcores.com/articles/178546)
+Token length: 376
+Summarized using GPT-3.5-turbo
+Append: [微软“砍刀部”出手，终止对WSA（安卓子系统）的支持](https://www.gcores.com/articles/178539)
+append_entries: 3
+Finish: 2024-03-06 09:34:39.830895
