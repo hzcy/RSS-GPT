@@ -73422,3 +73422,9 @@ Summarized using GPT-3.5-turbo
 Append: [【抽奖】两款以上立享六折：育碧666新品节现已隆重开幕](https://www.gcores.com/articles/178433)
 append_entries: 1
 Finish: 2024-03-06 15:23:59.025251
+------------------------------------------------------
+Started: 2024-03-06 15:34:39.287771
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-06 15:34:39.480572
