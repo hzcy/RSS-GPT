@@ -73383,3 +73383,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-06 14:08:21.486901
+------------------------------------------------------
+Started: 2024-03-06 14:24:31.097284
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [零创游戏官方账号正式入驻机核！](https://www.gcores.com/articles/178557)
+Token length: 1077
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】Digital Sun即时战略塔防游戏《灾厄堡垒》将于7月16日发售](https://www.gcores.com/articles/178559)
+append_entries: 2
+Finish: 2024-03-06 14:25:16.000102
