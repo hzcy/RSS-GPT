@@ -73224,3 +73224,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-06 07:33:34.348605
+------------------------------------------------------
+Started: 2024-03-06 07:48:05.212123
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 294
+Summarized using GPT-3.5-turbo
+Append: [梦工场动画新作《荒野机器人》公布首支预告](https://www.gcores.com/articles/178540)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [“汪汪队立大功！”《控制：终极版》《英雄不再 3》等多款游戏即将加入XGP](https://www.gcores.com/articles/178538)
+append_entries: 2
+Finish: 2024-03-06 07:48:25.024185
