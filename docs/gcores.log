@@ -73572,3 +73572,9 @@ Summarized using GPT-3.5-turbo
 Append: [卡普空新作：动作+策略+塔防！Xbox 合作伙伴游戏展示会资讯汇总](https://www.gcores.com/articles/178568)
 append_entries: 1
 Finish: 2024-03-06 21:19:11.492835
+------------------------------------------------------
+Started: 2024-03-06 21:34:01.368191
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-06 21:34:01.576054
