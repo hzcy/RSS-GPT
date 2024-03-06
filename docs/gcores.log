@@ -73104,3 +73104,9 @@ Summarized using GPT-3.5-turbo
 Append: [PGL 哥本哈根 CS:GO2 Major 最终参赛队伍确定](https://www.gcores.com/articles/178519)
 append_entries: 1
 Finish: 2024-03-06 03:10:30.996593
+------------------------------------------------------
+Started: 2024-03-06 03:23:07.056816
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-06 03:23:07.409286
