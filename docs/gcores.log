@@ -73563,3 +73563,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-06 21:08:41.525523
+------------------------------------------------------
+Started: 2024-03-06 21:18:52.947020
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1672
+Summarized using GPT-3.5-turbo
+Append: [卡普空新作：动作+策略+塔防！Xbox 合作伙伴游戏展示会资讯汇总](https://www.gcores.com/articles/178568)
+append_entries: 1
+Finish: 2024-03-06 21:19:11.492835
