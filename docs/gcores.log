@@ -73236,3 +73236,9 @@ Summarized using GPT-3.5-turbo
 Append: [“汪汪队立大功！”《控制：终极版》《英雄不再 3》等多款游戏即将加入XGP](https://www.gcores.com/articles/178538)
 append_entries: 2
 Finish: 2024-03-06 07:48:25.024185
+------------------------------------------------------
+Started: 2024-03-06 08:13:12.439205
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-06 08:13:14.317040
