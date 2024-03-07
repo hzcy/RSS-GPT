@@ -73818,3 +73818,9 @@ Summarized using GPT-3.5-turbo
 Append: [《圣兽之王》明日发售，神谷盛治贺图公开](https://www.gcores.com/articles/178587)
 append_entries: 3
 Finish: 2024-03-07 08:11:01.065587
+------------------------------------------------------
+Started: 2024-03-07 08:21:48.133668
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-07 08:21:48.365023
