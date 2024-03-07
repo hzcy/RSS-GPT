@@ -68731,3 +68731,14 @@ Existing_entries: 399
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-07 11:33:28.105592
+------------------------------------------------------
+Started: 2024-03-07 11:48:10.310847
+Existing_entries: 399
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: Exception: CaptchaChallenge: Use other cookies or/and ip address
+Liaobots: ClientResponseError: 404, message='Not Found', url=URL('https://liaobots.work/api/user')
+Append: [「AI 复活」已加入购物车，黑镜真实上演](https://www.ifanr.com/1577338?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-07 11:48:14.244294
