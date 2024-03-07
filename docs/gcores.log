@@ -73918,3 +73918,9 @@ Liaobots: ClientResponseError: 404, message='Not Found', url=URL('https://liaobo
 Append: [真·兄弟你好香！想试试不同麦当劳薯条味道的香水么](https://www.gcores.com/articles/178598)
 append_entries: 2
 Finish: 2024-03-07 11:48:23.185455
+------------------------------------------------------
+Started: 2024-03-07 12:16:17.614782
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-07 12:16:17.850262
