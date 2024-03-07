@@ -73803,3 +73803,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-07 07:48:12.459269
+------------------------------------------------------
+Started: 2024-03-07 08:09:43.503300
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 631
+Summarized using GPT-3.5-turbo
+Append: [尼康宣布收购电影摄像机制造商RED公司](https://www.gcores.com/articles/178588)
+Token length: 757
+Summarized using GPT-3.5-turbo
+Append: [无需编程的RPG制作工具《RPG Developer Bakin》简体/繁体中文版现已正式发售](https://www.gcores.com/articles/178590)
+Token length: 1496
+Summarized using GPT-3.5-turbo
+Append: [《圣兽之王》明日发售，神谷盛治贺图公开](https://www.gcores.com/articles/178587)
+append_entries: 3
+Finish: 2024-03-07 08:11:01.065587
