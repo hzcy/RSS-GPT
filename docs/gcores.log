@@ -74374,3 +74374,27 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-08 07:48:12.659044
+------------------------------------------------------
+Started: 2024-03-08 08:11:31.339153
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1658
+Summarized using GPT-3.5-turbo
+Append: [【福利】生存游戏《冬日幸存者》开启抢先体验](https://www.gcores.com/articles/178641)
+Token length: 945
+Summarized using GPT-3.5-turbo
+Append: [Falcom jdk BAND「奇迹之轨迹」Ⅴ中国巡演五周年启动](https://www.gcores.com/articles/178640)
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [真人剧集《辐射》预告发布，四月十二日上线](https://www.gcores.com/articles/178632)
+Token length: 1396
+Summarized using GPT-3.5-turbo
+Append: [剧本杀谜案推凶！《子归》Steam商店页现已公开](https://www.gcores.com/articles/178633)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ClientResponseError: 402, message='Payment Required', url=URL('https://liaobots.work/api/chat')
+Bing: Exception: CaptchaChallenge: Use other cookies or/and ip address
+Append: [机甲永生 《合金重组》现已登陆Nintendo Switch/ Epic Games平台发售](https://www.gcores.com/articles/178594)
+Append: [300种东方奇幻妖精等你邂逅！《妖之乡》首曝预告](https://www.gcores.com/articles/178589)
+append_entries: 6
+Finish: 2024-03-08 08:12:47.079078
