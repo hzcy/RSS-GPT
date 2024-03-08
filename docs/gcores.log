@@ -74269,3 +74269,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-08 03:48:48.720202
+------------------------------------------------------
+Started: 2024-03-08 04:11:27.872392
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 321
+Summarized using GPT-3.5-turbo
+Append: [漫画家鸟山明因病去世，享年68岁](https://www.gcores.com/articles/178623)
+Token length: 1096
+Summarized using GPT-3.5-turbo
+Append: [新的“神”之传说：卡普空新作《祇 女神之路》详情公开](https://www.gcores.com/articles/178619)
+append_entries: 2
+Finish: 2024-03-08 04:12:04.251431
