@@ -74515,3 +74515,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-08 12:55:26.922450
+------------------------------------------------------
+Started: 2024-03-08 13:09:49.414831
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 703
+Summarized using GPT-3.5-turbo
+Append: [《背包乱斗》现已发售抢先体验版！](https://www.gcores.com/articles/178651)
+append_entries: 1
+Finish: 2024-03-08 13:10:16.914559
