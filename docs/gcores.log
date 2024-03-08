@@ -74734,3 +74734,9 @@ Summarized using GPT-3.5-turbo
 Append: [《樱桃小丸子》日语声优TARAKO去世，享年 63 岁。](https://www.gcores.com/articles/178662)
 append_entries: 1
 Finish: 2024-03-08 21:34:00.710468
+------------------------------------------------------
+Started: 2024-03-08 21:48:23.797159
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-08 21:48:24.007610
