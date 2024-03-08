@@ -74524,3 +74524,9 @@ Summarized using GPT-3.5-turbo
 Append: [《背包乱斗》现已发售抢先体验版！](https://www.gcores.com/articles/178651)
 append_entries: 1
 Finish: 2024-03-08 13:10:16.914559
+------------------------------------------------------
+Started: 2024-03-08 13:22:47.088659
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-08 13:22:47.286125
