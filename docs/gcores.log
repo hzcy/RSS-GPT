@@ -74440,3 +74440,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-08 09:48:14.480848
+------------------------------------------------------
+Started: 2024-03-08 10:11:44.352382
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 338
+Summarized using GPT-3.5-turbo
+Append: [经典养成游戏《美少女梦工厂2 新生》宣布再次延期](https://www.gcores.com/articles/178649)
+Token length: 382
+Summarized using GPT-3.5-turbo
+Append: [《龙珠Z 卡卡罗特》开发商 CyberConnect2 宣布暂时休业](https://www.gcores.com/articles/178645)
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [独游解谜新作《大菠萝马戏团》公开，计划年内发售](https://www.gcores.com/articles/178646)
+append_entries: 3
+Finish: 2024-03-08 10:12:45.231275
