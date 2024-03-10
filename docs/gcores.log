@@ -75490,3 +75490,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-10 08:26:38.728596
+------------------------------------------------------
+Started: 2024-03-10 08:34:42.452531
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 3353
+Summarized using GPT-3.5-turbo
+Append: [2024年2月第五周手办模型情报总汇](https://www.gcores.com/articles/178467)
+append_entries: 1
+Finish: 2024-03-10 08:35:08.286585
