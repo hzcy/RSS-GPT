@@ -75631,3 +75631,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-10 14:23:21.238236
+------------------------------------------------------
+Started: 2024-03-10 14:35:06.846308
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 477
+Summarized using GPT-3.5-turbo
+Append: [《超级马力欧》新作电影官宣：马力欧“MAR10日”消息汇总](https://www.gcores.com/articles/178716)
+append_entries: 1
+Finish: 2024-03-10 14:35:21.783033
