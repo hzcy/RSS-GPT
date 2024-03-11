@@ -76274,3 +76274,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-11 16:48:21.920646
+------------------------------------------------------
+Started: 2024-03-11 17:09:19.575866
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 371
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想7 重生》主题曲“No Promises to Keep”完整版表演映像公开](https://www.gcores.com/articles/178769)
+append_entries: 1
+Finish: 2024-03-11 17:09:38.371327
