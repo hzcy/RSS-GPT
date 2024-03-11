@@ -76061,3 +76061,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-11 08:35:03.977140
+------------------------------------------------------
+Started: 2024-03-11 08:48:27.174082
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [“豪赌”成功：《奥日》系列销量突破一千万份](https://www.gcores.com/articles/178747)
+Token length: 857
+Summarized using GPT-3.5-turbo
+Append: [为做好动画，P.A.WORKS已经偷偷种了一年水稻](https://www.gcores.com/articles/178745)
+Token length: 1397
+Summarized using GPT-3.5-turbo
+Append: [汉米尔顿表与传奇影业及华纳兄弟影业合作，为电影《沙丘2》制作超凡异世的腕部装备](https://www.gcores.com/articles/178741)
+append_entries: 3
+Finish: 2024-03-11 08:50:00.388713
