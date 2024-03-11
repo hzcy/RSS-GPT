@@ -70640,3 +70640,12 @@ Existing_entries: 406
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-10 23:48:10.239401
+------------------------------------------------------
+Started: 2024-03-11 00:42:03.560219
+Existing_entries: 406
+Fetching from https://www.ifanr.com/feed
+Token length: 5233
+Summarized using GPT-3.5-turbo
+Append: [早报| 离线休息权入法已立案/李彦宏：文心 4.0 中文上已经超越 GPT-4/宫崎骏再获奥斯卡](https://www.ifanr.com/1577562?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-11 00:42:47.987769
