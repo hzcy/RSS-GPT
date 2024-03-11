@@ -76136,3 +76136,9 @@ Summarized using GPT-3.5-turbo
 Append: [周年快乐《规划大师》们！来尝尝游戏作者的新年新饼吧~](https://www.gcores.com/articles/178748)
 append_entries: 2
 Finish: 2024-03-11 11:10:29.711883
+------------------------------------------------------
+Started: 2024-03-11 11:21:09.246470
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-11 11:21:09.488385
