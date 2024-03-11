@@ -75910,3 +75910,25 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-11 03:25:12.533595
+------------------------------------------------------
+Started: 2024-03-11 03:33:47.304972
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 521
+Summarized using GPT-3.5-turbo
+Append: [《奥本海默》荣获最佳影片：第96届奥斯卡金像奖获奖名单汇总](https://www.gcores.com/articles/178731)
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [追加超高难任务“终末的幻象”：《碧蓝幻想Relink》1.1.0版本3月14日上线](https://www.gcores.com/articles/178730)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [追加简繁中文：《本所七大不可思议》宣布2024年春季推出更新](https://www.gcores.com/articles/178728)
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [推荐RTX3060：《地平线：西之绝境》公布PC版配置要求](https://www.gcores.com/articles/178729)
+Token length: 486
+Summarized using GPT-3.5-turbo
+Append: [《工人物语:新兴同盟》上线Steam商城页，将于近期发售](https://www.gcores.com/articles/178726)
+Append: [《你想活出怎样的人生》荣获奥斯卡最佳动画长片奖，确认引进内地](https://www.gcores.com/articles/178725)
+append_entries: 6
+Finish: 2024-03-11 03:35:13.392735
