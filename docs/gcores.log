@@ -76022,3 +76022,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-11 07:09:57.204362
+------------------------------------------------------
+Started: 2024-03-11 07:20:39.437136
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 531
+Summarized using GPT-3.5-turbo
+Append: [并非CG！《龙之信条2》中的烤肉竟是真实食材](https://www.gcores.com/articles/178740)
+append_entries: 1
+Finish: 2024-03-11 07:20:55.600164
