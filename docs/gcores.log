@@ -76124,3 +76124,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-11 10:48:06.960942
+------------------------------------------------------
+Started: 2024-03-11 11:09:48.671431
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [乐高将推出《马力欧卡丁车》系列联动产品](https://www.gcores.com/articles/178751)
+Token length: 925
+Summarized using GPT-3.5-turbo
+Append: [周年快乐《规划大师》们！来尝尝游戏作者的新年新饼吧~](https://www.gcores.com/articles/178748)
+append_entries: 2
+Finish: 2024-03-11 11:10:29.711883
