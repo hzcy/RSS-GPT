@@ -76910,3 +76910,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 18:11:36.931366
+------------------------------------------------------
+Started: 2024-03-12 18:26:33.046336
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 362
+Summarized using GPT-3.5-turbo
+Append: [《间谍过家家 代号：白》正式定档4月30日，同日上映的还有《哈尔的移动城堡》](https://www.gcores.com/articles/178825)
+append_entries: 1
+Finish: 2024-03-12 18:27:09.341952
