@@ -76451,3 +76451,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 00:40:35.777433
+------------------------------------------------------
+Started: 2024-03-12 01:34:28.146465
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1357
+Summarized using GPT-3.5-turbo
+Append: [《怪物猎人物语》冷饭新炒、 《Exoprimal》将迎来洛克人联动：卡普空线上节目Day 2消息汇总](https://www.gcores.com/articles/178771)
+append_entries: 1
+Finish: 2024-03-12 01:34:53.388472
