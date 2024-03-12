@@ -76508,3 +76508,9 @@ Summarized using GPT-3.5-turbo
 Append: [《龙珠》40周年纪念作品、TV动画《龙珠DAIMA》秋季开播](https://www.gcores.com/articles/178777)
 append_entries: 2
 Finish: 2024-03-12 03:34:53.715690
+------------------------------------------------------
+Started: 2024-03-12 03:48:20.751162
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-12 03:48:20.931797
