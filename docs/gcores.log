@@ -76757,3 +76757,14 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 12:15:54.138994
+------------------------------------------------------
+Started: 2024-03-12 12:44:59.172098
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: AttributeError: 'int' object has no attribute 'split'
+Append: [星际战士大乱斗来了：《使命召唤：现代战争3》X《战锤40K》联动本周开启](https://www.gcores.com/articles/178812)
+append_entries: 1
+Finish: 2024-03-12 12:49:02.196136
