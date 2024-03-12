@@ -76562,3 +76562,29 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 05:48:04.804736
+------------------------------------------------------
+Started: 2024-03-12 06:12:19.222578
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1712
+Summarized using GPT-3.5-turbo
+Append: [八方旅人手游来啦！《歧路旅人：大陆的霸者》登陆国服，今日开启预约！](https://www.gcores.com/articles/178786)
+Token length: 887
+Summarized using GPT-3.5-turbo
+Append: [手绘寻物游戏《旅人苏菲亚》4月11日上线Nintendo Switch和Steam平台](https://www.gcores.com/articles/178783)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [TV动画《狼与香辛料 MERCHANT MEETS THE WISE WOLF》4月1日开播](https://www.gcores.com/articles/178784)
+Token length: 418
+Summarized using GPT-3.5-turbo
+Append: [《华彩煌煌,吾之一族 幻灯时代》预定5月20日发售，主要登场角色情报披露！](https://www.gcores.com/articles/178782)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ClientResponseError: 402, message='Payment Required', url=URL('https://liaobots.work/api/chat')
+Bing: Exception: CaptchaChallenge: Use other cookies or/and ip address
+Append: [《守望先锋》“归来”X《星际牛仔》联动皮肤今日上线](https://www.gcores.com/articles/178779)
+Append: [《绝地求生》公布2024年更新计划，带来可破坏环境及多样互动功能](https://www.gcores.com/articles/178776)
+Append: [《GTA5》在线模式最新内容更新“当当钟农场突袭”现已推出，跑车好礼免费领](https://www.gcores.com/articles/178775)
+Append: [《魔兽世界》台湾怀旧服将于3月15日开启免费畅玩周末](https://www.gcores.com/articles/178774)
+append_entries: 8
+Finish: 2024-03-12 06:13:15.534764
