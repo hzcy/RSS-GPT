@@ -76804,3 +76804,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 14:08:44.749865
+------------------------------------------------------
+Started: 2024-03-12 14:24:43.522441
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: AttributeError: 'int' object has no attribute 'split'
+Append: [雷狼龙夺冠：《怪物猎人》怪物总选举活动前十揭晓](https://www.gcores.com/articles/178818)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: AttributeError: 'int' object has no attribute 'split'
+Append: [谨防诈骗：微软中国发布关于Xbox“扫码盗刷”欺诈行为的公告](https://www.gcores.com/articles/178816)
+append_entries: 2
+Finish: 2024-03-12 14:32:49.869132
