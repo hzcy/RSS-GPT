@@ -76606,3 +76606,34 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 06:48:06.476920
+------------------------------------------------------
+Started: 2024-03-12 07:09:21.992004
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Append: [黑暗战国ARPG《仁王2》发售四周年](https://www.gcores.com/articles/178803)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Append: [《妖精的尾巴》续篇：TV动画《妖精的尾巴 百年任务》2024年7月开播](https://www.gcores.com/articles/178799)
+Token length: 503
+Summarized using GPT-3.5-turbo
+Append: [《The Finals》第二赛季即将到来，新增技能道具、地图及5V5模式](https://www.gcores.com/articles/178794)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [TV动画《浪客剑心》第2季“京都动乱篇”确定10月开播](https://www.gcores.com/articles/178802)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Append: [《怪物猎人：世界》全球销量突破2500万份](https://www.gcores.com/articles/178798)
+Append: [《幽灵诡计：幻影侦探》将于3月28日登陆移动端](https://www.gcores.com/articles/178795)
+Append: [《最终幻想16》PC版进入最终优化阶段](https://www.gcores.com/articles/178793)
+append_entries: 7
+Finish: 2024-03-12 07:10:35.015183
