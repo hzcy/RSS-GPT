@@ -76496,3 +76496,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-12 03:26:48.267818
+------------------------------------------------------
+Started: 2024-03-12 03:34:26.977594
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 504
+Summarized using GPT-3.5-turbo
+Append: [与对策委员会的5名学生相遇：TV动画《蔚蓝档案》4月7日开播](https://www.gcores.com/articles/178778)
+Token length: 405
+Summarized using GPT-3.5-turbo
+Append: [《龙珠》40周年纪念作品、TV动画《龙珠DAIMA》秋季开播](https://www.gcores.com/articles/178777)
+append_entries: 2
+Finish: 2024-03-12 03:34:53.715690
