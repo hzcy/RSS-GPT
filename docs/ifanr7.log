@@ -71986,3 +71986,14 @@ Existing_entries: 412
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-13 12:16:42.861952
+------------------------------------------------------
+Started: 2024-03-13 12:45:37.036642
+Existing_entries: 412
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [全球首个 AI 程序员来了！超越 GPT-4 震撼硅谷，但取代码农为之尚早](https://www.ifanr.com/1577888?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-13 12:45:39.700535
