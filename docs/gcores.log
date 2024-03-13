@@ -77268,3 +77268,9 @@ Summarized using GPT-3.5-turbo
 Append: [特展「葬送的芙莉莲~从冒险终点开始的故事~」2024年4月25日开展！](https://www.gcores.com/articles/178857)
 append_entries: 1
 Finish: 2024-03-13 08:35:01.370497
+------------------------------------------------------
+Started: 2024-03-13 08:48:19.979766
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-13 08:48:20.248141
