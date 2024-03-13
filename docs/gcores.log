@@ -77309,3 +77309,9 @@ Bing: ResponseStatusError: Response 404: Can't create a new chat
 Append: [《胜利女神：NIKKE》x 《Re:从零开始的异世界生活》联动宣传图公开](https://www.gcores.com/articles/178858)
 append_entries: 1
 Finish: 2024-03-13 10:10:02.396137
+------------------------------------------------------
+Started: 2024-03-13 10:27:13.165687
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-13 10:27:13.354579
