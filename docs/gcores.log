@@ -77205,3 +77205,9 @@ Summarized using GPT-3.5-turbo
 Append: [神秘“iii计划”网页上线，《吸血鬼幸存者》《黑暗地牢》《雨中冒险》等开发者确认参与](https://www.gcores.com/articles/178847)
 append_entries: 4
 Finish: 2024-03-13 06:14:24.494168
+------------------------------------------------------
+Started: 2024-03-13 06:27:44.728320
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-13 06:27:44.897732
