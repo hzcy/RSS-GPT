@@ -71927,3 +71927,14 @@ Existing_entries: 411
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-13 09:48:08.373951
+------------------------------------------------------
+Started: 2024-03-13 10:09:56.024844
+Existing_entries: 411
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [极越，被低估的吉利家族小儿子](https://www.ifanr.com/1577856?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-13 10:09:58.661382

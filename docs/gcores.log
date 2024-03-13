@@ -77298,3 +77298,14 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-13 09:48:11.943341
+------------------------------------------------------
+Started: 2024-03-13 10:10:01.970717
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ResponseStatusError: Response 404: Can't create a new chat
+Append: [《胜利女神：NIKKE》x 《Re:从零开始的异世界生活》联动宣传图公开](https://www.gcores.com/articles/178858)
+append_entries: 1
+Finish: 2024-03-13 10:10:02.396137
