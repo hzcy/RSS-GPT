@@ -77408,3 +77408,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-13 14:09:06.902022
+------------------------------------------------------
+Started: 2024-03-13 14:24:55.653315
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 905
+Summarized using GPT-3.5-turbo
+Append: [《辐射》降临万智牌世界：让废土更有趣](https://www.gcores.com/articles/178876)
+append_entries: 1
+Finish: 2024-03-13 14:25:50.113324
