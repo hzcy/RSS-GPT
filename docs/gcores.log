@@ -77736,3 +77736,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [「怪物总选举」BGM篇 现已开启投票](https://www.gcores.com/articles/178886)
 append_entries: 2
 Finish: 2024-03-14 04:11:02.326792
+------------------------------------------------------
+Started: 2024-03-14 04:25:24.533749
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-14 04:25:24.686209
