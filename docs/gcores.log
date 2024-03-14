@@ -77949,3 +77949,9 @@ Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli
 Append: [国产武侠游戏《逸剑风云决》大型免费更新「南疆风云」现已上线](https://www.gcores.com/articles/178906)
 append_entries: 4
 Finish: 2024-03-14 10:35:19.288208
+------------------------------------------------------
+Started: 2024-03-14 10:48:12.096765
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-14 10:48:12.272837
