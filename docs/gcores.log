@@ -77859,3 +77859,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-14 08:12:07.564550
+------------------------------------------------------
+Started: 2024-03-14 08:26:21.193425
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [含《生化危机3》《NBA 2K24 科比·布莱恩特版》:索尼公布3月PS+新增游戏阵营](https://www.gcores.com/articles/178910)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [《太阳之子》4月10日登陆PC](https://www.gcores.com/articles/178912)
+append_entries: 2
+Finish: 2024-03-14 08:26:22.594997
