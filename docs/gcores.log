@@ -78059,3 +78059,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [劲“鸽”热舞：魔性摇头鸽音律对战《沙雕鸽鸽大逃杀》将于4月4日推出新游戏模式](https://www.gcores.com/articles/178929)
 append_entries: 2
 Finish: 2024-03-14 14:35:00.817146
+------------------------------------------------------
+Started: 2024-03-14 14:48:04.786116
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-14 14:48:04.940455
