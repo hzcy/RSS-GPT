@@ -77684,3 +77684,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [让疯狂统治世界:惊悚游戏《噩梦初醒》国区特价81元起](https://www.gcores.com/articles/178888)
 append_entries: 3
 Finish: 2024-03-14 02:27:03.161984
+------------------------------------------------------
+Started: 2024-03-14 02:34:49.424267
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-14 02:34:49.580477
