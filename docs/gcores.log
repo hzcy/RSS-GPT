@@ -78148,3 +78148,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [《百英雄传》公布全新预告，游戏将于4月23日正式发售](https://www.gcores.com/articles/178936)
 append_entries: 1
 Finish: 2024-03-14 18:11:30.458123
+------------------------------------------------------
+Started: 2024-03-14 18:26:44.773293
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-14 18:26:44.973194
