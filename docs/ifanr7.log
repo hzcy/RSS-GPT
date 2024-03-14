@@ -72548,3 +72548,9 @@ Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli
 Append: [中国的 OpenAI 们怎么赚钱？这家公司先走一步](https://www.ifanr.com/1578010?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-14 12:45:21.123659
+------------------------------------------------------
+Started: 2024-03-14 12:56:39.271558
+Existing_entries: 418
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-14 12:56:40.761294
