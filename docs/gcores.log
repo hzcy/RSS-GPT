@@ -78585,3 +78585,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [阿宝回来了！《功夫熊猫4》在北京举办特别观影与嘉年华活动](https://www.gcores.com/articles/178970)
 append_entries: 2
 Finish: 2024-03-15 10:26:18.672203
+------------------------------------------------------
+Started: 2024-03-15 10:35:16.202331
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-15 10:35:16.361344
