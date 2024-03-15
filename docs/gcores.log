@@ -78726,3 +78726,9 @@ Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli
 Append: [《绝命毒师》屠库扮演者携手多人生存《人渣 SCUM》，亮相Steam春季促销](https://www.gcores.com/articles/178988)
 append_entries: 3
 Finish: 2024-03-15 15:48:10.438192
+------------------------------------------------------
+Started: 2024-03-15 16:12:05.600965
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-15 16:12:05.771551
