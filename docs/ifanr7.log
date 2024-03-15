@@ -73007,3 +73007,9 @@ Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli
 Append: [「7」系混战又来新玩家，15.96 万起，东风新品牌奕派首款轿跑 eπ007 上市](https://www.ifanr.com/1578094?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-15 08:37:58.341166
+------------------------------------------------------
+Started: 2024-03-15 08:48:18.467409
+Existing_entries: 421
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-15 08:48:20.297847
