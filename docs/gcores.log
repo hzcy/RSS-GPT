@@ -78705,3 +78705,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-15 15:33:47.496559
+------------------------------------------------------
+Started: 2024-03-15 15:48:08.926778
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [小动物肉鸽自走棋《卡多梦：超能自走棋》将于3月26日登陆Steam抢先体验](https://www.gcores.com/articles/178990)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [休闲养花模拟器《花园生涯：模拟佛系生活》现已登陆NS平台](https://www.gcores.com/articles/178989)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [《绝命毒师》屠库扮演者携手多人生存《人渣 SCUM》，亮相Steam春季促销](https://www.gcores.com/articles/178988)
+append_entries: 3
+Finish: 2024-03-15 15:48:10.438192
