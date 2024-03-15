@@ -78404,3 +78404,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [在宁静氛围中提升专注力，任务管理工具《Chill Pulse》上架Steam](https://www.gcores.com/articles/178944)
 append_entries: 5
 Finish: 2024-03-15 04:34:56.959711
+------------------------------------------------------
+Started: 2024-03-15 04:48:05.297724
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-15 04:48:05.486154
