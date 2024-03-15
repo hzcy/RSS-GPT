@@ -72829,3 +72829,14 @@ Existing_entries: 419
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-15 00:41:30.967960
+------------------------------------------------------
+Started: 2024-03-15 01:36:18.784497
+Existing_entries: 419
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [早报|李佳琦董宇辉等 17 名主播被点名/SpaceX 星舰第三次试飞结束/阿里 11 款应用将推鸿蒙原生版](https://www.ifanr.com/1578059?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-15 01:36:21.531663
