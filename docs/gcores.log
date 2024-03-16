@@ -78936,3 +78936,14 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-16 02:05:25.381989
+------------------------------------------------------
+Started: 2024-03-16 02:26:04.115393
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [《双截龙外传 - 双龙出海》免费DLC“群英荟萃”宣布](https://www.gcores.com/articles/178994)
+append_entries: 1
+Finish: 2024-03-16 02:26:05.403922
