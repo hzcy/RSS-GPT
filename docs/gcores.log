@@ -79193,3 +79193,36 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-16 12:54:11.008462
+------------------------------------------------------
+Started: 2024-03-16 13:10:13.271280
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [下周节目预告 3.18~3.24](https://www.gcores.com/articles/179016)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [字节跳动据称将重新孵化游戏业务](https://www.gcores.com/articles/179018)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [免费多人MMO《宝藏世界》开启圣克贝斯利可幸运活动](https://www.gcores.com/articles/179015)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [太空肉鸽卡牌《Zet Zillions》将于5月23日在PC发售](https://www.gcores.com/articles/179014)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [《怪物猎人》崛起+曙光组合包仅售98元：Steam春季促销好价汇总](https://www.gcores.com/articles/179013)
+Append: [《吹响吧！上低音号 第三季》公开主视觉图，4月7日播出](https://www.gcores.com/articles/179009)
+Append: [Chiikawa x 名创优品宣布联动，周边即将登录全国门店](https://www.gcores.com/articles/179006)
+append_entries: 7
+Finish: 2024-03-16 13:10:15.205161
