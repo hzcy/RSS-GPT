@@ -73378,3 +73378,14 @@ Existing_entries: 422
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-16 00:39:52.901756
+------------------------------------------------------
+Started: 2024-03-16 01:33:00.641298
+Existing_entries: 422
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [早报|宝马回应 315 曝光传动轴异响/苹果公布 AI 大模型研究成果/十家网约车平台因「高速收费不透明」被约谈](https://www.ifanr.com/1578217?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-16 01:33:03.504472
