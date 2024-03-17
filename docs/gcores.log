@@ -79860,3 +79860,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [科幻核心技能7天养成！未来局春季广州线下写作营](https://www.gcores.com/articles/178939)
 append_entries: 1
 Finish: 2024-03-17 18:33:46.797946
+------------------------------------------------------
+Started: 2024-03-17 18:48:21.480903
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-17 18:48:21.632153
