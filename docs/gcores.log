@@ -80329,3 +80329,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-18 13:23:42.002989
+------------------------------------------------------
+Started: 2024-03-18 13:33:23.865633
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [《七日杀》团队新作：4V1不对称对抗游戏《七日血月》上线Steam商城页](https://www.gcores.com/articles/179084)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [JOYTOY《荷鲁斯大叛乱》新品公布：战帅参战](https://www.gcores.com/articles/179008)
+append_entries: 2
+Finish: 2024-03-18 13:33:25.230409
