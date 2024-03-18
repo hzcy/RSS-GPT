@@ -80070,3 +80070,36 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-18 04:48:18.088848
+------------------------------------------------------
+Started: 2024-03-18 05:11:03.927411
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [怪盗团发来预告！《女神异闻录：夜幕魅影》4月12日全平台公测](https://www.gcores.com/articles/179061)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [时隔25年的新作《饿狼传说：狼之城》公开新的必杀技及角色介绍PV](https://www.gcores.com/articles/179058)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [ALGS常规赛疑似被黑客攻击，职业选手被强制开挂](https://www.gcores.com/articles/179056)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [《地平线 西之绝境》国行版将于3月21日发售 标准版游戏售价299元](https://www.gcores.com/articles/179057)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [《马拉松》(1994)将迎来复刻，游戏现已上线Steam商城页](https://www.gcores.com/articles/179055)
+Append: [对决恶魔：B社揭晓《辐射76》16赛季详情](https://www.gcores.com/articles/179054)
+Append: [像素风类银河战士恶魔城游戏《动物井》将于5月9日发售](https://www.gcores.com/articles/179053)
+append_entries: 7
+Finish: 2024-03-18 05:11:05.988431
