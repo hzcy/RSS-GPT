@@ -80133,3 +80133,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-18 06:28:32.014769
+------------------------------------------------------
+Started: 2024-03-18 06:37:14.032256
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [《洛奇英雄传 反抗命运》Pre-Alpha测试演示视频放出](https://www.gcores.com/articles/179066)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [曾为多部《传说》系列做过人设：画师猪股睦美去世](https://www.gcores.com/articles/179065)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [鸟山明原作，动画剧集《SAND LAND: THE SERIES》预告片公开](https://www.gcores.com/articles/179064)
+append_entries: 3
+Finish: 2024-03-18 06:37:15.549557
