@@ -80281,3 +80281,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [火星哥因赌博欠债5000万美元，签订多年的驻场演出协议](https://www.gcores.com/articles/179071)
 append_entries: 2
 Finish: 2024-03-18 10:48:05.198537
+------------------------------------------------------
+Started: 2024-03-18 11:08:42.748919
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-18 11:08:42.900136
