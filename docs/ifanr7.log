@@ -74640,3 +74640,9 @@ Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli
 Append: [一年发布 30+ 广告宣传片的饿了么，开始用 AI 生成视频了](https://www.ifanr.com/1578301?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-18 10:35:24.959224
+------------------------------------------------------
+Started: 2024-03-18 10:47:58.818395
+Existing_entries: 426
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-18 10:48:00.634223
