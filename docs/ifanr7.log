@@ -74686,3 +74686,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [第三代骁龙 8s 移动平台正式发布，卢伟冰宣布小米全球首发](https://www.ifanr.com/1578465?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-18 12:16:24.035568
+------------------------------------------------------
+Started: 2024-03-18 12:47:06.087648
+Existing_entries: 428
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-18 12:47:07.914464
