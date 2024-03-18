@@ -74629,3 +74629,14 @@ Existing_entries: 425
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-18 10:27:43.011201
+------------------------------------------------------
+Started: 2024-03-18 10:35:22.516664
+Existing_entries: 425
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [一年发布 30+ 广告宣传片的饿了么，开始用 AI 生成视频了](https://www.ifanr.com/1578301?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-18 10:35:24.959224
