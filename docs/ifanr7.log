@@ -74669,3 +74669,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [生成式 AI 时代下，这颗骁龙新生代旗舰芯片，有了新的任务](https://www.ifanr.com/1578459?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-18 11:33:14.969819
+------------------------------------------------------
+Started: 2024-03-18 11:48:09.346393
+Existing_entries: 427
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-18 11:48:11.110249
