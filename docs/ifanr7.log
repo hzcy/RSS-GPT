@@ -74675,3 +74675,14 @@ Existing_entries: 427
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-18 11:48:11.110249
+------------------------------------------------------
+Started: 2024-03-18 12:16:21.414868
+Existing_entries: 427
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [第三代骁龙 8s 移动平台正式发布，卢伟冰宣布小米全球首发](https://www.ifanr.com/1578465?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-18 12:16:24.035568
