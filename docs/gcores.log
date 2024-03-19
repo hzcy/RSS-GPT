@@ -80630,3 +80630,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [家庭共享全面升级,V社介绍Steam家庭新机制](https://www.gcores.com/articles/179100)
 append_entries: 2
 Finish: 2024-03-19 02:27:24.906224
+------------------------------------------------------
+Started: 2024-03-19 02:35:05.421536
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-19 02:35:05.621679
