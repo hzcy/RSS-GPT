@@ -75287,3 +75287,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [1 秒破百！特斯拉最强超跑联动 SpaceX，年内亮相](https://www.ifanr.com/1578585?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-19 14:25:17.158743
+------------------------------------------------------
+Started: 2024-03-19 14:33:57.053368
+Existing_entries: 433
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-19 14:33:58.769113
