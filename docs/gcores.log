@@ -80614,3 +80614,19 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-19 02:06:24.856986
+------------------------------------------------------
+Started: 2024-03-19 02:27:23.621637
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [2024开年的视觉震撼，第八届世界3D渲染大赛落下帷幕](https://www.gcores.com/articles/179076)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [家庭共享全面升级,V社介绍Steam家庭新机制](https://www.gcores.com/articles/179100)
+append_entries: 2
+Finish: 2024-03-19 02:27:24.906224
