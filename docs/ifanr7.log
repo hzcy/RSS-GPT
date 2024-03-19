@@ -74962,3 +74962,24 @@ Existing_entries: 428
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-19 00:41:23.895681
+------------------------------------------------------
+Started: 2024-03-19 01:35:23.650658
+Existing_entries: 428
+Fetching from https://www.ifanr.com/feed
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [荣耀春季发布会：Magic 6 至臻版发布，AIPC 元年到来](https://www.ifanr.com/1578477?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [早报｜苹果考虑在 iPhone 上引入 Gemini/英伟达发布「AI 核弹」/华为第一季度折叠屏份额或超越三星](https://www.ifanr.com/1578542?utm_source=rss&utm_medium=rss&utm_campaign=)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [深夜炸场！英伟达发布全球最强 AI 芯片，性能暴涨 30 倍，老黄才是这个时代的乔布斯](https://www.ifanr.com/1578539?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 3
+Finish: 2024-03-19 01:35:26.781610
