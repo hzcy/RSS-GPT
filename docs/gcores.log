@@ -80710,3 +80710,9 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-19 04:48:28.379041
+------------------------------------------------------
+Started: 2024-03-19 05:09:56.969561
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-19 05:09:57.188324
