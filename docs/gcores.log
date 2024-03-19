@@ -80809,3 +80809,35 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-19 08:26:17.769038
+------------------------------------------------------
+Started: 2024-03-19 08:34:16.889586
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [《月球叛军2：烙印之人》正式预告公布](https://www.gcores.com/articles/179128)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [《崩坏：星穹铁道》新动画短片：「永劫轮舞」](https://www.gcores.com/articles/179127)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [卡牌肉鸽游戏《小丑牌》发售首月销量突破100万套](https://www.gcores.com/articles/179120)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Append: [回到小新爸爸的老家！《蜡笔小新：煤炭镇的小白》中文版将于5月2日发售](https://www.gcores.com/articles/179123)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.bing.com/turing/conversation/create?bundleVersion=1.1626.1')
+Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
+Append: [心仪的女主角呼唤的不是我？！海豹社为送错邀请函特典一事致歉](https://www.gcores.com/articles/179124)
+Append: [新垣结衣参与配音，山田尚子新作动画电影《你的颜色》PV公开](https://www.gcores.com/articles/179119)
+append_entries: 6
+Finish: 2024-03-19 08:34:18.697337
