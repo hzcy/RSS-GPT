@@ -80704,3 +80704,9 @@ Bing: ClientResponseError: 400, message='Can not decode content-encoding: brotli
 Append: [韩国当局通过Xbox新设备认证，引发诸多猜测](https://www.gcores.com/articles/179103)
 append_entries: 4
 Finish: 2024-03-19 04:35:55.205221
+------------------------------------------------------
+Started: 2024-03-19 04:48:28.186477
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-19 04:48:28.379041
