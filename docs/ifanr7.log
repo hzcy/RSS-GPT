@@ -75234,3 +75234,9 @@ Liaobots: ModelNotSupportedError: Model is not supported: gpt-4 in: Liaobots
 Append: [小米汽车不会失败，原因可以加上这个](https://www.ifanr.com/1578571?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-03-19 12:16:35.394225
+------------------------------------------------------
+Started: 2024-03-19 12:44:59.556035
+Existing_entries: 432
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-03-19 12:45:01.249842
