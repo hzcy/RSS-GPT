@@ -81652,3 +81652,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-20 17:07:48.041024
+------------------------------------------------------
+Started: 2024-03-20 17:24:37.123579
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】钱包消费¥148送¥100：育碧春促现已隆重开幕](https://www.gcores.com/articles/179153)
+append_entries: 1
+Finish: 2024-03-20 17:25:08.376250
