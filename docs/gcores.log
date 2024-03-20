@@ -81595,3 +81595,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-20 14:48:26.390136
+------------------------------------------------------
+Started: 2024-03-20 15:10:28.549116
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [《超自然武装当哒当》X《捉鬼敢死队：冰冻帝国》的特别联动视觉图公开！](https://www.gcores.com/articles/179202)
+append_entries: 1
+Finish: 2024-03-20 15:11:13.282728
