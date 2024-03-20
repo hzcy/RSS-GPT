@@ -81502,3 +81502,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-20 10:48:33.954329
+------------------------------------------------------
+Started: 2024-03-20 11:08:06.263253
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1141
+Summarized using GPT-3.5-turbo
+Append: [【福利】「奇迹之轨迹」Ⅴ 五周年狂欢之旅正式开票](https://www.gcores.com/articles/179194)
+append_entries: 1
+Finish: 2024-03-20 11:08:43.836081
