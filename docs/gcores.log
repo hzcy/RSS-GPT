@@ -81460,3 +81460,9 @@ Summarized using GPT-3.5-turbo
 Append: [星战全新作品《星球大战：侍者》先导预告公开](https://www.gcores.com/articles/179183)
 append_entries: 5
 Finish: 2024-03-20 09:12:52.996611
+------------------------------------------------------
+Started: 2024-03-20 09:22:56.644338
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-20 09:22:56.943329
