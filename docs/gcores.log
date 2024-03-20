@@ -81439,3 +81439,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-20 08:48:26.367829
+------------------------------------------------------
+Started: 2024-03-20 09:10:11.736682
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1497
+Summarized using GPT-3.5-turbo
+Append: [NEO NPCs：育碧官宣首个驱动角色和玩法的生成式AI原型](https://www.gcores.com/articles/179191)
+Token length: 2542
+Summarized using GPT-3.5-turbo
+Append: [光球诞生记：V社公布Steam Deck OLED上市宣传片制作历程](https://www.gcores.com/articles/179189)
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [漫改剧集《擅长捉弄的高木同学》预告公开，4月2日开播](https://www.gcores.com/articles/179179)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [市川春子漫画《宝石之国》将于4月25日完结](https://www.gcores.com/articles/179186)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [星战全新作品《星球大战：侍者》先导预告公开](https://www.gcores.com/articles/179183)
+append_entries: 5
+Finish: 2024-03-20 09:12:52.996611
