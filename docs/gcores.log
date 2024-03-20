@@ -81511,3 +81511,9 @@ Summarized using GPT-3.5-turbo
 Append: [【福利】「奇迹之轨迹」Ⅴ 五周年狂欢之旅正式开票](https://www.gcores.com/articles/179194)
 append_entries: 1
 Finish: 2024-03-20 11:08:43.836081
+------------------------------------------------------
+Started: 2024-03-20 11:19:07.002056
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-20 11:19:07.159894
