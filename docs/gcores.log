@@ -81311,3 +81311,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-20 04:35:29.474552
+------------------------------------------------------
+Started: 2024-03-20 04:48:21.122881
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [《疯狂的麦克斯：狂暴女神》发布新预告，重回残酷的废土世界](https://www.gcores.com/articles/179167)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [舅舅党末日：Denuvo宣布游戏无痕水印技术，精准追踪泄密者](https://www.gcores.com/articles/179166)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [中式恐怖版“8番出口”：《13层：公寓异常管理员》上线Steam商城页](https://www.gcores.com/articles/179165)
+append_entries: 3
+Finish: 2024-03-20 04:50:13.844921
