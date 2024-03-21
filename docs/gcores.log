@@ -82050,3 +82050,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-21 09:33:32.939617
+------------------------------------------------------
+Started: 2024-03-21 09:48:07.349802
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 639
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】《地平线 西之绝境》国行版现已发售](https://www.gcores.com/articles/179254)
+Token length: 664
+Summarized using GPT-3.5-turbo
+Append: [《博德之门3》荣获年度最佳游戏：游戏开发者选择奖GDCA以及独立游戏节IGF获奖名单公布](https://www.gcores.com/articles/179248)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [阿巴登场：《罪恶装备 -奋战-》可操控角色“A.B.A”将于3月26日推出](https://www.gcores.com/articles/179245)
+Token length: 510
+Summarized using GPT-3.5-turbo
+Append: [次世代MMORPG《时空奥德赛》公布GDC 2024预告](https://www.gcores.com/articles/179243)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [《马克思佩恩1+2重制版》预算与《心灵杀手2》相同，由R星全额承担](https://www.gcores.com/articles/179242)
+append_entries: 5
+Finish: 2024-03-21 09:51:53.394420
