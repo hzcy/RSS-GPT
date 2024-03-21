@@ -82255,3 +82255,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-21 17:23:43.988154
+------------------------------------------------------
+Started: 2024-03-21 17:33:29.127497
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 459
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】国产手绘解谜新作《深林》现已正式发售！](https://www.gcores.com/articles/179279)
+append_entries: 1
+Finish: 2024-03-21 17:33:58.882126
