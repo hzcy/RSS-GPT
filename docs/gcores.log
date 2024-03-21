@@ -82210,3 +82210,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-21 15:23:17.470225
+------------------------------------------------------
+Started: 2024-03-21 15:34:56.996239
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 959
+Summarized using GPT-3.5-turbo
+Append: [优点鲜明，缺点明显：《浪人崛起》媒体评分汇总](https://www.gcores.com/articles/179274)
+append_entries: 1
+Finish: 2024-03-21 15:35:39.668334
