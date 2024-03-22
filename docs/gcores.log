@@ -82675,3 +82675,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-22 10:35:27.869843
+------------------------------------------------------
+Started: 2024-03-22 10:48:08.105037
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 614
+Summarized using GPT-3.5-turbo
+Append: [Steam版《伊苏X -北境历险-》暂时下架：云豹承诺可全额退款](https://www.gcores.com/articles/179320)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [Kelly-087登场：《彩虹六号：围攻》现已实装最新《光环》联动](https://www.gcores.com/articles/179319)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [《波斯王子：失落王冠》“勇士征途”内容更新现已推出](https://www.gcores.com/articles/179317)
+append_entries: 3
+Finish: 2024-03-22 10:49:54.992481
