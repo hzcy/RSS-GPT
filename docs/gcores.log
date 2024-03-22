@@ -82474,3 +82474,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-22 03:48:08.915046
+------------------------------------------------------
+Started: 2024-03-22 04:11:09.694638
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [三上真司成立新工作室KAMUY](https://www.gcores.com/articles/179289)
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [拉瑞安工作室不会制作《博德之门3》DLC或《博德之门4》](https://www.gcores.com/articles/179288)
+Token length: 359
+Summarized using GPT-3.5-turbo
+Append: [认贼作父不可取：Steam出现最新家庭共享诈骗手段](https://www.gcores.com/articles/179286)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [生存恐怖游戏《INDUSTRIA 2》正式公开，将于近期宣布发售日期](https://www.gcores.com/articles/179285)
+append_entries: 4
+Finish: 2024-03-22 04:13:29.149319
