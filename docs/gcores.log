@@ -82633,3 +82633,9 @@ Summarized using GPT-3.5-turbo
 Append: [世界首个《龙珠》主题乐园将在沙特阿拉伯破土动工](https://www.gcores.com/articles/179304)
 append_entries: 2
 Finish: 2024-03-22 08:49:33.904633
+------------------------------------------------------
+Started: 2024-03-22 09:11:07.907169
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-22 09:11:08.108839
