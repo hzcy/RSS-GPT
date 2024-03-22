@@ -82732,3 +82732,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-22 12:55:58.472463
+------------------------------------------------------
+Started: 2024-03-22 13:10:19.824323
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [卡普空发布公告，将与近日发布《龙之信条2》性能修复补丁](https://www.gcores.com/articles/179330)
+Token length: 695
+Summarized using GPT-3.5-turbo
+Append: [此前盗取价值500万日元“青眼白龙”卡牌的2名嫌疑人，在今日被捕](https://www.gcores.com/articles/179324)
+append_entries: 2
+Finish: 2024-03-22 13:12:04.259844
