@@ -76604,3 +76604,12 @@ Existing_entries: 438
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-03-22 02:05:37.782841
+------------------------------------------------------
+Started: 2024-03-22 02:27:27.165812
+Existing_entries: 438
+Fetching from https://www.ifanr.com/feed
+Token length: 2782
+Summarized using GPT-3.5-turbo
+Append: [Inflection AI 创始人加入微软不仅仅是「跳槽」这么简单](https://www.ifanr.com/1578747?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-03-22 02:28:00.277000
