@@ -82516,3 +82516,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-22 05:10:22.428990
+------------------------------------------------------
+Started: 2024-03-22 05:27:21.697122
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 852
+Summarized using GPT-3.5-turbo
+Append: [手工制作叙事游戏《哈罗德·哈利巴》将于4月 16日发售](https://www.gcores.com/articles/179296)
+Token length: 1466
+Summarized using GPT-3.5-turbo
+Append: [真·挖坟！《流放之路》S25“死寂亡城”即将上线《流放2》游侠演示公开](https://www.gcores.com/articles/179287)
+append_entries: 2
+Finish: 2024-03-22 05:28:35.978617
