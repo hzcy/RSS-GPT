@@ -83140,3 +83140,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-23 06:48:13.790892
+------------------------------------------------------
+Started: 2024-03-23 07:09:56.780594
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1479
+Summarized using GPT-3.5-turbo
+Append: [沙盒生存游戏《泰拉科技世界》EA版正式发售](https://www.gcores.com/articles/179340)
+append_entries: 1
+Finish: 2024-03-23 07:10:22.947440
