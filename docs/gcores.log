@@ -83044,3 +83044,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-23 03:11:39.973022
+------------------------------------------------------
+Started: 2024-03-23 03:23:45.819982
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想16》第2个DLC“海之恸哭”将于4月18日发售。今日发布预告片及新召唤兽技能演示](https://www.gcores.com/articles/179335)
+append_entries: 1
+Finish: 2024-03-23 03:24:16.490994
