@@ -83107,3 +83107,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-23 05:34:00.010894
+------------------------------------------------------
+Started: 2024-03-23 05:48:10.557102
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 747
+Summarized using GPT-3.5-turbo
+Append: [《耀斑纪元》现已实装“广拓未来”内容更新，带来三倍尺寸沙盒地图](https://www.gcores.com/articles/179333)
+Token length: 980
+Summarized using GPT-3.5-turbo
+Append: [Raw Fury官宣两款全新游戏：解谜新作《Blue Prince》及回合制卡牌《Knights in Tight Spaces》正式公开](https://www.gcores.com/articles/179332)
+Token length: 304
+Summarized using GPT-3.5-turbo
+Append: [揭开陈尸之谜：《验尸模拟器》将于5月9日推出](https://www.gcores.com/articles/179331)
+append_entries: 3
+Finish: 2024-03-23 05:49:40.425524
