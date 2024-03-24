@@ -83785,3 +83785,9 @@ Summarized using GPT-3.5-turbo
 Append: [《最终幻想14》国际服7.0版本“黄金的遗产”7月2日正式上线](https://www.gcores.com/articles/179368)
 append_entries: 1
 Finish: 2024-03-24 11:20:00.291405
+------------------------------------------------------
+Started: 2024-03-24 11:33:30.520922
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-24 11:33:30.734241
