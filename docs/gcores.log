@@ -84247,3 +84247,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-25 07:48:10.330539
+------------------------------------------------------
+Started: 2024-03-25 08:13:45.651729
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [《幻兽帕鲁》最受欢迎的帕鲁TOP10公布](https://www.gcores.com/articles/179399)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [《炉石传说》玩家总数超1.5亿，《魔兽世界》玩家人数重回高峰](https://www.gcores.com/articles/179398)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [CAPCOM发布《Monster Hunter 20周年纪念之开发团队访谈: 2004-2006》](https://www.gcores.com/articles/179397)
+Token length: 299
+Summarized using GPT-3.5-turbo
+Append: [《一起开火车2：汽笛重鸣》玩法预告片发布](https://www.gcores.com/articles/179396)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [《月姬-A piece of blue glass moon-》多语言版将于6月27日发售，支持简繁中文支持简繁中文](https://www.gcores.com/articles/179393)
+append_entries: 5
+Finish: 2024-03-25 08:16:53.067635
