@@ -84208,3 +84208,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-25 06:29:24.591831
+------------------------------------------------------
+Started: 2024-03-25 06:38:53.776690
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1176
+Summarized using GPT-3.5-turbo
+Append: [褒贬不一的《龙之信条2》正在积极自救](https://www.gcores.com/articles/179356)
+append_entries: 1
+Finish: 2024-03-25 06:39:31.456896
