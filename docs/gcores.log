@@ -84160,3 +84160,9 @@ Summarized using GPT-3.5-turbo
 Append: [《工人物语：新兴同盟》迎来“繁荣之机”免费更新，将于本周三在Steam发售](https://www.gcores.com/articles/179382)
 append_entries: 4
 Finish: 2024-03-25 04:29:40.775554
+------------------------------------------------------
+Started: 2024-03-25 04:36:10.765906
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-25 04:36:10.994241
