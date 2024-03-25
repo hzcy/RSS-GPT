@@ -84337,3 +84337,9 @@ Summarized using GPT-3.5-turbo
 Append: [明治有限公司将推出「蘑菇山无线耳机」](https://www.gcores.com/articles/179402)
 append_entries: 3
 Finish: 2024-03-25 10:36:39.300831
+------------------------------------------------------
+Started: 2024-03-25 10:48:03.200059
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-25 10:48:03.375537
