@@ -85126,3 +85126,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-26 19:35:06.585236
+------------------------------------------------------
+Started: 2024-03-26 19:48:17.984719
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [《狂野飙车：Asphalt Legends UNITE》，计划于2024年 7月发布](https://www.gcores.com/articles/179454)
+append_entries: 1
+Finish: 2024-03-26 19:49:10.516922
