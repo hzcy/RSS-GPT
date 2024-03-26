@@ -84796,3 +84796,24 @@ Existing_entries: 1004
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-26 06:48:32.947852
+------------------------------------------------------
+Started: 2024-03-26 07:08:55.183759
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [存档可继承至正式版：《剑星》体验版3月29日推出](https://www.gcores.com/articles/179434)
+Token length: 445
+Summarized using GPT-3.5-turbo
+Append: [《闪电十一人 英雄们的胜利之路》Beta测试体验版信息公开](https://www.gcores.com/articles/179431)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [游戏改编《方舟：动画系列》现已上线Paramount+](https://www.gcores.com/articles/179430)
+Token length: 841
+Summarized using GPT-3.5-turbo
+Append: [免费开放世界冒险游戏《Sky 光·遇》将于4月10日上线Steam](https://www.gcores.com/articles/179429)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [优化各平台游戏体验：《龙之信条2》公布近期更新内容](https://www.gcores.com/articles/179428)
+append_entries: 5
+Finish: 2024-03-26 07:11:48.605740
