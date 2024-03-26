@@ -84919,3 +84919,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-26 11:20:04.929037
+------------------------------------------------------
+Started: 2024-03-26 11:34:43.003979
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 625
+Summarized using GPT-3.5-turbo
+Append: [小动物肉鸽自走棋《卡多梦：超能自走棋》现已在Steam以抢先体验形式发售](https://www.gcores.com/articles/179436)
+Token length: 722
+Summarized using GPT-3.5-turbo
+Append: [蒸汽朋克风海上城建《堡垒：猎鹰战纪》将于3月27日发售](https://www.gcores.com/articles/179442)
+Token length: 763
+Summarized using GPT-3.5-turbo
+Append: [好评如潮的回合制怪物收集战斗《磁带妖怪》将于5月20日推出多人模式](https://www.gcores.com/articles/179439)
+Token length: 887
+Summarized using GPT-3.5-turbo
+Append: [太空科幻侦探冒险游戏《地平线之间》现已正式发售](https://www.gcores.com/articles/179438)
+append_entries: 4
+Finish: 2024-03-26 11:37:17.909106
