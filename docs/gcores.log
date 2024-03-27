@@ -85529,3 +85529,9 @@ Summarized using GPT-3.5-turbo
 Append: [《无人深空》迎来全新更新：轨道](https://www.gcores.com/articles/179478)
 append_entries: 1
 Finish: 2024-03-27 13:10:00.964996
+------------------------------------------------------
+Started: 2024-03-27 13:23:04.263421
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-27 13:23:04.490255
