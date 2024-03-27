@@ -85520,3 +85520,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-27 12:46:08.727818
+------------------------------------------------------
+Started: 2024-03-27 13:09:34.593890
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 626
+Summarized using GPT-3.5-turbo
+Append: [《无人深空》迎来全新更新：轨道](https://www.gcores.com/articles/179478)
+append_entries: 1
+Finish: 2024-03-27 13:10:00.964996
