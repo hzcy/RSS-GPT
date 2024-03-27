@@ -85502,3 +85502,9 @@ Summarized using GPT-3.5-turbo
 Append: [JOYTOY战锤40K新品公布：肃卫老兵参战](https://www.gcores.com/articles/179491)
 append_entries: 1
 Finish: 2024-03-27 11:33:55.737475
+------------------------------------------------------
+Started: 2024-03-27 11:48:26.846971
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-27 11:48:27.047989
