@@ -85625,3 +85625,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-27 17:24:21.921952
+------------------------------------------------------
+Started: 2024-03-27 17:33:46.048705
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [6V6对战射击游戏《漫威 Rivals》正式公布，由网易游戏开发](https://www.gcores.com/articles/179502)
+append_entries: 1
+Finish: 2024-03-27 17:34:24.823663
