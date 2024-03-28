@@ -85961,3 +85961,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-28 07:48:06.218042
+------------------------------------------------------
+Started: 2024-03-28 08:11:48.932387
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [含《不朽者传奇》：索尼公布4月PSN会免阵容](https://www.gcores.com/articles/179525)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [《暗黑之门》系列即将迎来新作：《暗黑之门：救赎》正式公开](https://www.gcores.com/articles/179523)
+append_entries: 2
+Finish: 2024-03-28 08:12:50.688569
