@@ -85838,3 +85838,9 @@ Summarized using GPT-3.5-turbo
 Append: [蒸汽朋克风海上城建《堡垒：猎鹰战纪》现已发售，国区特价68元](https://www.gcores.com/articles/179507)
 append_entries: 4
 Finish: 2024-03-28 03:25:30.085686
+------------------------------------------------------
+Started: 2024-03-28 03:34:05.697656
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-28 03:34:05.990805
