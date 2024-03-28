@@ -85973,3 +85973,9 @@ Summarized using GPT-3.5-turbo
 Append: [《暗黑之门》系列即将迎来新作：《暗黑之门：救赎》正式公开](https://www.gcores.com/articles/179523)
 append_entries: 2
 Finish: 2024-03-28 08:12:50.688569
+------------------------------------------------------
+Started: 2024-03-28 08:26:16.154272
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-28 08:26:16.373032
