@@ -86171,3 +86171,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-28 15:48:17.316914
+------------------------------------------------------
+Started: 2024-03-28 16:11:24.644733
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [21.59万起：小米汽车正式公布定价](https://www.gcores.com/articles/179543)
+append_entries: 1
+Finish: 2024-03-28 16:11:50.615946
