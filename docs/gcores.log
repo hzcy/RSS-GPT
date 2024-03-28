@@ -86063,3 +86063,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-28 11:20:19.379300
+------------------------------------------------------
+Started: 2024-03-28 11:33:55.711873
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 410
+Summarized using GPT-3.5-turbo
+Append: [不要打破蛋壳：《高难度跳蛋游戏》现已上线Steam商城页](https://www.gcores.com/articles/179539)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [《未麻的部屋》&《火影忍者疾风传》剧场版参与展映：第14届北京国际电影节4月18日开幕](https://www.gcores.com/articles/179538)
+Token length: 330
+Summarized using GPT-3.5-turbo
+Append: [《女神异闻录：夜幕魅影》公测OP动画公布](https://www.gcores.com/articles/179534)
+append_entries: 3
+Finish: 2024-03-28 11:34:53.968914
