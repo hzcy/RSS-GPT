@@ -86477,3 +86477,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-29 05:25:18.301850
+------------------------------------------------------
+Started: 2024-03-29 05:33:44.600068
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 835
+Summarized using GPT-3.5-turbo
+Append: [TV动画《迷宫饭》公开新PV，第2季4月4日开播](https://www.gcores.com/articles/179563)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [《哆啦A梦：大雄的地球交响乐》确认引进内地](https://www.gcores.com/articles/179561)
+append_entries: 2
+Finish: 2024-03-29 05:34:19.384104
