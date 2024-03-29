@@ -86791,3 +86791,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-29 17:24:09.966268
+------------------------------------------------------
+Started: 2024-03-29 17:34:55.760484
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 711
+Summarized using GPT-3.5-turbo
+Append: [卡牌类生存建造冒险游戏《卡牌探险：雨林迷踪 》公布首支宣传片](https://www.gcores.com/articles/179604)
+append_entries: 1
+Finish: 2024-03-29 17:35:12.036020
