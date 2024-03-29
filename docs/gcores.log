@@ -86656,3 +86656,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-29 11:33:26.249787
+------------------------------------------------------
+Started: 2024-03-29 11:48:18.331632
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [《解限机》《诡秘之主》等107款游戏过审:2024年3月份国产网络游戏审批信息公布](https://www.gcores.com/articles/179597)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [推理解谜游戏《Nirvana Noir》发售窗口暂定为2025年春，首发XGP](https://www.gcores.com/articles/179589)
+Token length: 614
+Summarized using GPT-3.5-turbo
+Append: [生存冒险解谜游戏《蛮之纪》将于4月4日同步上线Steam、Switch平台](https://www.gcores.com/articles/179593)
+append_entries: 3
+Finish: 2024-03-29 11:49:40.554515
