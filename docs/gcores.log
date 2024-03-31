@@ -87874,3 +87874,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-03-31 17:48:24.633439
+------------------------------------------------------
+Started: 2024-03-31 18:10:55.999665
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 899
+Summarized using GPT-3.5-turbo
+Append: [5月24日：暴雪《守望先锋》游戏总监正式宣布中国地区推出时间](https://www.gcores.com/articles/179656)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [《胜利女神：NIKKE》3D射击续作《DEAD SPICY》将于20XX年4月1日正式发售。](https://www.gcores.com/articles/179660)
+append_entries: 2
+Finish: 2024-03-31 18:11:41.682320
