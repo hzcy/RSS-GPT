@@ -87886,3 +87886,9 @@ Summarized using GPT-3.5-turbo
 Append: [《胜利女神：NIKKE》3D射击续作《DEAD SPICY》将于20XX年4月1日正式发售。](https://www.gcores.com/articles/179660)
 append_entries: 2
 Finish: 2024-03-31 18:11:41.682320
+------------------------------------------------------
+Started: 2024-03-31 18:25:12.011542
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-03-31 18:25:12.231936
