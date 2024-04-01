@@ -88324,3 +88324,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-01 11:33:21.592799
+------------------------------------------------------
+Started: 2024-04-01 11:48:29.661843
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [CDPR《赛博朋克2077》限量软盘版公布！](https://www.gcores.com/articles/179720)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [来自官方的祝福：《怪物猎人 崛起：曙光》祝贺山田裕贵&西野七濑结婚](https://www.gcores.com/articles/179717)
+append_entries: 2
+Finish: 2024-04-01 11:49:07.895549
