@@ -88372,3 +88372,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-01 13:48:15.053860
+------------------------------------------------------
+Started: 2024-04-01 14:09:16.065506
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [《异度神剑3》官方艺术设定集正式发售](https://www.gcores.com/articles/179726)
+Token length: 1346
+Summarized using GPT-3.5-turbo
+Append: [《我的时光》即将发售：帕斯亚公布《时光》系列续作](https://www.gcores.com/articles/179725)
+Token length: 358
+Summarized using GPT-3.5-turbo
+Append: [《赛博朋克：红》迎来《VA-11 Hall-A：赛博朋克酒保行动》联动](https://www.gcores.com/articles/179724)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [真人版日剧《岸边露伴一动不动》新篇章“密渔海岸”5月播出](https://www.gcores.com/articles/179718)
+append_entries: 4
+Finish: 2024-04-01 14:10:43.515678
