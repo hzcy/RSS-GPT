@@ -88161,3 +88161,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-01 06:37:19.091830
+------------------------------------------------------
+Started: 2024-04-01 06:48:23.224935
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [人工智能触手：雷蛇公布克苏鲁主题终极电竞椅](https://www.gcores.com/articles/179689)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [《宝可梦：SLEEP》史上首届“只是睡觉”世界锦标赛即将举行](https://www.gcores.com/articles/179686)
+append_entries: 2
+Finish: 2024-04-01 06:49:42.175171
