@@ -88537,3 +88537,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-01 20:10:38.082889
+------------------------------------------------------
+Started: 2024-04-01 20:25:06.765074
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 969
+Summarized using GPT-3.5-turbo
+Append: [天生赢家！恭喜NAVI 2:1战胜 FaZe Clan，赢下 CS2 的首个 Major](https://www.gcores.com/articles/179699)
+append_entries: 1
+Finish: 2024-04-01 20:25:25.257693
