@@ -88390,3 +88390,9 @@ Summarized using GPT-3.5-turbo
 Append: [真人版日剧《岸边露伴一动不动》新篇章“密渔海岸”5月播出](https://www.gcores.com/articles/179718)
 append_entries: 4
 Finish: 2024-04-01 14:10:43.515678
+------------------------------------------------------
+Started: 2024-04-01 14:25:04.239220
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-01 14:25:04.448106
