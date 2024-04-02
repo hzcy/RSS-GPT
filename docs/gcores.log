@@ -89029,3 +89029,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-02 16:11:42.851665
+------------------------------------------------------
+Started: 2024-04-02 16:29:43.690006
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [《艾尔登法环 黄金树幽影》已获ESRB评级](https://www.gcores.com/articles/179788)
+append_entries: 1
+Finish: 2024-04-02 16:30:10.730215
