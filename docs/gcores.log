@@ -88654,3 +88654,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-02 02:32:26.091609
+------------------------------------------------------
+Started: 2024-04-02 02:48:13.961794
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [《空洞骑士：丝之歌》上线Xbox商城页，距离发售更进一步](https://www.gcores.com/articles/179735)
+append_entries: 1
+Finish: 2024-04-02 02:49:14.725681
