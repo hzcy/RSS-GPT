@@ -89636,3 +89636,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-03 16:11:20.002702
+------------------------------------------------------
+Started: 2024-04-03 16:29:52.291545
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [京都一男子因向任天堂发送死亡威胁而被捕](https://www.gcores.com/articles/179844)
+Token length: 1110
+Summarized using GPT-3.5-turbo
+Append: [死亡细胞团队新作：《风中行者》公布全新玩法预告](https://www.gcores.com/articles/179843)
+append_entries: 2
+Finish: 2024-04-03 16:31:22.251858
