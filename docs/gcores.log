@@ -89678,3 +89678,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-03 17:33:48.892863
+------------------------------------------------------
+Started: 2024-04-03 17:48:14.927953
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [时隔13年《好想告诉你》第三季正式预告公布，将于8月在Netflix播出](https://www.gcores.com/articles/179848)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [育碧将于6月11日举行最新一期前瞻会](https://www.gcores.com/articles/179846)
+append_entries: 2
+Finish: 2024-04-03 17:48:48.682565
