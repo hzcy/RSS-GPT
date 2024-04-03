@@ -89248,3 +89248,9 @@ Summarized using GPT-3.5-turbo
 Append: [首日加入PS+游戏库：《潜水员戴夫》将于4月16日在Playstation发售](https://www.gcores.com/articles/179793)
 append_entries: 4
 Finish: 2024-04-03 02:14:06.998530
+------------------------------------------------------
+Started: 2024-04-03 02:29:13.623381
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-03 02:29:13.824085
