@@ -89582,3 +89582,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-03 14:08:48.827378
+------------------------------------------------------
+Started: 2024-04-03 14:25:10.717083
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 899
+Summarized using GPT-3.5-turbo
+Append: [Tezo × 机核 | 获取「耳羽」新装备，一同探索热爱](https://www.gcores.com/articles/179813)
+Token length: 1911
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY战锤40K新品公布：极限战士西弗勒斯·阿格曼参战](https://www.gcores.com/articles/179820)
+append_entries: 2
+Finish: 2024-04-03 14:25:55.959072
