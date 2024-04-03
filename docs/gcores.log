@@ -89486,3 +89486,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-03 10:10:39.912242
+------------------------------------------------------
+Started: 2024-04-03 10:28:54.049338
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [《西瓜游戏》安卓版即将于四月中旬发布](https://www.gcores.com/articles/179819)
+Token length: 774
+Summarized using GPT-3.5-turbo
+Append: [可爱小狗探险解谜游戏《落日山丘》定档2024年暑期](https://www.gcores.com/articles/179828)
+Token length: 343
+Summarized using GPT-3.5-turbo
+Append: [最新一期FAMI通评分出炉：《龙之信条2》获32分](https://www.gcores.com/articles/179824)
+Token length: 413
+Summarized using GPT-3.5-turbo
+Append: [扒开“囚笼”发现真相：《喜丧》将于4月11日焕新登场](https://www.gcores.com/articles/179823)
+append_entries: 4
+Finish: 2024-04-03 10:30:14.537012
