@@ -83060,3 +83060,12 @@ Existing_entries: 472
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-03 03:11:10.277603
+------------------------------------------------------
+Started: 2024-04-03 03:23:45.967356
+Existing_entries: 472
+Fetching from https://www.ifanr.com/feed
+Token length: 3402
+Summarized using GPT-3.5-turbo
+Append: [专访追觅科技中国区执行总裁郭人杰：好产品应该是消费者可理解的有效创新](https://www.ifanr.com/1580038?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-03 03:24:21.672171
