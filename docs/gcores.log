@@ -90179,3 +90179,9 @@ Summarized using GPT-3.5-turbo
 Append: [水滴模拟器，正式版上线Steam啦~](https://www.gcores.com/articles/179864)
 append_entries: 1
 Finish: 2024-04-04 16:12:09.893350
+------------------------------------------------------
+Started: 2024-04-04 16:28:50.592021
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-04 16:28:50.774282
