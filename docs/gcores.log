@@ -89957,3 +89957,9 @@ Summarized using GPT-3.5-turbo
 Append: [《空洞骑士：丝之歌》已在韩国通过评级，分级为12+](https://www.gcores.com/articles/179857)
 append_entries: 1
 Finish: 2024-04-04 06:36:00.362323
+------------------------------------------------------
+Started: 2024-04-04 06:48:06.751972
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-04 06:48:06.965161
