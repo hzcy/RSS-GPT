@@ -90731,3 +90731,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-05 16:48:23.782651
+------------------------------------------------------
+Started: 2024-04-05 17:08:10.846394
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [《冰汽时代2》公布抢先游玩时间，豪华版玩家可提前体验](https://www.gcores.com/articles/179896)
+Token length: 564
+Summarized using GPT-3.5-turbo
+Append: [SE首次参展日本最大的宠物用品展，野村哲也监修的宠物用品使人眼前一亮。](https://www.gcores.com/articles/179888)
+append_entries: 2
+Finish: 2024-04-05 17:09:25.194447
