@@ -90557,3 +90557,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-05 09:33:51.253131
+------------------------------------------------------
+Started: 2024-04-05 09:48:21.135048
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 766
+Summarized using GPT-3.5-turbo
+Append: [劲“鸽”热舞：《沙雕鸽鸽大逃杀》现已推出1V1游戏模式](https://www.gcores.com/articles/179880)
+Token length: 667
+Summarized using GPT-3.5-turbo
+Append: [古克苏鲁RPG《斯高特：攻打黑修院》将于5月30日发售](https://www.gcores.com/articles/179879)
+append_entries: 2
+Finish: 2024-04-05 09:49:11.678588
