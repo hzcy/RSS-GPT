@@ -90533,3 +90533,9 @@ Summarized using GPT-3.5-turbo
 Append: [《恶魔轮盘》现已登陆Steam平台,国区售价10.8元](https://www.gcores.com/articles/179877)
 append_entries: 2
 Finish: 2024-04-05 08:12:45.356378
+------------------------------------------------------
+Started: 2024-04-05 08:32:59.028008
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-05 08:32:59.191633
