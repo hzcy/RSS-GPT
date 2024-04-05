@@ -90743,3 +90743,9 @@ Summarized using GPT-3.5-turbo
 Append: [SE首次参展日本最大的宠物用品展，野村哲也监修的宠物用品使人眼前一亮。](https://www.gcores.com/articles/179888)
 append_entries: 2
 Finish: 2024-04-05 17:09:25.194447
+------------------------------------------------------
+Started: 2024-04-05 17:25:26.673335
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-05 17:25:26.859761
