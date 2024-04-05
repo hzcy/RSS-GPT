@@ -90773,3 +90773,9 @@ Summarized using GPT-3.5-turbo
 Append: [游戏的人档案馆 | 活动招募“游戏的众”:「游戏x残障」主题月活动](https://www.gcores.com/articles/179837)
 append_entries: 2
 Finish: 2024-04-05 18:12:33.738201
+------------------------------------------------------
+Started: 2024-04-05 18:27:27.707253
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-05 18:27:27.899443
