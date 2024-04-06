@@ -84683,3 +84683,9 @@ Summarized using GPT-3.5-turbo
 Append: [Sam Altman 联手 Jony Ive 打造的 AI 硬件不会像手机，或融资 10 亿美元](https://www.ifanr.com/1580149?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-04-06 04:36:23.310732
+------------------------------------------------------
+Started: 2024-04-06 04:47:59.472015
+Existing_entries: 477
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+error when rendering xml, skip docs/ifanr7
