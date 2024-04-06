@@ -84917,3 +84917,9 @@ Existing_entries: 477
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 error when rendering xml, skip docs/ifanr7
+------------------------------------------------------
+Started: 2024-04-06 14:48:24.203581
+Existing_entries: 477
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-04-06 14:48:25.967830
