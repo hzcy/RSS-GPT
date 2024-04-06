@@ -85103,3 +85103,9 @@ Existing_entries: 477
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-06 22:24:32.484300
+------------------------------------------------------
+Started: 2024-04-06 22:34:30.587554
+Existing_entries: 477
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+error when rendering xml, skip docs/ifanr7
