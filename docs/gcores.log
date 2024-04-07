@@ -91592,3 +91592,9 @@ Summarized using GPT-3.5-turbo
 Append: [经开发商确定：《与狼同行2》仍在制作中](https://www.gcores.com/articles/179800)
 append_entries: 3
 Finish: 2024-04-07 06:27:20.457496
+------------------------------------------------------
+Started: 2024-04-07 06:33:47.839259
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-07 06:33:48.035807
