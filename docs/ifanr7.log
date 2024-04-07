@@ -85154,3 +85154,12 @@ Existing_entries: 478
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-07 01:51:03.980401
+------------------------------------------------------
+Started: 2024-04-07 02:20:27.590937
+Existing_entries: 478
+Fetching from https://www.ifanr.com/feed
+Token length: 3752
+Summarized using GPT-3.5-turbo
+Append: [小米用理想的方式，教理想造电车](https://www.ifanr.com/1580102?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-07 02:21:09.552052
