@@ -91523,3 +91523,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-07 04:28:09.933803
+------------------------------------------------------
+Started: 2024-04-07 04:35:52.905874
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 444
+Summarized using GPT-3.5-turbo
+Append: [《节奏地牢》联动初音未来DLC已上线Steam平台](https://www.gcores.com/articles/179927)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [《星露谷物语》主机和移动平台的1.6版本更新正在开发中](https://www.gcores.com/articles/179928)
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [苹果App Store放宽限制，允许模拟器应用上架](https://www.gcores.com/articles/179930)
+Token length: 459
+Summarized using GPT-3.5-turbo
+Append: [全新洛夫克拉夫特风格恐怖FPS游戏《颓废》公布预告](https://www.gcores.com/articles/179926)
+append_entries: 4
+Finish: 2024-04-07 04:37:07.461314
