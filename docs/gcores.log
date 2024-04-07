@@ -91577,3 +91577,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-07 06:11:24.015524
+------------------------------------------------------
+Started: 2024-04-07 06:25:53.108830
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 721
+Summarized using GPT-3.5-turbo
+Append: [克苏鲁桌球游戏《Pool of Madness》已开放Demo试玩](https://www.gcores.com/articles/179935)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [PlayStation德国官推发布《Pragmata》游戏截图](https://www.gcores.com/articles/179933)
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [经开发商确定：《与狼同行2》仍在制作中](https://www.gcores.com/articles/179800)
+append_entries: 3
+Finish: 2024-04-07 06:27:20.457496
