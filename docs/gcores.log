@@ -91847,3 +91847,9 @@ Summarized using GPT-3.5-turbo
 Append: [开播35周年的动画《天空战记》宣布即将推出高清重制版本](https://www.gcores.com/articles/179964)
 append_entries: 1
 Finish: 2024-04-07 15:48:35.849111
+------------------------------------------------------
+Started: 2024-04-07 16:10:08.546306
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-07 16:10:08.719849
