@@ -92120,3 +92120,9 @@ Summarized using GPT-3.5-turbo
 Append: [【传闻】微软将在Xbox Showcase上公布新的《战争机器》和《使命召唤》](https://www.gcores.com/articles/179984)
 append_entries: 4
 Finish: 2024-04-08 04:28:27.488017
+------------------------------------------------------
+Started: 2024-04-08 04:36:42.171340
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-08 04:36:42.352656
