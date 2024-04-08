@@ -92051,3 +92051,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-08 01:39:27.404908
+------------------------------------------------------
+Started: 2024-04-08 02:14:08.481364
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [纪念30周年，《机动武斗传G高达》新企划启动](https://www.gcores.com/articles/179980)
+append_entries: 1
+Finish: 2024-04-08 02:14:31.300070
