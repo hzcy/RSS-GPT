@@ -92273,3 +92273,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-08 09:48:18.828858
+------------------------------------------------------
+Started: 2024-04-08 10:12:41.987082
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [光荣特库摩起诉游族网络侵权](https://www.gcores.com/articles/180010)
+Token length: 268
+Summarized using GPT-3.5-turbo
+Append: [【传闻】知名世嘉舅舅党爆料《女神异闻录6》主题色为绿色](https://www.gcores.com/articles/180007)
+Token length: 1000
+Summarized using GPT-3.5-turbo
+Append: [《游戏王OCG》新手女玩家失败后因伤心中途离场？当事人解释“现场太臭无法忍受”](https://www.gcores.com/articles/180000)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [科乐美宣布提高全社员工的基本工资](https://www.gcores.com/articles/180004)
+append_entries: 4
+Finish: 2024-04-08 10:15:17.112164
