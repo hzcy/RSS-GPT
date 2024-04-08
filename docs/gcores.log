@@ -92219,3 +92219,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-08 07:48:02.805934
+------------------------------------------------------
+Started: 2024-04-08 08:13:29.855026
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [G胖近照曝光：减肥成果惊人](https://www.gcores.com/articles/180003)
+Token length: 483
+Summarized using GPT-3.5-turbo
+Append: [真·找屎游戏《便便不同》即将登录Steam平台](https://www.gcores.com/articles/180002)
+append_entries: 2
+Finish: 2024-04-08 08:14:09.086658
