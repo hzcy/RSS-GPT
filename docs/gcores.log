@@ -92333,3 +92333,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-08 12:16:38.387297
+------------------------------------------------------
+Started: 2024-04-08 12:46:04.829393
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 837
+Summarized using GPT-3.5-turbo
+Append: [宝可梦2024年首场大师赛圆满落幕](https://www.gcores.com/articles/180013)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [2024年第二批进口网络游戏审批信息公布，多款NS游戏过审](https://www.gcores.com/articles/180011)
+append_entries: 2
+Finish: 2024-04-08 12:47:08.946283
