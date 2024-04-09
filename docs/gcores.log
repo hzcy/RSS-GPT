@@ -92786,3 +92786,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-09 08:12:19.088809
+------------------------------------------------------
+Started: 2024-04-09 08:27:29.432139
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [“Apex”威化饼干已在日本发售，包含带有金闪的收藏卡](https://www.gcores.com/articles/180049)
+Token length: 391
+Summarized using GPT-3.5-turbo
+Append: [国产ARPG《失落之魂》更多信息将在近期公布](https://www.gcores.com/articles/180046)
+Token length: 331
+Summarized using GPT-3.5-turbo
+Append: [暴雪、育碧高管加入迪士尼游戏](https://www.gcores.com/articles/180042)
+append_entries: 3
+Finish: 2024-04-09 08:29:06.941048
