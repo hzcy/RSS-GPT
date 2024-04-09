@@ -92993,3 +92993,9 @@ Summarized using GPT-3.5-turbo
 Append: [MOBA英雄射击游戏《巨兽战争：狂暴版》现已在各大平台推出](https://www.gcores.com/articles/180067)
 append_entries: 1
 Finish: 2024-04-09 16:39:41.754957
+------------------------------------------------------
+Started: 2024-04-09 16:48:34.126074
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-09 16:48:34.320008
