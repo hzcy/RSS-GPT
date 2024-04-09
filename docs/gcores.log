@@ -92684,3 +92684,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-09 04:27:38.013021
+------------------------------------------------------
+Started: 2024-04-09 04:35:29.544056
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [《辐射》剧集将提前一天进行播出](https://www.gcores.com/articles/180037)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [《英雄联盟》将推出“类幸存者”的PvE模式](https://www.gcores.com/articles/180029)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [SE公布《最终幻想16》最终DLC「沧海恸哭」新截图](https://www.gcores.com/articles/180023)
+append_entries: 3
+Finish: 2024-04-09 04:36:39.296847
