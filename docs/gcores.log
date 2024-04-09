@@ -92627,3 +92627,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-09 02:07:39.341173
+------------------------------------------------------
+Started: 2024-04-09 02:29:10.813808
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [3DS和Wii U的在线服务于今日正式结束](https://www.gcores.com/articles/180022)
+append_entries: 1
+Finish: 2024-04-09 02:29:35.176911
