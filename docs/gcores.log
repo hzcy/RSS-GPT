@@ -93038,3 +93038,9 @@ Summarized using GPT-3.5-turbo
 Append: [《小丑2: 双重妄想》（暂译）发布先导预告，正式预告将于明日发布](https://www.gcores.com/articles/180072)
 append_entries: 1
 Finish: 2024-04-09 18:24:17.879525
+------------------------------------------------------
+Started: 2024-04-09 18:34:35.627487
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-09 18:34:35.786480
