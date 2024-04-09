@@ -86468,3 +86468,12 @@ Existing_entries: 496
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-09 10:48:21.358240
+------------------------------------------------------
+Started: 2024-04-09 11:08:05.433505
+Existing_entries: 496
+Fetching from https://www.ifanr.com/feed
+Token length: 2285
+Summarized using GPT-3.5-turbo
+Append: [WPS AI 企业版发布！ 多个主流大模型自由切换调用，还有这些 AI 办公神器](https://www.ifanr.com/1580618?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-09 11:09:05.434121
