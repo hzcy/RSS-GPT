@@ -93194,3 +93194,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-10 02:31:04.936629
+------------------------------------------------------
+Started: 2024-04-10 02:48:20.487239
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [暴雪回归！国服将由网易继续代理](https://www.gcores.com/articles/180073)
+Token length: 1005
+Summarized using GPT-3.5-turbo
+Append: [我就是，“超凡守护者”！《命运2：终焉之形》开发者介绍与演示汇总](https://www.gcores.com/articles/180080)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [《恶魔轮盘》Steam版销量突破50万份，Steam社区物品及毛绒玩具在路上](https://www.gcores.com/articles/180085)
+append_entries: 3
+Finish: 2024-04-10 02:49:45.445480
