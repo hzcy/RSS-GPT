@@ -93423,3 +93423,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-10 10:38:41.989549
+------------------------------------------------------
+Started: 2024-04-10 10:48:31.981813
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 3638
+Summarized using GPT-3.5-turbo
+Append: [浪迹废土：B社发布《辐射》系列游戏选购指南](https://www.gcores.com/articles/180116)
+Token length: 492
+Summarized using GPT-3.5-turbo
+Append: [裂空坐陪你吃面：“《宝可梦》流水素面滑梯”6月发售](https://www.gcores.com/articles/180118)
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [《StellarBlade剑星》发布角色介紹「百合」&「艾德姆」](https://www.gcores.com/articles/180119)
+append_entries: 3
+Finish: 2024-04-10 10:49:57.135322
