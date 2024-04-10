@@ -93438,3 +93438,9 @@ Summarized using GPT-3.5-turbo
 Append: [《StellarBlade剑星》发布角色介紹「百合」&「艾德姆」](https://www.gcores.com/articles/180119)
 append_entries: 3
 Finish: 2024-04-10 10:49:57.135322
+------------------------------------------------------
+Started: 2024-04-10 11:10:30.718777
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-10 11:10:30.929891
