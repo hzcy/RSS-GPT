@@ -93363,3 +93363,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-10 08:13:42.353266
+------------------------------------------------------
+Started: 2024-04-10 08:30:38.576370
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 374
+Summarized using GPT-3.5-turbo
+Append: [《绝区零》现已开启PlayStation5技术测试招募](https://www.gcores.com/articles/180112)
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [日本一男子因“贩卖”宝可梦被捕](https://www.gcores.com/articles/180110)
+append_entries: 2
+Finish: 2024-04-10 08:31:40.475092
