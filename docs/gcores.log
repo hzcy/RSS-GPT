@@ -93209,3 +93209,9 @@ Summarized using GPT-3.5-turbo
 Append: [《恶魔轮盘》Steam版销量突破50万份，Steam社区物品及毛绒玩具在路上](https://www.gcores.com/articles/180085)
 append_entries: 3
 Finish: 2024-04-10 02:49:45.445480
+------------------------------------------------------
+Started: 2024-04-10 03:11:58.531900
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-10 03:11:58.848302
