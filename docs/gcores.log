@@ -93375,3 +93375,9 @@ Summarized using GPT-3.5-turbo
 Append: [日本一男子因“贩卖”宝可梦被捕](https://www.gcores.com/articles/180110)
 append_entries: 2
 Finish: 2024-04-10 08:31:40.475092
+------------------------------------------------------
+Started: 2024-04-10 08:48:04.917333
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-10 08:48:05.082277
