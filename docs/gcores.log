@@ -93519,3 +93519,9 @@ Summarized using GPT-3.5-turbo
 Append: [JOYTOY《荷鲁斯大叛乱》新品公布：普星之焚！狼团参战！](https://www.gcores.com/articles/180131)
 append_entries: 1
 Finish: 2024-04-10 14:34:29.227661
+------------------------------------------------------
+Started: 2024-04-10 14:48:18.400621
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-10 14:48:18.597492
