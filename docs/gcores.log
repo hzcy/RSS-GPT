@@ -93735,3 +93735,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-11 01:38:25.846512
+------------------------------------------------------
+Started: 2024-04-11 02:13:58.274596
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 368
+Summarized using GPT-3.5-turbo
+Append: [EA回应《死亡空间2重制版》被取消](https://www.gcores.com/articles/180145)
+append_entries: 1
+Finish: 2024-04-11 02:14:16.285970
