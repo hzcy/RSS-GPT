@@ -93846,3 +93846,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-11 06:12:39.869692
+------------------------------------------------------
+Started: 2024-04-11 06:28:56.813773
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [编程学习软件《腾讯扣叮-编程第一课》今日登陆国行版NS](https://www.gcores.com/articles/180161)
+Token length: 733
+Summarized using GPT-3.5-turbo
+Append: [《沙石镇时光》多人模式跨平台联机将于今夏正式开启！](https://www.gcores.com/articles/180160)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [《杀戮尖塔2》正式公布 2025年开启抢先体验](https://www.gcores.com/articles/180156)
+Token length: 1167
+Summarized using GPT-3.5-turbo
+Append: [模拟在全球任意城市游玩：《无感染区》4月12日上线](https://www.gcores.com/articles/180158)
+Token length: 1226
+Summarized using GPT-3.5-turbo
+Append: [烂番茄93%，MC 72分：《辐射》影视剧第一季评分汇总](https://www.gcores.com/articles/180154)
+append_entries: 5
+Finish: 2024-04-11 06:30:52.317803
