@@ -93810,3 +93810,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-11 05:09:56.894502
+------------------------------------------------------
+Started: 2024-04-11 05:26:29.622185
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [国产武侠游戏《燕云十六声》公测定档7月26日](https://www.gcores.com/articles/180155)
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [《暗黑地牢2》新模式“王国”发布预告](https://www.gcores.com/articles/180153)
+Token length: 7954
+Summarized using GPT-3.5-turbo
+Append: [《吸血鬼幸存者》X《魂斗罗》联动在路上、《幻兽帕鲁》PVP年内实装：「iii计划」线上游戏展示会汇总](https://www.gcores.com/articles/180147)
+Token length: 1125
+Summarized using GPT-3.5-turbo-16k
+Append: [育碧携手Evil Empire公布新游《波斯王子：The Rogue》](https://www.gcores.com/articles/180150)
+append_entries: 4
+Finish: 2024-04-11 05:28:16.536639
