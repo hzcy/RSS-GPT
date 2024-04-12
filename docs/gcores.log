@@ -94504,3 +94504,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-12 08:27:23.814161
+------------------------------------------------------
+Started: 2024-04-12 08:37:17.479407
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [辻村深月小说《傲慢与善良》确定电影化，日本9月上映](https://www.gcores.com/articles/180219)
+Token length: 664
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】模拟在全球任意城市游玩！《无感染区》4月12日上线](https://www.gcores.com/articles/180235)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [帅疯！「吉考斯工业 x 钢岚」联名机甲涂装上线](https://www.gcores.com/articles/180234)
+append_entries: 3
+Finish: 2024-04-12 08:38:54.577487
