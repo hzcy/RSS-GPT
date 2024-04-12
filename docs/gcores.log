@@ -94377,3 +94377,28 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-12 04:11:16.594096
+------------------------------------------------------
+Started: 2024-04-12 04:28:54.986017
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1036
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】《瑞奇与叮当：时空跳转》国行版现已在中国大陆地区发售](https://www.gcores.com/articles/180229)
+Token length: 342
+Summarized using GPT-3.5-turbo-16k
+Append: [KONAMI全面进军教育领域](https://www.gcores.com/articles/180189)
+Token length: 697
+Summarized using GPT-3.5-turbo
+Append: [《哆啦A梦：大雄的地球交响乐》内地定档5月31日](https://www.gcores.com/articles/180217)
+Token length: 797
+Summarized using GPT-3.5-turbo
+Append: [《女神异闻录：夜幕魅影》今日全平台公测 P5联动同步开启！](https://www.gcores.com/articles/180226)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: RateLimitError: Response 404: Do less requests and reuse conversations
+Liaobots: ResponseStatusError: Response 500: Error
+Append: [《吃豆人 无尽地道争豆 暴食没有极限》即将于今年5月登场！](https://www.gcores.com/articles/180223)
+Append: [《百万吨级武藏W：WIRED》4月11日Switch版开启预约](https://www.gcores.com/articles/180222)
+Append: [【抽奖】毛茸茸拯救世界！回合制肉鸽《异界失控》现已在机核商店发售](https://www.gcores.com/articles/180178)
+append_entries: 7
+Finish: 2024-04-12 04:31:01.377848
