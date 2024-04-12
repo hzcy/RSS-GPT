@@ -94561,3 +94561,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-12 10:28:16.658807
+------------------------------------------------------
+Started: 2024-04-12 10:36:36.089062
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 382
+Summarized using GPT-3.5-turbo
+Append: [可站立的豆豆眼毛绒：《人中之龙8》新公仔开启预约](https://www.gcores.com/articles/180250)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [以《迷宫饭》曼德拉草为灵感的手工可乐将于5月中旬发售](https://www.gcores.com/articles/180251)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [EA将关闭《APEX 英雄》英国QA团队](https://www.gcores.com/articles/180245)
+append_entries: 3
+Finish: 2024-04-12 10:37:46.527644
