@@ -94317,3 +94317,27 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-12 02:15:12.882391
+------------------------------------------------------
+Started: 2024-04-12 02:33:55.908190
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [CDPR联合首席执行官谈AI使用问题](https://www.gcores.com/articles/180216)
+Token length: 997
+Summarized using GPT-3.5-turbo
+Append: [《遗迹2》第二个DLC“失落的王国”将于4月24日发布](https://www.gcores.com/articles/180215)
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [《非自然死亡》演员再集结：电影《LAST MILE》公布最新参演阵容](https://www.gcores.com/articles/180214)
+Token length: 495
+Summarized using GPT-3.5-turbo
+Append: [《博德之门3》大获全胜：2024年BAFTA游戏大奖得主公布](https://www.gcores.com/articles/180213)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [暴雪国服预约回归人数超过200万](https://www.gcores.com/articles/180211)
+Append: [Epic再度送福利：139元《幽灵行者》免费领](https://www.gcores.com/articles/180210)
+Append: [【传言】《天国：拯救》开发商将发新作！或为系列第二部](https://www.gcores.com/articles/180208)
+Append: [《辐射4》次世代更新将于4月25日推出，同步修复中文版本模组问题](https://www.gcores.com/articles/180209)
+append_entries: 8
+Finish: 2024-04-12 02:36:00.088996
