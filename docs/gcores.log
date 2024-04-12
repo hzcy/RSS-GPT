@@ -94462,3 +94462,9 @@ Summarized using GPT-3.5-turbo-16k
 Append: [《王国保卫战5:联盟》公布最新预告，将于7月25日发售](https://www.gcores.com/articles/180227)
 append_entries: 2
 Finish: 2024-04-12 06:37:52.262267
+------------------------------------------------------
+Started: 2024-04-12 06:48:30.373694
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-12 06:48:30.574553
