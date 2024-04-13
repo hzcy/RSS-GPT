@@ -95077,3 +95077,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-13 08:48:11.282342
+------------------------------------------------------
+Started: 2024-04-13 09:08:21.097173
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [手游《Fate/Grand Order》将与《魔法使之夜》展开联动，4月下旬上线](https://www.gcores.com/articles/180267)
+append_entries: 1
+Finish: 2024-04-13 09:08:43.698681
