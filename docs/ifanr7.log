@@ -88361,3 +88361,12 @@ Existing_entries: 509
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-13 00:35:39.541294
+------------------------------------------------------
+Started: 2024-04-13 01:22:42.740541
+Existing_entries: 509
+Fetching from https://www.ifanr.com/feed
+Token length: 5300
+Summarized using GPT-3.5-turbo
+Append: [早报|iPhone SE 4 规格爆料：搭载 A16 Bionic/一加和 OPPO 将引入 Gemini 模型/问界 M5 实车曝光](https://www.ifanr.com/1581124?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-13 01:24:11.384233
