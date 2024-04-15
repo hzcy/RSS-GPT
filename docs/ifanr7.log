@@ -89078,3 +89078,12 @@ Existing_entries: 514
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-15 07:48:01.641029
+------------------------------------------------------
+Started: 2024-04-15 08:10:32.875111
+Existing_entries: 514
+Fetching from https://www.ifanr.com/feed
+Token length: 1422
+Summarized using GPT-3.5-turbo
+Append: [一季度全球手机出货量来了：三星挤掉苹果王座，有个国产品牌势头强劲](https://www.ifanr.com/1581232?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-15 08:11:27.208305

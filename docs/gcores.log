@@ -95645,3 +95645,9 @@ Summarized using GPT-3.5-turbo
 Append: [世嘉公布夏特系列活动预告，《索尼克×夏特 世代重启》将于秋季发售](https://www.gcores.com/articles/180319)
 append_entries: 2
 Finish: 2024-04-15 07:50:16.959217
+------------------------------------------------------
+Started: 2024-04-15 08:11:30.183757
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-15 08:11:30.348129
