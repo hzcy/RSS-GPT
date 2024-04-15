@@ -95681,3 +95681,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-15 09:21:48.175027
+------------------------------------------------------
+Started: 2024-04-15 09:34:26.515190
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 731
+Summarized using GPT-3.5-turbo
+Append: [本周节目预告 4.15~4.21](https://www.gcores.com/articles/180326)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [《浪人崛起》创作者承认“痴迷”于制作游戏中的猫猫](https://www.gcores.com/articles/180323)
+append_entries: 2
+Finish: 2024-04-15 09:39:14.136594
