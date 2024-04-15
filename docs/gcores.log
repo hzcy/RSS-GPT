@@ -95633,3 +95633,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-15 07:33:18.608849
+------------------------------------------------------
+Started: 2024-04-15 07:48:04.614226
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 672
+Summarized using GPT-3.5-turbo
+Append: [生物朋克风复古再现：《零号奴隶X》现已在各大平台发售](https://www.gcores.com/articles/180321)
+Token length: 364
+Summarized using GPT-3.5-turbo
+Append: [世嘉公布夏特系列活动预告，《索尼克×夏特 世代重启》将于秋季发售](https://www.gcores.com/articles/180319)
+append_entries: 2
+Finish: 2024-04-15 07:50:16.959217
