@@ -96293,3 +96293,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-16 10:48:08.388317
+------------------------------------------------------
+Started: 2024-04-16 11:08:09.307975
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想16》公布1.31版本详情，更新与“沧海恸哭”DLC同天上线](https://www.gcores.com/articles/180399)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [回答抖S公主的问题：短篇冒险游戏《公主×会客厅》4月26日上线Steam](https://www.gcores.com/articles/180398)
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: [藤子·F·不二雄原作，动画《时光巡逻队》正式预告公开](https://www.gcores.com/articles/180395)
+Token length: 770
+Summarized using GPT-3.5-turbo
+Append: [开放世界生存冒险游戏《求生岛：不老泉传说》将于5月21日正式发售](https://www.gcores.com/articles/180394)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [电影《哥斯拉-1.0》5月3日上线Amazon Prime](https://www.gcores.com/articles/180392)
+append_entries: 5
+Finish: 2024-04-16 11:10:45.236486
