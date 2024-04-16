@@ -96473,3 +96473,9 @@ Summarized using GPT-3.5-turbo
 Append: [你会如何装饰家里的空闲空间？](https://www.gcores.com/articles/180412)
 append_entries: 3
 Finish: 2024-04-16 17:27:31.280243
+------------------------------------------------------
+Started: 2024-04-16 17:34:58.982032
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-16 17:34:59.232803
