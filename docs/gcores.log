@@ -96188,3 +96188,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-16 07:10:58.237015
+------------------------------------------------------
+Started: 2024-04-16 07:23:17.615456
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 901
+Summarized using GPT-3.5-turbo
+Append: [《海贼王 时光旅诗》即将登陆Switch](https://www.gcores.com/articles/180366)
+Token length: 1708
+Summarized using GPT-3.5-turbo
+Append: [OTA型无线8K：雷柏无线游戏鼠标固件升级增值提速](https://www.gcores.com/articles/180378)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [鸟山明漫画改编《沙漠大冒险》发布新预告“Sandstorm”](https://www.gcores.com/articles/180368)
+Token length: 1110
+Summarized using GPT-3.5-turbo
+Append: [《尼尔：自动人形》是神圣不可侵犯的领域：横尾太郎&金亨泰对谈](https://www.gcores.com/articles/180370)
+append_entries: 4
+Finish: 2024-04-16 07:27:13.276818
