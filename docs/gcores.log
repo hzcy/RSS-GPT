@@ -96398,3 +96398,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-16 14:48:23.066471
+------------------------------------------------------
+Started: 2024-04-16 15:09:49.479782
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 405
+Summarized using GPT-3.5-turbo
+Append: [《百英雄传》、《蟹蟹寻宝奇遇》、《庄园领主》等多款游戏即将加入4月XGP](https://www.gcores.com/articles/180411)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [最新一期任天堂“Indie World”独立游戏发布会将于本月17日晚22时举办](https://www.gcores.com/articles/180407)
+append_entries: 2
+Finish: 2024-04-16 15:11:37.011456
