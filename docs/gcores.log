@@ -96242,3 +96242,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-16 08:48:05.407558
+------------------------------------------------------
+Started: 2024-04-16 09:10:27.895731
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 388
+Summarized using GPT-3.5-turbo
+Append: [经过第一季的冒险，《辐射》女主露西在游戏里会升到多少级？](https://www.gcores.com/articles/180386)
+append_entries: 1
+Finish: 2024-04-16 09:10:53.296750
