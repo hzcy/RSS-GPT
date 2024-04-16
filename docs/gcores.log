@@ -96458,3 +96458,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-16 17:09:38.874174
+------------------------------------------------------
+Started: 2024-04-16 17:25:45.744770
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1417
+Summarized using GPT-3.5-turbo
+Append: [「虚拟主播」主题横板像素动作游戏《虚拟无限计划》 将于4月25日发售](https://www.gcores.com/articles/180414)
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [《法外枭雄：滚石城》迎来重大更新 新任务新装备等你体验](https://www.gcores.com/articles/180416)
+Token length: 364
+Summarized using GPT-3.5-turbo
+Append: [你会如何装饰家里的空闲空间？](https://www.gcores.com/articles/180412)
+append_entries: 3
+Finish: 2024-04-16 17:27:31.280243
