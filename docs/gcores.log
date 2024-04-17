@@ -96753,3 +96753,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-17 05:48:10.239436
+------------------------------------------------------
+Started: 2024-04-17 06:14:57.913003
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [《我的世界》推出《功夫熊猫》主题联动DLC](https://www.gcores.com/articles/180446)
+Token length: 553
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】关于友情和生命的故事：叙事游戏《哈罗德·哈利巴》今日发售](https://www.gcores.com/articles/180444)
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [专业人士教你如何玩《辐射76》](https://www.gcores.com/articles/180440)
+append_entries: 3
+Finish: 2024-04-17 06:15:56.501905
