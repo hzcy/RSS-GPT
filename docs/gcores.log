@@ -96909,3 +96909,9 @@ Summarized using GPT-3.5-turbo
 Append: [香港任天堂发布迷一样CM「蹦、咔擦、哗啦、哎呀！的歌」](https://www.gcores.com/articles/180445)
 append_entries: 2
 Finish: 2024-04-17 11:50:53.452143
+------------------------------------------------------
+Started: 2024-04-17 12:18:34.467033
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-17 12:18:34.706630
