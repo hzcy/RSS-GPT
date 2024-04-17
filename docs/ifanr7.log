@@ -90014,3 +90014,12 @@ Existing_entries: 522
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-17 00:42:43.346583
+------------------------------------------------------
+Started: 2024-04-17 01:37:36.215525
+Existing_entries: 522
+Fetching from https://www.ifanr.com/feed
+Token length: 5100
+Summarized using GPT-3.5-turbo
+Append: [早报|余承东：Pura 70 过两天有好消息/文心一言用户数量破 2 亿/iPhone 16 Pro 或以 256 GB 存储起步](https://www.ifanr.com/1581514?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-17 01:38:57.096339
