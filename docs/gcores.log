@@ -97002,3 +97002,9 @@ Summarized using GPT-3.5-turbo
 Append: [《8号出口》今日登录NS：4月Indie World消息汇总](https://www.gcores.com/articles/180474)
 append_entries: 1
 Finish: 2024-04-17 16:13:53.667173
+------------------------------------------------------
+Started: 2024-04-17 16:31:04.670166
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-17 16:31:04.892195
