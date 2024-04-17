@@ -96855,3 +96855,9 @@ Summarized using GPT-3.5-turbo
 Append: [《尘白禁区》宣布将禁止未满18岁未成年人注册](https://www.gcores.com/articles/180454)
 append_entries: 1
 Finish: 2024-04-17 09:48:31.456675
+------------------------------------------------------
+Started: 2024-04-17 10:10:48.953178
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-17 10:10:49.121907
