@@ -96768,3 +96768,9 @@ Summarized using GPT-3.5-turbo
 Append: [专业人士教你如何玩《辐射76》](https://www.gcores.com/articles/180440)
 append_entries: 3
 Finish: 2024-04-17 06:15:56.501905
+------------------------------------------------------
+Started: 2024-04-17 06:31:11.978723
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-17 06:31:12.178391
