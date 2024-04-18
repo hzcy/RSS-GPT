@@ -90623,3 +90623,12 @@ Existing_entries: 529
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-18 05:10:39.279387
+------------------------------------------------------
+Started: 2024-04-18 05:26:36.049406
+Existing_entries: 529
+Fetching from https://www.ifanr.com/feed
+Token length: 6266
+Summarized using GPT-3.5-turbo
+Append: [钉钉做了个「硅基人才市场」，和 OpenAI 走不同的路](https://www.ifanr.com/1581568?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-18 05:27:09.504315
