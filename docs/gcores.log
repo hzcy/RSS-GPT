@@ -97436,3 +97436,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-18 10:12:13.779338
+------------------------------------------------------
+Started: 2024-04-18 10:29:43.979367
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1199
+Summarized using GPT-3.5-turbo
+Append: [《波与月夜之青莲》将于7月18日发售，实体版现已接受预定](https://www.gcores.com/articles/180524)
+append_entries: 1
+Finish: 2024-04-18 10:30:07.755524
