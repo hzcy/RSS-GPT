@@ -90656,3 +90656,12 @@ Existing_entries: 530
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-18 06:29:02.004984
+------------------------------------------------------
+Started: 2024-04-18 06:38:13.286856
+Existing_entries: 530
+Fetching from https://www.ifanr.com/feed
+Token length: 3420
+Summarized using GPT-3.5-turbo
+Append: [马斯克，会如何让盲人重见「光明」？](https://www.ifanr.com/1581436?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-18 06:38:53.587746
