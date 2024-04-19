@@ -98074,3 +98074,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-19 11:33:36.386020
+------------------------------------------------------
+Started: 2024-04-19 11:48:20.939673
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 502
+Summarized using GPT-3.5-turbo
+Append: [《合金弹头：战略版》公布最新预告，Gamera Games参与发行](https://www.gcores.com/articles/180579)
+append_entries: 1
+Finish: 2024-04-19 11:49:04.314381
