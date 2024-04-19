@@ -97895,3 +97895,29 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-19 05:48:11.195140
+------------------------------------------------------
+Started: 2024-04-19 06:13:28.020689
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 224
+Summarized using GPT-3.5-turbo-16k
+Append: [《幻兽帕鲁》工作室CEO震惊于国产“克隆作品”](https://www.gcores.com/articles/180569)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [游戏总监透露《天国：拯救2》的规模比前作大得多](https://www.gcores.com/articles/180563)
+Token length: 3230
+Summarized using GPT-3.5-turbo
+Append: [《恶意不息》现已开启抢先体验](https://www.gcores.com/articles/180565)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
+Liaobots: ResponseStatusError: Response 500: Error
+Append: [独立游戏展会INDIE Live Expo将于5月25日举办](https://www.gcores.com/articles/180561)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
+Liaobots: ResponseStatusError: Response 500: Error
+Append: [动画电影《变形金刚：起源》发布首款预告](https://www.gcores.com/articles/180557)
+Append: [《葬送的芙莉莲》主题密室逃脱将在6月开幕](https://www.gcores.com/articles/180554)
+append_entries: 6
+Finish: 2024-04-19 06:22:31.978859
