@@ -97835,3 +97835,27 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-19 04:12:30.390646
+------------------------------------------------------
+Started: 2024-04-19 04:26:21.648038
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 304
+Summarized using GPT-3.5-turbo
+Append: [拉瑞安工作室确认正在开发两款基于自有IP的新游戏](https://www.gcores.com/articles/180559)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ResponseStatusError: Response 500: Error
+Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
+Append: [前《英雄联盟》执行副总裁新作《Project Loki》将由网易代理国服](https://www.gcores.com/articles/180558)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [《Dota2》“倾天之战”更新上线](https://www.gcores.com/articles/180556)
+Token length: 524
+Summarized using GPT-3.5-turbo
+Append: [Todd回应《辐射》影视剧“吃书”争议，第二季确认续订](https://www.gcores.com/articles/180552)
+Token length: 565
+Summarized using GPT-3.5-turbo
+Append: [《F1 24》公布发售日预告，冠军版封面车手为马克斯·维斯塔潘](https://www.gcores.com/articles/180549)
+Append: [《都市 天际线2》开发者就“海滩资产”DLC致歉，为玩家发放补偿](https://www.gcores.com/articles/180550)
+append_entries: 6
+Finish: 2024-04-19 04:32:15.071355
