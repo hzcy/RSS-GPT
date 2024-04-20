@@ -98557,3 +98557,9 @@ Summarized using GPT-3.5-turbo-16k
 Append: [《寓言之地》 1.0版先睹为快，5.13正式发布](https://www.gcores.com/articles/180608)
 append_entries: 1
 Finish: 2024-04-20 09:10:29.201464
+------------------------------------------------------
+Started: 2024-04-20 09:20:24.311456
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-20 09:20:24.554701
