@@ -98443,3 +98443,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-20 04:36:13.568841
+------------------------------------------------------
+Started: 2024-04-20 04:48:21.680356
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1590
+Summarized using GPT-3.5-turbo
+Append: [【抽奖】可爱治愈风模拟经营《小小贴纸铺》现已登陆Nintendo Switch](https://www.gcores.com/articles/180589)
+append_entries: 1
+Finish: 2024-04-20 04:48:35.548129
