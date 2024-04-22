@@ -99469,3 +99469,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-22 03:10:51.960728
+------------------------------------------------------
+Started: 2024-04-22 03:24:58.510887
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 570
+Summarized using GPT-3.5-turbo
+Append: [《星空》和《博德之门3》开发者承认游戏拥有共同的灵感来源](https://www.gcores.com/articles/180668)
+Token length: 398
+Summarized using GPT-3.5-turbo
+Append: [《百英雄传》公布解锁时间，预载现已开启](https://www.gcores.com/articles/180673)
+Token length: 942
+Summarized using GPT-3.5-turbo
+Append: [大数据短片提示：索尼宣布“社群游戏辅助”功能将于下半年推出](https://www.gcores.com/articles/180670)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [手游《魔法少女小圆 Magia Exedra》正式公布，年内上线](https://www.gcores.com/articles/180667)
+Token length: 341
+Summarized using GPT-3.5-turbo
+Append: [时隔11年：生存建造游戏《七日杀》将于6月推出1.0版](https://www.gcores.com/articles/180665)
+append_entries: 5
+Finish: 2024-04-22 03:27:16.548491
