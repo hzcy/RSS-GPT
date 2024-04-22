@@ -99490,3 +99490,9 @@ Summarized using GPT-3.5-turbo
 Append: [时隔11年：生存建造游戏《七日杀》将于6月推出1.0版](https://www.gcores.com/articles/180665)
 append_entries: 5
 Finish: 2024-04-22 03:27:16.548491
+------------------------------------------------------
+Started: 2024-04-22 03:35:04.141507
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-22 03:35:04.349724
