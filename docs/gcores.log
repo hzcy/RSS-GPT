@@ -99556,3 +99556,9 @@ Summarized using GPT-3.5-turbo
 Append: [漫威电影《死侍与死党》最新预告将于明日公开](https://www.gcores.com/articles/180675)
 append_entries: 4
 Finish: 2024-04-22 05:36:56.382222
+------------------------------------------------------
+Started: 2024-04-22 05:48:21.264927
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-22 05:48:21.480612
