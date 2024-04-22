@@ -92918,3 +92918,15 @@ Existing_entries: 548
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-22 10:11:58.454655
+------------------------------------------------------
+Started: 2024-04-22 10:30:02.863311
+Existing_entries: 548
+Fetching from https://www.ifanr.com/feed
+Token length: 1320
+Summarized using GPT-3.5-turbo
+Append: [特斯拉召回近 4000 辆 CyberTruck，加速踏板有卡住风险](https://www.ifanr.com/1582440?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 1685
+Summarized using GPT-3.5-turbo
+Append: [苹果听劝了？备受吐槽的配件被爆停产](https://www.ifanr.com/1582423?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2024-04-22 10:31:09.086568
