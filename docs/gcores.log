@@ -99811,3 +99811,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-22 15:23:29.987605
+------------------------------------------------------
+Started: 2024-04-22 15:33:57.838423
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [Atlus著名插画师金子一马确认离职，已于去年加入Colopl](https://www.gcores.com/articles/180723)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [《死侍3：死侍与死党》新预告如约而至，MCU首部R级影片，7月26日北美上映](https://www.gcores.com/articles/180721)
+append_entries: 2
+Finish: 2024-04-22 15:35:02.410944
