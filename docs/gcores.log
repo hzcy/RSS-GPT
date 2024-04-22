@@ -99823,3 +99823,9 @@ Summarized using GPT-3.5-turbo
 Append: [《死侍3：死侍与死党》新预告如约而至，MCU首部R级影片，7月26日北美上映](https://www.gcores.com/articles/180721)
 append_entries: 2
 Finish: 2024-04-22 15:35:02.410944
+------------------------------------------------------
+Started: 2024-04-22 15:48:18.423570
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-22 15:48:21.100739
