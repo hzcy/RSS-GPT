@@ -92978,3 +92978,12 @@ Existing_entries: 550
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-22 12:47:24.782384
+------------------------------------------------------
+Started: 2024-04-22 13:10:32.653748
+Existing_entries: 550
+Fetching from https://www.ifanr.com/feed
+Token length: 4865
+Summarized using GPT-3.5-turbo
+Append: [华为 Pura70 Ultra，为什么能卖 10000 元？](https://www.ifanr.com/1582461?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-22 13:11:10.486175
