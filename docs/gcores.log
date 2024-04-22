@@ -99589,3 +99589,9 @@ Summarized using GPT-3.5-turbo
 Append: [TGA创始人曝光《与狼同行2》新截图](https://www.gcores.com/articles/180681)
 append_entries: 3
 Finish: 2024-04-22 06:39:23.156567
+------------------------------------------------------
+Started: 2024-04-22 06:48:29.345051
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-22 06:48:29.541398
