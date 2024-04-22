@@ -99757,3 +99757,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-22 13:24:25.540651
+------------------------------------------------------
+Started: 2024-04-22 13:34:06.625360
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 807
+Summarized using GPT-3.5-turbo
+Append: [动作肉鸽游戏《失落城堡2》开展第二次限时免费测试](https://www.gcores.com/articles/180716)
+Token length: 615
+Summarized using GPT-3.5-turbo
+Append: [赛博朋克横版游戏《月亮武士》新演示放出](https://www.gcores.com/articles/180711)
+append_entries: 2
+Finish: 2024-04-22 13:35:42.602069
