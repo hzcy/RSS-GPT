@@ -99574,3 +99574,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-22 06:29:23.342376
+------------------------------------------------------
+Started: 2024-04-22 06:38:21.218788
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [【传闻】知名爆料人指出《看门狗》系列已死](https://www.gcores.com/articles/180689)
+Token length: 529
+Summarized using GPT-3.5-turbo
+Append: [Embracer宣布拆分为三家公司，充分发挥协同效应](https://www.gcores.com/articles/180691)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [TGA创始人曝光《与狼同行2》新截图](https://www.gcores.com/articles/180681)
+append_entries: 3
+Finish: 2024-04-22 06:39:23.156567
