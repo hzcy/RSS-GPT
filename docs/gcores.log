@@ -99655,3 +99655,9 @@ Summarized using GPT-3.5-turbo
 Append: [日本朝日电视台公布「世界动画歌曲总选举」结果](https://www.gcores.com/articles/180696)
 append_entries: 4
 Finish: 2024-04-22 08:51:02.011098
+------------------------------------------------------
+Started: 2024-04-22 09:10:52.881615
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-22 09:10:53.061578
