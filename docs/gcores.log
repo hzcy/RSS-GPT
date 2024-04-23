@@ -100381,3 +100381,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-23 15:33:28.058612
+------------------------------------------------------
+Started: 2024-04-23 15:48:03.334178
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [苹果将于5月7日晚10时举行线上特别直播活动](https://www.gcores.com/articles/180778)
+append_entries: 1
+Finish: 2024-04-23 15:48:21.186711
