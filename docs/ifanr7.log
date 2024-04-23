@@ -93521,3 +93521,12 @@ Existing_entries: 557
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-23 13:10:36.025628
+------------------------------------------------------
+Started: 2024-04-23 13:23:38.876989
+Existing_entries: 557
+Fetching from https://www.ifanr.com/feed
+Token length: 6852
+Summarized using GPT-3.5-turbo
+Append: [2024 北京车展，看这 26 款新车就够了](https://www.ifanr.com/1582722?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-23 13:25:08.424935
