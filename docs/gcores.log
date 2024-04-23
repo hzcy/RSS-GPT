@@ -100204,3 +100204,9 @@ Summarized using GPT-3.5-turbo
 Append: [铁路城市建造《铁路先驱》现已推出1.0正式版本](https://www.gcores.com/articles/180753)
 append_entries: 2
 Finish: 2024-04-23 08:14:06.475112
+------------------------------------------------------
+Started: 2024-04-23 08:27:35.794876
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-23 08:27:36.113733
