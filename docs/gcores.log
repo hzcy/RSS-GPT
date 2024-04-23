@@ -100297,3 +100297,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-23 11:48:17.232023
+------------------------------------------------------
+Started: 2024-04-23 12:18:27.639753
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 694
+Summarized using GPT-3.5-turbo
+Append: [Serious Bros.宣布《幻想地球》将于5月9日登陆macOS平台](https://www.gcores.com/articles/180772)
+append_entries: 1
+Finish: 2024-04-23 12:18:59.388309
