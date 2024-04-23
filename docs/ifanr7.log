@@ -93530,3 +93530,9 @@ Summarized using GPT-3.5-turbo
 Append: [2024 北京车展，看这 26 款新车就够了](https://www.ifanr.com/1582722?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-04-23 13:25:08.424935
+------------------------------------------------------
+Started: 2024-04-23 13:33:31.439403
+Existing_entries: 558
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-04-23 13:33:33.213654
