@@ -100051,3 +100051,27 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-23 02:48:12.608996
+------------------------------------------------------
+Started: 2024-04-23 03:10:40.402381
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [我十分想见凯德！《命运2：终焉之形》发布“进入旅行者”预告](https://www.gcores.com/articles/180735)
+Token length: 486
+Summarized using GPT-3.5-turbo
+Append: [免费游玩《小骨：英雄杀手》：NS会员限定活动“试玩同乐会”即将再度开启](https://www.gcores.com/articles/180734)
+Token length: 966
+Summarized using GPT-3.5-turbo
+Append: [迎接卡比生日，任天堂香港将举办一系列活动](https://www.gcores.com/articles/180733)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [《星露谷物语》制作人发文就中文翻译问题致歉](https://www.gcores.com/articles/180731)
+Token length: 579
+Summarized using GPT-3.5-turbo
+Append: [戴尔发布AI PC硬件配置要求，深度学习算法助力用户体验](https://www.gcores.com/articles/180730)
+Append: [Xbox新一期独立游戏展示会将于下周举行](https://www.gcores.com/articles/180727)
+Append: [《指环王：夏尔传说》上线Steam商城页，将于年内推出](https://www.gcores.com/articles/180728)
+Append: [《暗喻幻想：ReFantazio》公布最新预告，将于10月11日发售](https://www.gcores.com/articles/180726)
+append_entries: 8
+Finish: 2024-04-23 03:12:28.078423
