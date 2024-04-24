@@ -100700,3 +100700,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-24 05:48:23.728537
+------------------------------------------------------
+Started: 2024-04-24 06:14:52.686639
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 384
+Summarized using GPT-3.5-turbo
+Append: [《恶意不息》CEO公开征求中文本地化建议](https://www.gcores.com/articles/180793)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [周星驰《食神》宣布动画化，《海虎》作者温日良执导](https://www.gcores.com/articles/180794)
+Token length: 428
+Summarized using GPT-3.5-turbo
+Append: [日剧《岸边露伴一动不动 密渔海岸》预告公开，5月播出](https://www.gcores.com/articles/180789)
+Token length: 947
+Summarized using GPT-3.5-turbo
+Append: [《遗迹2》最新DLC《失落的王国》现已登陆PC,PS5和XBOX](https://www.gcores.com/articles/180788)
+append_entries: 4
+Finish: 2024-04-24 06:16:57.780257
