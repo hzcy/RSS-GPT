@@ -100898,3 +100898,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-24 14:10:00.495884
+------------------------------------------------------
+Started: 2024-04-24 14:28:38.010212
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 409
+Summarized using GPT-3.5-turbo
+Append: [第一人称心理恐怖游戏《黑暗世界: 因与果》公布最新预告](https://www.gcores.com/articles/180823)
+Token length: 395
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天~】有哪些游戏的UI曾让你感到难忘？](https://www.gcores.com/articles/180821)
+Token length: 2249
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY战锤40K新品公布：泰伦虫族参战](https://www.gcores.com/articles/180813)
+append_entries: 3
+Finish: 2024-04-24 14:30:25.426966
