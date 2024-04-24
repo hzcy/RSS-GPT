@@ -100913,3 +100913,9 @@ Summarized using GPT-3.5-turbo
 Append: [JOYTOY战锤40K新品公布：泰伦虫族参战](https://www.gcores.com/articles/180813)
 append_entries: 3
 Finish: 2024-04-24 14:30:25.426966
+------------------------------------------------------
+Started: 2024-04-24 14:38:40.584076
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-24 14:38:40.791738
