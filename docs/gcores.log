@@ -100718,3 +100718,9 @@ Summarized using GPT-3.5-turbo
 Append: [《遗迹2》最新DLC《失落的王国》现已登陆PC,PS5和XBOX](https://www.gcores.com/articles/180788)
 append_entries: 4
 Finish: 2024-04-24 06:16:57.780257
+------------------------------------------------------
+Started: 2024-04-24 06:33:36.189631
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-24 06:33:36.576610
