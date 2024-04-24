@@ -100636,3 +100636,25 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-24 03:48:28.272505
+------------------------------------------------------
+Started: 2024-04-24 04:11:42.529006
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [《辐射》全系列游戏一天内涌入近五百万玩家](https://www.gcores.com/articles/180791)
+Token length: 688
+Summarized using GPT-3.5-turbo
+Append: [《玩具熊午夜惊魂：征求协助2》等三款独立游戏确认登录PlayStation](https://www.gcores.com/articles/180787)
+Token length: 484
+Summarized using GPT-3.5-turbo
+Append: [科幻风模拟经营游戏《lower？higher！》Steam商店页上线，第4季度发售](https://www.gcores.com/articles/180786)
+Token length: 222
+Summarized using GPT-3.5-turbo-16k
+Append: [《绝地潜兵2》热度不减，《辐射4》位列第三：Steam周销量排行榜|2024年4月第3周](https://www.gcores.com/articles/180785)
+Token length: 331
+Summarized using GPT-3.5-turbo-16k
+Append: [Steam更新规则，提前体验游戏计入两小时退款限制](https://www.gcores.com/articles/180784)
+Append: [【抽奖】重现JRPG黄金年代辉煌：《百英雄传》现已全平台发售](https://www.gcores.com/articles/180782)
+append_entries: 6
+Finish: 2024-04-24 04:18:36.541780
