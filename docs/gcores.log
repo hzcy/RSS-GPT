@@ -100862,3 +100862,9 @@ Summarized using GPT-3.5-turbo
 Append: [含25种鸡尾酒配方：Fangamer宣布推出《赛博朋克酒保行动》食谱](https://www.gcores.com/articles/180817)
 append_entries: 1
 Finish: 2024-04-24 11:48:38.094972
+------------------------------------------------------
+Started: 2024-04-24 12:20:12.517824
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-24 12:20:12.685184
