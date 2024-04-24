@@ -100754,3 +100754,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-24 07:48:35.136210
+------------------------------------------------------
+Started: 2024-04-24 08:13:21.628063
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 429
+Summarized using GPT-3.5-turbo
+Append: [伊藤润二全面监修，“富江”雕像开启预订](https://www.gcores.com/articles/180800)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [Epic解释为何《堡垒之夜》与《密特罗德》无法联动](https://www.gcores.com/articles/180802)
+Token length: 376
+Summarized using GPT-3.5-turbo
+Append: [下注AI及云：可口可乐与微软签订11亿美元合约](https://www.gcores.com/articles/180803)
+append_entries: 3
+Finish: 2024-04-24 08:14:42.454841
