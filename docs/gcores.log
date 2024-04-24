@@ -100658,3 +100658,9 @@ Append: [Steam更新规则，提前体验游戏计入两小时退款限制](http
 Append: [【抽奖】重现JRPG黄金年代辉煌：《百英雄传》现已全平台发售](https://www.gcores.com/articles/180782)
 append_entries: 6
 Finish: 2024-04-24 04:18:36.541780
+------------------------------------------------------
+Started: 2024-04-24 04:26:26.403741
+Existing_entries: 1006
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-24 04:26:26.570135
