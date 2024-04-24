@@ -93989,3 +93989,12 @@ Existing_entries: 561
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-24 10:11:35.938008
+------------------------------------------------------
+Started: 2024-04-24 10:29:37.584778
+Existing_entries: 561
+Fetching from https://www.ifanr.com/feed
+Token length: 2099
+Summarized using GPT-3.5-turbo
+Append: [岚图汽车技术发布会，新平台 10 分钟补能 450km，并官宣携手华为](https://www.ifanr.com/1582848?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-24 10:30:04.659005
