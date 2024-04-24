@@ -100940,3 +100940,9 @@ Summarized using GPT-3.5-turbo
 Append: [优点鲜明，缺点明显：《剑星》媒体评分汇总](https://www.gcores.com/articles/180830)
 append_entries: 1
 Finish: 2024-04-24 15:26:09.898390
+------------------------------------------------------
+Started: 2024-04-24 15:34:09.777767
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-24 15:34:09.981077
