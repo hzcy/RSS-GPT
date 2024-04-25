@@ -101318,3 +101318,26 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-25 07:48:23.257620
+------------------------------------------------------
+Started: 2024-04-25 08:12:50.331667
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: [亚洲首个小猪佩奇户外主题乐园落户上海](https://www.gcores.com/articles/180860)
+Token length: 828
+Summarized using GPT-3.5-turbo
+Append: [《蟹蟹寻宝奇遇》媒体评分汇总：IGN&PC Gamer双8分](https://www.gcores.com/articles/180857)
+Token length: 977
+Summarized using GPT-3.5-turbo
+Append: [《百万吨级武藏 W：WIRED》今日在各大平台发售](https://www.gcores.com/articles/180856)
+Token length: 325
+Summarized using GPT-3.5-turbo
+Append: [另类后室主题游戏《Backrooms Break》现已正式上线](https://www.gcores.com/articles/180852)
+Token length: 1005
+Summarized using GPT-3.5-turbo
+Append: [深海第一人称解谜游戏《Thalassa: Edge of the Abyss》将于6月19日推出](https://www.gcores.com/articles/180855)
+Append: [自动化即时战略游戏《火花奇遇记：自动化冒险》现已推出](https://www.gcores.com/articles/180854)
+Append: [《KAGE～Shadow of the Ninja 绝影战士》定档8月29日正式上线](https://www.gcores.com/articles/180851)
+append_entries: 7
+Finish: 2024-04-25 08:14:42.346640
