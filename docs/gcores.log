@@ -101521,3 +101521,9 @@ Summarized using GPT-3.5-turbo
 Append: [【聊聊天~】帧率会影响你喜欢一款游戏吗？](https://www.gcores.com/articles/180880)
 append_entries: 1
 Finish: 2024-04-25 15:10:16.430648
+------------------------------------------------------
+Started: 2024-04-25 15:25:13.173155
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-25 15:25:13.542088
