@@ -101458,3 +101458,9 @@ Summarized using GPT-3.5-turbo
 Append: [B站2024高能电玩节明日举办，世嘉育碧等厂商参展](https://www.gcores.com/articles/180876)
 append_entries: 2
 Finish: 2024-04-25 12:35:21.029427
+------------------------------------------------------
+Started: 2024-04-25 12:49:03.041051
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-25 12:49:03.251766
