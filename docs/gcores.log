@@ -101258,3 +101258,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-25 05:33:28.388211
+------------------------------------------------------
+Started: 2024-04-25 05:48:10.907885
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 625
+Summarized using GPT-3.5-turbo
+Append: [《沙漠大冒险》媒体评分汇总：MC均分73分](https://www.gcores.com/articles/180848)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [《碧蓝幻想 Relink》发售11天销量突破100万份](https://www.gcores.com/articles/180847)
+append_entries: 2
+Finish: 2024-04-25 05:48:57.775123
