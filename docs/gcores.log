@@ -101446,3 +101446,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-25 12:14:38.834733
+------------------------------------------------------
+Started: 2024-04-25 12:34:18.414544
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 707
+Summarized using GPT-3.5-turbo
+Append: [原相3950光学引擎，雷柏VT1双高速系列首搭发布](https://www.gcores.com/articles/180877)
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [B站2024高能电玩节明日举办，世嘉育碧等厂商参展](https://www.gcores.com/articles/180876)
+append_entries: 2
+Finish: 2024-04-25 12:35:21.029427
