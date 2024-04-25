@@ -101192,3 +101192,27 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-25 03:33:55.013156
+------------------------------------------------------
+Started: 2024-04-25 03:48:15.698845
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 835
+Summarized using GPT-3.5-turbo
+Append: [《Gmod》下架任天堂相关内容](https://www.gcores.com/articles/180843)
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [《庄园领主》发行商以中文介绍游戏，将于明日发售](https://www.gcores.com/articles/180844)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [任天堂发布《纸片马力欧RPG》5分钟详细介绍影片](https://www.gcores.com/articles/180842)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [《剑星》官方发文感谢媒体点评，M站均分目前为82分](https://www.gcores.com/articles/180840)
+Token length: 495
+Summarized using GPT-3.5-turbo
+Append: [《魔兽世界》随身助手App将伴随“地心之战”终止服务](https://www.gcores.com/articles/180839)
+Append: [《最后的咒语》卢恩堡的矮人DLC及免费更新现已推出](https://www.gcores.com/articles/180838)
+Append: [《绝地求生》“怀旧活动”将于5月14日实装，经典艾伦格回归](https://www.gcores.com/articles/180837)
+Append: [《时空勇士》出道30周年纪念活动将于8月25日在日本工学院举办](https://www.gcores.com/articles/180816)
+append_entries: 8
+Finish: 2024-04-25 03:50:31.771347
