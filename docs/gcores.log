@@ -101398,3 +101398,9 @@ Summarized using GPT-3.5-turbo
 Append: [卡普空宣布将全年综合盈利预测进行修订提高](https://www.gcores.com/articles/180863)
 append_entries: 3
 Finish: 2024-04-25 10:12:36.647227
+------------------------------------------------------
+Started: 2024-04-25 10:28:47.062309
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-25 10:28:47.239702
