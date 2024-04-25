@@ -101270,3 +101270,9 @@ Summarized using GPT-3.5-turbo
 Append: [《碧蓝幻想 Relink》发售11天销量突破100万份](https://www.gcores.com/articles/180847)
 append_entries: 2
 Finish: 2024-04-25 05:48:57.775123
+------------------------------------------------------
+Started: 2024-04-25 06:12:56.828859
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-25 06:12:57.028671
