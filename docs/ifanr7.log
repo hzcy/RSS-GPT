@@ -94526,3 +94526,15 @@ Summarized using GPT-3.5-turbo
 Append: [路特斯和蔚来达成了重磅合作，还宣布了一个新品牌](https://www.ifanr.com/1583073?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-04-25 09:48:50.368327
+------------------------------------------------------
+Started: 2024-04-25 10:10:10.778196
+Existing_entries: 570
+Fetching from https://www.ifanr.com/feed
+Token length: 1633
+Summarized using GPT-3.5-turbo
+Append: [宁德时代发布神行 PLUS，1000km 续航，10 分钟补能 600 公里](https://www.ifanr.com/1583098?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4274
+Summarized using GPT-3.5-turbo
+Append: [华为设计的享界 S9，重新定义行政级豪华旗舰](https://www.ifanr.com/1582986?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2024-04-25 10:10:59.840615
