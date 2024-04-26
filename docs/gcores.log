@@ -102103,3 +102103,9 @@ Summarized using GPT-3.5-turbo
 Append: [《潜行者2》公布最新实机演示，将于9月5日发售](https://www.gcores.com/articles/180942)
 append_entries: 5
 Finish: 2024-04-26 14:28:07.696181
+------------------------------------------------------
+Started: 2024-04-26 14:33:42.414392
+Existing_entries: 1005
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-26 14:33:42.723553
