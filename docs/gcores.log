@@ -102046,3 +102046,9 @@ Summarized using GPT-3.5-turbo
 Append: [“爱游戏也爱自己”核聚变游戏嘉年华2024广州站乐敦展区介绍](https://www.gcores.com/articles/180613)
 append_entries: 3
 Finish: 2024-04-26 12:19:19.162563
+------------------------------------------------------
+Started: 2024-04-26 12:46:04.282015
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-26 12:46:04.512391
