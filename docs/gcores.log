@@ -102082,3 +102082,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-26 14:09:05.210963
+------------------------------------------------------
+Started: 2024-04-26 14:25:10.574516
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 433
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天】你有哪些珍藏的游戏周边？](https://www.gcores.com/articles/180923)
+Token length: 9077
+Summarized using GPT-3.5-turbo
+Append: [《波斯王子：Rogue》公布Boss战演示：2024年4月哔哩哔哩高能游戏节消息汇总](https://www.gcores.com/articles/180936)
+Token length: 668
+Summarized using GPT-3.5-turbo
+Append: [《暗喻幻想：ReFantazio》及《真·女神转生Ⅴ Vengeance》公布最新中文预告](https://www.gcores.com/articles/180943)
+Token length: 418
+Summarized using GPT-3.5-turbo
+Append: [角色扮演武侠游戏《活侠传》将于6月19日正式发售](https://www.gcores.com/articles/180881)
+Token length: 444
+Summarized using GPT-3.5-turbo
+Append: [《潜行者2》公布最新实机演示，将于9月5日发售](https://www.gcores.com/articles/180942)
+append_entries: 5
+Finish: 2024-04-26 14:28:07.696181
