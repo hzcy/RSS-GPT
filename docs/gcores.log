@@ -102211,3 +102211,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-26 18:48:30.704978
+------------------------------------------------------
+Started: 2024-04-26 19:09:11.477934
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [PureArts《艾尔登法环》玛莲妮亚1/1臂甲模型，现开启预售](https://www.gcores.com/articles/180938)
+append_entries: 1
+Finish: 2024-04-26 19:09:45.804487
