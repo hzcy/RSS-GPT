@@ -95072,3 +95072,12 @@ Existing_entries: 574
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-26 10:29:11.195879
+------------------------------------------------------
+Started: 2024-04-26 10:39:35.169170
+Existing_entries: 574
+Fetching from https://www.ifanr.com/feed
+Token length: 2522
+Summarized using GPT-3.5-turbo
+Append: [高通 X Plus 芯片发布，性能超越 M3，AI 能力是亮点](https://www.ifanr.com/1582639?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-26 10:39:56.490762
