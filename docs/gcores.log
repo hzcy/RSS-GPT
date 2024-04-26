@@ -102031,3 +102031,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-26 11:48:22.309480
+------------------------------------------------------
+Started: 2024-04-26 12:18:18.807617
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 343
+Summarized using GPT-3.5-turbo
+Append: [高桥一生主演，日剧《怪医黑杰克》6月30日开播](https://www.gcores.com/articles/180939)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [追加希耶提&索恩：《碧蓝幻想 Relink》Ver.1.2.0更新上线](https://www.gcores.com/articles/180937)
+Token length: 473
+Summarized using GPT-3.5-turbo
+Append: [“爱游戏也爱自己”核聚变游戏嘉年华2024广州站乐敦展区介绍](https://www.gcores.com/articles/180613)
+append_entries: 3
+Finish: 2024-04-26 12:19:19.162563
