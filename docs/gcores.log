@@ -101755,3 +101755,20 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-26 02:31:58.349690
+------------------------------------------------------
+Started: 2024-04-26 02:48:12.609738
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 362
+Summarized using GPT-3.5-turbo
+Append: [《毁灭战士》手游将与《辐射》进行联动](https://www.gcores.com/articles/180898)
+Token length: 880
+Summarized using GPT-3.5-turbo
+Append: [EA介绍《战地2042》“体育场”回归详情，将于4月30日实装](https://www.gcores.com/articles/180896)
+Summarization failed, append the original article
+error: RetryProvider failed:
+Liaobots: ResponseStatusError: Response 500: Error
+Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
+Append: [2024年暴雪嘉年华宣告取消](https://www.gcores.com/articles/180892)
+append_entries: 3
+Finish: 2024-04-26 02:52:21.937192
