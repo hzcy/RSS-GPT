@@ -102640,3 +102640,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-27 14:33:26.512888
+------------------------------------------------------
+Started: 2024-04-27 14:48:15.089905
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [吃遍泰拉！《明日方舟》将与《迷宫饭》展开联动](https://www.gcores.com/articles/180970)
+append_entries: 1
+Finish: 2024-04-27 14:49:26.207338
