@@ -95546,3 +95546,12 @@ Existing_entries: 580
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-04-27 07:33:22.444168
+------------------------------------------------------
+Started: 2024-04-27 07:48:06.104290
+Existing_entries: 580
+Fetching from https://www.ifanr.com/feed
+Token length: 2709
+Summarized using GPT-3.5-turbo
+Append: [华为发布新品牌乾崑，光场屏正式量产，智驾将支持 7 大品牌](https://www.ifanr.com/1583425?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-04-27 07:48:19.631635
