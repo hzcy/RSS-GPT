@@ -102901,3 +102901,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-28 03:11:13.958336
+------------------------------------------------------
+Started: 2024-04-28 03:24:38.504378
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [《庄园领主》销量突破一百万份](https://www.gcores.com/articles/180980)
+Token length: 692
+Summarized using GPT-3.5-turbo
+Append: [《剑星》现已实装“新游戏+”模式，全新服装及技能组同步推出](https://www.gcores.com/articles/180977)
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [《冰雪之地》上线Steam商城页，将于2025年发售](https://www.gcores.com/articles/180976)
+append_entries: 3
+Finish: 2024-04-28 03:25:15.972919
