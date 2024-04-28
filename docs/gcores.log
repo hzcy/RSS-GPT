@@ -103306,3 +103306,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-28 18:26:14.670020
+------------------------------------------------------
+Started: 2024-04-28 18:34:40.670364
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [《赛马娘Pretty Derby 热血喧闹大感谢祭！》将于8月30日发售](https://www.gcores.com/articles/181033)
+append_entries: 1
+Finish: 2024-04-28 18:34:50.655922
