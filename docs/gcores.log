@@ -103153,3 +103153,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-28 12:45:25.001493
+------------------------------------------------------
+Started: 2024-04-28 12:56:33.386382
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 854
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天】您对传闻中的NS2有什么样的期待？](https://www.gcores.com/articles/180991)
+Token length: 900
+Summarized using GPT-3.5-turbo
+Append: [下周节目预告 4.29~5.5](https://www.gcores.com/articles/181020)
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [网易暴雪游戏运营团队发布辟谣公告，国服数据丢失等均为谣言](https://www.gcores.com/articles/181019)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [《黑帝斯2》技术测试将于明日结束](https://www.gcores.com/articles/181018)
+append_entries: 4
+Finish: 2024-04-28 12:57:24.491246
