@@ -102946,3 +102946,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-28 04:34:55.974868
+------------------------------------------------------
+Started: 2024-04-28 04:48:07.039539
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [Steam农场管理游戏节明日开幕，数百款游戏参与大促](https://www.gcores.com/articles/180988)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [放置种田游戏《Rusty's Retirement》Steam评价好评如潮](https://www.gcores.com/articles/180984)
+Token length: 316
+Summarized using GPT-3.5-turbo
+Append: [《辐射4》次世代更新被指敷衍，N网禁用更新补丁登顶](https://www.gcores.com/articles/180981)
+append_entries: 3
+Finish: 2024-04-28 04:48:52.821328
