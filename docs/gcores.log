@@ -102961,3 +102961,9 @@ Summarized using GPT-3.5-turbo
 Append: [《辐射4》次世代更新被指敷衍，N网禁用更新补丁登顶](https://www.gcores.com/articles/180981)
 append_entries: 3
 Finish: 2024-04-28 04:48:52.821328
+------------------------------------------------------
+Started: 2024-04-28 05:10:26.348908
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-28 05:10:26.678676
