@@ -103243,3 +103243,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-28 15:48:13.970994
+------------------------------------------------------
+Started: 2024-04-28 16:10:51.370103
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 765
+Summarized using GPT-3.5-turbo
+Append: [国产文字推理游戏《真探2》将于5月17日登录Steam平台](https://www.gcores.com/articles/181032)
+append_entries: 1
+Finish: 2024-04-28 16:11:22.524269
