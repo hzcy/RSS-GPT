@@ -103114,3 +103114,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-28 11:07:36.903130
+------------------------------------------------------
+Started: 2024-04-28 11:18:30.813347
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 384
+Summarized using GPT-3.5-turbo
+Append: [NHK纪录片《行家本色》系列，漫画家「青山刚昌篇」预告公开](https://www.gcores.com/articles/181014)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [格斗游戏《饿狼传说 City of the Wolves》马可·罗德里格斯角色宣传片公开](https://www.gcores.com/articles/181010)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [《名侦探柯南》创作现场首次公开：纪录片节目《行家本色 青山刚昌特辑》今日播出](https://www.gcores.com/articles/180995)
+append_entries: 3
+Finish: 2024-04-28 11:19:31.144621
