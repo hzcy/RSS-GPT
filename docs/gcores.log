@@ -103129,3 +103129,9 @@ Summarized using GPT-3.5-turbo
 Append: [《名侦探柯南》创作现场首次公开：纪录片节目《行家本色 青山刚昌特辑》今日播出](https://www.gcores.com/articles/180995)
 append_entries: 3
 Finish: 2024-04-28 11:19:31.144621
+------------------------------------------------------
+Started: 2024-04-28 11:33:42.607914
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-28 11:33:42.869695
