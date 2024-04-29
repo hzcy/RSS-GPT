@@ -103471,3 +103471,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-29 02:48:28.513817
+------------------------------------------------------
+Started: 2024-04-29 03:11:03.895082
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [卡普空未公开新作《The Descendants》曝光](https://www.gcores.com/articles/181047)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [《真人快打1》公布祖国人实机演示画面，将于春季实装](https://www.gcores.com/articles/181046)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [【传言】微软有意加速《辐射》新作开发进度](https://www.gcores.com/articles/181044)
+Token length: 367
+Summarized using GPT-3.5-turbo
+Append: [Xbox网络将于5月30日起删除超90天旧游戏截图](https://www.gcores.com/articles/181042)
+Token length: 322
+Summarized using GPT-3.5-turbo
+Append: [《一起玩农场2》定于5月8日以抢先体验形式发售](https://www.gcores.com/articles/181041)
+append_entries: 5
+Finish: 2024-04-29 03:12:59.429386
