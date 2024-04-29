@@ -103522,3 +103522,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-29 04:27:28.325005
+------------------------------------------------------
+Started: 2024-04-29 04:35:37.472905
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [澳大利亚品牌BlackMilk将推出《塞尔达传说》联名服装](https://www.gcores.com/articles/181058)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [今天是摇滚乐队「MyGO!!!!!」活动两周年](https://www.gcores.com/articles/181056)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [《狩魔战潮》现已加入Steam无限重玩游戏节！](https://www.gcores.com/articles/181049)
+append_entries: 3
+Finish: 2024-04-29 04:36:40.540877
