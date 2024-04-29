@@ -103591,3 +103591,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-29 06:48:28.423197
+------------------------------------------------------
+Started: 2024-04-29 07:09:42.040945
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [冒险解谜游戏《小小梦魇》发售7周年，官方公布纪念贺图](https://www.gcores.com/articles/181070)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [《宝可梦动画图鉴》「伊布篇」公布](https://www.gcores.com/articles/181069)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [《最终幻想 7》系列三款1000片拼图将于7月27日发售](https://www.gcores.com/articles/181068)
+append_entries: 3
+Finish: 2024-04-29 07:10:32.497779
