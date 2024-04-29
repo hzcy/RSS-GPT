@@ -103711,3 +103711,9 @@ Summarized using GPT-3.5-turbo
 Append: [动画电影《神偷奶爸4》确认引进中国内地](https://www.gcores.com/articles/181088)
 append_entries: 4
 Finish: 2024-04-29 10:50:13.165120
+------------------------------------------------------
+Started: 2024-04-29 11:09:52.729132
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-29 11:09:52.936881
