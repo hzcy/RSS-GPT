@@ -103741,3 +103741,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-29 12:18:05.483534
+------------------------------------------------------
+Started: 2024-04-29 12:47:31.724487
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 1043
+Summarized using GPT-3.5-turbo
+Append: [海上漂流捡垃圾 像素风生存模拟《洋流朋克》Steam发售](https://www.gcores.com/articles/181024)
+append_entries: 1
+Finish: 2024-04-29 12:48:01.588007
