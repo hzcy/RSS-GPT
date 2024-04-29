@@ -103693,3 +103693,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-29 10:36:28.670186
+------------------------------------------------------
+Started: 2024-04-29 10:48:08.753401
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 388
+Summarized using GPT-3.5-turbo
+Append: [《铁拳8》公布第一季宣传片，“莉迪亚”将于夏季登场](https://www.gcores.com/articles/181093)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [《罪恶装备 -奋战-》公开新DLC角色“史烈牙”预告](https://www.gcores.com/articles/181092)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [卡普空公布《街头霸王6》豪鬼角色实机演示](https://www.gcores.com/articles/181089)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [动画电影《神偷奶爸4》确认引进中国内地](https://www.gcores.com/articles/181088)
+append_entries: 4
+Finish: 2024-04-29 10:50:13.165120
