@@ -103663,3 +103663,9 @@ Summarized using GPT-3.5-turbo
 Append: [《NieR Re[in]carnation 资料集》预订开启，8月28日发售](https://www.gcores.com/articles/181072)
 append_entries: 1
 Finish: 2024-04-29 09:25:42.094054
+------------------------------------------------------
+Started: 2024-04-29 09:33:39.164460
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-29 09:33:39.327905
