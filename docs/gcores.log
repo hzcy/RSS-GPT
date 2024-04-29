@@ -103606,3 +103606,9 @@ Summarized using GPT-3.5-turbo
 Append: [《最终幻想 7》系列三款1000片拼图将于7月27日发售](https://www.gcores.com/articles/181068)
 append_entries: 3
 Finish: 2024-04-29 07:10:32.497779
+------------------------------------------------------
+Started: 2024-04-29 07:21:32.041223
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-29 07:21:32.206761
