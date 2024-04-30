@@ -104171,3 +104171,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 06:48:28.804613
+------------------------------------------------------
+Started: 2024-04-30 07:10:30.048976
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [《幻兽帕鲁》公布新品种帕鲁介绍视频](https://www.gcores.com/articles/181128)
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: [类魂动作游戏《蟹蟹寻宝奇遇》销量突破10万份](https://www.gcores.com/articles/181127)
+append_entries: 2
+Finish: 2024-04-30 07:11:31.873870
