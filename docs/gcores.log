@@ -104059,3 +104059,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 03:24:35.676006
+------------------------------------------------------
+Started: 2024-04-30 03:33:52.079301
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 417
+Summarized using GPT-3.5-turbo
+Append: [油门踏板卡死：1.7万辆儿童马力欧卡丁车宣布召回](https://www.gcores.com/articles/181111)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [腾讯现已增持Remedy股份突破10%](https://www.gcores.com/articles/181110)
+Token length: 341
+Summarized using GPT-3.5-turbo
+Append: [Todd Howard确认《星空》“破碎空间”扩展包秋季发售，城市地图等功能即将推出](https://www.gcores.com/articles/181108)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [Steam农场管理游戏节现已隆重开幕，贴纸好礼免费领](https://www.gcores.com/articles/181106)
+append_entries: 4
+Finish: 2024-04-30 03:35:51.928440
