@@ -104423,3 +104423,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 16:48:27.743232
+------------------------------------------------------
+Started: 2024-04-30 17:08:49.065864
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [微软将于6月10日举行发布会，神秘新作紧追其后](https://www.gcores.com/articles/181156)
+append_entries: 1
+Finish: 2024-04-30 17:09:13.859711
