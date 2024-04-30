@@ -104246,3 +104246,9 @@ Summarized using GPT-3.5-turbo
 Append: [《天堂岛杀手》团队公布新作《达愿福神社》，2025年发售](https://www.gcores.com/articles/181130)
 append_entries: 3
 Finish: 2024-04-30 09:26:43.213312
+------------------------------------------------------
+Started: 2024-04-30 09:34:15.717554
+Existing_entries: 1003
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-30 09:34:15.984721
