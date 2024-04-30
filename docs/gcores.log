@@ -104183,3 +104183,9 @@ Summarized using GPT-3.5-turbo
 Append: [类魂动作游戏《蟹蟹寻宝奇遇》销量突破10万份](https://www.gcores.com/articles/181127)
 append_entries: 2
 Finish: 2024-04-30 07:11:31.873870
+------------------------------------------------------
+Started: 2024-04-30 07:21:35.124562
+Existing_entries: 1002
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-04-30 07:21:35.297607
