@@ -104300,3 +104300,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 11:33:32.693806
+------------------------------------------------------
+Started: 2024-04-30 11:49:14.957137
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 546
+Summarized using GPT-3.5-turbo
+Append: [新大型项目已启动：光荣特库摩公布最新财报](https://www.gcores.com/articles/181143)
+Token length: 581
+Summarized using GPT-3.5-turbo
+Append: [肉鸽地牢策略游戏《亡者之地》将于5月13号发售](https://www.gcores.com/articles/181116)
+append_entries: 2
+Finish: 2024-04-30 11:50:11.230704
