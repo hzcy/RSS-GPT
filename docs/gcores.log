@@ -104336,3 +104336,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 13:22:01.903855
+------------------------------------------------------
+Started: 2024-04-30 13:34:38.841218
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 590
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天】《合金装备》系列都带给了你哪些难忘回忆](https://www.gcores.com/articles/181148)
+append_entries: 1
+Finish: 2024-04-30 13:35:13.693385
