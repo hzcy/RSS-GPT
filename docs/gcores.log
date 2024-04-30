@@ -104113,3 +104113,25 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 05:09:32.147328
+------------------------------------------------------
+Started: 2024-04-30 05:25:39.832746
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 368
+Summarized using GPT-3.5-turbo
+Append: [《33 Immortals》公布最新实机演示，支持33名玩家一齐上阵](https://www.gcores.com/articles/181125)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [《名侦探柯南》剧场版累计观众数突破1亿人](https://www.gcores.com/articles/181123)
+Token length: 638
+Summarized using GPT-3.5-turbo
+Append: [《吸血鬼幸存者》现已实装“实验室”更新](https://www.gcores.com/articles/181124)
+Token length: 685
+Summarized using GPT-3.5-turbo
+Append: [好评志怪冒险游戏续作：《山海旅人2》正式公布 初代现已加入XGP](https://www.gcores.com/articles/181115)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [初代《奇异人生》开发商新作公布全新预告](https://www.gcores.com/articles/181117)
+Append: [发行商Gamera将携5款游戏陆续加入Game Pass](https://www.gcores.com/articles/181114)
+append_entries: 6
+Finish: 2024-04-30 05:27:54.973558
