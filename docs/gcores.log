@@ -104231,3 +104231,18 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 09:11:05.734058
+------------------------------------------------------
+Started: 2024-04-30 09:25:23.573068
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [SE：重新审查高清游戏开发政策，预计将损失221亿日元](https://www.gcores.com/articles/181134)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [《盟军敢死队 起源》将于2024年夏季进行测试](https://www.gcores.com/articles/181133)
+Token length: 1097
+Summarized using GPT-3.5-turbo
+Append: [《天堂岛杀手》团队公布新作《达愿福神社》，2025年发售](https://www.gcores.com/articles/181130)
+append_entries: 3
+Finish: 2024-04-30 09:26:43.213312
