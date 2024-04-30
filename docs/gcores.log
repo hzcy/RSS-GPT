@@ -104375,3 +104375,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-04-30 14:48:05.572578
+------------------------------------------------------
+Started: 2024-04-30 15:08:20.949478
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [挪威球星埃尔林·哈兰德宣布联动《部落冲突》，带来专属皮肤](https://www.gcores.com/articles/181154)
+Token length: 1079
+Summarized using GPT-3.5-turbo
+Append: [太空空战《永恒空间2》“入侵”大型免费更新，五折特惠同步开启](https://www.gcores.com/articles/181153)
+append_entries: 2
+Finish: 2024-04-30 15:09:19.837108
