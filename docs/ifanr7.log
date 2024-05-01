@@ -97541,3 +97541,12 @@ Existing_entries: 595
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-01 00:46:38.703986
+------------------------------------------------------
+Started: 2024-05-01 01:54:27.723576
+Existing_entries: 595
+Fetching from https://www.ifanr.com/feed
+Token length: 5097
+Summarized using GPT-3.5-turbo
+Append: [早报|消息称余承东卸任华为终端 BG CEO/特斯拉和百度地图独家深度定制车道级高辅地图/苹果挖走 Google 员工建立人工智能团队](https://www.ifanr.com/1583943?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-01 01:55:04.234662
