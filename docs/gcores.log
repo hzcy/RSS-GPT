@@ -104894,3 +104894,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-01 15:25:38.058479
+------------------------------------------------------
+Started: 2024-05-01 15:33:59.745348
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 974
+Summarized using GPT-3.5-turbo
+Append: [JOYTOY《荷鲁斯大叛乱》新品公布：冥府型终结者参战](https://www.gcores.com/articles/181152)
+append_entries: 1
+Finish: 2024-05-01 15:34:11.888093
