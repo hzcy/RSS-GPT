@@ -98074,3 +98074,9 @@ Summarized using GPT-3.5-turbo
 Append: [早报|苹果称正在修复 iPhone 闹钟不响的问题/周鸿祎回应「迈巴赫中标者未付清余款」/微软将于 6 月 10 日举行发布会](https://www.ifanr.com/1584008?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-05-02 02:15:38.981723
+------------------------------------------------------
+Started: 2024-05-02 02:32:53.777982
+Existing_entries: 598
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-05-02 02:32:55.161851
