@@ -105341,3 +105341,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-02 11:33:44.572957
+------------------------------------------------------
+Started: 2024-05-02 11:48:29.198069
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [《克拉克森的农场》第三季公布正式预告，定档5月3日](https://www.gcores.com/articles/181187)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [Take-Two计划解散《坎巴拉太空计划》及《奥力奥力世界》开发工作室](https://www.gcores.com/articles/181189)
+append_entries: 2
+Finish: 2024-05-02 11:48:51.056977
