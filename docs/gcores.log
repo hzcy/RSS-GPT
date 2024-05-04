@@ -106658,3 +106658,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-04 22:26:36.586834
+------------------------------------------------------
+Started: 2024-05-04 22:34:12.270908
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 358
+Summarized using GPT-3.5-turbo
+Append: [200小时也可退：V社特殊处理《地狱潜者2》玩家退款申请](https://www.gcores.com/articles/181244)
+append_entries: 1
+Finish: 2024-05-04 22:34:40.622332
