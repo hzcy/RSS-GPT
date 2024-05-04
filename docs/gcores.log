@@ -106313,3 +106313,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-04 07:48:23.628675
+------------------------------------------------------
+Started: 2024-05-04 08:11:30.476249
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 367
+Summarized using GPT-3.5-turbo
+Append: [《地狱潜者2》PC版强制要求绑定PSN账号](https://www.gcores.com/articles/181215)
+append_entries: 1
+Finish: 2024-05-04 08:11:36.573101
