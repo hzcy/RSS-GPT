@@ -106865,3 +106865,9 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-05 08:35:23.964252
+------------------------------------------------------
+Started: 2024-05-05 08:48:17.180840
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-05-05 08:48:17.350536
