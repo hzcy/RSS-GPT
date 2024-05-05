@@ -106916,3 +106916,9 @@ Summarized using GPT-3.5-turbo
 Append: [因不支持PSN注册，索尼在部分地区停售《地狱潜者2》](https://www.gcores.com/articles/181254)
 append_entries: 1
 Finish: 2024-05-05 10:34:46.792167
+------------------------------------------------------
+Started: 2024-05-05 10:48:02.742754
+Existing_entries: 1001
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-05-05 10:48:02.921551
