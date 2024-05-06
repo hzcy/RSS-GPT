@@ -107360,3 +107360,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-06 06:13:50.849874
+------------------------------------------------------
+Started: 2024-05-06 06:30:29.665156
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [《地狱潜者2》强制绑定PSN账号计划被取消](https://www.gcores.com/articles/181302)
+append_entries: 1
+Finish: 2024-05-06 06:30:50.586795
