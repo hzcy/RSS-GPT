@@ -107306,3 +107306,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-06 04:28:34.878372
+------------------------------------------------------
+Started: 2024-05-06 04:37:09.074203
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 410
+Summarized using GPT-3.5-turbo
+Append: [《灰区战争》以抢先体验形式推出，国区售价128元](https://www.gcores.com/articles/181294)
+Token length: 747
+Summarized using GPT-3.5-turbo
+Append: [雷柏VT1双高速系列双模无线游戏鼠标发布](https://www.gcores.com/articles/181296)
+Token length: 886
+Summarized using GPT-3.5-turbo
+Append: [Netflix动画电影《范马刃牙VS拳愿阿修罗》预告公开，6月6日上线](https://www.gcores.com/articles/181292)
+Token length: 1574
+Summarized using GPT-3.5-turbo
+Append: [Yuzu模拟器再遭任天堂重创！老任大战模拟器全事件回顾](https://www.gcores.com/articles/181283)
+append_entries: 4
+Finish: 2024-05-06 04:38:12.111499
