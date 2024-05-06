@@ -107479,3 +107479,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-06 10:10:44.823385
+------------------------------------------------------
+Started: 2024-05-06 10:29:54.336941
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [直连网盘资源：网易推出智能媒体库Filmly](https://www.gcores.com/articles/181334)
+Token length: 461
+Summarized using GPT-3.5-turbo
+Append: [本周节目预告 5.6~5.12](https://www.gcores.com/articles/181332)
+Token length: 503
+Summarized using GPT-3.5-turbo
+Append: [休闲农场模拟游戏《Rusty's Retirement》5天销量突破10万份](https://www.gcores.com/articles/181324)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [【传闻】《博德之门3》明年将登陆IOS平台](https://www.gcores.com/articles/181325)
+append_entries: 4
+Finish: 2024-05-06 10:31:28.497324
