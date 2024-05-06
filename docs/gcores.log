@@ -107599,3 +107599,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-06 15:10:25.078051
+------------------------------------------------------
+Started: 2024-05-06 15:23:55.590531
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 464
+Summarized using GPT-3.5-turbo
+Append: [【聊聊天】你的五一假期都做了些啥？](https://www.gcores.com/articles/181330)
+append_entries: 1
+Finish: 2024-05-06 15:24:07.735487
