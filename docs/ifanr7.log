@@ -100357,3 +100357,12 @@ Existing_entries: 603
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-06 09:11:29.667475
+------------------------------------------------------
+Started: 2024-05-06 09:24:51.851412
+Existing_entries: 603
+Fetching from https://www.ifanr.com/feed
+Token length: 2181
+Summarized using GPT-3.5-turbo
+Append: [vivo X100 系列发布会官宣，「灭霸」X100 Ultra 超多细节曝光](https://www.ifanr.com/1584203?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-06 09:25:05.159143
