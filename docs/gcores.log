@@ -107264,3 +107264,9 @@ Summarized using GPT-3.5-turbo
 Append: [经典小奶瓶：《真人快打1》公布“祖国人”先导预告](https://www.gcores.com/articles/181282)
 append_entries: 4
 Finish: 2024-05-06 02:42:19.768678
+------------------------------------------------------
+Started: 2024-05-06 02:48:51.303370
+Existing_entries: 1004
+Fetching from https://rsshub.app/gcores/category/news
+append_entries: 0
+Finish: 2024-05-06 02:48:51.485821
