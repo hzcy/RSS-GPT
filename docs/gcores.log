@@ -107246,3 +107246,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-06 02:18:36.788937
+------------------------------------------------------
+Started: 2024-05-06 02:41:02.946012
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [《魔戒》塞奥顿国王扮演者伯纳德·希尔去世，享年79岁](https://www.gcores.com/articles/181286)
+Token length: 330
+Summarized using GPT-3.5-turbo
+Append: [《不羁联盟》定于5月22日正式推出](https://www.gcores.com/articles/181285)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [含《Tunic》：索尼公布4月PSN会免阵容](https://www.gcores.com/articles/181284)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [经典小奶瓶：《真人快打1》公布“祖国人”先导预告](https://www.gcores.com/articles/181282)
+append_entries: 4
+Finish: 2024-05-06 02:42:19.768678
