@@ -107833,3 +107833,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/gcores/category/news
 append_entries: 0
 Finish: 2024-05-07 02:51:46.216722
+------------------------------------------------------
+Started: 2024-05-07 03:11:54.559280
+Existing_entries: 1000
+Fetching from https://rsshub.app/gcores/category/news
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [《黑神话 悟空》现已登顶Steam愿望单榜首](https://www.gcores.com/articles/181363)
+Token length: 318
+Summarized using GPT-3.5-turbo
+Append: [《暗黑地牢2》将于6月迎来官方MOD工具，创意工坊支持在路上](https://www.gcores.com/articles/181362)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [沉浸式恐怖冒险游戏《四步杀》定于5月31日发售](https://www.gcores.com/articles/181361)
+Token length: 386
+Summarized using GPT-3.5-turbo
+Append: [2024年QuakeCon将于8月8日开幕](https://www.gcores.com/articles/181360)
+append_entries: 4
+Finish: 2024-05-07 03:13:49.321600
