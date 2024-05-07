@@ -100708,3 +100708,15 @@ Summarized using GPT-3.5-turbo
 Append: [早报|苹果或在今晚发布 Apple Pencil Pro/雷军：逛完北京车展后「很绝望」/微软或开发新模型与 OpenAI 竞争](https://www.ifanr.com/1584296?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-05-07 00:44:00.657329
+------------------------------------------------------
+Started: 2024-05-07 01:42:22.781739
+Existing_entries: 608
+Fetching from https://www.ifanr.com/feed
+Token length: 3040
+Summarized using GPT-3.5-turbo
+Append: [逛完北京车展的雷军，陷入了深深的绝望](https://www.ifanr.com/1584284?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 3239
+Summarized using GPT-3.5-turbo
+Append: [雷军救不了理想 L6](https://www.ifanr.com/1583954?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2024-05-07 01:43:00.501812
