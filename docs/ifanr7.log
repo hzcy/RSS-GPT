@@ -101239,3 +101239,12 @@ Existing_entries: 613
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-08 00:36:10.486308
+------------------------------------------------------
+Started: 2024-05-08 01:24:29.967234
+Existing_entries: 613
+Fetching from https://www.ifanr.com/feed
+Token length: 6003
+Summarized using GPT-3.5-turbo
+Append: [早报|苹果发布新 iPad Pro，首发 M4 芯片/华为发布多款新品/贾跃亭回应 FF 面临退市](https://www.ifanr.com/1584416?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-08 01:24:48.808144
