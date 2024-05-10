@@ -102520,3 +102520,12 @@ Existing_entries: 628
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-10 09:48:16.439285
+------------------------------------------------------
+Started: 2024-05-10 10:11:03.345176
+Existing_entries: 628
+Fetching from https://www.ifanr.com/feed
+Token length: 4389
+Summarized using GPT-3.5-turbo
+Append: [新 iPad Pro 是怎样成为苹果史上最薄产品的 | 硬哲学](https://www.ifanr.com/1584748?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-10 10:11:23.524452
