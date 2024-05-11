@@ -103033,3 +103033,12 @@ Existing_entries: 631
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-11 09:10:25.701193
+------------------------------------------------------
+Started: 2024-05-11 09:22:49.211599
+Existing_entries: 631
+Fetching from https://www.ifanr.com/feed
+Token length: 1427
+Summarized using GPT-3.5-turbo
+Append: [这支笔，想为 7.73 亿人「扫盲」丨明日产品®](https://www.ifanr.com/1584873?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-11 09:24:38.573961
