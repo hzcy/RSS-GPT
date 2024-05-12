@@ -103393,3 +103393,12 @@ Existing_entries: 633
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-12 00:48:22.248436
+------------------------------------------------------
+Started: 2024-05-12 01:55:56.834574
+Existing_entries: 633
+Fetching from https://www.ifanr.com/feed
+Token length: 6246
+Summarized using GPT-3.5-turbo
+Append: [早报|消息称 iPhone 即将引入 ChatGPT/理想回应 L9 汽车误将广告识别成真车致追尾/官方公布五月天假唱调查结果](https://www.ifanr.com/1584954?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-12 01:56:27.236387
