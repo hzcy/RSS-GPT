@@ -104167,3 +104167,12 @@ Existing_entries: 637
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-13 12:18:22.586771
+------------------------------------------------------
+Started: 2024-05-13 12:48:37.705399
+Existing_entries: 637
+Fetching from https://www.ifanr.com/feed
+Token length: 6882
+Summarized using GPT-3.5-turbo
+Append: [Google CEO：手机将是 AI 创新核心平台，其次是可穿戴设备](https://www.ifanr.com/1584901?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-13 12:49:20.059174
