@@ -104359,3 +104359,12 @@ Existing_entries: 639
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-13 20:35:09.247150
+------------------------------------------------------
+Started: 2024-05-13 20:48:28.134760
+Existing_entries: 639
+Fetching from https://www.ifanr.com/feed
+Token length: 3869
+Summarized using GPT-3.5-turbo
+Append: [OpenAI 用 26 分钟改变世界！免费版 GPT-4 来了，视频语音交互快进到科幻片](https://www.ifanr.com/1585169?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-13 20:49:01.418513
