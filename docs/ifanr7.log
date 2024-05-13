@@ -104104,3 +104104,12 @@ Existing_entries: 636
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-13 09:35:04.793788
+------------------------------------------------------
+Started: 2024-05-13 09:48:16.749162
+Existing_entries: 636
+Fetching from https://www.ifanr.com/feed
+Token length: 4618
+Summarized using GPT-3.5-turbo
+Append: [零一万物发布千亿参数模型 Yi-Large，李开复：中国大模型赶上美国，立志比肩 GPT-5](https://www.ifanr.com/1585080?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-13 09:48:52.739243
