@@ -104650,3 +104650,9 @@ Summarized using GPT-3.5-turbo
 Append: [这场发布会上，vivo 发布了一个「相机」，还有一个影像新品牌](https://www.ifanr.com/1585287?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-05-14 09:48:34.648704
+------------------------------------------------------
+Started: 2024-05-14 10:12:13.015945
+Existing_entries: 646
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-05-14 10:12:14.331824
