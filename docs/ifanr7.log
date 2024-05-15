@@ -105244,3 +105244,9 @@ Summarized using GPT-3.5-turbo
 Append: [华为刚刚发布的新品，手上用的家里装的都有，还覆盖了「全年龄段」](https://www.ifanr.com/1585557?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-05-15 12:50:21.863094
+------------------------------------------------------
+Started: 2024-05-15 13:11:50.457926
+Existing_entries: 652
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-05-15 13:11:52.151918
