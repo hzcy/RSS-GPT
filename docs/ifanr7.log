@@ -105511,3 +105511,12 @@ Existing_entries: 653
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-15 23:48:12.994027
+------------------------------------------------------
+Started: 2024-05-16 00:44:03.127057
+Existing_entries: 653
+Fetching from https://www.ifanr.com/feed
+Token length: 5951
+Summarized using GPT-3.5-turbo
+Append: [早报|余承东履新后首次亮相，华为发布多款新品/小米 SU7 交付破万，月产能有望提升至 2 万/百度称考虑与特斯拉的合作机会](https://www.ifanr.com/1585634?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-16 00:44:33.205779
