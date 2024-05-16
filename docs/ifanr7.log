@@ -105748,3 +105748,12 @@ Existing_entries: 656
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-16 11:08:59.433547
+------------------------------------------------------
+Started: 2024-05-16 11:21:20.712400
+Existing_entries: 656
+Fetching from https://www.ifanr.com/feed
+Token length: 2788
+Summarized using GPT-3.5-turbo
+Append: [MacBook 搭载触控屏？苹果高管这样回应](https://www.ifanr.com/1585716?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-16 11:21:48.397923
