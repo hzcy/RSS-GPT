@@ -105604,3 +105604,12 @@ Existing_entries: 654
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-16 05:24:21.219429
+------------------------------------------------------
+Started: 2024-05-16 05:33:32.991674
+Existing_entries: 654
+Fetching from https://www.ifanr.com/feed
+Token length: 4841
+Summarized using GPT-3.5-turbo
+Append: [实测智能助手「黑马」海螺 AI：人人上手即用的 AI 产品长这样子](https://www.ifanr.com/1585644?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-16 05:34:01.950048
