@@ -106258,3 +106258,9 @@ Summarized using GPT-3.5-turbo
 Append: [苹果高管接受采访：除了 iPad，其他平板都不行](https://www.ifanr.com/1585904?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-05-17 10:10:44.397802
+------------------------------------------------------
+Started: 2024-05-17 10:28:14.717684
+Existing_entries: 662
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-05-17 10:28:16.595747
