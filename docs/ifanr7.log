@@ -106279,3 +106279,12 @@ Existing_entries: 663
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-17 10:48:24.060645
+------------------------------------------------------
+Started: 2024-05-17 11:09:19.864569
+Existing_entries: 663
+Fetching from https://www.ifanr.com/feed
+Token length: 2098
+Summarized using GPT-3.5-turbo
+Append: [iPhone 16 新爆料：史上最大屏幕，采用全新的电容式按键](https://www.ifanr.com/1585937?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-17 11:09:44.163101
