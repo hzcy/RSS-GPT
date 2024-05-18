@@ -106591,3 +106591,12 @@ Existing_entries: 665
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-18 00:43:44.168411
+------------------------------------------------------
+Started: 2024-05-18 01:41:18.514773
+Existing_entries: 665
+Fetching from https://www.ifanr.com/feed
+Token length: 6164
+Summarized using GPT-3.5-turbo
+Append: [早报|小米 SU7 可支持苹果 CarPlay /高合获 10 亿美元投资，正在重建团队恢复生产/百度 11% 搜索结果由 AI 生成](https://www.ifanr.com/1585977?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-18 01:41:49.957357
