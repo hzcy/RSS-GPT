@@ -109276,3 +109276,12 @@ Existing_entries: 684
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-23 03:48:06.698180
+------------------------------------------------------
+Started: 2024-05-23 04:12:03.548356
+Existing_entries: 684
+Fetching from https://www.ifanr.com/feed
+Token length: 4222
+Summarized using GPT-3.5-turbo
+Append: [微软发布的乐高版 Xbox，为什么不用手也能玩？](https://www.ifanr.com/1586244?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-23 04:13:13.841520
