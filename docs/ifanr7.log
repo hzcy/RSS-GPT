@@ -109806,3 +109806,12 @@ Existing_entries: 692
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-24 03:48:12.702149
+------------------------------------------------------
+Started: 2024-05-24 04:13:11.413185
+Existing_entries: 692
+Fetching from https://www.ifanr.com/feed
+Token length: 2712
+Summarized using GPT-3.5-turbo
+Append: [OPPO 在一场「时尚发布会」上，带来了 Reno12 系列手机](https://www.ifanr.com/1586745?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-24 04:13:39.578260
