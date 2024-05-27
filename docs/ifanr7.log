@@ -111657,3 +111657,12 @@ Existing_entries: 701
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-27 15:48:07.191917
+------------------------------------------------------
+Started: 2024-05-27 16:12:08.770895
+Existing_entries: 701
+Fetching from https://www.ifanr.com/feed
+Token length: 3838
+Summarized using GPT-3.5-turbo
+Append: [让用户吃石头，给披萨涂胶水，Google AI 搜索疯了吗](https://www.ifanr.com/1587017?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-27 16:12:29.112441
