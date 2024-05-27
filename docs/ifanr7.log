@@ -111492,3 +111492,12 @@ Existing_entries: 698
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-27 08:48:33.385340
+------------------------------------------------------
+Started: 2024-05-27 09:11:09.792318
+Existing_entries: 698
+Fetching from https://www.ifanr.com/feed
+Token length: 1487
+Summarized using GPT-3.5-turbo
+Append: [宜家这个新门店，非常「梦想改造家」](https://www.ifanr.com/1586952?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-27 09:11:36.142180
