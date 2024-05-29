@@ -112548,3 +112548,12 @@ Existing_entries: 712
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-29 09:35:57.718287
+------------------------------------------------------
+Started: 2024-05-29 09:48:16.998353
+Existing_entries: 712
+Fetching from https://www.ifanr.com/feed
+Token length: 1894
+Summarized using GPT-3.5-turbo
+Append: [想拥有一家属于自己的 Apple Store？或许可以试试乐高](https://www.ifanr.com/1587177?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-29 09:48:54.395145
