@@ -113094,3 +113094,15 @@ Existing_entries: 718
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-30 10:48:12.371880
+------------------------------------------------------
+Started: 2024-05-30 11:08:47.024585
+Existing_entries: 718
+Fetching from https://www.ifanr.com/feed
+Token length: 3226
+Summarized using GPT-3.5-turbo
+Append: [OLED 屏 MacBook Pro 在路上了，或许还能折叠](https://www.ifanr.com/1587350?utm_source=rss&utm_medium=rss&utm_campaign=)
+Token length: 4017
+Summarized using GPT-3.5-turbo
+Append: [体验完腾讯最新的 AI 应用「元宝」，我发现了其他 AI 助手都没有的一个惊喜功能](https://www.ifanr.com/1587307?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 2
+Finish: 2024-05-30 11:09:53.308777
