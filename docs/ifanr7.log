@@ -113073,3 +113073,12 @@ Existing_entries: 717
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-30 10:11:18.854539
+------------------------------------------------------
+Started: 2024-05-30 10:29:16.870202
+Existing_entries: 717
+Fetching from https://www.ifanr.com/feed
+Token length: 1468
+Summarized using GPT-3.5-turbo
+Append: [从压毁到重建：苹果推出全新 iPad Pro 广告](https://www.ifanr.com/1587334?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-30 10:29:35.961946
