@@ -113544,3 +113544,12 @@ Existing_entries: 724
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-05-31 07:48:08.732032
+------------------------------------------------------
+Started: 2024-05-31 08:13:21.877963
+Existing_entries: 724
+Fetching from https://www.ifanr.com/feed
+Token length: 2050
+Summarized using GPT-3.5-turbo
+Append: [绿色计算机标准发布，英特尔和伙伴发了 7 款绿色电脑](https://www.ifanr.com/1587495?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-05-31 08:14:03.147845
