@@ -115170,3 +115170,12 @@ Existing_entries: 734
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-06-03 11:09:08.341422
+------------------------------------------------------
+Started: 2024-06-03 11:21:19.647892
+Existing_entries: 734
+Fetching from https://www.ifanr.com/feed
+Token length: 1498
+Summarized using GPT-3.5-turbo
+Append: [新款 iPad Air 性能缩水，10 核 GPU 降至 9 核](https://www.ifanr.com/1587887?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-06-03 11:21:45.495159
