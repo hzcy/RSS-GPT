@@ -115134,3 +115134,12 @@ Existing_entries: 732
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-06-03 09:33:54.353050
+------------------------------------------------------
+Started: 2024-06-03 09:48:07.977220
+Existing_entries: 732
+Fetching from https://www.ifanr.com/feed
+Token length: 5671
+Summarized using GPT-3.5-turbo
+Append: [对话戴森首席技术官 John Churchill：未来的家务，少动手，最好不动手](https://www.ifanr.com/1587866?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-06-03 09:48:35.985364
