@@ -116229,3 +116229,12 @@ Existing_entries: 751
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-06-05 11:35:04.665864
+------------------------------------------------------
+Started: 2024-06-05 11:48:14.112508
+Existing_entries: 751
+Fetching from https://www.ifanr.com/feed
+Token length: 3395
+Summarized using GPT-3.5-turbo
+Append: [带几个智能体偷偷开了一家公司，让 AI 把同事的活全干了](https://www.ifanr.com/1588217?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-06-05 11:48:44.273549
