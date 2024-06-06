@@ -116619,3 +116619,12 @@ Existing_entries: 753
 Fetching from https://www.ifanr.com/feed
 append_entries: 0
 Finish: 2024-06-06 06:32:07.717874
+------------------------------------------------------
+Started: 2024-06-06 06:48:18.788057
+Existing_entries: 753
+Fetching from https://www.ifanr.com/feed
+Token length: 3097
+Summarized using GPT-3.5-turbo
+Append: [100 亿像素的诗词画卷，是怎么拍出来的？](https://www.ifanr.com/1588329?utm_source=rss&utm_medium=rss&utm_campaign=)
+append_entries: 1
+Finish: 2024-06-06 06:49:19.874982
