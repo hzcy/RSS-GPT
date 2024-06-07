@@ -117171,3 +117171,9 @@ Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
 Append: [华宝新能发布 2 款「家庭绿电」产品，构筑第二增长曲线](https://www.ifanr.com/1588534?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-06-07 07:24:54.105962
+------------------------------------------------------
+Started: 2024-06-07 07:34:30.349216
+Existing_entries: 761
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-06-07 07:34:32.173120
