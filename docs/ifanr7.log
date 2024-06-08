@@ -117565,3 +117565,9 @@ Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
 Append: [早报|苹果公布 2024 设计大奖/小米回应停车场相关事故，称正积极配合警方进行查验/百度以商业诋毁纠纷为由起诉抖音](https://www.ifanr.com/1588670?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-06-08 01:56:41.440844
+------------------------------------------------------
+Started: 2024-06-08 02:26:38.362865
+Existing_entries: 763
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-06-08 02:26:40.350320
