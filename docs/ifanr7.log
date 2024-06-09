@@ -118289,3 +118289,9 @@ Bing: RateLimitError: CaptchaChallenge: Use other cookies or/and ip address
 Append: [除了 Siri 还有什么？iOS 18 可能与不可能出现的 AI 更新丨 WWDC24 前瞻](https://www.ifanr.com/1588631?utm_source=rss&utm_medium=rss&utm_campaign=)
 append_entries: 1
 Finish: 2024-06-09 10:37:52.606572
+------------------------------------------------------
+Started: 2024-06-09 10:48:03.559939
+Existing_entries: 765
+Fetching from https://www.ifanr.com/feed
+append_entries: 0
+Finish: 2024-06-09 10:48:04.847927
